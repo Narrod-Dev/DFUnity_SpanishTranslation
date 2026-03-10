@@ -1,0 +1,293 @@
+- Text database for dialog box keyboard shortcuts
+
+schema: *key,text
+
+Accept,                Aceptar
+Reject,                Rechazar
+Cancel,                Cancelar
+Yes,                   Sí
+No,                    No
+- Will most likely be the default button too
+OK,                    OK
+Male,                  Hombre
+Female,                Mujer
+Add,                   Añadir
+Delete,                Borrar
+Edit,                  Editar
+Copy,                  Copiar
+Guilty,                Culpable
+NotGuilty,             Inocente
+Debate,                Debatirlo
+Lie,                   Mentir
+Anchor,                Ancla
+Teleport,              Teletransporte
+
+-- Game Setup menu
+GameSetupPlay,               Jugar
+GameSetupAdvancedSettings,   Ajustes Avanzados
+GameSetupMods,               Mods
+GameSetupClose,              Cerrar
+GameSetupBackToOptions,      Volver a Opciones
+GameSetupRestart,            Reiniciar
+GameSetupRefresh,            Actualizar
+GameSetupSaveAndClose,       Guardar y Cerrar
+GameSetupExit,               Salir
+
+-- Main menu
+MainMenuLoad,          Cargar
+MainMenuStart,         Empezar
+MainMenuExit,          Salir
+
+-- Options menu
+OptionsExit,           Salir
+OptionsContinue,       Continuar
+OptionsSave,           Guardar
+OptionsLoad,           Cargar
+OptionsControls,       Controles
+OptionsFullScreen,     Pantalla completa
+OptionsHeadBobbing,    Balanceo de cabeza
+OptionsDropdown,       Desplegable
+
+-- General
+Pause,                 Pausa
+LargeHUDToggle,        Alternar HUD Grande
+HUDToggle,             Alternar HUD
+ToggleRetroPP,         Alternar Post-procesado Retro
+
+-- Debugger
+DebuggerToggle,        Activar Depurador
+DebuggerPrevQuest,     Misión anterior
+DebuggerNextQuest,     Siguiente misión
+DebuggerPrevMarker,    Marcador anterior
+DebuggerNextMarker,    Siguiente marcador
+
+-- Rest menu
+RestForAWhile,         Descansar un rato
+RestUntilHealed,       Descansar hasta sanar
+RestLoiter,            Esperar
+RestStop,              Detenerse
+
+-- Transport menu
+TransportFoot,         A pie
+TransportHorse,        Caballo
+TransportCart,         Carreta
+TransportShip,         Barco
+TransportExit,         Salir
+
+-- Travel map screen
+TravelMapFind,         Buscar
+TravelMapList,         Lista
+
+-- Talk screen
+TalkTellMeAbout,       Háblame de
+TalkWhereIs,           Dónde está
+TalkCategoryLocation,  Ubicación
+TalkCategoryPeople,    Gente
+TalkCategoryThings,    Cosas
+- conflict with TalkWhereIs
+TalkCategoryWork,      Trabajo
+TalkAsk,               Preguntar
+TalkExit,              Salir
+TalkCopy,              Copiar
+TalkTonePolite,        Tono Educado
+TalkToneNormal,        Tono Normal
+TalkToneBlunt,         Tono Brusco
+
+-- Spellbook screen
+SpellbookDelete,       Borrar
+SpellbookUp,           Arriba
+SpellbookSort,         Ordenar
+SpellbookDown,         Abajo
+SpellbookBuy,          Comprar
+SpellbookExit,         Salir
+
+-- Travel menu
+TravelBegin,                Comenzar
+TravelExit,                 Salir
+TravelSpeedToggle,          Velocidad
+TravelTransportModeToggle,  Modo de Transporte
+- N for Nights?
+TravelInnCampOutToggle,     Posada o Acampar
+
+-- Character Sheet screen
+CharacterSheetName,            Nombre
+- Conflict with Logbook
+CharacterSheetLevel,           Nivel
+CharacterSheetGold,            Oro
+CharacterSheetHealth,          Salud
+CharacterSheetAffiliations,    Afiliaciones
+CharacterSheetPrimarySkills,   Habilidades Primarias
+CharacterSheetMajorSkills,     Habilidades Mayores
+CharacterSheetMinorSkills,     Habilidades Menores
+CharacterSheetMiscSkills,      Habilidades Misceláneas
+CharacterSheetInventory,       Inventario
+CharacterSheetSpellbook,       Libro de hechizos
+CharacterSheetLogbook,         Diario de viaje
+- Conflict with Health
+CharacterSheetHistory,         Historia
+CharacterSheetExit,            Salir
+
+-- Quest Journal screen
+JournalNextCategory,           Siguiente categoría
+JournalNextPage,               Página siguiente
+JournalPreviousPage,           Página anterior
+JournalExit,                   Salir
+
+-- Player History screen
+HistoryNextPage,               Página siguiente
+HistoryPreviousPage,           Página anterior
+HistoryExit,                   Salir
+
+-- Inventory screen
+InventoryWeapons,      Armas
+InventoryMagic,        Magia
+InventoryClothing,     Ropa
+InventoryIngredients,  Ingredientes
+InventoryWagon,        Carro
+InventoryInfo,         Información
+InventoryEquip,        Equipar
+InventoryRemove,       Quitar
+InventoryUse,          Usar
+InventoryGold,         Oro
+InventoryExit,         Salir
+
+-- Merchant menu
+MerchantRepair,        Reparar
+MerchantTalk,          Hablar
+MerchantSell,          Vender
+MerchantExit,          Salir
+
+-- Trade screen - keep in sync with inventory?
+TradeWagon,            Carro
+TradeInfo,             Información
+TradeSelect,           Seleccionar
+TradeSteal,            Robar
+TradeBuy,              Comprar
+TradeIdentify,         Identificar
+TradeRepair,           Reparar
+TradeSell,             Vender
+TradeClear,            Limpiar
+TradeExit,             Salir
+
+-- Taverns menu
+TavernRoom,            Habitación
+TavernTalk,            Hablar
+TavernFood,            Comida
+TavernExit,            Salir
+
+-- Guilds
+GuildsJoin,            Unirse
+GuildsTalk,            Hablar
+GuildsExit,            Salir
+GuildsTraining,        Entrenamiento
+GuildsGetQuest,        Pedir misión
+GuildsRepair,          Reparar
+GuildsIdentify,        Identificar
+GuildsDonate,          Donar
+GuildsCure,            Curar
+GuildsBuyPotions,      Comprar pociones
+GuildsMakePotions,     Crear pociones
+GuildsBuySpells,       Comprar hechizos
+GuildsMakeSpells,      Crear hechizos
+GuildsBuyMagicItems,   Comprar objetos mágicos
+GuildsMakeMagicItems,  Crear objetos mágicos
+GuildsSellMagicItems,  Vender objetos mágicos
+GuildsTeleport,        Teletransporte
+GuildsDaedraSummon,    Invocar Daedra
+GuildsSpymaster,       Maestro de espías
+GuildsBuySoulgems,     Comprar gemas de alma
+GuildsReceiveArmor,    Recibir armadura
+GuildsReceiveHouse,    Recibir casa
+
+-- Witches Covens
+WitchesTalk,           Hablar
+WitchesDaedraSummon,   Invocar Daedra
+WitchesQuest,          Misión
+WitchesExit,           Salir
+
+-- Spellmaker screen
+SpellMakerAddEffect,            Añadir efecto
+SpellMakerBuySpell,             Comprar hechizo
+SpellMakerNewSpell,             Nuevo hechizo
+SpellMakerExit,                 Salir
+SpellMakerNameSpell,            Nombrar hechizo
+SpellMakerTargetCaster,         Objetivo: Lanzador
+SpellMakerTargetTouch,          Objetivo: Toque
+SpellMakerTargetSingleAtRange,  Objetivo: Único a distancia
+SpellMakerTargetAroundCaster,   Objetivo: Alrededor del lanzador
+SpellMakerTargetAreaAtRange,    Objetivo: Área a distancia
+SpellMakerElementFire,          Elemento Fuego
+SpellMakerElementCold,          Elemento Frío
+SpellMakerElementPoison,        Elemento Veneno
+SpellMakerElementShock,         Elemento Rayo
+SpellMakerElementMagic,         Elemento Magia
+SpellMakerNextIcon,             Siguiente icono
+SpellMakerPrevIcon,             Icono anterior
+SpellMakerSelectIcon,           Seleccionar icono
+
+-- Automap
+AutomapSwitchAutomapGridMode,                   Cambiar modo de cuadrícula
+AutomapResetView,                               Restablecer vista
+AutomapResetRotationPivotAxisView,              Restablecer eje de rotación
+AutomapSwitchFocusToNextBeaconObject,           Enfocar siguiente objetivo
+AutomapSwitchToNextAutomapRenderMode,           Siguiente modo de renderizado
+AutomapSwitchToAutomapRenderModeCutout,          Modo de corte
+AutomapSwitchToAutomapRenderModeWireframe,       Modo de malla
+AutomapSwitchToAutomapRenderModeTransparent,     Modo transparente
+AutomapSwitchToAutomapBackgroundOriginal,        Fondo original
+AutomapSwitchToAutomapBackgroundAlternative1,   Fondo alternativo 1
+AutomapSwitchToAutomapBackgroundAlternative2,   Fondo alternativo 2
+AutomapSwitchToAutomapBackgroundAlternative3,   Fondo alternativo 3
+AutomapMoveLeft,                                Mover a la izquierda
+AutomapMoveRight,                               Mover a la derecha
+AutomapMoveForward,                             Mover adelante
+AutomapMoveBackward,                            Mover atrás
+AutomapMoveRotationPivotAxisLeft,               Mover eje a la izquierda
+AutomapMoveRotationPivotAxisRight,              Mover eje a la derecha
+AutomapMoveRotationPivotAxisForward,            Mover eje adelante
+AutomapMoveRotationPivotAxisBackward,           Mover eje atrás
+AutomapRotateLeft,                              Rotar a la izquierda
+AutomapRotateRight,                             Rotar a la derecha
+AutomapRotateCameraLeft,                        Rotar cámara a la izquierda
+AutomapRotateCameraRight,                       Rotar cámara a la derecha
+AutomapRotateCameraOnCameraYZplaneAroundObjectUp, Rotar cámara arriba
+AutomapRotateCameraOnCameraYZplaneAroundObjectDown, Rotar cámara abajo
+AutomapUpstairs,                                Subir piso
+AutomapDownstairs,                              Bajar piso
+AutomapIncreaseSliceLevel,                      Aumentar nivel de corte
+AutomapDecreaseSliceLevel,                      Disminuir nivel de corte
+AutomapZoomIn,                                  Acercar
+AutomapZoomOut,                                 Alejar
+AutomapIncreaseCameraFieldOfFiew,               Aumentar campo de visión
+AutomapDecreaseCameraFieldOfFiew,               Disminuir campo de visión
+
+ExtAutomapFocusPlayerPosition,                  Centrar en el jugador
+ExtAutomapResetView,                            Restablecer vista
+ExtAutomapSwitchToNextExteriorAutomapViewMode,  Siguiente modo de vista exterior
+ExtAutomapSwitchToExteriorAutomapViewModeOriginal, Vista exterior original
+ExtAutomapSwitchToExteriorAutomapViewModeExtra,    Vista exterior extra
+ExtAutomapSwitchToExteriorAutomapViewModeAll,      Ver todo el exterior
+ExtAutomapSwitchToExteriorAutomapBackgroundOriginal, Fondo original
+ExtAutomapSwitchToExteriorAutomapBackgroundAlternative1, Fondo alternativo 1
+ExtAutomapSwitchToExteriorAutomapBackgroundAlternative2, Fondo alternativo 2
+ExtAutomapSwitchToExteriorAutomapBackgroundAlternative3, Fondo alternativo 3
+ExtAutomapMoveLeft,                             Mover a la izquierda
+ExtAutomapMoveRight,                            Mover a la derecha
+ExtAutomapMoveForward,                          Mover adelante
+ExtAutomapMoveBackward,                         Mover atrás
+ExtAutomapMoveToWestLocationBorder,             Mover al borde Oeste
+ExtAutomapMoveToEastLocationBorder,             Mover al borde Este
+ExtAutomapMoveToNorthLocationBorder,            Mover al borde Norte
+ExtAutomapMoveToSouthLocationBorder,            Mover al borde Sur
+ExtAutomapRotateLeft,                           Rotar a la izquierda
+ExtAutomapRotateRight,                          Rotar a la derecha
+ExtAutomapRotateAroundPlayerPosLeft,            Rotar sobre el jugador izquierda
+ExtAutomapRotateAroundPlayerPosRight,           Rotar sobre el jugador derecha
+ExtAutomapUpstairs,                             Subir
+ExtAutomapDownstairs,                           Bajar
+ExtAutomapZoomIn,                               Acercar
+ExtAutomapZoomOut,                              Alejar
+ExtAutomapMaxZoom1,                             Zoom máximo 1
+ExtAutomapMinZoom1,                             Zoom mínimo 1
+ExtAutomapMinZoom2,                             Zoom mínimo 2
+ExtAutomapMaxZoom2,                             Zoom máximo 2
