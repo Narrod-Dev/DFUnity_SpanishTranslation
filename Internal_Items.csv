@@ -1,0 +1,289 @@
+Key,Value
+0,Rubí
+1,Esmeralda
+2,Zafiro
+3,Diamante
+4,Jade
+5,Turquesa
+6,Malaquita
+7,Ámbar
+8,Ramitas
+9,Hojas verdes
+10,Flores rojas
+11,Flores amarillas
+12,Zarcillos de raíz
+13,Bulbo de raíz
+14,Rama de pino
+15,Bayas verdes
+16,Bayas rojas
+17,Bayas amarillas
+18,Trébol
+19,Rosa roja
+20,Rosa amarilla
+21,Rosa negra
+22,Rosa blanca
+23,Amapola roja
+24,Amapola negra
+25,Amapola dorada
+26,Amapola blanca
+27,Hojas de ginkgo
+28,Bambú
+29,Palma
+30,Áloe
+31,Higo
+32,Cactus
+33,Sangre de hombre lobo
+34,Colmillo de jabalí hombre
+35,Escamas de dragón hada
+36,Pelo de ninfa
+37,Cuerno de unicornio
+38,Esencia de espectro
+39,Ectoplasma
+40,Lengua de necrófago
+41,Veneno de araña
+42,Sangre de troll
+43,Veneno de serpiente
+44,Serpiente de gorgona
+45,Polvo de liche
+46,Escamas de dragón
+47,Aguijón de escorpión gigante
+48,Aguijón de escorpión pequeño
+49,Vendajes de momia
+50,Sangre de gigante
+51,Ojo de basilisco
+52,Pluma de grifo
+53,Corazón de Daedra
+54,Pelo de santo
+55,Reliquia sagrada
+56,Diente grande
+57,Diente mediano
+58,Diente pequeño
+59,Agua pura
+60,Agua de lluvia
+61,Sangre de orco
+62,Elixir Vitae
+63,Néctar
+64,Icor
+65,Mercurio
+66,Estaño
+67,Latón
+68,Magnetita
+69,Azufre
+70,Plomo
+71,Hierro
+72,Cobre
+73,Plata
+74,Oro
+75,Platino
+76,Marfil
+77,Perla
+78,Indulcet
+79,Sursum
+80,Quaesto Vil
+81,Aegrotat
+82,Jarra de cristal
+83,Botella de cristal
+84,Decantador
+85,Jarra de barro
+86,Saco pequeño
+87,Saco grande
+88,Carcaj
+89,Mochila
+90,Cofre pequeño
+91,Bodeguero
+92,Cofre grande
+93,Carro pequeño
+94,Caballo
+95,Bote de remos
+96,Bote grande
+97,Barco pequeño
+98,Galera grande
+99,Escritura de casa de ciudad
+100,Escritura de casa
+101,Escritura de mansión
+102,Coraza
+103,Guanteletes
+104,Grebas
+105,Hombrera izquierda
+106,Hombrera derecha
+107,Yelmo
+108,Botas
+109,Rodela
+110,Escudo redondo
+111,Escudo de lágrima
+112,Escudo de torre
+113,Daga
+114,Tanto
+115,Bastón
+116,Espada corta
+117,Wakazashi
+118,Espada ancha
+119,Sable
+120,Espada larga
+121,Katana
+122,Mandoble
+123,Dai-katana
+124,Maza
+125,Flagelo
+126,Martillo de guerra
+127,Hacha de batalla
+128,Hacha de guerra
+129,Arco corto
+130,Arco largo
+131,Flecha
+132,Libro de hechizos
+133,Amuleto
+134,Brazal
+135,Anillo
+136,Brazalete
+137,Marca
+138,Torque
+139,Amuleto de tela
+140,Varita
+141,Correas
+142,Brazaleras
+143,Kimono
+144,Brazaleras elegantes
+145,Faja
+146,Eodoric
+147,Zapatos
+148,Botas altas
+149,Botas
+150,Sandalias
+151,Pantalones informales
+152,Calzones
+153,Falda corta
+154,Capa informal
+155,Capa formal
+156,Traje Khajiit
+157,Sobretodo de Dwynnen
+158,Túnica corta
+159,Túnica formal
+160,Toga
+161,Túnica reversible
+162,Taparrabos
+163,Túnica sencilla
+164,Túnica de sacerdote
+165,Camisa corta
+166,Camisa corta
+167,Camisa larga
+168,Camisa larga
+169,Camisa corta
+170,Camisa corta
+171,Camisa larga
+172,Camisa larga
+173,Túnica abierta
+174,Envoltura
+175,Falda larga
+176,Sobretodo de Anticlere
+177,Correas de aspirante
+178,Camisa corta
+179,Camisa larga
+180,Chaleco
+181,Correas de campeón
+182,Sostén
+183,Sostén formal
+184,Blusa de campesina
+185,Eodoric
+186,Zapatos
+187,Botas altas
+188,Botas
+189,Sandalias
+190,Pantalones informales
+191,Capa informal
+192,Capa formal
+193,Traje Khajiit
+194,Eodoric formal
+195,Vestido de noche
+196,Vestido de día
+197,Vestido informal
+198,Vestido palabra de honor
+199,Taparrabos
+200,Túnica sencilla
+201,Túnica de sacerdotisa
+202,Camisa corta
+203,Camisa corta
+204,Camisa larga
+205,Camisa larga
+206,Camisa corta
+207,Camisa corta
+208,Camisa larga
+209,Camisa larga
+210,Túnica abierta
+211,Envoltura
+212,Falda larga
+213,Medias
+214,Camisa corta
+215,Camisa larga
+216,Chaleco
+217,Cama individual sencilla
+218,Cama individual elegante
+219,Cama doble sencilla
+220,Cama doble elegante
+221,Mesa grande de roble
+222,Mesa grande de cerezo
+223,Mesa grande de caoba
+224,Mesa grande de teca
+225,Mesa pequeña de roble
+226,Mesa pequeña de cerezo
+227,Mesa pequeña de caoba
+228,Mesa pequeña de teca
+229,Silla de roble
+230,Silla de cerezo
+231,Silla de caoba
+232,Silla de teca
+233,Cortinas
+234,Cortinas elegantes
+235,Almohada grande
+236,Almohada pequeña
+237,Alfombra sencilla pequeña
+238,Alfombra sencilla grande
+239,Alfombra fina pequeña
+240,Alfombra fina grande
+241,Tapiz grande
+242,Tapiz mediano
+243,Tapiz pequeño
+244,Pieles grandes
+245,Pieles pequeñas
+246,Candelabro
+247,Antorcha
+248,Linterna
+249,Vendaje
+250,Arbustos
+251,Flores
+252,Aceite
+253,Vela
+254,Telescopio
+255,Balanza
+256,Globo terráqueo
+257,Esqueleto
+258,Cuentas de oración
+259,Símbolo raro
+260,Símbolo común
+261,Campana
+262,Agua bendita
+263,Talismán
+264,Objeto religioso
+265,Estatua pequeña
+266,Estatua grande
+267,Icono
+268,Escarabajo
+269,Vela sagrada
+270,Daga sagrada
+271,Tomo sagrado
+272,Altar
+273,Pila bautismal
+274,Trampa de alma
+275,Carta de crédito
+276,Monedas de oro
+277,Libro
+278,Receta de poción
+279,Pergamino
+280,Tótem
+281,Cuerpo muerto
+282,Mantella
+283,Dedo
+284,Pintura
+285,Escritura de casa
+286,Escritura de barco
+287,Mapa

@@ -1,0 +1,236 @@
+- Text database for game settings window.
+
+schema: *key,text
+
+- Tabs and section titles
+
+gamePlay,                                           Partida
+interface,                                          Interfaz
+enhancements,                                       Mejoras
+video,                                              Vídeo
+accessibility,                                      Accesibilidad
+
+game,                                               Juego
+controls,                                           Controles
+audio,                                              Audio
+spells,                                             Hechizos
+tooltips,                                           Información sobre herramientas
+hud,                                                HUD
+gui,                                                GUI
+light,                                              Iluminación
+basic,                                              Básico
+advanced,                                           Avanzado
+automap,                                            Mapa automático
+dungeonmicromap,                                    Micromapa de mazmorra
+
+- Settings and tooltip descriptions
+
+startInDungeon,                                     Empezar en mazmorra
+startInDungeonInfo,                                 Inicia una partida nueva dentro de la primera mazmorra
+smallerDungeons,                                    Mazmorras más pequeñas
+smallerDungeonsInfo,                                Las mazmorras aleatorias serán de tamaño reducido
+randomDungeonTextures,                              Texturas de mazmorra aleatorias
+randomDungeonTexturesInfo,                          Usa texturas de mazmorra al azar
+cameraRecoilStrength,                               Fuerza de retroceso de cámara
+cameraRecoilStrengthInfo,                           Intensidad del movimiento al recibir daño
+mouseSensitivity,                                   Sensibilidad del ratón
+mouseSensitivityInfo,                               Sensibilidad al mirar con el ratón
+weaponSensitivity,                                  Sensibilidad de armas
+weaponSensitivityInfo,                              Sensibilidad del ataque con el ratón
+movementAcceleration,                               Aceleración de movimiento
+movementAccelerationInfo,                           Añade inercia al empezar o dejar de caminar
+weaponAttackThreshold,                              Umbral de ataque
+weaponAttackThresholdInfo,                          Distancia mínima del ratón para atacar
+soundFont,                                          Banco de sonidos MIDI
+soundFontInfo,                                      Archivo de sonido MIDI activo
+alternateMusic,                                     Música alternativa
+alternateMusicInfo,                                 Banda sonora optimizada para OPL3
+soundVolume,                                        Volumen de sonido
+soundVolumeInfo,                                    Volumen de los efectos
+musicVolume,                                        Volumen de música
+musicVolumeInfo,                                    Volumen de la música
+spellLighting,                                      Iluminación de hechizos
+spellLightingInfo,                                  Iluminación dinámica en los hechizos
+spellShadows,                                       Sombras de hechizos
+spellShadowsInfo,                                   Los hechizos proyectan sombras
+instantRepairs,                                     Reparaciones instantáneas
+instantRepairsInfo,                                 Reparaciones sin tiempo de espera
+bowDrawback,                                        Tensado de arco
+bowDrawbackInfo,                                    Mantener para tensar y soltar para disparar
+toggleSneak,                                        Alternar sigilo
+toggleSneakInfo,                                    Pulsar una vez para agacharse
+
+toolTips,                                           Descripciones emergentes
+toolTipsInfo,                                       Muestra info de objetos en la interfaz
+toolTipDelayInSeconds,                              Retraso
+toolTipDelayInSecondsInfo,                          Segundos antes de mostrar la información
+toolTipTextColor,                                   Color de texto
+toolTipTextColorInfo,                               Color de la fuente en descripciones
+toolTipBackgroundColor,                             Color de fondo
+toolTipBackgroundColorInfo,                         Color de fondo en descripciones
+crosshair,                                          Retícula
+crosshairInfo,                                      Habilita el punto de mira
+vitalsIndicators,                                   Indicadores de vitalidad
+vitalsIndicatorsInfo,                               Muestra cambios en barras de vida o magia
+interactionModeIcon,                                Icono de interacción
+interactionModeIconInfo,                            Estilo del icono de contexto
+arrowCounter,                                       Contador de flechas
+arrowCounterInfo,                                   Muestra las flechas restantes en el HUD
+showQuestJournalClocksAsCountdown,                  Cuenta atrás en misiones
+showQuestJournalClocksAsCountdownInfo,              Muestra tiempo restante en lugar de transcurrido
+inventoryInfoPanel,                                 Panel de info de inventario
+inventoryInfoPanelInfo,                             Muestra el panel detallado de objetos
+enhancedItemLists,                                  Listas de objetos mejoradas
+enhancedItemListsInfo,                              Muestra el inventario en cuadrícula de 16x
+enableModernConversationStyleInTalkWindow,          Diálogo moderno
+enableModernConversationStyleInTalkWindowInfo,      Usa un estilo de conversación actual
+iconsPositioningScheme,                             Diseño de iconos de estado
+iconsPositioningSchemeInfo,                         Tamaño y posición de efectos activos
+helmAndShieldMaterialDisplay,                       Material de yelmo y escudo
+helmAndShieldMaterialDisplayInfo,                   Indica el material en la descripción
+geographicBackgrounds,                              Fondos geográficos
+geographicBackgroundsInfo,                          Fondos de personaje según la región
+dungeonExitWagonPrompt,                             Aviso de carro en mazmorra
+dungeonExitWagonPromptInfo,                         Pregunta si usar el carro al salir
+travelMapLocationsOutline,                          Contorno en mapa regional
+travelMapLocationsOutlineInfo,                      Borde en iconos para mejorar visibilidad
+guildQuestListBox,                                  Lista de misiones de gremio
+guildQuestListBoxInfo,                              Muestra misiones disponibles en una lista
+bowLeftHandWithSwitching,                           Arco en mano izquierda
+bowLeftHandWithSwitchingInfo,                       Permite cambiar a arma de una mano con retraso
+loiterLimitInHours,                                 Límite de espera
+loiterLimitInHoursInfo,                             Cambia el tiempo máximo de espera en horas
+automapTempleColor,                                 Color de gremios
+automapTempleColorInfo,                             Color de templos y gremios en el mapa
+automapShopColor,                                   Color de tiendas
+automapShopColorInfo,                               Color de las tiendas en el mapa
+automapTavernColor,                                 Color de tabernas
+automapTavernColorInfo,                             Color de las tabernas en el mapa
+automapHouseColor,                                  Color de residencias
+automapHouseColorInfo,                              Color de las casas en el mapa
+dungeonMicMapQoL,                                   Mejoras de micromapa
+dungeonMicMapQoLInfo,                               Activa colores de mejora para el micromapa
+dunMicMapInnerColor,                                Color de bloque interno
+dunMicMapInnerColorInfo,                            Color del interior de mazmorra en micromapa
+dunMicMapBorderColor,                               Color de bloque de borde
+dunMicMapBorderColorInfo,                           Color del borde de mazmorra en micromapa
+
+modSystem,                                          Sistema de mods
+modSystemInfo,                                      Activa el soporte para mods
+assetInjection,                                     Inyección de recursos
+assetInjectionInfo,                                 Importa archivos externos y de mods
+compressModdedTextures,                             Comprimir texturas de mods
+compressModdedTexturesInfo,                         Usa texturas comprimidas para ahorrar memoria
+gameConsole,                                        Consola de comandos
+gameConsoleInfo,                                    Permite el uso de la consola
+nearDeathWarning,                                   Aviso de muerte cercana
+nearDeathWarningInfo,                               Efecto de pantalla cuando queda poca vida
+alternateRandomEnemySelection,                      Variedad de enemigos aleatorios
+alternateRandomEnemySelectionInfo,                  Crea enemigos con más variabilidad
+advancedClimbing,                                   Sistema de escalada avanzado
+advancedClimbingInfo,                               Permite escalar en todas direcciones y saltar
+dungeonAmbientLightScale,                           Luz ambiental de mazmorra
+dungeonAmbientLightScaleInfo,                       Escala de la luz interna de mazmorras
+nightAmbientLightScale,                             Luz ambiental nocturna
+nightAmbientLightScaleInfo,                         Escala de la luz nocturna
+playerTorchLightScale,                              Luz de antorcha del jugador
+playerTorchLightScaleInfo,                          Escala de la luz personal del jugador
+playerTorchFromItems,                               Antorcha basada en objetos
+playerTorchFromItemsInfo,                           La luz depende de fuentes de luz equipadas
+combatVoices,                                       Voces de combate
+combatVoicesInfo,                                   Sonidos al atacar o recibir daño
+enemyInfighting,                                    Peleas entre enemigos
+enemyInfightingInfo,                                Los enemigos lucharán contra no aliados
+enhancedCombatAI,                                   IA de combate mejorada
+enhancedCombatAIInfo,                               Activa mejoras en la IA de combate
+allowMagicRepairs,                                  Reparar objetos mágicos
+allowMagicRepairsInfo,                              Permite reparar objetos mágicos
+
+resolution,                                         Resolución
+resolutionInfo,                                     Resolución de pantalla
+fullscreen,                                         Pantalla completa
+fullscreenInfo,                                     Activa el modo pantalla completa
+exclusiveFullscreen,                                Pantalla completa exclusiva
+exclusiveFullscreenInfo,                            Activa pantalla completa exclusiva
+runInBackground,                                    Ejecutar en segundo plano
+runInBackgroundInfo,                                El juego sigue funcionando al perder el foco
+qualityLevel,                                       Nivel de calidad
+qualityLevelInfo,                                   Calidad gráfica general
+mainFilterMode,                                     Filtro principal
+mainFilterModeInfo,                                 Filtro para texturas del juego
+guiFilterMode,                                      Filtro de interfaz
+guiFilterModeInfo,                                  Filtro para imágenes del HUD
+videoFilterMode,                                    Filtro de vídeo
+videoFilterModeInfo,                                Filtro para las películas
+antiAliasingMethod,                                 Método de antialiasing
+antiAliasingMethodInfo,                             Selecciona el método de suavizado
+ambientOcclusionIntensity,                          Intensidad de oclusión ambiental
+ambientOcclusionIntensityInfo,                      Ajusta la intensidad del efecto AO
+fovSlider,                                          Campo de visión
+fovSliderInfo,                                      Ángulo del mundo visible
+terrainDistance,                                    Distancia del terreno
+terrainDistanceInfo,                                Distancia máxima del terreno activo
+shadowResolutionMode,                               Resolución de sombras
+shadowResolutionModeInfo,                           Calidad de las sombras
+dungeonLightShadows,                                Sombras en mazmorras
+dungeonLightShadowsInfo,                            Luces de mazmorra proyectan sombras
+interiorLightShadows,                               Sombras en interiores
+interiorLightShadowsInfo,                           Luces de interiores proyectan sombras
+exteriorLightShadows,                               Sombras en exteriores
+exteriorLightShadowsInfo,                           La luz solar proyecta sombras
+ambientLitInteriors,                                Simplificar luces de interior
+ambientLitInteriorsInfo,                            Usa luces menos complejas para ganar rendimiento
+
+- Configure Joystick Controls UI
+
+rightClickString,                                   Click derecho
+middleClickString,                                  Click central
+leftClickString,                                    Click izquierdo
+backString,                                         Atrás
+configureJoystickControls,                          Configurar Joystick
+continue,                                           CONTINUAR
+enableController,                                   Activar mando
+invert,                                             Invertir
+lookSensitivity,                                    Sensibilidad de mirada
+uiMouseSensitivity,                                 Sensibilidad ratón interfaz
+maximumMovementThreshold,                           Umbral de movimiento máximo
+deadzone,                                           Zona muerta
+movementH,                                          Movimiento H.
+movementV,                                          Movimiento V.
+cameraH,                                            Cámara H.
+cameraV,                                            Cámara V.
+primary,                                            Primario
+secondary,                                          Secundario
+
+- Options shared among sliders. Missing keys use default text.
+
+Off,                                                Apagado
+On,                                                 Encendido
+HQ,                                                 Alta calidad
+
+Low,                                                Bajo
+Medium,                                             Medio
+High,                                               Alto
+Very High,                                          Muy alto
+
+Low (25%),                                          Bajo 25 por ciento
+Medium (50%),                                       Medio 50 por ciento
+High (75%),                                         Alto 75 por ciento
+V. High(100%),                                      Muy alto 100 por ciento
+
+Point,                                              Punto
+Bilinear,                                           Bilineal
+Trilinear,                                          Trilinear
+
+none,                                               ninguno
+classic,                                            clásico
+climate,                                            clima
+climateOnly,                                        solo clima
+random,                                             aleatorio
+randomOnly,                                         solo aleatorio
+minimal,                                            mínimo
+large,                                              grande
+colour,                                             color
+monochrome,                                         monocromo
+
+reset,                                              Reiniciar

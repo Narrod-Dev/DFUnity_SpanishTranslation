@@ -1,0 +1,55 @@
+- Text database for Daggerfall Unity main menu and setup wizard.
+
+schema: *key,text
+
+resolution,                 Resolución
+fullscreen,                 Pantalla completa
+quality,                    Calidad
+play,                       Jugar
+mods,                       Mods
+advanced,                   Avanzado
+restart,                    Reiniciar
+restartInfo,                Reinicia la configuración desde el principio
+exit,                       Salir
+modNote,                    Nota: Activar mods puede aumentar los requisitos de rendimiento
+settingsFolder,             Carpeta de ajustes
+settingsFolderInfo,         Doble click para abrir la carpeta
+
+alwayShowOptions,           Mostrar siempre esta ventana
+alwayShowOptionsInfo,       Muestra esta ventana al inicio o usa settings.ini para configurar
+vsync,                      Sincronización vertical
+vsyncInfo,                  Sincroniza los FPS con el refresco del monitor
+swapHealthAndFatigue,       Intercambiar Vida y Fatiga
+swapHealthAndFatigueInfo,   Intercambia los colores de las barras de vida y fatiga
+invertMouseVertical,        Invertir ratón
+invertMouseVerticalInfo,    Invierte el eje vertical de la cámara
+mouseSmoothing,             Suavizado de ratón
+mouseSmoothingInfo,         Grado de suavizado de la cámara en primera persona
+leftHandWeapons,            Armas en mano izquierda
+leftHandWeaponsInfo,        Dibuja las armas en el lado izquierdo de la pantalla
+playerNudity,               Desnudez del jugador
+playerNudityInfo,           Permite desnudez en el inventario del personaje
+weaponSwingMode,            Modo de ataque
+weaponSwingModeInfo,        Permite elegir entre click o mantener para atacar
+sdfFontRendering,           Renderizado de fuente SDF
+sdfFontRenderingInfo,       Activa fuentes suaves en resoluciones altas
+enableController,           Activar mando
+enableControllerInfo,       Permite detectar joysticks u otros mandos en el juego
+
+findArena2Tip,              Consejo: Daggerfall contiene una carpeta llamada arena2
+foundArena2But,             Se encontró arena2 pero
+missingTextures,            falta uno o más archivos de TEXTURA
+missingModels,              falta el archivo ARCH3D.BSA
+missingBlocks,              falta el archivo BLOCKS.BSA
+missingMaps,                falta el archivo MAPS.BSA
+missingSounds,              falta el archivo DAGGER.SND
+missingWoods,               falta el archivo WOODS.WLD
+missingVideos,              falta uno o más archivos VID
+justNotValid,               no parece ser una carpeta válida
+pathValidated,              Genial! Parece una carpeta de Daggerfall válida :)
+hiddenFolders,              Mostrar carpetas ocultas
+testText,                   Prueba
+okText,                     OK
+keepSetting,                Mantener este ajuste? Los cambios se revertirán en 8 segundos.
+incompatibleMods,           Uno o más mods son incompatibles con la versión actual. Revisa la ventana de mods para más detalles. Quieres continuar de todas formas?
+showOptionsAgain,           Mantén pulsada la tecla Shift al iniciar Daggerfall Unity para mostrar el lanzador de nuevo
