@@ -1,0 +1,13 @@
+Key,Value
+about,Este CSV proporciona los registros de texto para el hechizo personalizado de ejemplo Luz de Mago.
+groupName,Luz de Mago
+subGroupNames,"Inferno
+Escarcha
+Veneno
+Tormenta
+Arcano"
+effectDescription,Crea una luz tenue alrededor del lanzador.
+durationSpellMaker,Duración: Turnos que estarás iluminado.
+durationSpellBook,Duración: %bdr + %adr por cada %cld nivel(es)
+chance,Probabilidad: N/A
+magnitude,Magnitud: N/A
