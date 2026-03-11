@@ -11,6 +11,7 @@ Este proyecto busca traducir todo el juego para que se pueda disfrutar de la exp
 Actualmente, el proyecto cubre los siguientes archivos de la carpeta `/Text`:
 
 - **GameSettings.txt**: Opciones de juego, interfaz, vídeo y accesibilidad.
+- **Internal_Settings.csv**: Ajustes avanzados del juego al tocar ESC.
 - **Internal_Spells.csv**: Nonbres de hechizos.
 - **Internal_Items.csv**: Nombres de armas, armaduras y materiales (hierro, daédrico, etc.).
 - **Internal_Flats.csv**: Nombres de NPCs, ciudadanos y objetos decorativos (Sprites 2D).
@@ -28,8 +29,7 @@ Actualmente, el proyecto cubre los siguientes archivos de la carpeta `/Text`:
 
 ## 🚀 Estado del proyecto
 
-- [x] Interfaz básica
-- [x] Nombres de objetos y materiales
+- [x] Menu de Daggerfall Unity (MainMenu.txt, ModSystem.txt, GameSettings.txt, DialogShortcuts.txt) - _listo_
 - [ ] Historia principal (carpeta `/Master Localization CSV`) - _en proceso_
 - [ ] Misiones (carpeta `/Quests`) — _en proceso_
 - [ ] Libros (carpeta `/Books`) — _en proceso_
@@ -44,6 +44,12 @@ _Gestión de mods traducida._
 
 ![Opciones avanzadas del juego](screenshots/gamesettings.png)
 _Configuración de juego, vídeo y accesibilidad._
+
+![Nombres de Hechizos Internos](screenshots/Internal_Spells.png)
+_Nombres de hechizos_
+
+![Traducción de ajustes avanzados](screenshots/Internal_Settings.png)
+_Ajustes avanzados al tocar ESC_
 
 ## 📜 Licencia
 

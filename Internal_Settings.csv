@@ -1,0 +1,75 @@
+﻿Key,Value
+weaponSwingModes,"Original
+Clic
+Mantener"
+mouseLookSmoothingStrengths,"Ninguno
+Mínimo
+Bajo
+Medio
+Alto
+Máximo"
+configureAdvancedControls,Configurar Controles Avanzados
+continueUpper,CONTINUAR
+mouseLookSmoothing,Suavizado de Ratón
+mouseLookSensitivity,Sensibilidad de Ratón
+invertLookY,Invertir Eje Y
+movementAcceleration,Aceleración de Movimiento
+weaponSwingMode,Modo de Ataque
+bowDrawback,Arcos - Tensar y Soltar
+toggleSneak,Alternar Sigilo
+mouseWeaponAttackThreshold,Umbral de Ataque con Ratón
+Escape,Escapar
+AutoRun,Correr Automático
+ToggleConsole,Consola
+PrintScreen,Captura de Pantalla
+QuickSave,Guardado Rápido
+QuickLoad,Carga Rápida
+close,Cerrar
+dungeonTextureModes,"Clásico
+Clima
+Solo Clima
+Aleatorio
+Solo Aleatorio"
+cameraRecoilStrengths,"Apagado
+Bajo (25%)
+Medio (50%)
+Alto (75%)
+Muy Alto (100%)"
+interactionModeIconModes,"Ninguno
+Mínimo
+Grande
+Clásico
+Color
+Monocromo
+Puntero Clásico
+Puntero Color"
+iconsPositioningSchemes,"Clásico
+Medio
+Pequeño
+Barra Izq.
+Barra Der.
+Vertical Izq.
+Vertical Der.
+Inferior"
+helmAndShieldMaterialDisplay,"Apagado
+Sin Cuero/Malla
+Sin Cuero
+Encendido"
+qualitySettings,"Más Rápido
+Rápido
+Simple
+Bueno
+Bello
+Fantástico"
+filterModes,"Punto
+Bilineal
+Trilineal"
+shadowResolutionModes,"Baja
+Media
+Alta
+Muy Alta"
+textureArrayLabel,Matrices de Textura: 
+unsupported,No compatible
+enabled,Activado
+disabled,Desactivado
+textureArrayInfo,"Implementación mejorada de texturas de terreno, con mejor rendimiento y soporte para mods"
