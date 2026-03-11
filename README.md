@@ -11,6 +11,7 @@ Este proyecto busca traducir todo el juego para que se pueda disfrutar de la exp
 Actualmente, el proyecto cubre los siguientes archivos de la carpeta `/Text`:
 
 - **GameSettings.txt**: Opciones de juego, interfaz, vídeo y accesibilidad.
+- **Internal_Spells.csv**: Nonbres de hechizos.
 - **Internal_Items.csv**: Nombres de armas, armaduras y materiales (hierro, daédrico, etc.).
 - **Internal_Flats.csv**: Nombres de NPCs, ciudadanos y objetos decorativos (Sprites 2D).
 - **MainMenu.txt**: Configuración del lanzador inicial y selección de calidad.
