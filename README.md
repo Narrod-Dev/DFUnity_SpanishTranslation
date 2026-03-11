@@ -11,8 +11,9 @@ Este proyecto busca traducir todo el juego para que se pueda disfrutar de la exp
 Actualmente, el proyecto cubre los siguientes archivos de la carpeta `/Text`:
 
 - **GameSettings.txt**: Opciones de juego, interfaz, vídeo y accesibilidad.
+- **Internal_Factions.csv**: Nombres de los distintos grupos, gremios y templos del juego.
 - **Internal_Settings.csv**: Ajustes avanzados del juego al tocar ESC.
-- **Internal_Spells.csv**: Nonbres de hechizos.
+- **Internal_Spells.csv**: Nombres de hechizos.
 - **Internal_Items.csv**: Nombres de armas, armaduras y materiales (hierro, daédrico, etc.).
 - **Internal_Flats.csv**: Nombres de NPCs, ciudadanos y objetos decorativos (Sprites 2D).
 - **MainMenu.txt**: Configuración del lanzador inicial y selección de calidad.
@@ -50,6 +51,9 @@ _Nombres de hechizos_
 
 ![Traducción de ajustes avanzados](screenshots/Internal_Settings.png)
 _Ajustes avanzados al tocar ESC_
+
+![Nombre de los distintos grupos, gremios y templos del juego](screenshots/Internal_Factions.png)
+_Nombre de los distintos grupos, gremios y templos del juego_
 
 ## 📜 Licencia
 
