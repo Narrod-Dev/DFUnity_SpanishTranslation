@@ -11,6 +11,7 @@ Este proyecto busca traducir todo el juego para que se pueda disfrutar de la exp
 Actualmente, el proyecto cubre los siguientes archivos de la carpeta `/Text`:
 
 - **GameSettings.txt**: Opciones de juego, interfaz, vídeo y accesibilidad.
+- **Internal_RSC.csv**: Dialogos, nombres y la mayoria de textos del juego.
 - **Internal_Locations.csv**: Nombres de lugares por el mapa.
 - **Example_MageLight.csv**: Un ejemplo para hacer un hechizo personalizado.
 - **Internal_MagicItems.csv**: Nombres de objetos mágicos y adaptaciones por códigos internos.
