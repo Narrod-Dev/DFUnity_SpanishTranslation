@@ -1,4 +1,4 @@
-Title: The MemoryStone
+Title: La Piedra de la Memoria
 Author: Makela Leki
 IsNaughty: False
 Price: 580
@@ -9,237 +9,241 @@ Content:
 
 [/font=2]
 
-[/center]From The MemoryStone
+[/center]De la Piedra de la Memoria
 
-[/center]of Makela Leki
+[/center]de Makela Leki
 
 
 
 [/font=4]
 
-[/center]
+[/center]Esta es una fiel reproducción de
 
-This is a faithful reproduction of
+[/center]los pensamientos grabados en la
 
-[/center]the thoughts recorded in Makela 
+[/center]piedra de memoria de Makela Leki,
 
-[/center]Leki's memory stone, found in the
+[/center]hallada en el paso de Bankorai,
 
-[/center]Bankorai pass, in the year of
+[/center]en el año 1E 973. Siete años
 
-[/center]reckoning 1E 973.  Seven years
+[/center]antes de la caída de Orsinium
 
-[/center]before the fall of Orsinium due to
+[/center]debido a los esfuerzos combinados
 
-[/center]the combined efforts of the armies
+[/center]de los ejércitos de Salto de la
 
-[/center]of Daggerfall, Sentinel, and the
+[/center]Daga, Centinela y la Orden de
 
-[/center]Order of Diagna. 
+[/center]Diagna.
 
-[/center]
+[/center]Casi todo el relato está en
 
-[/center]Almost all of this is in the first
+[/center]primera persona, ya que Makela no
 
-[/center]person, as Makela was unfamiliar
+[/center]estaba familiarizada con los
 
-with the protocols and scholarly
+[/center]protocolos y formalidades académicas
 
-[/center]formalities of recording herself
+[/center]para grabarse en una piedra de
 
-[/center]into a memory stone. None the less,
+[/center]memoria. No obstante, su heroísmo
 
-[/center]her heroism and heroic deeds live
+[/center]y sus hazañas heroicas perduran,
 
-[/center]on, her memories fresh in the stone
+[/center]con sus recuerdos frescos en la
 
-[/center]for all to feel and hear.  
+[/center]piedra para que todos puedan
+
+[/center]sentirlos y escucharlos.
 
 
 
 
 
- " . . . muuu uhh, I wonder if this will really work?"
+ "... mmuuu uhh, ¿me pregunto si esto funcionará de verdad?"
 
- "The Mages guild took me for 25,000 gold crowns if it
-doesn't.  Imagine?  This stone will record my thoughts? What
-did they say? Just unwrap it from the silver foil and
-leather bag and as soon as it touches my flesh it will begin
-to record.  
+ "El gremio de magos me cobró 25.000 coronas de oro por si no
+lo hace. ¿Os lo imagináis? ¿Esta piedra grabará mis
+pensamientos? ¿Qué dijeron? Solo hay que desenvolverla del
+papel de plata y de la bolsa de cuero y, en cuanto toque mi
+carne, empezará a grabar.
 
- "Ahhhh, the pain, I must block it out, no one would want to
-hold my  stone and hear my thoughts if I let it record my
-pain. Thank the Ebonarm and the training I received in The Hall
-of the Virtues of War.  I CAN block out this pain. Ummm
-just, ah,  there, it's walled off.
+ Ahhhh, el dolor, debo bloquearlo, nadie querría sostener mi
+piedra y escuchar mis pensamientos si dejo que grabe mi
+dolor. Gracias al Ebonarm y al entrenamiento que recibí en el
+Salón de las Virtudes de la Guerra. PUEDO bloquear este dolor.
+Ummm solo, ah, ahí está, está aislado.
 
- "Yes I can still see it there just beyond my consciousness
-lurking like a hungry wolf - a wolf that will soon  consume
-me. I see also my inevitable death from these damned wounds. 
-No potions left, the healing crystal and ring are used up,
-and me, with not even magic enough to light a candle.   Oh but
-the gods did give me other gifts, the gift of sword singing,
-the thrill of battle, Frandar  Hunding's Book of Circles,
-THE WAY OF THE SWORD. Ah but then that is my story, I get
-ahead of myself.  
+ Sí, todavía puedo verlo ahí, justo más allá de mi conciencia,
+acechando como un lobo hambriento; un lobo que pronto me
+consumirá. Veo también mi inevitable muerte por estas malditas
+heridas. No quedan pociones, el cristal de curación y el
+anillo se han agotado, y yo, sin magia suficiente ni para
+encender una vela. Oh, pero los dioses me dieron otros dones,
+el don del canto de la espada, la emoción de la batalla, el
+Libro de los Círculos de Frandar Hunding, EL CAMINO DE LA
+ESPADA. Ah, pero esa es mi historia, me estoy adelantando.
 
- I am Makela Leki a warrior, a sword-singer, a second level
-Ansei. In  my cradle I could form the Shehai, the spirit sword
-- The mystical blade,  mine formed of pure thought serpents
-intertwined with vines of roses to  form the blade, as
-beautiful as ...  
+ Soy Makela Leki, una guerrera, una cantora de la espada, una
+Ansei de segundo nivel. En mi cuna ya podía formar el Shehai,
+la espada espiritual. La hoja mística; la mía formada por
+serpientes de pensamiento puro entrelazadas con enredaderas de
+rosas para formar la hoja, tan hermosa como...
 
- Ah, but I'm about to tell you all about that, to tell you
-my story, a story of valiant battle, of my loves, of my
-wars, of. of betrayal and of this last glorious victory.
-To tell you of how I came to this distant lonely pass me and
-five companions, to fight these men and monsters to  defeat
-the army that would fall on my people like cowards in the
-night, but again I get ahead of myself.  
+ Ah, pero estoy a punto de contároslo todo, de contaros mi
+historia, una historia de batalla valiente, de mis amores, de
+mis guerras, de... de la traición y de esta última victoria
+gloriosa. De contaros cómo llegué a este paso lejano y solitario,
+yo y cinco compañeros, para luchar contra estos hombres y
+monstruos para derrotar al ejército que caería sobre mi pueblo
+como cobardes en la noche, pero de nuevo me adelanto.
 
- I am a simple warrior. I grew up as a Maiden of the Spirit
-Blade.  As early as I can remember I wanted to be a Singer, to
-feel the hunger of  the blade in my hands, to feel it come
-alive and take my enemies. I am  told our people were
-artisans and poets long ago in our desert homes.   Here in new
-home now known as Hammerfell, many of us have returned  to
-those ancient ways, but to me there is but ONE WAY. THE WAY 
-of the SWORD.   
+ Soy una simple guerrera. Crecí como una Doncella de la Hoja
+Espiritual. Desde que tengo memoria quise ser una Cantora,
+sentir el hambre de la hoja en mis manos, sentir cómo cobraba
+vida y se llevaba a mis enemigos. Me han dicho que nuestro
+pueblo fue de artesanos y poetas hace mucho tiempo en nuestros
+hogares del desierto. Aquí, en nuestro nuevo hogar ahora
+conocido como Páramo del Martillo, muchos de nosotros hemos
+regresado a esas antiguas costumbres, pero para mí solo hay UN
+CAMINO. EL CAMINO de la ESPADA.
 
- Ah this is hard to tell. I grew up in my noble family, the
-only one of  three brothers and two sisters that felt the
-calling, the Song of the  Sword. Father understood, for he too
-had felt the call. He had become a master, and Ansei long
-before settling down with in our estate to raise a family.
-At eleven, I entered the Hall of the Virtues of War and
-joined the Maidens of the Spirit Sword. In my band there were
-six of us. Daring Julia, solid Patia, big Kati, svelte
-Cegila, wise Zell, and me - all are gone now, save me, and
-soon I will join them. ... Join them in the halls of the
-unknown gods of war.
+ Ah, esto es difícil de contar. Crecí en mi noble familia, la
+única de tres hermanos y dos hermanas que sintió la llamada,
+el Canto de la Espada. Padre lo entendió, pues él también había
+sentido la llamada. Se había convertido en un maestro, un Ansei,
+mucho antes de establecerse en nuestra finca para formar una
+familia. A los once años, entré en el Salón de las Virtudes de
+la Guerra y me uní a las Doncellas de la Espada Espiritual. En
+mi grupo éramos seis. La audaz Julia, la sólida Patia, la gran
+Kati, la esbelta Cegila, la sabia Zell y yo; todas se han ido
+ya, excepto yo, y pronto me uniré a ellas... Me uniré a ellas
+en los salones de los dioses desconocidos de la guerra.
 
- We drank together, we fought, we  wept, we grew in the way of
-the sword. We joined in our learnings in the Hall with our
-Brothers of the Blade. Learning from each other, we all sat
-at the feet of the Hall Master striving to learn the depths of
-the  Shehai - making the spirit blade into a real weapon as
-Frandar Hunding had. Only a few have the purity of heart and
-virtue to be able to take the step and learn the mysteries of
-Ansei. Sword Sainthood.  
+ Bebimos juntas, luchamos, lloramos, crecimos en el camino de
+la espada. Nos unimos en nuestros aprendizajes en el Salón con
+nuestros Hermanos de la Hoja. Aprendiendo los unos de los otros,
+todos nos sentamos a los pies del Maestro del Salón esforzándonos
+por aprender las profundidades del Shehai; convirtiendo la hoja
+espiritual en un arma real como lo hizo Frandar Hunding. Solo
+unos pocos tienen la pureza de corazón y la virtud para poder
+dar el paso y aprender los misterios del Ansei. La Santidad de
+la Espada.
 
- Somehow, of all the Brothers and the Maidens, I only
-possessed the unique qualities, the faint but strong enough
-flicker of magicka to call forth the Shehai. Many times I
-called it, seldom would it become substantial enough to be a
-weapon. To be a Ansei of the first level you just need to be
-able to call it, and that I could, so I became the first
-Ansei from our local hall in two generations. 
+ De algún modo, de todos los Hermanos y las Doncellas, solo yo
+poseía las cualidades únicas, el débil pero lo bastante fuerte
+destello de magicka para invocar el Shehai. Muchas veces lo
+invoqué, pocas veces se volvía lo bastante sustancial como para
+ser un arma. Para ser un Ansei de primer nivel solo necesitas
+ser capaz de invocarlo, y eso yo podía, así que me convertí en
+la primera Ansei de nuestro salón local en dos generaciones.
 
- Oh I have so much to tell, so many memories, so many
-treasures to share with you, my unknown companion. How do I
-start?
+ Oh, tengo tanto que contar, tantos recuerdos, tantos tesoros
+que compartir contigo, mi desconocido compañero. ¿Cómo empiezo?
 
- Umhhh, the pain is still out there lurking hungry, slowly
-consuming what's left of me. I guess I had better tell of the
-final battle, the one that has left me here, and then if I
-have the will left tell you of my life, of my love  Raliph.
-OH what a lad he was. What times we shared ... Ebonarm ...
-Forgive me, my mind wanders ...  Let me go to the  Final
-Battle.  
+ Umhhh, el dolor sigue ahí acechando hambriento, consumiendo
+lentamente lo que queda de mí. Supongo que será mejor que cuente
+la batalla final, la que me ha dejado aquí, y luego, si me
+queda voluntad, hablaros de mi vida, de mi amor Raliph. ¡OH,
+qué muchacho era! Qué tiempos compartimos... Ebonarm...
+Perdonadme, mi mente vaga... Dejadme ir a la Batalla Final.
 
- Umm to start, in the middle humm. Yes. We Maidens grew,
-learned, mastered the Way, and upon completing the
-Walk-About. To you who are not Singers, this is a wilderness
-trek emulating the times of Frandar Hunding - where we each
-wander the country side righting wrongs, defeating monsters,
-performing quests in the name of virtue. Some of us in our
-Hall took years to finish. Always there is danger, we six
-Maidens each returned in our own good time, but many are they
-who do not live to return from the Walk About.   
+ Umm para empezar, por el medio humm. Sí. Nosotras, las
+Doncellas, crecimos, aprendimos, dominamos el Camino, y tras
+completar el Paseo. Para los que no sois Cantores, este es un
+viaje por la naturaleza emulando los tiempos de Frandar
+Hunding; donde cada uno vaga por el campo reparando injusticias,
+derrotando monstruos, realizando misiones en nombre de la virtud.
+A algunos de nuestro Salón nos llevó años terminarlo. Siempre
+hay peligro, las seis Doncellas regresamos cada una a su debido
+tiempo, pero muchos son los que no viven para regresar del Paseo.
 
- We returned, each to our own lives, to meet in the hall once
-a week to tell our stories to the new Maidens and Brothers,
-and to perform as instructors in the Way of the sword.  All
-was well till the night of the MidYear Festival.
+ Regresamos, cada una a su propia vida, para reunirnos en el
+salón una vez a la semana para contar nuestras historias a las
+nuevas Doncellas y Hermanos, y para actuar como instructores
+en el Camino de la espada. Todo iba bien hasta la noche del
+Festival de Mitad de Año.
 
- All our people were reveling and ...  excuse ... enjoying
-the repast, but for we six Maidens.  It happened that the 
-festival day fell on our day of meeting in the hall, our
-day of prayer and  fasting and honor to the Way of the
-Sword.  
+ Toda nuestra gente estaba de fiesta y... disculpad...
+disfrutando del banquete, excepto nosotras seis Doncellas. Dio
+la casualidad de que el día del festival caía en nuestro día
+de reunión en el salón, nuestro día de oración, ayuno y honor
+al Camino de la Espada.
 
- As we met, late into the night, a knocking rang on our door. 
-When I opened, it there was a guardian the Bankorai Pass in
-the Wrothgarian Mountains, wounded and near death ... He
-told us of betrayal from the  north, an invasion sponsored
-by the Crystal Tower of High Rock, led by King Joile of
-Daggerfall -- our ally in the war with Orsinium!
+ Mientras nos reuníamos, entrada la noche, oímos unos golpes en
+nuestra puerta. Cuando abrí, allí había un guardián del Paso de
+Bankorai en las Montañas de Wrothgar, herido y moribundo... Nos
+habló de una traición desde el norte, una invasión patrocinada
+por la Torre de Cristal de Roca Alta, liderada por el Rey Joile
+de Salto de la Daga; ¡nuestro aliado en la guerra con
+Orsinium!
 
- Quickly we used up a crystal of healing in restoring him to
-vitality. We sent him on to the king, while we six grabbed our
-weapons and armor of power, and as many potions, marks,
-and crystals and rings as we could carry.  
+ Rápidamente agotamos un cristal de curación para devolverle
+la vitalidad. Lo enviamos ante el rey, mientras las seis
+tomábamos nuestras armas y armaduras de poder, y tantas
+pociones, marcas, cristales y anillos como podíamos llevar.
 
- We flew to the pass hoping upon hope that we would not be
-too late. Our journey was not in vain, for we arrived just
-at the very point where the last three guardians were
-overwhelmed by the horde.  Into the pass we ran forming the
-old battle line, six abreast.
+ Volamos hacia el paso con la esperanza de no llegar demasiado
+tarde. Nuestro viaje no fue en vano, pues llegamos justo en
+el momento en que los últimos tres guardianes eran abrumados
+por la horda. Entramos en el paso formando la antigua línea de
+batalla, de seis en fondo.
 
- OH did we FIGHT.
+ ¡OH, cómo LUCHAMOS!
 
- The Song of the Sword was a joyous noise slicing through the
-ranks of evil.  We fought for hours. Julia was the first to
-fall, a cowardly poisoned dagger finding a rent in her
-armor. Then one by one all fell, save me.
+ El Canto de la Espada era un ruido jubiloso cortando las filas
+del mal. Luchamos durante horas. Julia fue la primera en caer,
+una cobarde daga envenenada encontró una rendija en su armadura.
+Luego, una a una, todas cayeron, excepto yo.
 
- ... oh cruel Ebonarm ...    Then my beloved sword, the sword
-of my father, the one with the serpent's crest, fashioned by
-the master sword smith Singer Tansal broke in my hands. All
-was lost, our six lives spent in vain. Now, many many of
-them would pour through the pass. I would be easy prey for
-them, like a newborn child. I wept in frustration.  
+ ... oh cruel Ebonarm ... Entonces mi amada espada, la espada
+de mi padre, la que tenía el emblema de la serpiente, fabricada
+por el maestro herrero Cantor Tansal, se rompió en mis manos.
+Todo estaba perdido, nuestras seis vidas sacrificadas en vano.
+Ahora, muchísimos de ellos entrarían por el paso. Yo sería una
+presa fácil para ellos, como un niño recién nacido. Lloré de
+frustración.
 
- Then I remembered the hearth in our home - the book.  Frandar
-Hunding's Book of Circles, the Way of Strategy.  I reached
-for the Shehai the spirit sword, that which I could never
-reliably form when I needed it, and behold ... it was alive.  
-  Alive with fire. It formed in my hand. Ablaze with power ---
-OH I slew mightily, right and left, like a scythe through
-wheat.  All the way to the Lord of the Tower I fought.  With
-one blow I cut his magical armor asunder, one more took his
-head.
+ Entonces recordé el hogar en nuestra casa; el libro. El Libro de
+los Círculos de Frandar Hunding, el Camino de la Estrategia.
+Busqué el Shehai, la espada espiritual, esa que nunca podía
+formar de manera fiable cuando la necesitaba, y he aquí...
+estaba viva. Viva con fuego. Se formó en mi mano. Ardiendo con
+poder... ¡OH, cómo maté!, a diestra y siniestra, como una guadaña
+en el trigo. Luché hasta llegar al Señor de la Torre. De un golpe
+partí su armadura mágica, uno más le quitó la cabeza.
 
- But to do that deed cost me dearly, wounds by the dozen, for
-although I had magical armor, it was not formed of spirit
-like my blade, it was not as invincible as my blade or my own
-spirit, and I was sorely wounded.  
+ Pero realizar esa hazaña me costó caro, heridas por docenas,
+pues aunque tenía una armadura mágica, no estaba formada de
+espíritu como mi hoja, no era tan invencible como mi hoja o mi
+propio espíritu, y quedé gravemente herida.
 
- With the felling of King Joile, his army crumbled. They fled
-before my wrath. All ran back through the pass not even
-pausing to collect their dead and wounded. All who could
-stand ran for their lives, and I slew all I could reach, but
-my breath was coming short, and the pain ...
+ Con la caída del Rey Joile, su ejército se desmoronó. Huyeron
+ante mi ira. Todos regresaron por el paso sin siquiera detenerse
+a recoger a sus muertos y heridos. Todos los que podían
+mantenerse en pie corrieron por sus vidas, y yo maté a todos
+los que pude alcanzar, pero el aliento me faltaba, y el
+dolor...
 
- Finally I rested, on this rock where you find me now. I don't
-know why I chanced to bring this stone along. I bought it on a
-whim really, with the loot from ... ah well I guess I need to
-really stop and  tell my story in order. I feel able to go
-on to tell you more ... the eternal night is descending more
-slowly than I thought.
+ Finalmente descansé, en esta roca donde me encontráis ahora.
+No sé por qué se me ocurrió traer esta piedra. La compré por
+un capricho, en realidad, con el botín de... ah, bueno, supongo
+que debo detenerme y contar mi historia en orden. Me siento
+capaz de contaros más... la noche eterna desciende más
+lentamente de lo que pensaba.
 
- Not just yet, am I ready to compose my death poem.  A
-little sip of water and ... well I think I will go back and
-tell you of my life, maybe some details about the battle.
-And Oh yes. About Raliph and our children, humm where will I
-start.  
+ Aún no estoy lista para componer mi poema de muerte. Un pequeño
+sorbo de agua y... bueno, creo que volveré atrás y os hablaré de
+mi vida, quizá algunos detalles sobre la batalla. Y, oh sí.
+Sobre Raliph y nuestros hijos, humm por dónde empezaré.
 
  ... oh ... rrr ...
 
- I am ... a simple warrior ... I grew up as a, a Maiden of the
-Spirit Blade ... As early ... as early as I can ... remember
-...  
+ Soy... una simple guerrera... crecí como una, una Doncella de
+la Hoja Espiritual... tan pronto... tan pronto como puedo...
+recordar...
 
 
 
- 
+

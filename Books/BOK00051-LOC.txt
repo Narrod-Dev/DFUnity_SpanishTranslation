@@ -1,308 +1,277 @@
-Title: The Real Barenziah, Part IX
-Author: Anonymous
+Title: La Verdadera Barenziah, Parte IX
+Author: Anónimo
 IsNaughty: False
 Price: 580
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]The Real
+[/center]La Verdadera
 
 [/center]Barenziah
 
-[/center]Part IX
-
-
+[/center]Parte IX
 
 [/font=4]
 
-
-
 [/center]
 
- As Symmachus had predicted, the theft of the Staff of Chaos
-had few short term consequences. The current emperor, Uriel
-Septim, sent some rather stiff messages expressing shock and
-displeasure at the staff's disappearance and urging that
-Symmachus make every effort to locate its whereabouts and
-communicate this to the newly appointed Imperial
-BattleMage, Jagar Tharn, in whose hands the matter had been
-placed.
+Como Symmachus había predicho, el robo del Bastón del Caos tuvo pocas
+consecuencias a corto plazo. El actual emperador, Uriel Septim, envió
+algunos mensajes bastante fríos expresando conmoción y desagrado por la
+desaparición del bastón, instando a que Symmachus hiciera todo lo posible
+por localizar su paradero y comunicárselo al recién nombrado Archimago de
+la Batalla Imperial, Jagar Tharn, en cuyas manos se había puesto el asunto.
 
- "Tharn!" Symmachus snarled in disgust and frustration, as
-he paced about the small chamber where Barenziah, now some
-months pregnant, was sitting serenely, knitting a baby
-blanket. "Jagar Tharn, indeed. I wouldn't give him
-directions for crossing the street."
+"¡Tharn!", gruñó Symmachus con disgusto y frustración, mientras se
+paseaba por la pequeña estancia donde Barenziah, ahora con algunos meses
+de embarazo, estaba sentada serenamente tejiendo una manta para el bebé.
+"Jagar Tharn, nada menos. No le daría ni las indicaciones para cruzar la
+calle".
 
- "What have you against this person, husband?"
+"¿Qué tienes contra esa persona, esposo?".
 
- "I just don't trust that mongrel elf. Part wood elf, part
-dark elf and part only the gods know what. All the worst
-qualities of all his combined races. No one knows much about
-him. Claims he was born in Valenwood, of a wood elf mother.
-Seems to have been everywhere since--"
+"Simplemente no confío en ese elfo mestizo. Parte elfo del bosque, parte
+elfo oscuro y parte solo los dioses saben qué. Todas las peores
+cualidades de todas sus razas combinadas. Nadie sabe mucho sobre él.
+Afirma que nació en Valenwood, de madre elfo del bosque. Parece haber
+estado en todas partes desde...".
 
- Barenziah, sunk in the contentment of pregnancy had only
-been humoring Symmachus thus far, but this piqued her
-interest. "Nightingale? Could he have been this Jagar Tharn,
-disguised?"
+Barenziah, sumida en la satisfacción del embarazo, solo le había estado
+siguiendo la corriente a Symmachus hasta ese momento, pero esto despertó
+su interés. "¿Nightingale? ¿Podría haber sido este Jagar Tharn disfrazado?".
 
- "Nay. Human blood seems to be the one missing component in
-Tharn's  ancestry." To Symmachus, Barenziah knew, that was
-a flaw. Symmachus despised wood elves as lazy thieves and
-high elves as effete intellectuals, but he admired humans,
-especially Bretons, for their combination of pragmatism,
-intelligence and energy.
+"No. La sangre humana parece ser el único componente ausente en la
+ascendencia de Tharn". Para Symmachus, Barenziah lo sabía, eso era un
+defecto. Symmachus despreciaba a los elfos del bosque por ser ladrones
+perezosos y a los altos elfos por ser intelectuales decadentes, pero
+admiraba a los humanos, especialmente a los bretones, por su combinación
+de pragmatismo, inteligencia y energía.
 
- "Nightingale's of Ebonheart, of the House of Mora, I'll be
-bound -- that house has had human blood since her time.
-Ebonheart was jealous that the Staff was laid here when
-Tiber Septim took the Horn from us."
+"Nightingale es de Ebonheart, de la Casa de Mora, estoy seguro; esa casa
+ha tenido sangre humana desde sus tiempos. Ebonheart estaba celosa de que
+el Bastón se depositara aquí cuando Tiber Septim nos quitó el Cuerno".
 
- Barenziah sighed a little. The rivalry between Ebonheart
-and Mournhold reached back almost to the dawn of history.
-Once the two had been one, all the mines within held by Clan
-R'Aathim, whose royal house held the High Kingship of
-Morrowind. Ebonheart had split into two separate city
-states, Ebonheart and Mournhold, when Queen Lian's twin
-sons, Moraelyn's grandsons, had been left as the heirs. At
-the same time the office of High King had been vacated in
-favor of a temporary War Leader to be named by a council in
-times of provincial emergency. Still, Ebonheart remained
-jealous of her prerogatives as the eldest city state of
-Morrowind, still first among equals, and claimed that
-guardianship of the Horn should rightfully be entrusted to
-the elder. Mournhold responded that Moraelyn himself had
-placed the Horn in the keeping of the god Ephen, and Mournhold
-was unarguably the god's birthplace.
+Barenziah suspiró un poco. La rivalidad entre Ebonheart y Mournhold se
+remontaba casi al amanecer de la historia. Alguna vez ambas habían sido
+una sola, con todas las minas en posesión del Clan R'Aathim, cuya casa
+real ostentaba la Alta Realeza de Morrowind. Ebonheart se había dividido
+en dos ciudades-estado separadas, Ebonheart y Mournhold, cuando los hijos
+gemelos de la Reina Lian, nietos de Moraelyn, quedaron como herederos. Al
+mismo tiempo, el cargo de Alto Rey había quedado vacante en favor de un
+Líder de Guerra temporal que sería nombrado por un consejo en tiempos de
+emergencia provincial. Aun así, Ebonheart seguía celosa de sus
+prerrogativas como la ciudad-estado más antigua de Morrowind, todavía la
+primera entre iguales, y afirmaba que la custodia del Cuerno debería ser
+confiada legítimamente a la mayor. Mournhold respondía que el propio
+Moraelyn había puesto el Cuerno bajo la custodia del dios Ephen, y
+Mournhold era indiscutiblemente el lugar de nacimiento del dios.
 
- "Why not tell Jagar Tharn of your suspicions then? Let him
-recover the thing. As long as it's safe, what does it matter
-where it lies?"
+"¿Por qué no le cuentas a Jagar Tharn tus sospechas entonces? Deja que él
+recupere el objeto. Mientras esté a salvo, ¿qué importa dónde esté?".
 
- Symmachus stared at her without comprehension. "It
-matters," he said softly, "but not that much," he added.
-"Certainly not enough for you to concern yourself further
-over it. You just tend to your -- knitting."
+Symmachus la miró sin comprender. "Importa", dijo suavemente, "pero no
+tanto", añadió. "Ciertamente no lo suficiente como para que te preocupes
+más por ello. Tú limítate a tus... tejidos".
 
- In a few more months Barenziah produced a fine son, whom they
-named Helseth. Nothing more was heard of the Staff or
-"Nightingale." If Ebonheart held it, certainly they did not
-boast of it. The years passed swiftly and happily. Helseth
-grew tall and strong. He was much like his father, whom he
-worshipped. When Helseth was eight years old Barenziah bore a
-second child, a daughter, to Symmachus' great delight.
-Helseth was his pride, yet little Morgiah held his heart.
+En unos meses más, Barenziah dio a luz a un hermoso hijo, al que llamaron
+Helseth. No se supo nada más del Bastón o de "Nightingale". Si Ebonheart
+lo poseía, ciertamente no se jactaban de ello. Los años pasaron rápida y
+felizmente. Helseth creció alto y fuerte. Se parecía mucho a su padre, a
+quien adoraba. Cuando Helseth tenía ocho años, Barenziah dio a luz a una
+segunda hija, para gran deleite de Symmachus. Helseth era su orgullo, pero
+la pequeña Morgiah era quien poseía su corazón.
 
- Shortly after Morgiah's birth word came that a plot
-against the Emperor had been unmasked and that the chief
-co-conspirators Jagar Tharn and Ria Silmane were dead.
-Symmachus rejoiced at this news. "I told you so," he crowed.
-Yet thereafter relations with the Empire slowly
-deteriorated, for no apparent reason. Taxes were raised and
-quotas increased with each passing year. Symmachus felt that
-the Emperor suspected him of having had a hand in the plot
-and sought to prove his loyalty by making every effort to
-comply with the increasing demands. He lengthened working
-hours and raised taxes and even made up some of the
-difference from both crown funds and their own private
-holdings. Yet still the demands increased and commoners and
-nobles alike grew restless.
+Poco después del nacimiento de Morgiah, llegó la noticia de que se había
+descubierto un complot contra el Emperador y que los principales
+conspiradores, Jagar Tharn y Ria Silmane, estaban muertos. Symmachus se
+regocijó con la noticia. "Te lo dije", alardeó. Sin embargo, a partir de
+entonces las relaciones con el Imperio se deterioraron lentamente, sin
+razón aparente. Los impuestos subieron y las cuotas aumentaron con cada
+año que pasaba. Symmachus sentía que el Emperador sospechaba que él había
+participado en el complot y buscó demostrar su lealtad esforzándose al
+máximo para cumplir con las crecientes demandas. Alargó las horas de
+trabajo y aumentó los impuestos, e incluso cubrió parte de la diferencia
+con fondos de la corona y sus propios bienes privados. Pero las demandas
+seguían aumentando y tanto los plebeyos como los nobles se inquietaron.
 
- "I want you to take the children and journey yourself to
-Imperial City," Symmachus at last said in desperation.
-"You must make the Emperor listen, else all Mournhold will
-be in revolt come spring. You have a way with men, you
-always did." He forced a smile.
+"Quiero que te lleves a los niños y viajes tú misma a la Ciudad Imperial",
+dijo Symmachus finalmente con desesperación. "Debes hacer que el
+Emperador escuche, de lo contrario todo Mournhold estará en rebelión para
+cuando llegue la primavera. Tienes un don con los hombres, siempre lo has
+tenido". Forzó una sonrisa.
 
- Barenziah forced a smile of her own. "Even you."
+Barenziah forzó una sonrisa propia. "Incluso contigo".
 
- "Yes, even me," he said dully. 
+"Sí, incluso conmigo", dijo él con tono apagado.
 
- "Both children?" Barenziah looked over toward the corner
-windows where Helseth was strumming a lute and singing a duet
-with his little sister. Helseth was fifteen, Morgiah just
-eight. 
+"¿Ambos niños?". Barenziah miró hacia las ventanas de la esquina donde
+Helseth rasgueaba un laúd y cantaba a dúo con su hermana pequeña. Helseth
+tenía quince años, Morgiah solo ocho.
 
- "Perhaps they'll soften his heart. Besides, it's time that
-Helseth was presented at the Imperial Court."
+"Tal vez ellos ablanden su corazón. Además, es hora de que Helseth sea
+presentado en la Corte Imperial".
 
- "Perhaps, but that's not your true reason. You do not think
-you can keep them safe here. If that's the case, then you're
-not safe here either. Come with us," Barenziah urged.
+"Tal vez, pero esa no es tu verdadera razón. No crees que puedas
+mantenerlos a salvo aquí. Si ese es el caso, entonces tú tampoco estás a
+salvo aquí. Ven con nosotros", instó Barenziah.
 
- He took her hands in his. "Barenziah. Love. Heart of my heart,
-if I leave now, there'll be nothing for us to return to.
-I'll be all right. I can take care of myself, and I can do it
-better if I need not fear for you and our children."
+Él tomó las manos de ella entre las suyas. "Barenziah. Amor. Corazón de mi
+corazón, si me voy ahora, no habrá nada a lo que podamos regresar. Estaré
+bien. Puedo cuidar de mí mismo, y podré hacerlo mejor si no tengo que
+temer por ti y por nuestros hijos".
 
- Barenziah laid her head against his chest. "Just remember
-that we need you. We can do without the rest if we have each
-other. Empty hands and empty bellies are easier to bear than
-an empty heart. My foolishness has brought us to this pass."
+Barenziah apoyó la cabeza contra su pecho. "Solo recuerda que te
+necesitamos. Podemos prescindir del resto si nos tenemos el uno al otro.
+Las manos vacías y el vientre vacío son más fáciles de soportar que un
+corazón vacío. Mi insensatez nos ha traído a este punto".
 
- "If so, 'tis not that so a place to be." His eyes rested
-fondly on their carefree children. "And none of us shall go
-without. I cost you everything once, Barenziah, I and Tiber
-Septim. Without my aid the Septim dynasty would never have
-begun. I helped its rise. I can bring about its fall. You
-may tell Uriel Septim that, and that my patience is
-bounded."
+"Si es así, no es un mal lugar donde estar". Sus ojos descansaron con
+cariño en sus despreocupados hijos. "Y ninguno de nosotros pasará
+necesidad. Una vez te costé todo, Barenziah, yo y Tiber Septim. Sin mi
+ayuda, la dinastía Septim nunca habría comenzado. Ayudé a su ascenso.
+Puedo provocar su caída. Puedes decirle eso a Uriel Septim, y que mi
+paciencia tiene un límite".
 
- Barenziah gasped. Symmachus was not given to empty
-threats. She'd no more imagined that he would ever turn
-against the Empire than that the old house wolf lying by the
-hearth would turn on her.
+Barenziah se quedó sin aliento. Symmachus no era dado a las amenazas
+vacías. No se había imaginado que él pudiera volverse contra el Imperio
+más de lo que se imaginaría que el viejo lobo de la casa que dormía junto
+al hogar se volviera contra ella.
 
- "How?" she demanded, but he shook his head. "Better that you
-know not," he said. "Just tell him that, if he prove
-recalcitrant, and do not fear. He's Septim enough that he
-will not kill the messengers."
+"¿Cómo?", exigió saber, pero él sacudió la cabeza. "Mejor que no lo
+sepas", dijo. "Solo dile eso, si se muestra recalcitrante, y no temas. Es
+lo suficientemente Septim como para no matar a los mensajeros".
 
- The late winter journey to Imperial City was an easy one.
-One of the things the Septim Empire had accomplished was the
-building and maintenance of good highways throughout
-Tamriel.
+El viaje a la Ciudad Imperial a finales del invierno fue sencillo. Una
+de las cosas que el Imperio Septim había logrado fue la construcción y el
+mantenimiento de buenas carreteras por todo Tamriel.
+
+Barenziah estaba ante el trono del Emperador, explicando las penurias de
+Mournhold. Había esperado semanas para una audiencia con Uriel Septim,
+siendo rechazada con un pretexto u otro. "Su Excelencia está indispuesto".
+"Un asunto urgente requiere su atención". "Lo siento, Su Alteza, debe de
+haber un error. Su cita es para la semana que viene. No, mire...". Y ahora
+las cosas no iban bien. Ni siquiera parecía estar escuchándola. No la
+había invitado a sentarse, ni había despedido a los niños. Helseth estaba
+quieto como una estatua tallada, pero la pequeña Morgiah había empezado a
+inquietarse.
+
+Primero los había saludado a los tres con una sonrisa de bienvenida
+demasiado brillante que no llegaba a sus ojos. Luego, mientras ella
+presentaba a sus hijos, él los había observado con una atención fija que
+era real, pero inapropiada. Barenziah había estado tratando con humanos
+durante casi quinientos años y había desarrollado una habilidad para leer
+sus expresiones y movimientos que iba mucho más allá de lo que cualquier
+humano podría aprender jamás. Por mucho que el Emperador intentara
+ocultarlo, había un hambre en sus ojos, y algo más. Arrepentimiento. ¿Por
+qué? Él tenía varios hijos hermosos propios. ¿Por qué codiciar los de
+ella? ¿Y por qué mirarla a ella con un intenso, aunque breve, anhelo? Ah,
+bueno, tal vez estaba cansado de su Dama. Los humanos eran de mente
+voluble. Pero después de esa mirada larga y ardiente, su vista se había
+desviado mientras ella empezaba a hablar de su misión, y él se quedó
+quieto como una piedra.
+
+Desconcertada, Barenziah escudriñó el rostro pálido y tenso, buscando
+algún rastro de los Septim que había conocido. No había conocido bien a
+Uriel Septim, habiéndolo visto solo una vez cuando aún era un niño y luego
+en su coronación veinte años antes. Él había sido severo y digno entonces,
+pero no gélidamente distante como este hombre. A pesar del parecido
+físico, no parecía ser el mismo hombre en absoluto. No era el mismo, y
+sin embargo algo en él le resultaba familiar, más familiar de lo que
+debería ser, algún rasgo en la postura o el gesto... De repente sintió un
+gran calor, como si le hubieran vertido lava por encima. ¡Ilusión! Había
+estudiado a fondo las artes de la ilusión desde que Nightingale la había
+engañado tan cruelmente. Había aprendido a detectarla y la sentía ahora,
+tan ciertamente como un ciego siente el sol en su rostro.
+
+Ilusión, ¿pero por qué? Su mente trabajaba furiosamente mientras su boca
+seguía recitando detalles sobre la economía de Mournhold. ¿Vanidad? Los
+humanos a menudo se avergonzaban de los signos de la edad tanto como los
+elfos se sentían orgullosos de ellos. Sin embargo, el rostro que lucía
+Uriel Septim parecía acorde con su edad. Barenziah no se atrevía a usar
+ninguna de sus artes mágicas. Incluso los nobles de poca monta tenían
+medios para detectar, si no para protegerse, de estas en sus salones. El
+uso de la magia aquí provocaría su ira tan seguramente como sacar un
+cuchillo. Magia. Ilusión. De repente pensó en Nightingale y, brevemente, él
+estuvo sentado ante ella, solo que entristecido. Atrapado. Y entonces esa
+visión se desvaneció y otro hombre se sentó allí, parecido a Nightingale
+y sin embargo diferente. Piel pálida, ojos rojos y orejas élficas y a su
+alrededor un resplandor feroz de concentración, un aura de energía, un
+horror que la hacía encogerse. ¡Este hombre era capaz de cualquier cosa! Y
+entonces, una vez más, contempló el rostro de Uriel Septim. ¿Cómo podía
+estar segura de que no estaba imaginando cosas? Tal vez su mente le estaba
+jugando malas pasadas. Sintió un súbito y vasto cansancio, como si hubiera
+estado cargando un peso pesado durante demasiado tiempo y demasiado lejos.
+
+"¿Recuerda, Excelencia, que Symmachus y yo cenamos con su familia poco
+después de la coronación de su padre? Usted no era mayor que la pequeña
+Morgiah aquí presente. Nos sentimos muy honrados de ser los únicos
+invitados esa noche, excepto por su mejor amigo Justin, por supuesto".
+
+"Ah, sí", dijo el Emperador. "Creo que lo recuerdo".
+
+"Usted y Justin eran tan amigos. Me dijeron que murió poco después. Una
+gran lástima".
+
+"En efecto. Todavía no me gusta hablar de él". Sus ojos eran cautelosos.
+"Ah, en cuanto a su petición, milady, la tomaremos bajo consideración y se
+lo haremos saber".
+
+Barenziah hizo una reverencia, al igual que sus hijos. Un gesto los
+despidió, y se retiraron de la presencia. Barenziah respiró hondo.
+"Justin" había sido un amigo imaginario, ¡aunque Uriel había insistido en
+que se pusiera un cubierto para Justin en cada comida! No solo eso,
+"Justin" había sido una niña, a pesar del nombre de niño. Symmachus había
+mantenido la broma familiar mucho después de que "Justin" se hubiera ido a
+donde quiera que vayan tales amigos de la infancia, preguntando
+seriamente por el bienestar de Justin cada vez que él y Uriel Septim se
+encontraban, y recibiendo una respuesta igual de seria. Lo último que
+Barenziah sabía era que "Justin", tras una juventud aventurera, se había
+casado con un alto elfo y se había establecido en Lilandril. ¡El hombre
+que ocupaba la silla del Emperador no era Uriel Septim! ¡Nightingale! Una
+nota de reconocimiento resonó en su interior y Barenziah supo que tenía
+razón. ¡Era él, en efecto! Symmachus se había equivocado, tan equivocado...
+
+¿Y ahora qué?, se preguntó. ¿Qué había sido de Uriel Septim y, lo que era
+más importante, qué significaba eso para ella, para Symmachus y para
+Mournhold? Pensando en retrospectiva, Barenziah supuso que sus problemas
+se debían a este falso emperador, Nightingale, o quienquiera que fuera
+realmente. Debía de haber ocupado el lugar de Uriel Septim poco antes de
+que comenzaran las demandas irrazonables sobre Mournhold. Eso explicaría
+por qué las relaciones se habían deteriorado tanto tiempo después (según el
+tiempo humano) de su ofensa. Nightingale sabía de la famosa lealtad de
+Symmachus hacia los Septim y de su conocimiento sobre ellos, y estaba
+realizando un ataque preventivo. Si ese fuera realmente el caso, todos
+estaban en un peligro terrible. Ella y los niños estaban bajo su mando
+aquí en la Ciudad Imperial y Symmachus se había quedado solo para
+enfrentar los problemas que Nightingale estaba gestando.
+
+¿Qué debía hacer? Barenziah instó a los niños a ir delante de ella, con una
+mano en cada hombro, mientras su sirvienta y sus guardias los seguían.
+Habían llegado al carruaje que los esperaba —aunque su apartamento estaba
+a solo unas manzanas del Palacio, la dignidad real les prohibía caminar, y
+por una vez, Barenziah se alegraba de ello—. Incluso el carruaje parecía
+una especie de santuario ahora, por falsa que ella supiera que era esa
+sensación.
+
+Un muchacho se acercó corriendo a uno de los guardias y le entregó una
+carta, luego señaló hacia el carruaje. El guardia se la trajo. El chico
+esperaba, con los ojos muy abiertos. La carta era breve y elogiosa y
+simplemente preguntaba si el Rey Eadwyre de Wayrest, en High Rock, podría
+recibir una audiencia con ella, ya que había oído mucho sobre ella y le
+complacería conocerla. El primer impulso de Barenziah fue negarse. ¡Solo
+quería irse de esta ciudad! Ciertamente no tenía inclinación por ningún
+devaneo con un humano deslumbrado. Levantó la vista frunciendo el ceño y
+uno de los guardias dijo: "El chico dice que su señor espera su respuesta
+allá". Miró en la dirección indicada y vio a un apuesto hombre mayor a
+caballo, rodeado por media docena de cortesanos y guardias. Él captó su
+mirada y se inclinó respetuosamente, quitándose el sombrero de plumas.
+
+"Muy bien", dijo Barenziah al muchacho, por impulso. "Dile a tu señor que
+puede visitarme esta noche, después de la hora de la cena". El hombre
+parecía educado y serio, y bastante preocupado, pero ni en lo más mínimo
+enamorado.
 
 
-
- *                   *                        *                   *
-
- Barenziah stood before the Emperor's throne, explaining
-Mournhold's straits. She'd waited weeks for an audience with
-Uriel Septim, fobbed off on pretext or another. "His
-Excellency is indisposed." "An urgent matter demands his
-attention." "I am sorry, your Highness, there must be some
-mistake. Your appointment is for next week. No, see..." And
-now it was not going well. He did not even seem to be
-listening to her. He hadn't invited her to sit, nor had he
-dismissed the children. Helseth stood still as a carved
-statue, but little Morgiah had begun to fidget.
-
- He had first greeted the three of them with a too-bright smile
-of welcome that did not reach his eyes. Then, as she presented
-her children, he had gazed at them with a fixed attention
-that was real, yet inappropriate. Barenziah had been
-dealing with humans for nearly five hundred years now and had
-developed skill at reading their expressions and movement
-that was far beyond that any human ever learned. Try as the
-Emperor might to conceal it, there was a hunger in his eyes,
-and something more. Regret. Why? He had several fine children
-of his own. Why covet hers? And why look at her with an
-intense, though, brief yearning? Ah, well, perhaps he was
-tired of his Lady. Humans were fickle minded. But after that
-one long, burning glance, his gaze had shifted away as she
-began to speak of her mission, and he sat still as stone.
-
- Puzzled, Barenziah stared into the pale set face, looking
-for some trace of the Septims she'd known. She hadn't known
-Uriel Septim well, having met him only once when he was
-still a child and then at his coronation twenty years before.
-He'd been stern and dignified then, yet not icily remote as
-this man was. Despite the physical resemblance, he didn't
-seem to be the same man at all. Not the same, yet something
-about him was familiar to her, more familiar than it should
-be, some trick of posture or gesture ... Suddenly she felt
-very warm, as if lava had been poured over her. Illusion!
-She had studied well the arts of illusion since Nightingale
-had fooled her so badly. She had learned to detect it and
-she felt it now, as certainly as a blind man could feel the
-sun on his face.
-
- Illusion, but why? Her mind worked furiously even as her
-mouth went on reciting details about the Mournhold economy.
-Vanity? Humans were oft as ashamed of the signs of age as
-elves were proud of them. Yet the face Uriel Septim wore
-seemed consistent with his age. Barenziah dared use none of
-her magic arts. Even petty nobles had means of detecting, if
-not shielding themselves from these in their halls. The use of
-magic here would bring down his wrath as surely as drawing a
-knife would. Magic. Illusion. Suddenly she thought of
-Nightingale and briefly he sat before her, only saddened.
-Trapped. And then that vision faded and another man sat
-there, like Nightingale and yet unlike. Pale skin, red eyes
-and elven ears and about him a fierce glow of
-concentration, an aura of energy, a shrinking horror. This
-man was capable of anything! And then, once again she beheld
-the face of Uriel Septim. How could she be sure she wasn't
-imagining things? Perhaps her mind was playing tricks on her.
-She felt a sudden vast weariness, as if she'd been carrying a
-heavy burden too long and too far.
-
- "Do you remember, Excellency, Symmachus and I had dinner
-with your family shortly after your father's coronation.
-You were no older than little Morgiah here. We were greatly
-honored to be the only guests that evening, except for your
-best friend Justin, of course."
-
- "Ah, yes," the Emperor said. "I believe I do recall that."
-
- "You and Justin were such friends. I was told he died not
-long after. A great pity."
-
- "Indeed. I still do not like to speak of him." His eyes were
-wary. "Ah, as for your request, my lady, we shall take it
-under advisement and let you know."
-
- Barenziah bowed, as did her children. A nod dismissed them,
-and they backed away from the presence. Barenziah took a deep
-breath. "Justin" had been an imaginary friend, although
-Uriel had insisted that a place be set for Justin at every
-meal! Not only that, "Justin" had been a girl, despite the
-boy name. Symmachus had kept up the family joke long after
-"Justin" had gone wherever such childhood friends go,
-inquiring seriously after Justin's well-being whenever he and
-Uriel Septim met, and being responded to as seriously. The last Barenziah had heard "Justin", after
-an adventurous youth, had married a high elf and settled in
-Lilandril. The man occupying the Emperor's chair was not
-Uriel Septim! Nightingale! A chord of recognition rang
-through her and Barenziah knew that she was right. It was he,
-indeed! Symmachus had been wrong, so wrong ...
-
- What now, she wondered. What had become of Uriel Septim,
-and, more to the point, what did it mean for her and
-Symmachus and Mournhold? Thinking back, Barenziah guessed
-that their troubles were due to this false emperor,
-Nightingale, or whoever he really was. He must have taken
-Uriel Septim's place shortly before the unreasonable
-demands on Mournhold had begun. That would explain why
-relations had deteriorated so long (as humans judged time)
-after her offense. Nightingale knew of Symmachus' famed
-loyalty to, and knowledge of, the Septims and was making a
-pre-emptive strike. If that were indeed the case they were
-all in terrible danger. She and the children were under his
-hand here in Imperial City and Symmachus left alone to face
-the troubles of Nightingale's brewing. 
-
- What must she do? Barenziah urged the children ahead of her, a
-hand on each shoulder, her womanservant and guards
-trailing behind. They had reached their waiting carriage --
-even though their apartment was only a few blocks from the
-Palace, royal dignity forbade their walking, and for once,
-Barenziah was glad of that. Even the carriage seemed a kind of
-sanctuary now, false as she knew that feeling to be.
-
- A boy dashed up to one of the guards and handed him a letter,
-then pointed towards the carriage. The guard brought it to
-her. The boy waited, eyes wide. The letter was brief and
-complimentary and simply asked if King Eadwyre of Wayrest,
-High Rock, might be granted an audience with her, as he had
-heard much of her, and would be pleased to make her
-acquaintance. Barenziah's first impulse was to refuse. She
-wanted only to leave this city! Certainly she had no
-inclination for any dalliances with a dazzled human. She
-looked up frowning and one of the guard said, "The boy says
-his master awaits your reply yonder." She looked in the
-direction indicated and saw a handsome elderly man on
-horseback, surrounded by a half-dozen courtiers and guards.
-He caught her eye and bowed respectfully, removing his
-plumed hat.
-
- "Very well," Barenziah said to the boy, on impulse. "Tell
-your master he may call on me tonight, after the dinner
-hour." The man looked polite and grave, and rather worried,
-but not in the least lovesick.  

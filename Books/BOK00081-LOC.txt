@@ -1,67 +1,62 @@
-Title: The Arrowshot Woman
-Author: Anonymous
+Title: La mujer del flechazo
+Author: Anónimo
 IsNaughty: False
 Price: 580
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]The
+[/center]La
 
-[/center]Arrowshot
+[/center]Mujer del
 
-[/center]Woman
-
-
+[/center]Flechazo
 
 [/font=4]
 
+[/center]     Escuché esta historia de buena fuente a través de un buen
+y honesto amigo, cuyo amigo fue testigo del incidente. Realmente
+creo que sucedió, por muy fantástico que pueda parecer.
 
+El amigo de mi amigo, Terron, estaba visitando la ciudad-estado
+de Riverhold, en Elsweyr, durante un verano muy caluroso y fue al
+mercado de allí. Si nunca has estado en Riverhold, el mercado está
+muy concurrido, mucho más que en ciudades-estado de tamaño
+comparable. La gente del campo acude diariamente al mercado en
+sus carromatos y carruajes.
 
-[/center]     I heard this story on good authority from a good and
-honest friend, whose friend was witness to the incident. I do
-truly believe it happened, as fantastical as it may seem.
+Terron pasaba junto a uno de esos carruajes y notó que la
+única ocupante era una mujer, sentada con los ojos cerrados y las
+manos detrás de la cabeza. Una visión extraña, sin duda, pero
+asumió que debía estar durmiendo. Terron continuó su camino.
 
-     My friend's friend, Terron, was visiting the Elsweyr
-citystate of Riverhold during a very hot summer and went to
-the marketplace there. If you have never been to Riverhold,
-the marketplace is very crowded, much more than in
-comparably sized city states. People from the countryside
-flock to the marketplace daily in their wagons and carriages.
+Un poco más tarde, después de que Terron terminara de comprar
+en el mercado, pasó por el mismo carruaje. La misma mujer estaba
+sentada en él. Ahora tenía los ojos abiertos, pero sus manos seguían
+detrás de su cabeza.
 
-     Terron was passing one such carriage, and noticed that
-the sole occupant was a woman, seated with her eyes closed and her hands behind her head. An odd sight, to be
-sure, but he assumed she must be sleeping. Terron continued
-on.
+"—¿Se encuentra bien, mi señora? —preguntó él.
 
-     A little while later, after Terron had finished shopping
-in the marketplace, he passed the same carriage. The same
-woman was sitting in it. Her eyes were open now, but her hands
-were still behind her head.
+"—Una flecha me ha dado en la cabeza y estoy sosteniendo mis
+sesos —fue la respuesta de la mujer.
 
-     "Are you all right, my lady?" he asked.
+Terron no sabía qué hacer. Corrió hacia el mercado y
+literalmente chocó con un sanador y su caballero acompañante.
+Eran buena gente y aceptaron ayudar.
 
-     "An arrow shot me in my head and I'm holding my brains
-in," came the woman's reply.
+Hubo que arrancar la puerta del carruaje de sus goznes, ya que
+la dama la había cerrado con llave y temía moverse para abrirla. Lo
+que encontraron cuando finalmente pudieron entrar en el carruaje fue
+esto: la mujer estaba sosteniendo masa de cebada contra la parte
+posterior de su cabeza con las manos.
 
-     Terron did not know what to do. He ran into the
-marketplace and literally bumped into a healer and his
-knight companion. They were good people and agreed to
-help.
+Aparentemente, con el calor del día, un tarro de masa de cebada
+había explotado con el estallido de un flechazo y golpeado a la mujer
+en la nuca. Cuando ella alargó la mano hacia atrás para sentir qué
+la había golpeado, tocó la masa y razonó que lo que estaba tocando
+eran sus propios sesos.
 
-     The carriage door had to be torn off its hinges, as the
-lady had locked it and feared to move to unlock it. What they
-found when they finally could get into the carriage was this:
-the woman was holding barley dough on the back of her head
-with her hands.
-
-     Apparently, in the heat of the day, a jar of barley dough
-had exploded with the thwang of an arrowshot and struck the
-woman in the back of her head. When she reached back to feel
-what had hit her, she felt the dough and reasoned that she was
-feeling her brains.
-
+ 
  

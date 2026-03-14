@@ -1,450 +1,341 @@
-Title: King Edward, Part XI
-Author: Anonymous
+Title: El Rey Edward, Parte XI
+Author: Anónimo
 IsNaughty: False
 Price: 300
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]King Edward, Part XI
-
-
+[/center]El Rey Edward, Parte XI
 
 [/font=4]
 
 [/center]
 
-[/center] The Companions stayed the night at a crude but comfortable
-inn at a tiny village that called itself Raven Spring,
-located in the foothills of the Wrothgarian Mountains. The
-next morning they resumed their journey eastward, moving
-through rolling hills towards the Skyrim and Hammerfell
-borders, and camping the next two nights under clear early
-summer skies. When they resumed traveling the third morning,
-Moraelyn told everyone to watch the slopes north of the
-road for a notch opening to a high meadow that faced to the
-southwest. Shortly afterward everyone spotted it almost
-simultaneously when the group completed a bend around a
-rocky outcrop.
+[/center] Los Compañeros pasaron la noche en una ruda pero cómoda
+posada en una pequeña aldea que se hacía llamar Raven Spring,
+situada en las faldas de las Montañas de Wrothgaria. A la
+mañana siguiente reanudaron su viaje hacia el este, moviéndose
+a través de colinas onduladas hacia las fronteras de Skyrim
+y Martillo Oscuro, acampando las siguientes dos noches bajo despejados cielos de principios
+de verano. Cuando reanudaron el viaje la tercera mañana,
+Moraelyn dijo a todos que vigilaran las laderas al norte del
+camino en busca de una muesca que se abría a una pradera alta orientada al
+suroeste. Poco después, todos la divisaron casi
+simultáneamente cuando el grupo completó una curva alrededor de un
+afloramiento rocoso.
 
- Silk and Beech went ahead to scout a good route, and to look
-for a campsite for the evening ahead. By dusk they had covered
-most of the distance to the meadow, but still faced some
-stiff climbing the next morning. They agreed that it was time to camp
-once again, but happily a lunchtime picnic seemed very
-likely the next day.
+Silk y Beech se adelantaron para explorar una buena ruta y buscar
+un lugar para acampar la noche siguiente. Al anochecer habían cubierto
+la mayor parte de la distancia hasta la pradera, pero aún les quedaba algo de
+escalada dura a la mañana siguiente. Acordaron que era hora de acampar
+una vez más, pero felizmente un picnic a la hora del almuerzo parecía muy
+probable al día siguiente.
 
- By mid-day the next day, which was Loredas the 5th of Mid
-Year, the Companions were sprawled across a grassy slope
-within the Dragon Village, having been joined by Akatosh and
-one other dragon. This second dragon was smaller than
-Akatosh, and seemed to be a female, although
-characteristically Akatosh had just introduced the dragon
-as Debudjen, with no further explanations being
-forthcoming. The two dragons politely chatted with the
-humanoids as they enjoyed their repast, though Debudjen flew
-off afterwards, to arc gracefully above, and then swoop
-down upon a steer in a grassy field some distance away.
+Hacia el mediodía del día siguiente, que era Loredas 5 de
+Mitad de Año, los Compañeros estaban desparramados por una ladera herbosa
+dentro de la Aldea del Dragón, habiéndoseles unido Akatosh y
+un dragón más. Este segundo dragón era más pequeño que
+Akatosh, y parecía ser una hembra, aunque
+característicamente Akatosh se había limitado a presentar al dragón
+como Debudjen, sin que se ofrecieran más
+explicaciones. Los dos dragones charlaron cortésmente con los
+humanoides mientras disfrutaban de su comida, aunque Debudjen se alejó
+volando después, para trazar un arco elegante arriba, y luego lanzarse
+sobre un novillo en un campo de hierba a cierta distancia.
 
- Akatosh had been watching Edward's reaction to this, and
-asked: "Why did you flinch, Edward? Debudjen had not eaten
-recently, and really behaved no differently than you just have."
+Akatosh había estado observando la reacción de Edward a esto, y
+preguntó: "¿Por qué te has estremecido, Edward? Debudjen no había comido
+recientemente, y realmente no se ha comportado de forma distinta a como tú acabas de hacerlo".
 
- Edward replied with a small smile, "I don't think that our
-meal was quite that violent in nature."
+Edward respondió con una pequeña sonrisa: "No creo que nuestra
+comida fuera tan violenta en su naturaleza".
 
- Akatosh returned the smile, but then responded. "A good
-reminder then, that we are only similar, rather than the same."
+Akatosh le devolvió la sonrisa, pero luego respondió. "Un buen
+recordatorio entonces, de que solo somos similares, en lugar de lo mismo".
 
- Edward paused, squinting into the mid-afternoon sun, and
-then turned to the golden dragon: "Akatosh - why did you
-choose this spot for your village?"
+Edward hizo una pausa, entrecerrando los ojos bajo el sol de media tarde, y
+luego se volvió hacia el dragón dorado: "Akatosh, ¿por qué
+elegiste este lugar para tu aldea?".
 
- "Well, it was high enough up into the mountains to suit us,
-but flat enough for raising the cattle ... with trees for the deer ...  and it is very defensible for all of us. There is
-plenty of room for the humans to build their ranches and
-farms, and the elves are quite comfortable in the dense trees
-along the cliff edges. The adits in the surrounding cliff
-faces provide us the access to our lairs, which we have
-located within the mining tunnel system. All in all, an
-ideal site for such an experiment involving this many races
-of beings. It even opens to the southwest, providing
-reasonable warmth for the smaller beings, with some
-protection from the elements during the colder months."
+"Bueno, estaba lo suficientemente alto en las montañas para satisfacernos,
+pero era lo suficientemente llano para criar el ganado... con árboles para los ciervos... y es muy defendible para todos nosotros. Hay
+espacio de sobra para que los humanos construyan sus ranchos y
+granjas, y los elfos están muy cómodos en los densos árboles
+a lo largo de los bordes del acantilado. Los socavones en las paredes del acantilado
+circundante nos proporcionan el acceso a nuestras guaridas, que hemos
+ubicado dentro del sistema de túneles mineros. En conjunto, un
+sitio ideal para un experimento que involucra a tantas razas
+de seres. Incluso se abre hacia el suroeste, proporcionando
+un calor razonable para los seres más pequeños, con algo de
+protección contra los elementos durante los meses más fríos".
 
- Edward responded, "It is difficult for me to get used to the
-notion of a village without some central concentration of
-buildings - but perhaps these will be developed in the
-future; at least, a few buildings for meetings and
-socializing. And, I suppose that there are also some
-beautiful sunsets to be seen."
+Edward respondió: "Se me hace difícil acostumbrarme a la
+noción de una aldea sin una concentración central de
+edificios, pero quizás estos se desarrollen en el
+futuro; al menos, algunos edificios para reuniones y
+socialización. Y supongo que también hay algunos
+atardeceres hermosos para ver".
 
- The dragon smiled again, but replied "Quite so, but I am the
-only one of the dragonkind to show any interest, and that was
-not a legitimate consideration when we chose this site." Then
-wistfully: "I wish that I could assemble the words to
-describe some of them. I have attempted this many, many
-times, but the results just are not ...very admirable."
-More briskly: "And by the way, we do intend to erect a
-meeting hall for the humanoids, and also some stores for
-barter and other exchanges of goods."
+El dragón volvió a sonreír, pero respondió: "Exactamente, pero soy el
+único de los dragones que muestra interés, y esa no fue
+una consideración legítima cuando elegimos este sitio". Luego
+con nostalgia: "Ojalá pudiera reunir las palabras para
+describir algunos de ellos. He intentado esto muchas, muchas
+veces, pero los resultados simplemente no son... muy admirables".
+Más bruscamente: "Y, por cierto, tenemos la intención de erigir un
+salón de reuniones para los humanoides, y también algunas tiendas para
+el trueque y otros intercambios de mercancías".
 
- Moraelyn had wandered over and seated himself, and he asked,
-with a notable absence of the usual humanoid respect for
-dragons, "Whatever possessed you to attempt such a crazy
-experiment, Akatosh?"
+Moraelyn se había acercado y se había sentado, y preguntó,
+con una notable ausencia del respeto humanoide habitual hacia los
+dragones: "¿Qué te poseyó para intentar un experimento tan loco,
+Akatosh?".
 
- The dragon paused thoughtfully, and then replied "As is my
-wont I had been analyzing, in this case one might say the history of dragon behavior. Clearly our lengthy contest of
-resistance to these new Aurielian gods was futile, but it
-took many of our generations for us to realize and accept
-this. Then, our next pattern was to isolate ourselves, even
-from each other, and to resist intrusion from any and all
-beings. The exception of course was to mate among ourselves
-and procreate our race. However, aside from that one
-activity, we fought any and all for our precious privacy,
-and really for no good reason except that we can be an
-especially stubborn race."
+El dragón hizo una pausa pensativa y luego respondió: "Como es mi
+costumbre, había estado analizando, en este caso se podría decir, la historia del comportamiento de los dragones. Claramente, nuestra larga contienda de
+resistencia a estos nuevos dioses aurielianos fue fútil, pero
+a nuestra raza le costó muchas generaciones darse cuenta y aceptar
+esto. Luego, nuestro siguiente patrón fue aislarnos, incluso
+los unos de los otros, y resistir la intrusión de cualquier y todo
+ser. La excepción, por supuesto, era aparearnos entre nosotros
+y procrear nuestra raza. Sin embargo, aparte de esa única
+actividad, luchamos contra todos por nuestra preciosa privacidad,
+y realmente por ninguna buena razón excepto que podemos ser una
+raza especialmente testaruda".
 
- Edward said, "Then you maintained a pattern of behavior
-long after the reason for it was gone?"
+Edward dijo: "¿Entonces mantuvisteis un patrón de comportamiento
+mucho tiempo después de que la razón para ello hubiera desaparecido?".
 
- Akatosh looked a bit embarrassed. He said stiffly, "I believe
-that is what I I just said. We are not the only sentient race
-to fall prey to that."
+Akatosh pareció un poco avergonzado. Dijo rígidamente: "Creo
+que eso es lo que acabo de decir. No somos la única raza sentiente
+que cae presa de eso".
 
- Edward said, "The Archmagister has told me that much
-behavior is inborn." 
+Edward dijo: "El Archimago me ha dicho que gran parte del
+comportamiento es innato".
 
- Moraelyn smiled at him, "And inborn behavior patterns are a
-particular problem for long-lived species who change
-slowly as conditions change. We elves suffer from it even
-more than you short-lived humans, which is why we like to keep
-things as they are, though life is change and to resist it
-utterly is death. Dragons live far, far longer than even
-elves, and, in consequence, breed even more slowly. Still,
-who can say what alterations being born into a social
-setting may produce, for good or ill, in dragon behavior."
+Moraelyn le sonrió: "Y los patrones de comportamiento innatos son un
+problema particular para las especies longevas que cambian
+lentamente a medida que cambian las condiciones. Nosotros los elfos sufrimos de ello incluso
+más que vosotros los humanos de vida corta, por lo que nos gusta mantener
+las cosas como están, aunque la vida es cambio y resistirse a ella
+totalmente es la muerte. Los dragones viven mucho, mucho más que incluso
+los elfos, y, en consecuencia, se reproducen aún más lentamente. Aun así,
+quién sabe qué alteraciones puede producir en el comportamiento de los dragones el hecho de nacer en un
+entorno social, para bien o para mal".
 
- Aliera had by this time joined the conversation, and
-observed: "The Daedra must have been long pleased with
-dragon behavior."
+Aliera se había unido para entonces a la conversación, y
+observó: "Los Daedra deben haber estado complacidos durante mucho tiempo con
+el comportamiento de los dragones".
 
- Akatosh responded, "Perhaps so, but I approached our ...
-queen with this suggestion moreso because it seemed clear to
-me that as a race we had fallen into a stasis, and we needed
-to break this shell in order to invigorate ourselves. She
-didn't quite agree with me, but, perhaps because of my
-reputation, she told me to go ahead and make this attempt."
+Akatosh respondió: "Quizás sí, pero me acerqué a nuestra...
+reina con esta sugerencia más bien porque me parecía claro que
+como raza habíamos caído en un éxtasis, y necesitábamos
+romper este cascarón para vigorizarnos. Ella
+no estaba del todo de acuerdo conmigo, pero, tal vez debido a mi
+reputación, me dijo que siguiera adelante e hiciera este intento".
 
- By this point, all of the Companions were sitting within
-hearing range, and Mats asked: "Did you have to get your
-queen's permission? And have there been many difficulties
-among the various races?"
+En este punto, todos los Compañeros estaban sentados a una distancia
+desde la que se oía, y Mats preguntó: "¿Tuviste que obtener el
+permiso de tu reina? ¿Y ha habido muchas dificultades
+entre las diversas razas?".
 
- "Permission is not quite accurate in this case, Mats; being
-the beings that we are, it was moreso that I was obliged to
-tell her of this so that she would have the information. For
-example, other dragons regularly come to me with
-potential military intelligence, following this same
-philosophy of preparedness."
+"Permiso no es lo más exacto en este caso, Mats; siendo
+los seres que somos, se trataba más bien de que estaba obligado a
+informarle de esto para que tuviera la información. Por
+ejemplo, otros dragones vienen regularmente a mí con
+posible inteligencia militar, siguiendo esta misma
+filosofía de preparación".
 
- Mats grinned and said, "You mean 'just in case', right? But
-what about these elves and humans?"
+Mats sonrió y dijo: "Quieres decir 'por si acaso', ¿verdad? Pero
+¿qué hay de estos elfos y humanos?".
 
- "Ah, our humanoid Lord and Lady do set a most remarkable
-example of tolerance and respect for differing shapes and
-customs. I owe a debt of gratitude to Moraelyn for the loan
-of his smiths and miners, who have been most generous in
-sharing their knowledge and skills with the Bretons that my young friend Edward and I have, ah, persuaded to attempt settlement here. It is my experience that
-Bretons, well, many Bretons, will do virtually anything
-so long as it is profitable and they gain skill and
-knowledge from it. The Nordic lust for individual honor and glory makes the mithril armor and weapons produced here extremely
-profitable -- t'was sheer genius that inspired Aliera to
-insist that we sell only to the nobility -- while the delving
-opens new tunnels and provides access to -- that which we dragons require." Akatosh smiled a
-little slyly. He was very reticent on the subject of exactly what dragons required. "Beech
-and Willow have made it known among their people that wood
-elves are welcome here, so those who have long missed their
-ancient High Rock homes have returned to these hills."
+"Ah, nuestro Señor y nuestra Dama humanoides dan un ejemplo muy notable
+de tolerancia y respeto por las diferentes formas y
+costumbres. Tengo una deuda de gratitud con Moraelyn por el préstamo
+de sus herreros y mineros, que han sido muy generosos al
+compartir sus conocimientos y habilidades con los bretones que mi joven amigo Edward y yo hemos, ejem, persuadido para que intenten establecerse aquí. Es mi experiencia que
+los bretones, bueno, muchos bretones, harán prácticamente cualquier cosa
+siempre que sea rentable y ganen habilidad y
+conocimiento con ello. El ansia nórdica de honor y gloria individual hace que las armaduras y armas de mithril producidas aquí sean extremadamente
+rentables -- fue pura genialidad lo que inspiró a Aliera a
+insistir en que vendiéramos solo a la nobleza -- mientras que la excavación
+abre nuevos túneles y proporciona acceso a... aquello que los dragones requerimos". Akatosh sonrió
+un poco con picardía. Era muy reservado sobre el tema de qué requerían exactamente los dragones. "Beech
+y Willow han hecho saber entre su gente que los elfos del bosque
+son bienvenidos aquí, por lo que aquellos que han añorado durante mucho tiempo sus antiguos hogares en Roca Alta han regresado a estas colinas".
 
- "Fortunate for me that I'm now a Duke, and thus qualified to wear and carry
-mithril. If only I could afford more than a piece or two!
-But for the cost I might retire --" Mats said.
+"Afortunado yo que ahora soy un Duque, y por tanto estoy calificado para vestir y portar
+mithril. ¡Si tan solo pudiera costearme más de una pieza o dos!
+De no ser por el precio, podría retirarme --" dijo Mats.
 
- "If you retired you would not require the mithril,"
-Moraelyn pointed out.
+"Si te retiraras, no necesitarías el mithril",
+señaló Moraelyn.
 
- "And what of my son and daughter? Thinkst thou I will beg
-from thee for them?" Mats said indignantly. "My knees and
-wind may not be what once they were, I grant you. I'fact I'm
-somewhat tempted to remain up here, now I am here, yet I can
-still swing my axe with any!"
+"¿Y qué hay de mi hijo y mi hija? ¿Acaso crees que te mendigaré
+para ellos?", dijo Mats indignado. "Mis rodillas y mi
+aliento pueden no ser lo que fueron, te lo concedo. ¡De hecho estoy
+algo tentado de quedarme aquí arriba, ahora que estoy aquí, y sin embargo todavía puedo
+blandir mi hacha como cualquiera!".
 
- Mith grinned delightedly, "Nords can't count. It's why they
-seek honor and glory, not profit. Honor and glory are not
-amenable to enumeration much past what one can tally on the
-fingers. Mats, if thou art but thirty-nine, thou wert the largest ten year old humanoid I e
-ver met or hope to meet!"
+Mith sonrió encantado: "Los Nórdicos no saben contar. Por eso
+buscan honor y gloria, no beneficio. El honor y la gloria no
+son aptos para la enumeración mucho más allá de lo que uno puede contar con los
+dedos. ¡Mats, si solo tienes treinta y nueve años, eras el humanoide de diez años más grande que
+jamás conocí o espero conocer!".
 
- "But what then are these benefits to those who neither delve
-nor smith?" Mats persisted, ignoring his old friend. "I
-would think that many would be terrified to live so close to
-such ... formidable beings" Mats spoke the last of this with
-a sly grin.
+"¿Pero cuáles son entonces estos beneficios para aquellos que ni excavan
+ni forjan?", persistió Mats, ignorando a su viejo amigo. "Pensaría
+que muchos estarían aterrorizados de vivir tan cerca de
+seres tan... formidables". Mats dijo esto último con
+una sonrisa pícara.
 
- "Well, on the other hand, the presence of the 'formidable
-beings' means that they are certainly well-protected. And
-this area is surprisingly fertile, so the crops seem to be
-growing well ... and although they provide the meat for us,
-we allocate one fifth of each herd to them for their own
-consumption. We've also been finding out what I have long suspected - the three sets of races, when
-combined, fight much more effectively than the sum of each
-when considered in isolation - that is, each race covers or
-cancels weaknesses of the others. At least it is certainly
-true that the local goblin population has been drastically reduced in a very short
-period of time."
+"Bueno, por otro lado, la presencia de los 'seres formidables'
+significa que ciertamente están bien protegidos. Y
+esta zona es sorprendentemente fértil, por lo que las cosechas parecen estar
+creciendo bien... y aunque ellos nos proporcionan la carne,
+nosotros les asignamos una quinta parte de cada manada para su propio
+consumo. También hemos ido descubriendo lo que yo sospechaba hace tiempo: los tres grupos de razas, cuando
+se combinan, luchan mucho más eficazmente que la suma de cada una
+considerada por separado; es decir, cada raza cubre o
+anula las debilidades de las otras. Al menos es ciertamente
+cierto que la población local de goblins se ha reducido drásticamente en un periodo de tiempo muy corto".
 
- "Aye," Edward responded, "so Moraelyn proved in
-er met or hope to meet!"
+"Sí", respondió Edward, "así lo demostró Moraelyn en
+Morrowind".
 
- "But what then are these benefits to those who neither delve
-nor smith?" Mats persisted, ignoring his old friend. "I
-would think that many would be terrified to live so close to
-such ... formidable beings" Mats spoke the last of this with
-a sly grin.
+"Con un poco de ayuda de sus amigos", reconoció
+Moraelyn. "Yo me llevo los elogios, pero en verdad soy poco
+más que el estandarte que agitan -- ¡y a veces me siento más
+como la diana que han colocado!".
 
- "Well, on the other hand, the presence of the 'formidable
-beings' means that they are certainly well-protected. And
-this area is surprisingly fertile, so the crops seem to be
-growing well ... and although they provide the meat for us,
-we allocate one fifth of each herd to them for their own
-consumption. We've also been finding out what I have long suspected - the three sets of races, when
-combined, fight much more effectively than the sum of each
-when considered in isolation - that is, each race covers or
-cancels weaknesses of the others. At least it is certainly
-true that the local goblin population has been drastically reduced in a very short
-period of time."
+Una oleada de risas recibió este comentario. Edward persistió: "Con
+usted y los demás aquí arriba, Akatosh, siento que mis fronteras están
+bien custodiadas, por si Skyrim alguna vez siente la urgencia de mover sus fronteras
+al oeste de nuevo".
 
- "Aye," Edward responded, "so Moraelyn proved in
-Morrowind."
+Aliera preguntó: "¿Fue fácil convencer a los otros dragones para que se mudaran aquí?".
 
- "With a bit of help from his friends," Moraelyn
-acknowledged. "I reap the praise, but i'truth I'm little
-more than the standard they wave -- and at times I feel more
-like the target they set up!"
+"En realidad, la parte más difícil fue trasladar nuestros
+tesoros a nuestras nuevas guaridas", respondió Akatosh con una sonrisa
+perezosa, "aunque una vez que se supo que no teníamos uso para los
+metales, gemas y joyas que acumulamos, todo fue mucho más fluido". Pero luego, más seriamente:
+"Esencialmente, tuve que acercarme a cada dragón personalmente,
+y... convencerlos de que esta idea tenía mérito. De nuevo, una vez que
+hube persuadido a un par de nuestros especímenes especialmente independientes,
+las cosas fueron mucho más fluidas. Sin embargo, hay
+solo nueve de nosotros viviendo en esta área... y realmente
+solo hay espacio para dos o tres más de nosotros. Habrá que ver qué se desarrolla de aquí en adelante".
 
- A wave of laughter greeted this remark. Edward persisted, "With
-you and the others up here, Akatosh, I feel my borders are
-well guarded, should Skyrim ever feel the urge to move its borders
-west again."
+Aliera observó entonces: "Creo que ahora los dioses y diosas podrían mirar de forma muy favorable el
+comportamiento de los dragones".
 
- Aliera asked: "Was it easy to convince the other dragons to move to here?"
+"Puede que sea así, Aliera, pero de nuevo, esa no fue realmente la razón
+por la que se hizo esto. Además, todavía pueden recordar y resentir
+nuestra larga oposición a ellos".
 
- "Actually, the most difficult part of that was moving our
-hoards to our new lairs" Akatosh responded with a lazy
-smile, "although once it was known that we had no use for the
-metals, gems and jewelry that we accumulate, everything went much more smoothly." But then more seriously:
-"Essentially I had to approach each dragon personally,
-and ... convince them that this idea had merit. Again, once I
-had persuaded a couple of our especially independent
-specimens, things went much more smoothly. However, there are
-only nine of us living in this area ... and there is really
-only room for two or three more of us. We shall have to see what develops hereafter."
+Beech preguntó respetuosamente: "¿Pero cuál es el nombre de esta aldea?".
 
- Aliera now observed: "I think that now the gods and goddesses might look very favorably indeed on dragon
-behavior."
+Akatosh suspiró y luego respondió: "Me temo que nunca
+llegaremos a una decisión, ya que cada raza tiene opiniones decididas
+a ese respecto. Quizás una vez que se complete la fase inicial de construcción,
+seremos capaces de ser más contemplativos sobre
+tales asuntos".
 
- "That may be so, Aliera, but again that was not really why
-this was done. Besides, they still may remember and resent
-our long opposition to them."
+Beech respondió: "Eso no parece estar bien; cada lugar
+debería tener un nombre, ¿no es así?".
 
- Beech asked deferentially "But what is the name of this village?"
+Willow se rió entre dientes y luego dijo: "Quizás para nosotros sea así, pero quién sabe cómo
+piensan los dragones; y estoy seguro de que los humanos y los elfos se pelearán por el estilo del nombre, además de
+los detalles del mismo".
 
- Akatosh sighed, and then responded "I fear that we shall
-never reach a decision, since each race has decided opinions
-in that regard. Perhaps once the initial building phase is
-completed, we will able to be more contemplative about
-such matters."
+Moraelyn interrumpió con gran drama: "¿¡Seguramente no pretendes insinuar que un elfo puede ser excesivamente
+testarudo!?"; y la discusión se disolvió en un periodo de
+risas y bromas entre el grupo.
 
- Beech replied "That just doesn't seem right - everywhere
-should have a name, shouldn't it?"
+Al poco rato, Akatosh dijo: "Yo prefiero el nombre 'Sección 22'".
 
- Willow chuckled and then said "Perhaps to us this is so, but who knows how dragons
-think; and I'm sure that the humans and elves will squabble over the style of the name, besides the
-specifics of it."
+Beech se le quedó mirando: "Akatosh, veo lo que quieres decir sobre
+tus dificultades con lo poético. ¿Me permites mi franca
+opinión? Ese es el peor nombre de aldea que jamás he
+oído".
 
- Moraelyn interrupted with great drama, "Surely you don't mean to imply that an elf can be overly
-stubborn!?" and the discussion dissolved into a period of
-laughter and teasing amongst the group.
+Akatosh suspiró con fuerza, y luego se disculpó rápidamente con
+Beech (los humanoides encontraban los suspiros de los dragones muy desagradables y a veces realmente
+peligrosos). "Entonces ves a qué me refiero con las diferencias. Para
+mí, es muy significativo y muy apropiado. ¿Es
+'Sección 16' mejor como nombre? ¿No? ¿Entonces es la palabra
+'Sección' la que te ofende? ¿En qué sentido es inferior a
+'Torre' o 'Reich' o 'Valle' o 'Bastión'?".
 
- Presently, Akatosh said, "I favor the name 'Section 22.'"
+Edward dijo: "Pero Akatosh, un nombre debería tener algún sentido. Al
+menos los humanos así lo creen. Deberías tener otras 21 secciones
+primero, si vas a llamar a este lugar '22'".
 
- Beech stared at him, "Akatosh, I see what thou dost mean about
-thy difficulties with the poetic. If you will allow my frank
-opinion? That is the single worst village name I have ever
-heard."
+"¿De veras?", dijo Akatosh, "¿Por qué es eso? ¿Acaso no son todos los números
+igualmente válidos? Sirven bien para distinguir un lugar
+de otro. Podría haber muchos 'Valles Verdes', por
+ejemplo. Yo mismo conozco cuatro aldeas así. El número
+'Veintidós' me atrae... estéticamente, además
+de poseer cierto 'sentido', al menos para mí", sonrió
+secretamente.
 
- Akatosh sighed gustily, then pardoned himself hastily to
-Beech -- humanoids found dragon sighs quite unpleasant and sometimes actually
-hazardous. "Then thou seest what I mean by differences. To
-me, it is very meaningful, and most appropriate. Is
-'Section 16' any better as a name? Not? Then is it the word
-'Section' that offends you? In what way is it inferior to
-'Keep' or 'Reich' or 'Glen' or 'Hold'?"
+Moraelyn dijo: "Creo que Lord Akatosh está disfrutando de lo que algunos
+llaman una 'broma interna'. Si fuera tan temerario como para dar lecciones de modales a un dragón...".
 
- Edward said, "But Akatosh, a name should make some sense. At
-least humans think so. You should have 21 other sections
-first, if you're going to name this place '22'."
+"¿Quién", dijo Silk, "podría jamás acusar a Moraelyn de ser
+temerario?".
 
- "Really?" Akatosh said, "Why is that? Are not all numbers
-equally valid? They serve well to distinguish one place
-from another. There could be many 'Greenvales' for
-instance. I myself know of four such villages. The number
-'Twenty-two' does appeal to me....aesthetically, as well
-as possessing some 'sense' -- at least to me," he smiled
-secretively.
+Un poco más tarde, Edward le preguntó a Akatosh: "¿Crees que podríamos
+jugar una partida o dos de Batalla? Traje el tablero y
+las piezas conmigo".
 
- Moraelyn said, "I think Lord Akatosh is enjoying what some
-call an 'in-joke'. Were I so rash as to instruct a dragon in manners--"
+Moraelyn interrumpió: "Me temo que Akatosh y yo debemos discutir algunos asuntos esta noche; y además, solo volverías a perder de todos modos", añadió con una sonrisa cariñosa.
 
- "Who," Silk said, "would e'er accuse Moraelyn of being
-rash?"
+Edward respondió: "Pero puedo ganar a todos los demás... Akatosh,
+¿ganaré alguna vez una partida contigo?".
 
- A bit later, Edward asked Akatosh: "Do you think that we could
-play a game or two of Battle? I brought the board and
-playing pieces with me."
+"No, Edward, no lo harás", y Akatosh estaba ligeramente desconcertado
+por la expresión de sorpresa de Edward, y luego por la carcajada que le siguió rápidamente.
 
- Moraelyn interrupted "I'm afraid that Akatosh and I must discuss some matters this evening - and you'd only lose
-again anyway" he added with a fond smile.
+"Eso no ha sido muy diplomático por tu parte, Akatosh. Pero ¿por qué no
+ganaré nunca?".
 
- Edward replied "But I can beat everyone else ... Akatosh,
-will I ever win a game with you?"
+"Porque llevo jugando mucho más tiempo que tú, Edward, y mientras yo siga jugando, no podrás
+alcanzarme. Además, este juego es lo que estoy
+empezando a considerar como un 'problema acotado', y ese tipo es
+el más fácil de resolver".
 
- "No, Edward, you won't", and Akatosh was slightly bemused
-by Edward's startled expression, and then the hearty laugh that quickly followed it.
-
- "That wasn't very diplomatic of you, Akatosh. But why won't
-I ever win?"
-
- "Because I have been playing for much longer than you have Edward, and so long as I continue to play, you will not
-be able to catch up to me. Besides, this game is what I am
-starting to think of as a 'bounded problem', and that sort is
-most easily dealt with."
-
- "What do you mean by 'a bounded problem', Akatosh?" asked
+"¿A qué te refieres con 'un problema acotado', Akatosh?", preguntó
 Mats.
 
- "That is a problem that has a countable number of possible
-actions and results, Mats. There are only 81 squares on the
-board, and each side has exactly 27 playing pieces, each
-piece moves in a specific way, and so on."
+"Ese es un problema que tiene un número contable de posibles
+acciones y resultados, Mats. Solo hay 81 casillas en el
+tablero, y cada bando tiene exactamente 27 piezas, cada
+pieza se mueve de una forma específica, y así sucesivamente".
 
- "But the game is like a real battle, isn't it?" asked
+"¿Pero el juego es como una batalla real, no?", preguntó
 Ssa'ass.
 
- "No, it is very good practice for learning, and for
-thinking about how to execute a battle - but my Elven Archers
-never become tired or demoralized, and my Master Mage always does what I want.
-Such things seldom happen in a real battle."
-
- Moraelyn nodded in agreement, and asked with mock slyness
-"Then what is an example of an unbounded problem?"
-
- "Certainly a real battle ... but also, to me a poem is an
-unbounded problem"
-
- "But any poem can be analyzed, Akatosh" Aliera said
-chidingly.
-
- "Of course - but only after it is written. I am unable to
-define, or bound, the act of writing it, though ...  that is,
-the act of creating it. If I start to write a poem ... there
-are so many possibilities" and then wryly "I never get
-beyond the first line, because I start imagining all the
-things that I could put into the beginning and...." 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
+"No, es una práctica muy buena para aprender y para
+pensar en cómo ejecutar una batalla; pero mis Arqueros Élficos
+nunca se cansan ni se desmoralizan, y mi Maestro Mago siempre hace lo que yo quiero.
+Tales cosas rara vez suceden en una batalla real".
+
+Moraelyn asintió de acuerdo, y preguntó con fingida picardía:
+"¿Entonces cuál es un ejemplo de un problema no acotado?".
+
+"Ciertamente una batalla real... pero también, para mí, un poema es un
+problema no acotado".
+
+"Pero cualquier poema puede ser analizado, Akatosh", dijo Aliera
+reprendiéndole.
+
+"Por supuesto, pero solo después de haber sido escrito. Soy incapaz de
+definir, o acotar, el acto de escribirlo, aunque... es decir,
+el acto de crearlo. Si empiezo a escribir un poema... hay
+tantas posibilidades", y luego con ironía: "Nunca paso de la
+primera línea, porque empiezo a imaginar todas las
+cosas que podría poner en el principio y...".

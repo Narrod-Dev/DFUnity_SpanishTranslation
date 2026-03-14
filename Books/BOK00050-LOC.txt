@@ -1,310 +1,298 @@
-Title: The True Barenziah, Part VIII
-Author: Anonymous
+Title: La Verdadera Barenziah, Parte VIII
+Author: Anónimo
 IsNaughty: True
 Price: 580
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]The True
+[/center]La Verdadera
 
 [/center]Barenziah
 
-[/center]Part VIII
-
-
+[/center]Parte VIII
 
 [/font=4]
 
-
-
 [/center]
 
- Barenziah sat in the hall at dinner, pushing her food about
-on her plate, feeling bored and restless. Symmachus was
-away, having been summoned to Imperial City by Tiber
-Septim's great-great grandson, Uriel Septim. Or was it his
-great-great-great grandson? She'd lost count, she realized.
-Their faces seemed to blur into one another. Perhaps she
-should have gone with him, but there'd been the delegation
-from Tear on a tiresome matter that required delicate
-handling.
+Barenziah estaba sentada en el salón durante la cena, moviendo la comida
+en su plato, sintiéndose aburrida e inquieta. Symmachus estaba
+fuera, habiendo sido convocado a la Ciudad Imperial por el tataranieto de
+Tiber Septim, Uriel Septim. ¿O era su tataratataranieto? Se dio cuenta
+de que había perdido la cuenta. Sus rostros parecían desdibujarse unos
+con otros. Quizá debería haber ido con él, pero estaba la delegación
+de Tear por un asunto tedioso que requería un manejo delicado.
 
- A bard was singing, but Barenziah hadn't been listening.
-Lately all the songs seemed the same to her, whether new or
-old. Now a turn of phrase caught her attention. He was
-singing of freedom, of adventure, of freeing Morrowind
-from its chains. How dare he! Barenziah sat up straight and
-turned to glare at him and worse, then realized that he was
-singing of some ancient war with Skyrim Nords, praising the
-heroism of King Moraelyn and his brave Companions. That
-tale was old enough, yet the song was new ... and the
-meaning...Barenziah wasn't sure. A bold fellow, but with a
-good voice and an ear for poetry and music. Rather
-handsome, too, in a raffish way. He didn't look exactly
-prosperous, nor was he all that young. Certainly he wasn't
-under a century of age. Why hadn't she heard him before, or at
-least heard of him?
+Un bardo estaba cantando, pero Barenziah no había estado escuchando.
+Últimamente todas las canciones le parecían iguales, fueran nuevas o
+viejas. De repente, un giro en una frase captó su atención. Estaba
+cantando sobre la libertad, sobre la aventura, sobre liberar a Morrowind
+de sus cadenas. ¡Cómo se atrevía! Barenziah se enderezó y
+se giró para lanzarle una mirada fulminante o algo peor, pero entonces se dio
+cuenta de que estaba cantando sobre alguna guerra antigua con los nórdicos de Skyrim,
+alabando el heroísmo del Rey Moraelyn y sus valientes Compañeros. Esa
+historia era bastante vieja, pero la canción era nueva... y el
+significado... Barenziah no estaba segura. Un tipo audaz, pero con
+buena voz y oído para la poesía y la música. Bastante
+atractivo, también, de una manera pícara. No parecía exactamente
+próspero, ni era tan joven. Ciertamente no tenía menos de un siglo de edad.
+¿Por qué no lo había oído antes, o al menos oído hablar de él?
 
- "Who is he?" she whispered to her dinner companion, who
-shrugged and said, "Calls himself Nightingale. No one seems
-to know anything about him."
+"¿Quién es?", le susurró a su compañero de cena, quien se encogió
+de hombros y dijo: "Se hace llamar Nightingale. Nadie parece
+saber nada sobre él".
 
- "Bid him speak with me when he has done."
+"Dile que hable conmigo cuando haya terminado".
 
- Nighingale came to her, thanked her for the honor and the
-purse she handed him. His manner wasn't bold, rather quiet and
-unassuming. He was quick enough with gossip about others, but
-she learned nothing about him, for he turned all questions
-away with a joking answer or a wild tale, yet one given so
-charmingly that it was impossible to take offense. "My true
-name? Milady, I am no one. No, no, my parents named me Know
-Wan, or was it, No Buddy? What doth it matter? How can
-parents give name to that which they know not? Ah, I believe
-that was the name, No Not. I have been Nighingale for so
-long I do not quite remember, oh, since last month at the very
-least, or was it last week? All my memory goes into song and
-tales, you see. I've none left for myself. I'm really quite
-boring. Where was I born? Why, Knoweyr. I plan to settle in
-Dunroman when I get there, but I'm in no hurry."
+Nightingale se acercó a ella, agradeciéndole el honor y la
+bolsa de monedas que ella le entregó. Sus modales no eran audaces, sino más bien
+tranquilos y modestos. Era bastante rápido con los chismes sobre otros, pero
+ella no aprendió nada sobre él, pues desviaba todas las preguntas
+con una respuesta bromista o un relato fantástico, pero dicho de forma tan
+encantadora que era imposible ofenderse. "¿Mi verdadero
+nombre? Milady, no soy nadie. No, no, mis padres me llamaron Nadie, ¿o era
+Ninguno? ¿Qué importa? ¿Cómo pueden los
+padres dar nombre a aquello que no conocen? Ah, creo
+que el nombre era No Sé. He sido Nightingale durante tanto
+tiempo que no recuerdo bien, oh, desde el mes pasado por lo menos, ¿o fue la
+semana pasada? Toda mi memoria se va en canciones y cuentos, ya ve. No me
+queda nada para mí mismo. Soy realmente muy aburrido. ¿Dónde nací? Pues en
+Ningún Lugar. Planeo establecerme en Algún Lado cuando llegue, pero no tengo prisa".
 
- "I see. And will you then marry Atleshur?"
+"Ya veo. ¿Y entonces te casarás con Atleshur?".
 
- "Very perceptive of you, milady. Perhaps, although I find
-Inaste quite charming, too, at whiles."
+"Muy perceptiva, milady. Tal vez, aunque encuentro a
+Inaste bastante encantadora también, a veces".
 
- "Ah, you are fickle, then?"
+"Ah, ¿eres voluble entonces?".
 
- "Like the wind, milady, I blow hither and yon and hot and
-cold."
+"Como el viento, milady, soplo de aquí para allá, caliente y frío".
 
- "Stay with us awhile, then, if you will."
+"Quédate con nosotros un tiempo, entonces, si quieres".
 
- "As you wish, milady."
+"Como deseéis, milady".
 
- Barenziah found her interest in life rekindled. All that had
-seemed stale seemed fresh and new again. She greeted each day
-with zest, looking forward to conversation and song with
-Nightingale. Unlike other bards he never sang her praises,
-nor other women's but only of high adventure and bold deeds.
-When she asked him about this, he merely said, "What greater
-praise of thy charm couldst thou ask, than what thy own mirror
-gives thee? And if words thou wouldst have, thou hast those of
-the greatest bards of the land? How should I vie with them, I
-who was born but a week gone by?" For once they spoke
-privately, for Barenziah, unable to sleep, had bidden him
-come to her chamber that his music might soothe her.
+Barenziah sintió que su interés por la vida se reavivaba. Todo lo que
+había parecido rancio se sentía fresco y nuevo de nuevo. Recibía cada día
+con entusiasmo, esperando con ansias la conversación y el canto con
+Nightingale. A diferencia de otros bardos, él nunca cantaba sus alabanzas,
+ni las de otras mujeres, sino solo de grandes aventuras y hazañas audaces.
+Cuando ella le preguntó sobre esto, él simplemente dijo: "¿Qué mayor
+elogio para tu encanto podrías pedir que el que tu propio espejo
+te da? Y si palabras quisieras, ¿tienes las de los
+más grandes bardos de la tierra? ¿Cómo podría competir yo con ellos, yo que
+nací hace apenas una semana?". Por una vez hablaron en
+privado, pues Barenziah, incapaz de dormir, le había pedido que acudiera a
+sus aposentos para que su música pudiera calmarla.
 
- "Thou art lazy and a coward, else I hold no charm for
-thee."
+"Eres perezoso y un cobarde, o es que no tengo ningún encanto para
+ti".
 
- "Milady, to praise thee I must know thee and thy spirit is
-wrapped in clouds of enchantment."
+"Milady, para alabarte debo conocerte, y tu espíritu está
+envuelto en nubes de encantamiento".
 
- "Not so, 'tis thy words that weave enchantment, and thy
-eyes. Know me if thou wilt, and if thou dare'st." He came to
-her; they lay close, kissed and embraced. "Not even
-Barenziah truly knows herself," he whispered softly. "How
-can I? Barenziah, thou seekest and know it not, nor yet for
-what. What would you have, that you have not?"
+"No es así, son tus palabras las que tejen el encantamiento, y tus
+ojos. Conóceme si quieres, y si te atreves". Él se acercó a ella; se
+tumbaron juntos, se besaron y se abrazaron. "Ni siquiera
+Barenziah se conoce verdaderamente a sí misma", susurró él suavemente. "¿Cómo
+podría yo? Barenziah, buscas y no lo sabes, ni tampoco
+qué es lo que buscas. ¿Qué querrías tener, que no tengas ya?".
 
- "Passion," she whispered, "passion. And children born of
-it."
+"Pasión", susurró ella, "pasión. E hijos nacidos de
+ella".
 
- "And for thy children, what? What birthright will you give
-them?"
+"¿Y para tus hijos, qué? ¿Qué derecho de nacimiento les darás?".
 
- "Freedom," she whispered, "freedom to be what they are.
-Where can I find these things?"
+"Libertad", susurró ella, "libertad para ser lo que son.
+¿Dónde puedo encontrar estas cosas?".
 
- "They lie beside you and beneath you if you dare stretch out
-your hand to take them."
+"Yacen a tu lado y debajo de ti, si te atreves a extender la mano
+para tomarlas".
 
- "But Symmachus..."
+"Pero Symmachus...".
 
- "I tell you, in me lies the answer to part of your quest
-and below us in these very mines, lies that which will grant
-us the power to fulfill achieve it. That which Moraelyn and
-Edward between them used to free High Rock from Nord
-domination of their spirit. Properly used, none can stand
-against it, not e'en that power which the Emperor controls.
-Freedom, Barenziah, freedom from the chains that bind you.
-Think on it, Barenziah." He kissed her again, softly, and
-withdrew.
+"Te digo que en mí yace la respuesta a parte de tu búsqueda
+y debajo de nosotros, en estas mismas minas, yace aquello que nos
+otorgará el poder para lograrlo. Aquello que Moraelyn y
+Edward usaron entre ambos para liberar Roca Alta de la
+dominación nórdica de su espíritu. Usado correctamente, nadie puede
+oponerse, ni siquiera ese poder que el Emperador controla.
+Libertad, Barenziah, libertad de las cadenas que te atan.
+Piénsalo, Barenziah". La besó de nuevo, suavemente, y se
+retiró.
 
- "You're not going?" she cried out, for her body yearned for
-him.
+"¡No te vayas!", gritó ella, pues su cuerpo lo anhelaba.
 
- "For now," he said. "Pleasures of the flesh are nothing
-beside what we might have together. I would have you think on
-it."
+"Por ahora", dijo él. "Los placeres de la carne no son nada
+comparados con lo que podríamos tener juntos. Me gustaría que lo
+pensaras".
 
- "I don't need to think. What must we do? What preparation
-must we make?"
+"No necesito pensar. ¿Qué debemos hacer? ¿Qué preparativos
+debemos realizar?".
 
- "Why, none. You can enter the mines freely. Once below I
-can guide you to where this thing lies and lift it from its
-resting place."
+"Pues ninguno. Puedes entrar en las minas libremente. Una vez abajo
+puedo guiarte hasta donde yace esto y levantarlo de su
+lugar de descanso".
 
- "The Horn of Summoning," she whispered. "Is it true? How do
-you know? 'Tis said it's buried 'neath Daggerfall itself."
+"El Cuerno de Invocación", susurró ella. "¿Es cierto? ¿Cómo lo
+sabes? Se dice que está enterrado bajo la mismísima Daggerfall".
 
- "Nay, long have I studied this matter. Ere his death King
-Edward gave the horn for safekeeping into the hand of his old
-friend King Moraelyn, who secreted it here in Mournhold,
-under the guardianship of the god Ephen, whose birthplace
-this is. Now thou know'st what it hath cost me many long years
-and weary miles to learn."
+"No, he estudiado este asunto largo tiempo. Antes de su muerte, el Rey
+Edward entregó el cuerno para su custodia a su viejo
+amigo el Rey Moraelyn, quien lo ocultó aquí en Mournhold,
+bajo la tutela del dios Ephen, cuyo lugar de nacimiento es
+este. Ahora sabes lo que me ha costado muchos largos años
+y fatigosas millas aprender".
 
- "But the god?"
+"¿Pero el dios?".
 
- "Trust me, dear heart. All will be well." Laughing, he
-blew her a last kiss and was gone.
+"Confía en mí, corazón. Todo irá bien". Riendo, le
+lanzó un último beso y se fue.
 
- On the morrow they passed the guards at the great doors that
-led below. Barenziah made her usual tour of inspection but
-instead of leaving afterwards, she and Nightingale entered
-a long-sealed door that led to an ancient part of the
-workings, long abandoned. The going was treacherous, for
-some of the old passages had collapsed and they had to clear
-a passage or find a way around. Vicious rats and huge
-spiders scurried here and there and sometimes attacked them.
+Al día siguiente pasaron por delante de los guardias en las grandes puertas que
+conducían abajo. Barenziah hizo su habitual ronda de inspección, pero
+en lugar de marcharse después, ella y Nightingale entraron
+por una puerta sellada desde hace tiempo que conducía a una parte antigua de los
+trabajos, abandonada hacía siglos. El camino era traicionero, pues
+algunos de los pasajes antiguos se habían derrumbado y tuvieron que despejar
+un camino o encontrar una forma de rodearlo. Ratas feroces y enormes
+arañas correteaban aquí y allá y a veces los atacaban.
 
- "We've been gone too long," Barenziah said. "They'll be
-looking for us. What will I tell them?"
+"Hemos estado fuera demasiado tiempo", dijo Barenziah. "Nos estarán
+buscando. ¿Qué les diré?".
 
- "Whate'er you please," Nightingale laughed. "You are the
-queen, aren't you?"
+"Lo que te plazca", rió Nightingale. "Eres la reina, ¿no?".
 
- "Symmachus--"
+"Symmachus...".
 
- "That peasant obeys whoever holds power. Always has,
-always will. We shall hold the power, love." His lips were
-the sweetest wine, every touch of fire and lightning. 
+"Ese campesino obedece a quienquiera que ostente el poder. Siempre lo ha hecho,
+siempre lo hará. Nosotros ostentaremos el poder, amor". Sus labios eran
+el vino más dulce, cada toque de fuego y relámpago.
 
- "Now," she said, "take me now. I'm ready." Her body seemed to
-hum, every nerve and muscle taut.
+"Ahora", dijo ella, "tómame ahora. Estoy lista". Su cuerpo parecía
+vibrar, cada nervio y músculo tenso.
 
- "Not yet. Not here, not like this." He waved around at the
-ancient dusty rubble and grim rock walls. "Just a little
-longer."
+"Todavía no. No aquí, ni de esta manera". Señaló a su alrededor los
+antiguos escombros polvorientos y las sombrías paredes de roca. "Solo un poco
+más".
 
- "Here," he said at last, pausing before a blank wall. "Here
-it lies." His hands wove a spell and the wall dissolved to
-reveal the entrance to an ancient shrine. In the midst stood
-a statue of the god, hammer in hand, poised above an
-adamantium anvil.
+"Aquí", dijo al fin, deteniéndose ante una pared en blanco. "Aquí
+yace". Sus manos tejieron un hechizo y la pared se disolvió para
+revelar la entrada a un santuario antiguo. En medio se alzaba
+una estatua del dios, martillo en mano, posado sobre un
+yunque de adamantina.
 
- "By my blood, Ephen, I bid you wake! Moraelyn's heir of
-Ebonheart am I, last of the royal kin, sharer of thy blood.
-At Morrowind's last need, with all elvendom in peril of
-their souls, release to me that which thou guardst! Now do I
-bid thee strike!"
+"¡Por mi sangre, Ephen, te ordeno despertar! Heredero de Moraelyn de
+Ebonheart soy, último de la estirpe real, partícipe de tu sangre.
+¡En la última necesidad de Morrowind, con toda la estirpe élfica en
+peligro de sus almas, entrégame aquello que custodias! ¡Ahora te ordeno
+golpear!".
 
- At his words the statue stirred and quickened, and the blank
-stone eyes glowed red. The massive head nodded, and the
-hammer smote the anvil, which split asunder with a
-thunderous crash, and the stone god himself crumbled.
-Barenziah clapped her hands over her ears and crouched down,
-crying aloud. Nightingale strode boldly forward and
-clasped what lay among the ruins with a cry of ecstasy,
-lifting it high.
+Ante sus palabras, la estatua se agitó y cobró vida, y los ojos de piedra
+en blanco brillaron en rojo. La cabeza masiva asintió, y el
+martillo golpeó el yunque, que se partió en dos con un
+estruendo atronador, y el propio dios de piedra se desmoronó.
+Barenziah se tapó los oídos con las manos y se agachó,
+gritando. Nightingale avanzó audazmente y
+agarró lo que yacía entre las ruinas con un grito de éxtasis,
+levantándolo en alto.
 
- "Someone's coming!" Barenziah cried. "Wait, that's not the
-Horn, it -- it's a staff!"
+"¡Viene alguien!", gritó Barenziah. "Espera, eso no es el
+Cuerno, ¡es... es un bastón!".
 
- "Indeed, my dear, you see truly, at last!" Nightingale
-laughed aloud, then -- "I'm sorry, my darling, that I must
-leave you now. Perhaps we'll meet again one day. Until then
--- ah, until then, Symmachus," he said to the mail clad
-figure who'd appeared behind them, "she's yours."
+"¡En efecto, querida, ves la verdad, al fin!". Nightingale
+rió a carcajadas, y luego: "Lo siento, mi vida, debo
+dejarte ahora. Quizá nos volvamos a ver algún día. Hasta entonces
+—ah, hasta entonces, Symmachus —dijo a la figura con cota de malla
+que había aparecido detrás de ellos—, ella es tuya".
 
- "No!" Barenziah sprang up and ran toward him, but he was
-gone -- winked out of existence -- just as Symmachus, sword
-drawn, reached him. His blade cleaved a single stroke through
-empty air, then he stood as still as if he'd taken the stone
-god's place. Barenziah said nothing, nothing, nothing...
+"¡No!". Barenziah saltó y corrió hacia él, pero él se había
+ido —se desvaneció de la existencia— justo cuando Symmachus, con la espada
+desenvainada, llegaba hasta él. Su hoja trazó un solo tajo a través del
+aire vacío, y luego se quedó tan quieto como si hubiera ocupado el lugar del
+dios de piedra. Barenziah no dijo nada, nada, nada...
 
- Symmachus told the half dozen elves who had accompanied him
-to say only that Nightingale and the queen had lost their
-way, and had been set upon by spiders. Nightingale had
-fallen into a deep crevice that closed upon him. His body
-could not be recovered. The queen had been badly shaken by the
-encounter and deeply mourned the loss of the friend, who
-had fallen in her defense. Such was his power of command
-that the slack-jawed soldiers, none of whom had caught more
-than a glimpse of the event, were half-convinced that it was
-true.
+Symmachus dijo a la media docena de elfos que lo habían acompañado
+que dijeran solo que Nightingale y la reina se habían extraviado, y que
+habían sido atacados por arañas. Nightingale había
+caído en una profunda grieta que se cerró sobre él. Su cuerpo
+no pudo ser recuperado. La reina había quedado muy afectada por el
+encuentro y lamentaba profundamente la pérdida del amigo, que
+había caído en su defensa. Tal era su poder de mando
+que los soldados boquiabiertos, ninguno de los cuales había visto más que
+un atisbo de lo sucedido, quedaron convencidos a medias de que era
+verdad.
 
- Barenziah was escorted above and taken to her chamber where
-she dismissed her servants and sat stunned, too shaken even
-to weep. Symmachus stood watching her.
+Barenziah fue escoltada arriba y llevada a sus aposentos, donde
+despidió a sus sirvientes y se sentó aturdida, demasiado conmocionada incluso
+para llorar. Symmachus se quedó observándola.
 
- "Do you have any idea what you have done?" he said finally.
+"¿Tienes idea de lo que has hecho?", dijo finalmente.
 
- "You should have told me," Barenziah whispered, "The Staff
-of Unity and Chaos! I never dreamed it lay here. He said--" A
-mewling moan escaped her lips and she doubled over in
-agony. "What have I done? What now? What's to become of
-me?"
+"Deberías habérmelo dicho", susurró Barenziah, "¡El Bastón
+de la Unidad y el Caos! Nunca soñé que yaciera aquí. Él dijo...". Un
+gemido escapó de sus labios y se dobló de
+agonía. "¿Qué he hecho? ¿Y ahora qué? ¿Qué va a ser de
+mí?".
 
- "You loved him?"
+"¿Lo amabas?".
 
- "Yes, yes, yes. Oh, may the gods have mercy on me, I did
-love him."
+"Sí, sí, sí. Oh, que los dioses tengan piedad de mí, sí que
+lo amaba".
 
- Symmachus hard-lined face softened slightly and his eyes
-glittered with a new light, and he sighed softly. "Ahhh, that's
-something then. You will become a mother if it's within my
-power. As for the rest, my dear, I expect you have loosed a
-storm upon the land. It'll be awhile yet in the brewing.
-When it comes we'll weather it together." He stripped her
-clothing from her and carried her to the bed. Out of grief and
-longing, her body responded to his as never before, pouring
-forth all that Nightingale had woken in her. She was emptied,
-and then filled, for a child was planted and grew within
-her. As the babe grew in her womb, so did her feeling for
-patient faithful Symmachus, rooted in long friendship and
-affection, now at last ripen into the fullness of true
-love. Eight years later their love was blessed again with a
-little daughter.
+El rostro de líneas duras de Symmachus se suavizó ligeramente y sus ojos
+brillaron con una nueva luz, y suspiró suavemente. "Ahhh, eso es
+algo entonces. Te convertirás en madre si está en mi mano. En cuanto al
+resto, querida, me temo que has desatado una tormenta sobre la tierra.
+Tardará un tiempo todavía en gestarse.
+Cuando llegue, la capearemos juntos". Él le quitó la ropa
+y la llevó a la cama. Por el dolor y el
+anhelo, su cuerpo respondió al de él como nunca antes, derramando
+todo lo que Nightingale había despertado en ella. Fue vaciada,
+y luego llenada, pues un hijo fue plantado y creció en su
+interior. A medida que el bebé crecía en su vientre, también lo hacían sus sentimientos hacia
+el paciente y fiel Symmachus, arraigados en una larga amistad y
+afecto, madurando ahora por fin en la plenitud del amor
+verdadero. Ocho años después, su amor fue bendecido de nuevo con una
+pequeña hija.
 
- Directly after Nighingale's theft of the staff Symmachus
-had sent secret messages to Uriel Septim of the matter, but
-had not gone himself, choosing rather to stay with Barenziah
-during her fertile period and father the child upon her. For
-this, and for the theft, he suffered Uriel Septim's disfavor
-and suspicion. Spies were sent in search of the thief but
-Nighingale seemed to have vanished whence he'd come, wherever
-that was.
+Directamente después del robo del bastón por parte de Nightingale, Symmachus
+había enviado mensajes secretos a Uriel Septim sobre el asunto, pero
+no había ido él mismo, prefiriendo quedarse con Barenziah
+durante su periodo fértil y engendrar al hijo en ella. Por
+esto, y por el robo, sufrió el desfavor y la sospecha de Uriel Septim. Se enviaron
+espías en busca del ladrón, pero Nightingale parecía haberse desvanecido por donde
+había venido, fuera donde fuese.
 
- "Dark elf, in part, perhaps," said Barenziah, "but part
-human, too, I think, in disguise, else would I not have come
-so quickly to fertility."
+"Elfo oscuro, en parte, tal vez", dijo Barenziah, "pero parte
+humano también, creo, disfrazado, de lo contrario no habría llegado
+tan rápido a la fertilidad".
 
- "Part dark elf, for sure, of ancient R'Aathim lineage, else
-he could not have freed the staff," Symmachus reasoned,
-"and I think he would have lain with thee. As elf he did not
-dare, for then he would not have been able to part with thee.
-He knew the Staff lay there, not the Horn, and that he must
-teleport to safety, for the Staff is not a weapon that
-would have seen him clear, unlike the horn. Praise the gods he
-hath not that! It seems all was as he expected, yet how did he
-know? I placed it there myself, with the aid of the rag-tail
-end of the R'Aathim clan who now sits king in Ebonheart as a
-reward. Tiber Septim claimed the Horn, but left the Staff
-for safe-keeping. Nightingale can use the Staff to sow seeds
-of strife and dissension, if he wishes, yet that alone will
-not gain him power. That lies with the Horn and the ability to
-use it."
+"Parte elfo oscuro, sin duda, de la antigua estirpe R'Aathim, de lo contrario
+no podría haber liberado el bastón", razonó Symmachus,
+"y creo que se habría acostado contigo. Como elfo no
+se atrevió, pues entonces no habría sido capaz de separarse de ti.
+Él sabía que el Bastón yacía allí, no el Cuerno, y que debía
+teletransportarse a un lugar seguro, pues el Bastón no es un arma que
+lo hubiera sacado indemne, a diferencia del cuerno. ¡Alabados sean los dioses que
+no tiene eso! Parece que todo fue como él esperaba, pero ¿cómo lo
+sabía? Yo mismo lo coloqué allí, con la ayuda de los restos
+del clan R'Aathim que ahora reina en Ebonheart como
+recompensa. Tiber Septim reclamó el Cuerno, pero dejó el Bastón
+bajo custodia. Nightingale puede usar el Bastón para sembrar semillas
+de lucha y disensión si lo desea, pero eso solo
+no le dará el poder. Eso reside en el Cuerno y en la capacidad de
+usarlo".
 
- "I'm not so sure it's power that Nighingale seeks,"
-Barenziah said.
+"No estoy tan segura de que sea poder lo que Nightingale busca",
+dijo Barenziah.
 
- "All seek power," Symmachus retorted, "each in our own
-way."
+"Todos buscan el poder", replicó Symmachus, "cada uno a su
+manera".
 
- "I have found what I sought," Barenziah said. 
+"Yo he encontrado lo que buscaba", dijo Barenziah.
+
+

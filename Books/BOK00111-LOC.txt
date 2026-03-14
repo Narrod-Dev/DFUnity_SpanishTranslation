@@ -1,464 +1,413 @@
-Title: King Edward, Part XII
-Author: Anonymous
+Title: El Rey Edward, Parte XII
+Author: Anónimo
 IsNaughty: False
 Price: 300
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]King Edward, Part XII
-
-
+[/center]El Rey Edward, Parte XII
 
 [/font=4]
 
 [/center]
 
-[/center] The dragon had paused, so Edward interjected, "Mother and I have been
-discussing the nature of the gods recently, Akatosh, and she
-thinks that poetry would be a godly activity. What do you
-think about that notion?"
+[/center] El dragón había hecho una pausa, así que Edward intervino: "Mi madre y yo hemos estado
+discutiendo la naturaleza de los dioses recientemente, Akatosh, y ella
+piensa que la poesía sería una actividad divina. ¿Qué piensas tú
+sobre esa noción?"
 
- "I am not so certain that one can attribute anything to the
-gods, Edward. They are another example of an unbounded
-problem, of course, but also, their characteristics are just
-not very well known to us."
+"No estoy tan seguro de que uno pueda atribuir nada a los
+dioses, Edward. Son otro ejemplo de un problema no acotado,
+por supuesto, pero además, sus características simplemente
+no nos son muy bien conocidas".
 
- "But surely one can determine things about any being that is
-a god?"
+"¿Pero seguramente uno puede determinar cosas sobre cualquier ser que sea
+un dios?"
 
- Akatosh replied, "I do not think that we can, at present; they
-are not like the Daedra, who have a nature that is with them at
-their birth. That is, the Daedra capabilities are inherent in them, and not are the result of any
-changes that have occurred to them."
+Akatosh respondió: "No creo que podamos, por el momento; ellos
+no son como los Daedra, que tienen una naturaleza que nace con
+ellos. Es decir, las capacidades de los Daedra son inherentes a ellos, y no son el resultado de ningún
+cambio que les haya ocurrido".
 
- Willow interrupted: "Akatosh, we can determine that the gods have a few basic characteristics, can't we?"
+Willow interrumpió: "Akatosh, podemos determinar que los dioses tienen unas pocas características básicas, ¿no es así?"
 
- Edward added "Of course, Akatosh - they are powerful beings
-who can perform acts that are incomprehensible to us. That
-in itself must signify their difference."
+Edward añadió: "Por supuesto, Akatosh; son seres poderosos
+que pueden realizar actos que son incomprensibles para nosotros. Eso
+en sí mismo debe significar su diferencia".
 
- Akatosh nodded and replied "I understand your point of
-view, but to a farming community on Tamriel in our southern
-lands, that could also describe how they would perceive me.
-Perhaps this is attributable to the fact that they seldom see
-a dragon nowadays, but it also does not mean that I am a
-god ... neither does it mean that I am not a god."
+Akatosh asintió y respondió: "Entiendo tu punto de
+vista, pero para una comunidad agrícola en Tamriel, en nuestras
+tierras del sur, eso también podría describir cómo me percibirían a mí.
+Tal vez esto sea atribuible al hecho de que rara vez ven
+a un dragón hoy en día, pero eso no significa que yo sea un
+dios... como tampoco significa que no sea un dios".
 
- Willow giggled, and said "Of course you're not a god,
-Akatosh" and Edward, smiling, nodded agreement.
+Willow soltó una risita y dijo: "Por supuesto que no eres un dios,
+Akatosh", y Edward, sonriendo, asintió de acuerdo.
 
- Akatosh replied "How do you know, Willow? I can understand
-that you would guess that I am not a god, particularly
-since I am a dragon." He grinned, and then continued "But
-how can you  know that I am not a god?"
+Akatosh respondió: "¿Cómo lo sabes, Willow? Puedo entender
+que supongas que no soy un dios, particularmente
+siendo un dragón". Sonrió y luego continuó: "¿Pero
+cómo puedes saber que no soy un dios?"
 
- Edward scoffingly replied "Well, I know that I'm not a god anyway. And I've certainly never seen you
-perform any godly acts, Akatosh - you also don't seem to
-have any worshippers about either."
+Edward respondió burlonamente: "Bueno, yo sé que no soy un dios, de todos modos. Y ciertamente nunca te he visto
+realizar ningún acto divino, Akatosh; además, tampoco parece que
+tengas adoradores por aquí".
 
- The Companions were smiling and generally agreeing with
-this, but Akatosh responded "But that does not mean that I
-have no worshippers, nor does it mean that I cannot perform
-any godly acts - it just means that you have not seen either
-of these. I am not yet certain that gods and goddesses require
-worshippers to maintain their existence. And as I said, I
-can perform magic that would look like 'godly acts' to many
-Tamrielians."
+Los Compañeros sonreían y estaban generalmente de acuerdo con
+esto, pero Akatosh respondió: "Pero eso no significa que no
+tenga adoradores, ni significa que no pueda realizar
+actos divinos; solo significa que no habéis visto ninguna
+de esas cosas. Aún no estoy seguro de que los dioses y diosas requieran
+adoradores para mantener su existencia. Y como dije, yo
+puedo realizar magia que parecería 'actos divinos' para muchos
+tamriélicos".
 
- "But the gods must have worshippers, Akatosh" said Aliera,
-"That's how they get their ... sustenance, or whatever it is
-that allows them to continue ... to be godly. Husband, you
-must know more about this subject. After all, you made a
-god of your brother S'ephen."
+"Pero los dioses deben tener adoradores, Akatosh", dijo Aliera,
+"así es como obtienen su... sustento, o lo que sea
+que les permite seguir... siendo divinos. Esposo, tú
+debes saber más sobre este tema. Después de todo, convertiste en un
+dios a tu hermano S'ephen".
 
- "I did no such thing!" Moraelyn responded, with a touch of indignation. "His godhood is between him and his
-worshippers, among whom I am numbered. I did establish a
-temple cult in his memory. Anyone with the worldly means
-could do as much for anyone, living or dead. That alone is
-not enough. Maybe it helps -- facilitate matters, but I think it's not really necessary. I know no more of it, but if
-you want my opinion--" he paused politely for confirmation that it was indeed still solicited, as
-elven etiquette demanded if one were giving opinion at
-length.
+"¡Yo no hice tal cosa!", respondió Moraelyn con un toque de indignación. "Su divinidad es un asunto entre él y sus
+adoradores, entre los cuales me cuento. Sí establecí un
+culto en el templo en su memoria. Cualquiera con los medios mundanos
+podría hacer lo mismo por cualquiera, vivo o muerto. Eso por sí solo
+no es suficiente. Quizás ayude a... facilitar las cosas, pero creo que no es realmente necesario. No sé más al respecto, pero si
+queréis mi opinión...", hizo una pausa educada para confirmar que, en efecto, se seguía solicitando, tal como
+exigía la etiqueta élfica si uno iba a dar una opinión
+extensa.
 
- He continued. "There must be something, well, godly, in the
-person's soul or essence or whatever part it is that does not
-die with the body. I know not whether that capacity is innate
-in the person, from birth or conception, or quickening ...
-whene'er it is that soul and body are wedded for a life
-span, or whether great deeds and great generosity might breed
-it, enlarging the soul and transmuting it, so to speak. We all change and grow
-with each passing day, with every breath, some more than
-others. What else is life about?"
+Continuó: "Debe haber algo, bueno, divino, en el
+alma o la esencia de la persona, o en la parte que sea que no
+muere con el cuerpo. No sé si esa capacidad es innata
+en la persona, desde el nacimiento o la concepción, o la animación...
+cuando quiera que sea que el alma y el cuerpo se desposan por un periodo de
+vida, o si las grandes hazañas y la gran generosidad podrían engendrarla,
+agrandando el alma y transmutándola, por así decirlo. Todos cambiamos y crecemos
+con cada día que pasa, con cada aliento, algunos más que
+otros. ¿De qué otra cosa trata la vida?"
 
- He went on without pausing for an answer to his rhetorical
-question, probably for fear that he might get one. "In
-other cases, gods seem to arise from a locality, a
-mountain, or a spring, or wood, or a collection of localities, such as Tamriel itself. Places, like persons have
-souls, some greater than others. This place might produce a
-god or a daedra -- or maybe it already has one or more. As it
-changes, so do its gods and daedra, I think. Maybe they can
-choose to resist the change or aid it, if propitiated."
+Siguió adelante sin esperar respuesta a su pregunta
+retórica, probablemente por miedo a recibir una. "En
+otros casos, los dioses parecen surgir de una localidad, una
+montaña, o un manantial, o un bosque, o un conjunto de localidades, como la propia Tamriel. Los lugares, como las personas, tienen
+almas, algunas más grandes que otras. Este lugar podría producir un
+dios o un daedra... o tal vez ya tenga uno o más. A medida que
+cambia, también lo hacen sus dioses y daedras, creo. Tal vez puedan
+elegir resistirse al cambio o ayudarlo, si se les propicia".
 
- He looked at Akatosh inquiringly. The dragon had stopped
-fighting the new gods, he said, but would he go so far as to
-worship them? "That speaks to the question of whence gods
-arise, but source is not nature: of that I know as little as
-the rest of you, maybe less, since the question does not truly
-interest me. The gods are; my worship of them benefits me and
-mine. It is sufficient."
+Miró a Akatosh inquisitivamente. El dragón había dejado de
+luchar contra los nuevos dioses, dijo, pero ¿llegaría al extremo de
+adorarlos? "Eso responde a la pregunta de dónde surgen
+los dioses, pero el origen no es la naturaleza: de eso sé tan poco como
+el resto de vosotros, tal vez menos, ya que la pregunta no me interesa
+verdaderamente. Los dioses son; mi adoración hacia ellos me beneficia a mí y a
+los míos. Es suficiente".
 
- Akatosh did not respond immediately and Aliera refused to be distracted, "But suppose such a cult were established and worshippers provided
-for one of small and mean spirit. Would that spirit not
-become a god?"
+Akatosh no respondió de inmediato y Aliera se negó a distraerse: "Pero supón que se estableciera tal culto y se proveyera de adoradores
+a alguien de espíritu pequeño y ruin. ¿No se convertiría ese
+espíritu en un dios?"
 
- "I suppose it might be done, if one were determined enough
-and had a sufficiency of means to pay worshippers to
-perform rituals without -- spirit -- behind them. Maybe that's
-where small, mean gods come from, wife. Or maybe daedra?
-Maybe I'll raise a cult to thee and see what happens."
+"Supongo que podría hacerse, si uno estuviera lo bastante decidido
+y tuviera medios suficientes para pagar a adoradores que
+realizaran rituales sin... espíritu... detrás de ellos. Tal vez de ahí
+vengan los dioses pequeños y ruines, esposa. ¿O tal vez los daedras?
+Quizás erija un culto para ti y vea qué pasa".
 
- "Are you calling my spirit small and mean?" Ali glared at
-him.
+"¿Estás llamando a mi espíritu pequeño y ruin?" Aliera le lanzó una mirada
+furiosa.
 
- "Only by comparison -- you don't fancy yourself a goddess, do you? You might make a daedra,
-though. The experiment might be a bit too chancy. Could I just mourn you
-for a century or two instead?"
+"Solo por comparación... no te imaginas que eres una diosa, ¿verdad? Aunque podrías llegar a ser un
+daedra. El experimento podría ser un poco demasiado arriesgado. ¿Podría simplemente guardarte luto
+durante un siglo o dos en su lugar?"
 
- "Mm. I'll think on it. What about you? You've deeds enough
-already to qualify for godhood, surely ... although if you
-plan on many more such you may not outlive me."
+"Mm. Lo pensaré. ¿Y qué hay de ti? Ya tienes hazañas suficientes
+como para calificar para la divinidad, seguramente... aunque si
+planeas muchas más como esas, puede que no me sobrevivas".
 
- "I'm doomed to be R'Aathim, living and dead. It's godhood of a sort, but what a sort! Don't begrudge
-me my long life span. Think of me doomed to eternity in the
-gloomy Ebonheart council chamber listening to the eternal
-wrangles ... small wonder the dead R'Aathim pulled the
-place down on the live ones twenty years ago, thus causing my
-brother and my mother to join their number. The dead R'Aathim
-must have welcomed the century and a half of respite while
-the Nords held Ebonheart."
+"Estoy condenado a ser un R'Aathim, vivo y muerto. Es una divinidad de cierto tipo, ¡pero qué tipo! No me envidies
+mi larga vida. Piensa en mí, condenado a la eternidad en la
+sombría sala del consejo de Ebonheart, escuchando las eternas
+disputas... no es de extrañar que los R'Aathim muertos derribaran el
+lugar sobre los vivos hace veinte años, haciendo que mi
+hermano y mi madre se unieran a su número. Los R'Aathim muertos
+debieron agradecer el siglo y medio de respiro mientras
+los Nórdicos retuvieron Ebonheart".
 
- "But your brother S'ephen was killed too, as well as your
-brother King Cruethys, and S'ephen wasn't R'Aathim, being
-your mother's son and not your father's, if I have the story
-straight -- that's why he got his own temple," Edward said.
-"So why did they kill him, too? The story sounds very daedric
-to me."
+"Pero tu hermano S'ephen también fue asesinado, así como tu
+hermano el Rey Cruethys, y S'ephen no era R'Aathim, siendo
+hijo de tu madre y no de tu padre, si entiendo bien la
+historia; por eso tuvo su propio templo", dijo Edward.
+"¿Entonces por qué lo mataron a él también? La historia me suena muy daédrica".
 
- "You'd have me justify the ways of the gods to you, would
-you? I think they act for ends we cannot see, and slay the
-just and the unjust together -- not that I'd label any of my
-Kin as either -- not altogether. We see only the means -- how
-can we judge? Gods too face choices; I do not think their
-power supreme. They can overrule nature on occasion, as can
-any Mage, yet they, like Mages, are in the end bound by it --
-and their overrule must answer other rules still -- and in
-those rules, whate'er they be, I think lies the answer to your
-questions. I think it's not something men and women may know
-while living."
+"¿Quieres que te justifique los caminos de los dioses, no?
+Creo que actúan con fines que no podemos ver, y matan al
+justo y al injusto por igual... no es que yo califique a ninguno de mis
+parientes como ninguna de las dos cosas... no del todo. Solo vemos los medios; ¿cómo
+podemos juzgar? Los dioses también enfrentan elecciones; no creo que su
+poder sea supremo. Pueden anular la naturaleza en ocasiones, como puede
+hacer cualquier Mago, pero ellos, como los Magos, al final están sujetos a ella...
+y su anulación debe responder a otras reglas todavía... y en
+esas reglas, cualesquiera que sean, creo que reside la respuesta a tus
+preguntas. Creo que no es algo que los hombres y mujeres puedan saber
+mientras vivan".
 
- Akatosh smiled and replied "It is not so easy to describe the
-gods, is it? This is true even though, myself included, each
-of us thinks that we have a mental picture of what godliness
-means. On the other hand, the gods and goddesses certainly do exist - and I also believe that there is a
-connection of some sort between them and the Daedra, and
-another connection between these entities and the power associated with
-performing magic."
+Akatosh sonrió y respondió: "No es tan fácil describir a los
+dioses, ¿verdad? Esto es cierto a pesar de que cada uno de nosotros,
+yo incluido, cree tener una imagen mental de lo que significa la
+divinidad. Por otro lado, los dioses y diosas ciertamente existen, y también creo que hay una
+conexión de algún tipo entre ellos y los Daedra, y
+otra conexión entre estas entidades y el poder asociado con
+la realización de la magia".
 
- "The priests of Julianos have been calling this power
-'Magicka'" said a stranger who had joined the group.
+"Los sacerdotes de Julianos han estado llamando a este poder
+'Magicka'", dijo un extraño que se había unido al grupo.
 
- Akatosh replied "Greetings bard. Please allow me to
-introduce ... Geoffrey, a ... wandering poet who has been
-visiting our village for these last few days." The
-Companions greeted the wood elf newcomer, some rising to their feet to do so according
-to their individual customs, and then all resumed sitting
-(actually sprawling about) and conversing.
+Akatosh respondió: "Saludos, bardo. Por favor, permitidme
+presentaros a... Geoffrey, un... poeta errante que ha estado
+visitando nuestra aldea durante estos últimos días". Los
+Compañeros saludaron al recién llegado elfo del bosque, algunos poniéndose de pie para hacerlo de acuerdo
+con sus costumbres individuales, y luego todos volvieron a sentarse
+(en realidad, a despatarrarse) y a conversar.
 
- "A number of priests are theorizing that the gods and
-goddesses live on another plane, as do the Daedra - there is some debate
-amongst these priests as to whether they share the same plane
-of existence, or whether each has their own. And some of the
-Alessian priests are claiming that we can visit these
-alternate planes in our nightly dreams" added Beech.
+"Varios sacerdotes teorizan que los dioses y las
+diosas viven en otro plano, al igual que los Daedra; hay cierto debate
+entre estos sacerdotes sobre si comparten el mismo plano
+de existencia, o si cada uno tiene el suyo propio. Y algunos de los
+sacerdotes alessianos afirman que podemos visitar estos
+planos alternativos en nuestros sueños nocturnos", añadió Beech.
 
- Edward asked "Why doesn't someone just ask a goddess or a
-Daedra about this?"
+Edward preguntó: "¿Por qué no le pregunta alguien simplemente a una diosa o a un
+Daedra sobre esto?"
 
- Geoffrey chuckled and replied "Most of us are not able to be
-so thoughtful when confronted by one of these beings, Edward. Also,
-there is a common belief that the gods and Daedra are as
-reluctant to discuss their own natures as dragons are to
-reveal anyone's True Name."
+Geoffrey se rió entre dientes y respondió: "La mayoría de nosotros no somos capaces de ser
+tan reflexivos cuando nos enfrentamos a uno de estos seres, Edward. Además,
+existe la creencia común de que los dioses y los Daedra son tan
+reacios a discutir su propia naturaleza como los dragones a
+revelar el Nombre Verdadero de alguien".
 
- Edward looked quizzically at Akatosh, but Beech stated to
-Geoffrey "Well said, Bard" ... and that pair shared the slightest of smiles.
+Edward miró inquisitivamente a Akatosh, pero Beech declaró a
+Geoffrey: "Bien dicho, Bardo"... y ese par compartió la más leve de las sonrisas.
 
- Beech then said, "Do you know what the Resolutions of Zenithar
-has been saying about the gods and magic? This magic power,
-or Magicka, is just the power generated by the existence of,
-well, existance itself.  When it becomes focused by living
-beings through natural processes, then it becomes accessible to the gods and
-goddesses as worship power, which is the next level of
-Magicka. After receiving some from their worshippers, the
-gods can then concentrate it up to god-level power - the
-true Magicka. The gods themselves can't generate the mid-level
-Magicka, since they are dependent on it for their own existence, but they can 'convert it' to Magicka, which can
-then be used by mortals to cast spells.  This Magicka is
-usually dispersed widely across the planes but there are
-areas of greater and lesser concentration due to
-interferences with the dispersion process."
+Beech dijo entonces: "¿Sabes lo que han estado diciendo las Resoluciones de Zenithar
+sobre los dioses y la magia? Este poder mágico,
+o Magicka, es solo el poder generado por la existencia de la... bueno, la existencia misma. Cuando se concentra a través de los seres vivos mediante procesos naturales, se vuelve accesible para los dioses y
+las diosas como poder de adoración, que es el siguiente nivel de
+Magicka. Tras recibir parte de sus adoradores, los
+dioses pueden entonces concentrarlo hasta el poder de nivel divino: la
+verdadera Magicka. Los dioses mismos no pueden generar la Magicka de nivel
+medio, ya que dependen de ella para su propia existencia, pero pueden 'convertirla' en Magicka, que puede
+ser usada entonces por los mortales para lanzar hechizos. Esta Magicka
+suele estar dispersa ampliamente por los planos, pero hay
+zonas de mayor y menor concentración debido a
+interferencias con el proceso de dispersión".
 
- "When a goddess loses worshippers, her inflow of mid-level
-Magicka is decreased, so she in turn produces less god-level
-Magicka. With less Magicka under her control (for providing
-to worshippers, or dispersion), her influence is decreased
-in the mortal planes - of course the converse is also true. 
-In the extreme, she receives nothing, and is relegated to a
-state of Stasis, barely existing from the ordinary Magicka
-generated by her few remaining Consecrated lands, zones of
-influence, and so on."
+"Cuando una diosa pierde adoradores, su entrada de Magicka de nivel
+medio disminuye, por lo que ella a su vez produce menos Magicka de nivel
+divino. Con menos Magicka bajo su control (para proveer a los
+adoradores, o por dispersión), su influencia disminuye
+en los planos mortales; por supuesto, lo contrario también es cierto.
+En el extremo, no recibe nada, y es relegada a un
+estado de Éxtasis, apenas existiendo gracias a la Magicka ordinaria
+generada por sus pocas tierras Consagradas restantes, zonas de
+influencia, y demás".
 
- Beech continued, "On the other hand, Daedra receive very
-specific, or 'modified' mid-level Magicka from a few
-mortals with specific areas of interest, and these Daedra are
-normally tied to very specific circumstances. Because of the
-ir nature, they gain much more power from their
-small worship base, but the gods, with their much broader
-base, generally have greater overall power, even though
-the amount of concentrated worship that they receive from
-any one source is much less than a Daedra's. Most of the Magicka that the gods
-'process' is dispersed into and throughout the universe, no
-longer under their control, thereby making it available for
-everyone.  It's not really something they do consciously,
-but as a natural process that happens automatically - in other words ... just because they are divine."
+Beech continuó: "Por otro lado, los Daedra reciben una Magicka de nivel medio muy
+específica, o 'modificada', de unos pocos
+mortales con áreas de interés específicas, y estos Daedra están
+normalmente vinculados a circunstancias muy concretas. Debido a su
+naturaleza, obtienen mucho más poder de su
+pequeña base de adoración, pero los dioses, con su base mucho más
+amplia, generalmente tienen un poder global mayor, aunque
+la cantidad de adoración concentrada que reciben de
+cualquier fuente individual sea mucho menor que la de un Daedra. La mayor parte de la Magicka que los dioses
+'procesan' se dispersa en y por todo el universo, dejando de estar
+bajo su control, quedando así disponible para
+todos. No es realmente algo que hagan conscientemente,
+sino como un proceso natural que ocurre automáticamente; en otras palabras... simplemente porque son divinos".
 
- Aliera said, "I would think that Magicka is simply
-available to sentient beings, although the gods and Daedra
-could facilitate its usage. I would think that the gods and
-Daedra have other influences on us as well, because not
-everyone has spellcasting ability! Maybe in those
-'alternate planes' it's actually existance, and not
-sentient entities, that radiates Magicka, just as the stars
-give off light in our dimension. I just assume that Magicka is
-'out there' in the ether, or maybe sentient consciousnesses
-automatically tap into an alternate plane as they sleep.
-I think that everyone has some supply of Magicka, but most
-r nature, they gain much more power from their
-small worship base, but the gods, with their much broader
-base, generally have greater overall power, even though
-the amount of concentrated worship that they receive from
-any one source is much less than a Daedra's. Most of the Magicka that the gods
-'process' is dispersed into and throughout the universe, no
-longer under their control, thereby making it available for
-everyone.  It's not really something they do consciously,
-but as a natural process that happens automatically - in other words ... just because they are divine."
+Aliera dijo: "Yo pensaría que la Magicka simplemente está
+disponible para los seres sintientes, aunque los dioses y los Daedra
+podrían facilitar su uso. ¡Yo pensaría que los dioses y los
+Daedra tienen otras influencias sobre nosotros también, porque no
+todo el mundo tiene la capacidad de lanzar hechizos! Quizás en esos
+'planos alternativos' sea en realidad la existencia, y no las
+entidades sintientes, lo que irradia Magicka, igual que las estrellas
+emiten luz en nuestra dimensión. Yo simplemente asumo que la Magicka está
+'ahí fuera', en el éter, o tal vez las conciencias sintientes
+conectan automáticamente con un plano alternativo mientras duermen.
+Creo que todo el mundo tiene algún suministro de Magicka, pero la mayoría
+no sabe cómo usarla muy bien, o bien adoptan un modo de vida que inhibe o prohíbe
+su uso. ¿Tal vez ciertos dioses y Daedra sirven como facilitadores
+para todo el proceso; es decir, tanto para obtener como para usar
+la Magicka? ¿Pero cómo sanan, curan y bendicen los sacerdotes? ¿Hay
+Magicka involucrada en absoluto o invocan a sus diosas
+directamente?"
 
- Aliera said, "I would think that Magicka is simply
-available to sentient beings, although the gods and Daedra
-could facilitate its usage. I would think that the gods and
-Daedra have other influences on us as well, because not
-everyone has spellcasting ability! Maybe in those
-'alternate planes' it's actually existance, and not
-sentient entities, that radiates Magicka, just as the stars
-give off light in our dimension. I just assume that Magicka is
-'out there' in the ether, or maybe sentient consciousnesses
-automatically tap into an alternate plane as they sleep.
-I think that everyone has some supply of Magicka, but most
-don't know how to use it very well, or else they adopt a way of life that inhibits or forbids
-its use. Maybe certain gods and Daedra serve as facilitators
-for the entire process; that is, both obtaining and using
-Magicka? But how do priests heal and cure and bless? Is
-Magicka involved at all or do they invoke their goddesses
-directly?"
+Ssa'ass dijo: "No essstoy sssseguro de que ssse ussse Magicka;
+quizáss hay otra capacidad involucrada aquí.
+Esssta capacidad sssería des s sconocida en essste momento, y tal vez
+ni sssiquiera sssentida... pero me sssiento bas s stante sssseguro de que
+de algún modo esss una 'fuerza' divina lo que están empleando".
 
- Ssa'ass said, "I am not ssssure that Magicka isss usssed;
-perhapss there isss yet another capability involved here.
-Thisss capability would be unknown at thisss time, and maybe
-even unsssenssssed... but I feel fairly certain that
-sssomehow it is a godly 'force' that they are employing."
+Entonces Geoffrey respondió: "Ssa'ass, creo que la Magicka
+llena el universo de planos. Todas las cosas están infundidas con
+Magicka en mayor o menor medida. En este sentido, la Magicka se siente
+atraída por algunas personas y cosas más que por otras, y algunas
+personas con talento o entrenamiento pueden controlar e incluso
+liberar Magicka en nuevas formas. Puede haber otras fuentes de
+Magicka disponibles conectando con planos alternativos y de
+otros mundos. También existe la posibilidad de
+planos alternativos que estén enteramente vacíos de Magicka.
+En cualquier caso, ciertos seres de gran poder, como los dioses
+y los Daedra, no solo pueden controlar la Magicka, sino que pueden ver,
+absorber y transfundir Magicka hacia y desde objetos y
+personas. Al emplear esta habilidad, los adoradores de estos
+seres son a veces capaces de realizar actos de Magia mayores de los que
+podrían lograr de otro modo. También de esta forma, de algunos objetos
+sagrados para seres poderosos se puede decir que son santos, con
+cantidades adicionales de Magicka dirigida proporcionada por dioses o
+diosas".
 
- Then Geoffrey responded: "Ssa'ass, I believe that Magicka
-fills the universe of planes.  All things are infused with
-Magicka to one extent or another.  In this regard Magicka is
-attracted to some people and things over others, and some
-people with talent or training can control and even
-release Magicka in new forms. There may be other sources of
-Magicka available by tapping into alternate and
-otherworldly planes.  There is also the possibility of
-alternate planes that are entirely void of Magicka.
-Regardless, certain beings of great power, such as the gods
-and Daedra, can not only control Magicka, but can see,
-absorb, and transfuse Magicka to and from objects and
-people. By employing this ability, worshippers of these
-beings are sometimes capable of greater acts of Magic than
-they could accomplish otherwise. Also in this way, some items
-sacred to powerful beings can be said to be holy, with
-additional amounts of directed Magicka provided by gods or
-goddesses."
+"Los objetos mágicos se dividen en dos categorías principales por definición.
+Objetos que se nutren de la Magicka circundante para crear
+efectos similares a hechizos, y objetos que mantienen Magicka en reserva para
+sus propios efectos internos. Normalmente, los objetos mágicos que
+absorben Magicka, dando mayores capacidades a sus
+portadores, solo se afectan a sí mismos y se considera que usan
+Magicka interna. En algunas zonas donde se han usado grandes cantidades de
+Magicka, los alrededores pueden quedar completamente
+desprovistos de ella. Esto, por supuesto, anula la capacidad de los seres
+para producir efectos mágicos en esas zonas, aunque los dioses y los
+Daedra llevan sus propios suministros de Magicka, al igual que los objetos
+mágicos que no dependen del uso de la Magicka circundante".
 
- "Magic items fall into two main categories by definition.
-Items that draw on the surrounding Magicka to create
-spell-like effects, and items that hold Magicka in reserve for
-their own internal effects.  Normally magic items which
-absorb Magicka, giving increased abilities to their
-wielders, only affect themselves and are considered to use
-internal Magicka. In some areas where great amounts of
-Magicka have been used, the surroundings may be completely
-devoid of it.  This of course negates the ability of beings
-to produce magic effects in these areas, although gods and
-Daedra carry their own supplies of Magicka, as do magic
-items that do not depend on the use of surrounding Magicka."
+Aliera dijo: "Hemos estado investigando algunos rumores e
+historias sobre algo que podría llamarse
+anti-Magicka. Creo que la presencia de un Daedra poderoso con
+el que no estuvieras en 'sintonía' podría causar interferencias con el
+lanzamiento de hechizos; tal vez incluso anular hechizos existentes.
+Quizás ciertos Daedra simplemente favorecen a los tipos de ladrón o guerrero.
+O algunas diosas, y sus sacerdotes, podrían ver con malos ojos la
+magia 'competidora' en ciertas áreas, por ejemplo en
+lugares dedicados a ellas. Así que los hechizos no autorizados
+podrían interferir con sus rituales".
 
- Aliera said, "We've been investigating some rumors and
-stories concerning something that might be called
-anti-Magicka. I think the presence of a powerful Daedra with
-whom you weren't in 'tune' could cause interference with
-spellcasting - maybe even cancel out existing spells.
-Perhaps particular Daedra simply favor thief or warrior
-types. Or some goddesses, and their priests, might frown on
-'competing' magic in certain areas, for example in
-locations dedicated to them. So then unauthorized spells
-could interfere with their rituals."
+Willow preguntó: "¿Pueden los Daedra suministrar Magicka? ¿Y qué pasa si
+un dios y un Daedra están cerca el uno del otro? ¿No se anularían, en cierto modo,
+sus poderes mutuamente? Esto podría ser la causa del
+efecto anti-Magicka".
 
- Willow asked, "Can Daedra supply Magicka? And how about
-both a god and a Daedra being nearby? - wouldn't they sort of
-nullify each other's powers? This might be the cause of the
-anti-Magicka effect."
+"Yo mismo he experimentado una zona de anti-Magicka", intervino
+Mith. "Se sentía muy parecido al efecto de lanzar un hechizo como
+Disipar Magia. En ese momento, pensé que un lanzador de hechizos verdaderamente poderoso
+aún podría lanzar hechizos de forma efectiva, pero el poder resultante habría
+sido muy reducido. Sin embargo, no tuve oportunidad de ponerlo a prueba", añadió Mith con una sonrisa.
 
- "I've experienced an anti-Magicka zone myself" inserted
-Mith. "It felt a lot like the effect of casting a spell like
-Dispel Magicka. At the time, I thought that a truly powerful
-spellcaster could still effectively cast spells, but their resulting power would have
-been much reduced. I didn't get a chance to test this out though" added Mith with a smile.
+"También podemos asumir que ciertos hechizos poderosos,
+criaturas e incluso objetos mágicos podrían en realidad drenar la
+Magicka del área circundante", respondió Geoffrey. "Esto podría
+extenderse a lugares donde una vez se reunieron y gastaron grandes cantidades de energía
+mágica, por ejemplo en templos antiguos
+donde se lanzaron grandes hechizos, o campos de batalla donde se
+enfrentaron poderosos magos. Quizás ciertos metales o piedras
+podrían actuar como absorbedores de Magicka, permitiendo estructuras enteras de zonas de anti-Magicka. Si es así, podrías
+ser capaz de llevar un amuleto hecho de material anti-Magia
+y obtener una buena ventaja contra los lanzadores de hechizos. Quizás la pureza del material usado permitiría una
+resistencia mágica cada vez mejor".
 
- "We can also assume that certain powerful spells,
-creatures and even magic items might actually drain the
-surrounding area of Magicka," replied Geoffrey. "This could
-be extended to places where great amounts of magic energy
-were once gathered and expended, for example in ancient
-temples where great spells were cast, or battlefields where
-powerful mages contested. Perhaps certain metals or stones
-could act as absorbers of Magicka, allowing for whole structures of anti-Magicka zones. If so, you might
-be able to wear a amulet made out of anti-Magicka material
-and gain a good advantage against spellcasters.  Perhaps the purity of the material used would allow for
-better and better magic resistance".
+Akatosh habló: "Los dragones se han interesado desde hace tiempo en el
+efecto anti-Magicka, como es natural. Hemos encontrado algunos
+amuletos que parecen actuar como absorbedores de Magicka. Podrían
+contener algo así como Magicka Negativa, en cuyo caso
+atraerían cualquier Magicka 'perdida' que flotara libre en el
+área local. Están hechos de una piedra, o mineral, parecido al
+mármol; es muy raro, pero podría ser extraído y
+moldeado por artesanos hábiles. Por ejemplo, estoy seguro de que los
+enanos habrían podido trabajar con este material. Ellos podrían haber hecho
+estos amuletos; o incluso esa estatua que vi una vez... era
+más alta que cualquiera de vosotros, humanoides. En cualquier caso, en estas
+montañas hemos encontrado depósitos dispersos por las
+salas y los túneles al azar, a veces profundamente dentro de las
+paredes. Por consiguiente, uno parece entrar y salir de estas
+zonas de anti-Magicka de intensidades variables, con poco o ningún
+aviso. Me he estado imaginando que este material funciona
+casi automáticamente; parece absorber Magicka 'por reflejo'
+si se le da la oportunidad. Sin embargo, no podemos descartar la
+posibilidad de que hayan sido cargados mágicamente de algún modo;
+tal vez esto ocurrió hace mucho tiempo, pero la carga de algún modo ha
+permanecido".
 
- Akatosh spoke: "Dragons have long been interested in the
-anti-Magicka effect, naturally enough. We have found some
-amulets that appear to act as Magicka absorbers. They might
-contain something like Negative Magicka, in which case they
-would attract any 'stray' Magicka floating free in the
-local area. They are made of a stone, or mineral, resembling
-marble - it is very rare, but could be extracted, and
-shaped by skilled craftsmen. For example, I'm sure that the
-dwarves could have worked with this material. They might have m
-ade
-these amulets - or even that statue that I once saw ... it was
-taller than any of you humanoids. Regardless, in these
-mountains we have found deposits scattered throughout the
-halls and tunnels at random, sometimes deep within the
-walls. Consequently, one appears to go in and out of these
-anti-Magicka zones of varying intensities, with little or no
-warning. I have been imagining that this material works
-almost automatically; it seems to 'reflexively' absorb
-Magicka if given a chance to. However, we cannot rule out the
-possibility that they have been magically charged somehow -
-perhaps this happened long ago, but the charge has somehow
-remained."
+Moraelyn preguntó: "¿Afectaría el amuleto a su portador, o
+sería este inmune?"
 
- Moraelyn asked, "Would the amulet affect its wearer, or
-would he be immune?"
+"Tal vez podría desarrollarse un hechizo de bloqueo, y luego lanzarse,
+para proteger al portador de los efectos de la sustancia".
 
- "Maybe a blocking spell could be developed, and then cast,
-to shield the wearer from the effects of the substance."
+Moraelyn preguntó entonces: "Pero Akatosh, volviendo a nuestras
+anteriores discusiones, ¿qué piensas tú de las especulaciones
+sobre las conexiones entre los dioses y las diosas, los
+Daedra y la Magicka?"
 
- Moraelyn then asked, "But Akatosh, getting back to our
-earlier discussions - what do you think of the speculations
-de
-these amulets - or even that statue that I once saw ... it was
-taller than any of you humanoids. Regardless, in these
-mountains we have found deposits scattered throughout the
-halls and tunnels at random, sometimes deep within the
-walls. Consequently, one appears to go in and out of these
-anti-Magicka zones of varying intensities, with little or no
-warning. I have been imagining that this material works
-almost automatically; it seems to 'reflexively' absorb
-Magicka if given a chance to. However, we cannot rule out the
-possibility that they have been magically charged somehow -
-perhaps this happened long ago, but the charge has somehow
-remained."
+Akatosh respondió: "Creo que hay muchas verdades que no conocemos, y tal vez
+haya algunas verdades que no estamos destinados a conocer".
 
- Moraelyn asked, "Would the amulet affect its wearer, or
-would he be immune?"
+Moraelyn preguntó con una sonrisa: "Muy bien entonces, siempre
+he querido saber esto: considerando la forma de tu boca y tus dientes, ¿cómo se las arreglan los dragones para hablar los lenguajes humanoides con tanta claridad?"
 
- "Maybe a blocking spell could be developed, and then cast,
-to shield the wearer from the effects of the substance."
+Akatosh hizo una pausa y luego respondió cuidadosamente: "¿Pues de la
+misma forma que podemos volar, aun cuando nuestras alas no son
+lo suficientemente fuertes por naturaleza para soportar torsos tan pesados?"
 
- Moraelyn then asked, "But Akatosh, getting back to our
-earlier discussions - what do you think of the speculations
-concerning the connections between the gods and goddesses,
-Daedra and Magicka?"
+"Hablando del vuelo de los dragones y de los atardeceres...", dijo Mith,
+poniéndose en pie y entornando los ojos hacia el cielo oriental de color rojo dorado,
+"Tenemos un visitante, Señor Dragón. Eso no es un pájaro".
 
- Akatosh replied, "I think that there are many truths that we do not know, and perhaps
-there are some truths that we are not meant to know."
+La cabeza de Akatosh se levantó y él también escudriñó el cielo. La tensión creció en él, y uno a uno los Compañeros se levantaron, observando cómo
+el punto distante crecía y se revelaba como el
+dragón más grande que habían visto hasta ahora.
 
- Moraelyn asked with a smile, "All right then, I've always
-wanted to know this - considering the shape of your mouth and teeth, how do dragons manage to speak the humanoid
-languages so clearly?"
+"¡Ma-Tylda!", exclamó Akatosh, "¡Se digna a brindarnos su
+presencia!" Sus alas se elevaron y se desplegaron, y los
+Compañeros se dispersaron y corrieron a cubrirse mientras él emprendía el vuelo. Los
+dos dragones giraron por el cielo, lanzando grandes chorros de
+llama contra el cielo que se tornaba púrpura.
 
- Akatosh paused, and then carefully responded,  "Why, in
-much the same way that we can fly, even though our wings are not
-naturally strong enough to support such heavy torsos."
-
- "Speaking of dragon flight and sunsets..." Mith said,
-rising to his feet and squinting into the red-gold eastern sky,
-"We have a vistor, Dragon Lord. That's not a bird."
-
- Akatosh's head came up and he too scanned the sky. Tension grew in him, and one by one the Companions rose, watching as
-the distant dot grew nearer and resolved itself into the
-largest dragon they'd seen yet.
-
- "Ma-Tylda!" Akatosh exclaimed, "She deigns to bestow her
-presence on us!" His wings lifted and unfurled, and the
-Companions broke and ran for cover as he took flight. The
-two dragons wheeled through the sky, spouting great gouts of
-flame against the purpling sky.
-
- "They're fighting," Edward cried, "what does it mean. Who is
+"Están peleando", gritó Edward, "¿qué significa esto? ¿Quién es
 Ma-Tylda?"
 
- "I don't know who she is, son," Moraelyn replied, "but they
-do not fight. You behold a dragon greeting ceremony." The
-pair alit beyond a rock outcropping out of sight. 
+"No sé quién es ella, hijo", respondió Moraelyn, "pero
+no pelean. Estás contemplando una ceremonia de saludo entre dragones". La
+pareja aterrizó tras un afloramiento rocoso, fuera de la vista.
 
- "Should we go greet the stranger, too?" Edward asked.
+"¿Deberíamos ir a saludar al extraño también?", preguntó Edward.
 
- "Nay," Mith said. "They'll let us know if our  presence is
-wanted -- look, even the other dragons stay away." It was true. Dragon heads had poked from the caverns to witness the event, but none of them had taken
-wing, and now they were retreating to their hoards within.
+"No", dijo Mith. "Nos harán saber si nuestra presencia es
+querida; mira, incluso los otros dragones se mantienen alejados". Era cierto. Varias cabezas de dragón se habían asomado desde las cavernas para presenciar el evento, pero ninguno de ellos había emprendido el
+vuelo, y ahora se retiraban a sus tesoros en el interior.
 
- The Companions ambled back into the meadow together and
-built a fire as a chill wind had sprung up. The elves sang an
-evening hymn to the stars, deftly weaving the dark elf
-version with the wood elf form. Aliera added her voice to theirs, but Mats
-and Edward and Silk and Ssa'ass sat listening silently.
-They couldn't manage elven music of this kind. Geoffrey had
-a particularly clear sweet voice, Edward thought.
+Los Compañeros regresaron juntos a la pradera y
+encendieron un fuego, pues se había levantado un viento gélido. Los elfos cantaron un
+himno vespertino a las estrellas, entrelazando hábilmente la versión
+de los elfos oscuros con la de los elfos del bosque. Aliera unió su voz a la de ellos, pero Mats,
+Edward, Silk y Ssa'ass se quedaron escuchando en silencio.
+No podían arreglárselas con música élfica de este tipo. Geoffrey tenía
+una voz particularmente clara y dulce, pensó Edward.
 
- Akatosh returned presently, smiling in satisfaction. "Ma-Tylda's going to join us
-here, at least for awhile," he said. He was actually glowing
-in the dusk, each scale giving off a golden radiance.
+Akatosh regresó poco después, sonriendo con satisfacción. "Ma-Tylda va a unirse a nosotros
+aquí, al menos por un tiempo", dijo. De hecho, estaba brillando
+en el crepúsculo; cada escama emitía un resplandor dorado.
 
- "Is she your queen?" Edward asked, feeling very small and
-human.
+"¿Es ella tu reina?", preguntó Edward, sintiéndose muy pequeño y
+humano.
 
- "She -- just is. Maybe she'll want to meet you all some day. I hope so. Until then, well, I don't talk about other
-dragons, you know."
+"Ella... simplemente es. Tal vez quiera conoceros a todos algún día. Eso espero. Hasta entonces, bueno, ya sabéis que no hablo de otros
+dragones".
 
- To which Edward blinked in surprise and then surmise, and the
-discussion dissolved into jokes and songs for the remainder
-of that clear and beautiful evening. 
+Ante lo cual Edward parpadeó sorprendido y luego conjeturó, y la
+discusión se disolvió en bromas y canciones durante el resto
+de aquella clara y hermosa noche.

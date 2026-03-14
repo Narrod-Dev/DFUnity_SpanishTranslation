@@ -1,333 +1,299 @@
-Title: The Real Barenziah, Part X
-Author: Anonymous
+Title: La Real Barenziah, Parte X
+Author: Anónimo
 IsNaughty: False
 Price: 580
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]The Real
+[/center]La Real
 
 [/center]Barenziah
 
-[/center]Part X
-
-
+[/center]Parte X
 
 [/font=4]
 
-
-
 [/center]
 
- Barenziah stood at the open tower window, waiting. She
-could sense her familiar's nearness, but though the night sky
-was clear as day to her eyes she could not yet see him. Then suddenly he was there, a swift moving dot beneath the wispy night clouds. A few
-more minutes and the great nighthawk  was there, wings folded,
-talons reaching for her thick leather armband. She carried
-the bird to its perch where it waited, panting, while her
-impatient fingers felt for the message secured in a capsule
-on one leg. It drank, then ruffled its feathers and began to
-preen, secure in her presence. A tiny part of her
-consciousness shared its satisfaction with a job well done,
-rest earned ... yet beneath that was an unease. Things were
-not right, even to its bird mind. 
+Barenziah estaba de pie junto a la ventana abierta de la torre, esperando.
+Podía sentir la cercanía de su familiar, pero aunque el cielo nocturno era
+claro como el día para sus ojos, aún no podía verlo. De repente, allí estaba,
+un punto de movimiento rápido bajo las tenues nubes nocturnas. Unos minutos
+más y el gran halcón nocturno aterrizó, con las alas plegadas y las garras
+buscando el grueso brazalete de cuero de Barenziah. Ella llevó al ave a su
+percha, donde esperó jadeante mientras los impacientes dedos de la reina
+buscaban el mensaje asegurado en una cápsula en su pata. El ave bebió, ahuecó
+sus plumas y comenzó a acicalarse, segura en su presencia. Una pequeña parte
+de la conciencia de Barenziah compartía la satisfacción del animal por el
+trabajo bien hecho... pero bajo eso había una inquietud. Las cosas no
+estaban bien, ni siquiera para la mente de un pájaro.
 
- Her fingers shook as she unfolded the thin sheet and pored over
-the sheet of cramped writing. Not Symmachus' bold hand!
-Barenziah sat, slowly, fingers smoothing the document while
-she prepared her mind and body to accept disaster calmly.
+Sus dedos temblaron mientras desplegaba la fina hoja y escudriñaba la
+escritura apretada. ¡No era la letra audaz de Symmachus! Barenziah se
+sentó, lentamente, alisando el documento mientras preparaba su mente y su
+cuerpo para aceptar el desastre con calma.
 
- The Imperial Guards had deserted Symmachus and joined the
-rebels. The loyal troops had suffered a decisive defeat. The
-rebel leader had been recognized as king of Morrowind by the
-Emperor. Symmachus was dead. Barenziah and the children had
-been declared traitors of  the Empire and a price set on
-their heads.
+La Guardia Imperial había desertado de Symmachus para unirse a los rebeldes.
+Las tropas leales habían sufrido una derrota decisiva. El líder rebelde
+había sido reconocido como rey de Morrowind por el Emperador. Symmachus
+estaba muerto. Barenziah y los niños habían sido declarados traidores del
+Imperio y se había puesto precio a sus cabezas.
 
- "My lady?" Barenziah jumped, startled at her servant's
-approach. "The Breton is here. King Eadwyre," the woman
-added helpfully, noting Barenziah's puzzlement. "Is there
-news, my lady?" she said, nodding at the nighthawk.
+"¿Mi señora?". Barenziah saltó, sobresaltada por el acercamiento de su
+sirvienta. "El bretón está aquí. El Rey Eadwyre", añadió la mujer de forma
+útil, notando el desconcierto de Barenziah. "¿Hay noticias, mi señora?",
+dijo señalando al halcón.
 
- "Nothing that will not wait," Barenziah said quickly. "See
-to the bird."
+"Nada que no pueda esperar", dijo Barenziah rápidamente. "Cuida del ave".
 
- King Eadwyre greeted her gravely and courteously, if rather fulsomely. He claimed to be a great admirer of
-Symmachus, who figured prominently in his family legends.
-Gradually he turned the conversation to her business with the
-Emperor. Finding her noncommittal, he suddenly blurted
-out, "My Lady Queen, you must believe me. The man posing as
-the Emperor is an impostor! I know it sounds mad, but I -- "
+El Rey Eadwyre la saludó con gravedad y cortesía, aunque de forma algo
+excesiva. Afirmó ser un gran admirador de Symmachus, quien figuraba de
+forma prominente en las leyendas de su familia. Gradualmente, dirigió la
+conversación hacia sus asuntos con el Emperador. Al encontrarla poco
+comunicativa, soltó de repente: "Reina mía, debe creerme. ¡El hombre que
+se hace pasar por el Emperador es un impostor! Sé que suena a locura,
+pero yo...".
 
- "No," Barenziah said, with sudden decisiveness. "You are
-correct. I know."
+"No", dijo Barenziah con súbita decisión. "Tienes razón. Lo sé".
 
- Eadwyre relaxed back into his seat for the first time, eyes
-shrewd. "You know? You're not just humoring a madman? My
-lady I -- we -- need your aid."
+Eadwyre se relajó en su asiento por primera vez, con mirada astuta. "¿Lo
+sabe? ¿No está solo siguiendo la corriente a un loco? Mi señora, yo...
+nosotros... necesitamos su ayuda".
 
- Barenziah smiled grimly at the irony. "Of what assistance
-might I be, my lord?"
+Barenziah sonrió sombriamente ante la ironía. "¿En qué podría ser de ayuda,
+mi señor?".
 
- Quickly he outlined a plot. The Imperial Sorceress Ria
-Silmane had been killed and declared a traitor by the false
-emperor, yet she retained a bit of her power and could yet
-contact a few of those she had known well on the mortal
-plane. She had chosen a Champion who would undertake to
-assemble the missing staff pieces and use the staff's power
-to destroy Jagar Tharn, who was otherwise invulnerable, and
-rescue the true Emperor, who was being held prisoner in
-another plane. However, the chosen Champion languished now
-in the Imperial Dungeons. Tharn's attention must be diverted
-while he freed himself with Ria's help. Barenziah had Tharn's
-ear and eye. Could she provide the necessary distraction?
+Rápidamente, él esbozó un plan. La hechicera imperial Ria Silmane había sido
+asesinada y declarada traidora por el falso emperador, pero conservaba
+parte de su poder y aún podía contactar con algunos de los que había
+conocido bien en el plano mortal. Ella había elegido a un Campeón que se
+encargaría de reunir las piezas perdidas del bastón y usar su poder para
+destruir a Jagar Tharn —quien de otro modo era invulnerable— y rescatar
+al verdadero Emperador, prisionero en otro plano. Sin embargo, el Campeón
+elegido languidecía ahora en las Mazmorras Imperiales. La atención de Tharn
+debía ser desviada mientras él se liberaba con la ayuda de Ria. Barenziah
+tenía el oído y el ojo de Tharn. ¿Podría ella proporcionar la distracción
+necesaria?
 
- "I suppose I could obtain another audience with him. Would
-that be sufficient? What do you mean, his eye?"
+"Supongo que podría obtener otra audiencia con él. ¿Sería suficiente? ¿Qué
+quieres decir con 'su ojo'?".
 
- Eadwyre looked uncomfortable. "It was whispered among the
-servants that Jagar Tharn kept your likeness in a sort of
-shrine in his chambers. That surprises you?"
+Eadwyre pareció incómodo. "Se rumorea entre los sirvientes que Jagar Tharn
+guarda su retrato en una especie de altar en sus aposentos. ¿Eso la
+sorprende?".
 
- "Yes. And no."
+"Sí. Y no".
 
- "Our chosen one may need a few days to escape."
+"Nuestro elegido puede necesitar unos días para escapar".
 
- "You trust me in this? Why?"
+"¿Confía en mí para esto? ¿Por qué?".
 
- "We are desperate, my lady. We have no choice. But yes, I
-do trust you. Symmachus -- "
+"Estamos desesperados, mi señora. No tenemos elección. Pero sí, confío en
+usted. Symmachus...".
 
- "Is dead." Barenziah explained quickly and coolly.
+"Está muerto", explicó Barenziah rápida y fríamente.
 
- "My Lady. What dreadful news!" For the first time
-Eadwyre's urbane poise was shaken. "Under the circumstances,
-we can hardly ask -- "
+"¡Mi señora, qué noticia tan terrible!". Por primera vez, la compostura
+urbana de Eadwyre se vio sacudida. "Dadas las circunstancias, apenas
+podemos pedir...".
 
- "Nay, my lord king. Under the circumstances I must do what I
-may to avenge myself upon the murderer of my childrens'
-father. In return I ask only that you protect my orphaned
-children as you may."
+"No, mi señor rey. Dadas las circunstancias, debo hacer lo que pueda para
+vengarme del asesino del padre de mis hijos. A cambio, solo pido que
+proteja a mis hijos huérfanos como pueda".
 
- "Most willingly do I so pledge, most brave and noble
-lady!"
+"¡Lo juro con la mayor voluntad, valiente y noble señora!".
 
- Old fool, Barenziah thought. She did not sleep that night,
-but sat in a chair beside her bed, hands folded in her lap,
-thinking long deep thoughts. She would not tell the
-children, not yet, not until she must.
+Viejo tonto, pensó Barenziah. No durmió esa noche; se sentó en una silla
+junto a su cama, con las manos cruzadas en el regazo, sumida en profundos
+pensamientos. No se lo diría a los niños, todavía no, no hasta que fuera
+necesario.
 
- She had no need to seek another audience with the "Emperor"
-for a summons came in the morning. She told the children she
-expected to be gone a few days, bade them give the servants
-no trouble and kissed them goodbye. Morgiah whimpered a bit,
-for she was bored and lonely in Imperial City. Helseth looked
-dour but said nothing. He was very like his father.
+No necesitó buscar otra audiencia con el "Emperador", pues por la mañana
+llegó una citación. Les dijo a los niños que esperaba estar fuera unos
+días, les pidió que no dieran problemas a los sirvientes y se despidió con
+un beso. Morgiah gimoteó un poco, pues estaba aburrida y sola en la Ciudad
+Imperial. Helseth se veía sombrío pero no dijo nada. Se parecía mucho a
+su padre.
 
- At the palace, Barenziah was escorted not into the great
-hall, but to a small parlor where the Emperor sat at a
-solitary breakfast. He nodded a greeting, and waved his hand
-at the window. "Splendid view, isn't it?"
+En el palacio, Barenziah no fue escoltada al gran salón, sino a un
+pequeño salón donde el Emperador desayunaba a solas. Él asintió a modo de
+saludo y señaló la ventana con la mano. "Espléndida vista, ¿verdad?".
 
- Barenziah stared out over the towers of the great city. It
-dawned on her that this was the very chamber where she'd first
-met Tiber Septim and a strong wave of inchoate feeling
-swept over her. When she turned back at last Uriel Septim had
-vanished and Nightingale sat in his place, laughing.
+Barenziah contempló las torres de la gran ciudad. Se dio cuenta de que
+esta era la misma habitación donde conoció a Tiber Septim, y una fuerte
+oleada de sentimientos confusos la invadió. Cuando finalmente se dio la
+vuelta, Uriel Septim se había desvanecido y Nightingale estaba sentado en
+su lugar, riendo.
 
- "You knew," he said accusingly, scanning her face. "I
-wanted to surprise you. You might at least pretend."
+"Lo sabías", dijo él en tono acusador, escudriñando su rostro. "Quería
+sorprenderte. Al menos podrías fingir".
 
- Barenziah spread her arms, "I'm afraid my skills at pretense
-are no match for yours, my liege."
+Barenziah extendió los brazos: "Me temo que mis habilidades para fingir
+no están a la altura de las vuestras, mi soberano".
 
- "You're angry with me." He pretended to pout.
+"Estás enfadada conmigo". Fingió un mohín.
 
- "Just a little," she said icily. "I do find betrayal
-offensive."
+"Solo un poco", dijo ella gélidamente. "Encuentro la traición ofensiva".
 
- "How human of you."
+"Qué humano por tu parte".
 
- "What do you want of me?"
+"¿Qué quieres de mí?".
 
- He wiped his mouth and stood erect. "Now you are
-pretending. You know what I want of you, my love."
+Él se limpió la boca y se puso firme. "Ahora estás fingiendo. Sabes lo que
+quiero de ti, amor mío".
 
- "You want to tantalize and torment me. Go ahead. I'm in
-your power."
+"Quieres atormentarme. Adelante. Estoy en tu poder".
 
- "No, no, no. I don't want that at all, Barenziah." He came
-near, speaking low in the old caressing voice that sent
-shivers over her body. "Don't you see? This was the only
-way." His hands closed on her arms.
+"No, no, no. No quiero eso en absoluto, Barenziah". Se acercó, hablando
+bajo con esa vieja voz acariciante que le provocaba escalofríos por todo
+el cuerpo. "¿No lo ves? Este era el único camino". Sus manos se cerraron
+sobre los brazos de ella.
 
- "You could have taken me with you!" Tears gathered in her
-eyes.
+"¡Podrías haberme llevado contigo!". Las lágrimas asomaron a sus ojos.
 
- He shook his head. "I didn't have the power. Ah, but now, now I
-have it all. Mine to have, mine to share -- with you." He
-waved his hand toward the window and the city beyond. "All
-Tamriel to lay at your feet -- and that is only the
-beginning."
+Él sacudió la cabeza. "No tenía el poder. Ah, pero ahora, ahora lo tengo
+todo. Mío para tenerlo, mío para compartirlo... contigo". Señaló con la
+mano hacia la ventana y la ciudad más allá. "Todo Tamriel puesto a tus
+pies... y eso es solo el principio".
 
- "It's too late. Too late. You left me to him."
+"Es demasiado tarde. Demasiado tarde. Me dejaste con él".
 
- "He's dead. A scant few years...what does it matter?"
+"Está muerto. Unos pocos años... ¿qué importa?".
 
- "The children -- "
+"Los niños...".
 
- "I'll adopt them. We'll have others together, Barenziah. I
-have powers you do not dream of!" He moved to kiss her but she
-slipped his grasp and turned away. 
+"Los adoptaré. Tendremos otros juntos, Barenziah. ¡Tengo poderes que ni
+sueñas!". Intentó besarla, pero ella se zafó y se dio la vuelta.
 
- "I don't believe you."
+"No te creo".
 
- "You do, you know. You're still angry, that's all." His
-smile did not reach his eyes. "What do you want?"
+"Sí que lo haces. Estás enfadada, eso es todo". Su sonrisa no llegaba a sus
+ojos. "¿Qué es lo que quieres?".
 
- She shrugged. "A walk in the garden. A song or two."
+Ella se encogió de hombros. "Un paseo por el jardín. Una canción o dos".
 
- "Ah. You want to be courted."
+"Ah. Quieres que te corteje".
 
- "Why not? You do it so well. It's been long since I've had
-the pleasure."
+"¿Por qué no? Lo haces tan bien. Ha pasado mucho tiempo desde que tuve ese
+placer".
 
- And so they spent their days in courtship, walking, talking,
-singing and laughing together, while the Empire's business
-was left to underlings.
+Y así pasaron sus días en el cortejo, caminando, hablando, cantando y
+riendo juntos, mientras los asuntos del Imperio quedaban en manos de
+subalternos.
 
- "I'd like to see the staff," Barenziah said idly one day. "I
-only had a glimpse of it."
+"Me gustaría ver el bastón", dijo Barenziah ociosamente un día. "Solo lo vi
+un instante".
 
- "Nothing would give me greater pleasure, heart's delight,
-but that's impossible."
+"Nada me daría mayor placer, deleite de mi corazón, pero eso es
+imposible".
 
- "You don't trust me," Barenziah pouted, but she softened her
-lips for his kiss.
+"No confías en mí", se quejó Barenziah, pero suavizó sus labios para el
+beso de él.
 
- "Nonsense, love. It isn't here. In fact, it isn't
-anywhere." He laughed and kissed her again, softly.
+"Tonterías, amor. No está aquí. De hecho, no está en ninguna parte". Él
+rió y volvió a besarla suavemente.
 
- "Now you're talking in riddles again. I want to see it. You
-can't have destroyed it."
+"Ya estás hablando en acertijos de nuevo. Quiero verlo. No puedes haberlo
+destruido".
 
- "Ah, you've gained in wisdom, since last we met."
+"Ah, has ganado en sabiduría desde la última vez que nos vimos".
 
- "You piqued my interest somewhat. The staff can't be
-destroyed and it can't be removed from Tamriel, not without
-the direst consequences to the land itself."
+"Despertaste mi interés. El bastón no puede ser destruido y no puede ser
+sacado de Tamriel, no sin las consecuencias más nefastas para la tierra
+misma".
 
- "Ahhh. All true. And yet, as a I said, it isn't anywhere.
-Can you solve the riddle?" He pulled her to him and she
-leaned into his embrace. "Here's a greater riddle still," he
-whispered, "how to make one of two. That I can and will show
-you." Their bodies merged, limbs tangled together. Later,
-when they'd drawn a bit apart and dozed, she thought,
-sleepily. "One of two, two of one, three of two...what
-cannot be destroyed or banished might be split apart,
-perhaps..."
+"Ahhh. Todo es cierto. Y sin embargo, como dije, no está en ninguna parte.
+¿Puedes resolver el acertijo?". Él la atrajo hacia sí y ella se apoyó en
+su abrazo. "Aquí hay un acertijo mayor todavía", susurró él, "cómo hacer
+uno de dos. Eso puedo y voy a mostrártelo". Sus cuerpos se fusionaron,
+los miembros entrelazados. Más tarde, cuando se separaron un poco y
+cabecearon, ella pensó soñolienta: "Uno de dos, dos de uno, tres de
+dos... lo que no puede ser destruido o desterrado podría ser dividido, tal
+vez...".
 
- Nightingale kept a diary. He scribbled entries in it each
-night after quick reports from his underlings. It was locked
-but the lock was a simple one, so Barenziah managed to sneak
-quick looks at it while he was occupied in toileting himself.
-She discovered that the first staff piece was hidden in an
-ancient dwarven mine called Fang Lair, although its
-location was given only in vague terms. The diary was
-crammed with jotted events in an odd shorthand, and was
-very hard to decipher.
+Nightingale llevaba un diario. Garabateaba entradas en él cada noche tras
+los informes rápidos de sus subordinados. Estaba cerrado bajo llave, pero
+la cerradura era sencilla, así que Barenziah se las arregló para echarle
+vistazos rápidos mientras él se ocupaba de su aseo. Descubrió que la
+primera pieza del bastón estaba escondida en una antigua mina enana
+llamada Fang Lair (Guarida del Colmillo), aunque su ubicación se daba solo
+en términos vagos. El diario estaba lleno de eventos anotados en una
+extraña taquigrafía, y era muy difícil de descifrar.
 
- All Tamriel, she thought, in his hands and mine, and more
-perhaps, and yet ...  For all his surface charm there was a
-cold emptiness where his heart should have been, an emptiness
-of which he was quite unaware, she thought. One could glimpse
-it now and then, when his eyes would go blank and hard.
-Peasant dreams, Barenziah thought, and Straw flashed before
-her eyes, looking sad, and then Therris, with a mocking smile
-and empty eye sockets. Symmachus, who did what must be done,
-quietly and efficiently. Nightingale. Nightingale, who
-would rule all, and more, and yet spread chaos in the name
-of control.
+"Todo Tamriel", pensó ella, "en sus manos y en las mías, y más tal vez, y
+sin embargo...". A pesar de todo su encanto superficial, había un vacío
+frío donde debería haber estado su corazón, un vacío del que él no era
+consciente, pensó ella. Uno podía vislumbrarlo de vez en cuando, cuando
+sus ojos se quedaban en blanco y duros. Sueños de campesino, pensó
+Barenziah, y Straw pasó por delante de sus ojos con aspecto triste, y
+luego Therris, con una sonrisa burlona y las cuencas de los ojos vacías.
+Symmachus, que hacía lo que debía hacerse, tranquila y eficientemente.
+Nightingale. Nightingale, que quería gobernarlo todo, y más, y sin embargo
+sembraba el caos en nombre del control.
 
- Barenziah got reluctant leave from Nightingale to go to
-her children, who had to be told of their father's death and
-of the emperor's offer of his protection to them. Eadwyre
-called on them while she was there, and she told him what she
-had discovered so far, and explained that she must remain
-awhile yet and learn more as she could.
+Barenziah consiguió el permiso reacio de Nightingale para ir a ver a sus
+hijos, a quienes debía informar de la muerte de su padre y del
+ofrecimiento de protección del emperador. Eadwyre los visitó mientras
+ella estaba allí, y ella le contó lo que había descubierto hasta el
+momento, explicando que debía permanecer un tiempo más y aprender todo
+lo que pudiera.
 
- Nightingale teased her about her elderly admirer. He was
-quite aware of Eadwyre's suspicion, although as he said, no
-one took the old fool seriously. Barenziah managed to
-arrange a reconciliation of sorts between them. Eadwyre
-publicly recanted his suspicions and his "old friend"
-forgave him. Thus he was invited to dine with them at least
-once a week. The children liked Eadwyre, even Helseth, who
-disapproved of his mother's liaison with the "Emperor" and
-consequently detested Nightingale. He had become surly and
-temperamental and frequently quarreled with both of them.
+Nightingale se burlaba de ella por su anciano admirador. Era muy
+consciente de las sospechas de Eadwyre, aunque, como decía, nadie tomaba
+en serio al viejo tonto. Barenziah logró concertar una especie de
+reconciliación entre ellos. Eadwyre se retractó públicamente de sus
+sospechas y su "viejo amigo" lo perdonó. Así, fue invitado a cenar con
+ellos al menos una vez a la semana. A los niños les gustaba Eadwyre,
+incluso a Helseth, quien desaprobaba la relación de su madre con el
+"Emperador" y, por consiguiente, detestaba a Nightingale. Se había
+vuelto hosco y temperamental, y discutía frecuentemente con ambos.
 
- Eadwyre was not happy either and Nightingale delighted in
-publicly displaying his affection for Barenziah. They
-could not marry, of course, for Uriel Septim was already
-married. He had exiled the true Empress shortly after taking
-Septim's place, but had not dared to harm her. She was held
-by the Temple of the One. It had been given out publicly
-that she was in ill health, and rumors had been circulated
-that she had mental problems. The Emperor's children had
-also been dispatched to various prisons disguised as
-"schools".
+Eadwyre tampoco era feliz, y Nightingale disfrutaba mostrando
+públicamente su afecto por Barenziah. No podían casarse, por supuesto,
+pues Uriel Septim ya estaba casado. Había exiliado a la verdadera
+Emperatriz poco después de ocupar el lugar de Septim, pero no se había
+atrevido a hacerle daño. Ella estaba retenida por el Templo del Único.
+Se había anunciado públicamente que tenía mala salud, y circulaban
+rumores de que tenía problemas mentales. Los hijos del Emperador
+también habían sido enviados a varias prisiones disfrazadas de
+"escuelas".
 
- "She'll grow worse in time," Nightingale said carelessly,
-eying Barenziah's swollen breasts and belly with
-satisfaction. "As for his children ... well, life is full
-of hazards, isn't it? We'll be married. Your child will be
-my true heir." He did want the child. Barenziah was sure of
-that. She was far less sure of his feelings for her. They
-quarrelled, often violently, usually about Helseth, whom
-he wanted to send away to school. Barenziah made no effort
-to avoid these quarrels. Nightingale had no interest in a
-peaceful life and he thoroughly enjoyed making up
-afterwards. Occasionally Barenziah would take the children
-and retreat to their old apartment, declaring she wanted no
-more to do with him. 
+"Ella empeorará con el tiempo", decía Nightingale con descuido, mirando
+con satisfacción los pechos y el vientre hinchados de Barenziah. "En
+cuanto a sus hijos... bueno, la vida está llena de riesgos, ¿verdad? Nos
+casaremos. Tu hijo será mi verdadero heredero". Él quería al niño,
+Barenziah estaba segura de ello. Estaba mucho menos segura de sus
+sentimientos por ella. Discutían, a menudo violentamente, casi siempre
+por Helseth, a quien él quería enviar lejos a estudiar. Barenziah no hacía
+ningún esfuerzo por evitar estas peleas. Nightingale no tenía interés en
+una vida pacífica y disfrutaba plenamente de la reconciliación posterior.
+Ocasionalmente, Barenziah tomaba a los niños y se retiraba a su antiguo
+apartamento, declarando que no quería saber nada más de él.
 
- She was six months pregnant before she finally deciphered
-the location of the last staff piece -- an easy one, since
-every dark elf knew where Dagoth-Ur was. When next she
-quarrelled with Nightingale she simply left the city with
-Eadwyre and they rode hard for High Rock and Wayrest.
+Estaba embarazada de seis meses cuando finalmente descifró la ubicación
+de la última pieza del bastón —una fácil, ya que cualquier elfo oscuro
+sabía dónde estaba Dagoth-Ur—. La siguiente vez que discutió con
+Nightingale, simplemente abandonó la ciudad con Eadwyre y cabalgaron a
+toda prisa hacia Roca Alta y Wayrest.
 
- Nightingale was furious, but there was little he could do.
-His assassins were rather inept, and he dared not leave his
-seat of power to pursue them in person, nor could he openly
-declare war on Wayrest. He had no legitimate claim on her on
-her unborn child. The nobility had disapproved of his
-liaison with Barenziah and were glad that she had gone.
-Wayrest was equally disapproving and distrustful of her,
-but Eadwyre was much beloved by his prosperous little city,
-and allowances were readily made for his eccentricities.
+Nightingale estaba furioso, pero poco podía hacer. Sus asesinos eran
+bastante ineptos, y no se atrevía a abandonar su sede de poder para
+perseguirlos en persona, ni podía declarar abiertamente la guerra a
+Wayrest. No tenía ningún derecho legítimo sobre ella ni sobre su hijo
+no nato. La nobleza había desaprobado su relación con Barenziah y se
+alegraban de que se hubiera ido. Wayrest desaprobaba y desconfiaba de
+ella por igual, pero Eadwyre era muy querido por su próspera pequeña
+ciudad, y se hacían concesiones fácilmente a sus excentricidades.
 
- Barenziah and Eadwyre were married a year after the birth of
-her son by Jagar Tharn. Eadwyre doted on her. She did not
-love him, but she was fond of him, and that was something. It
-was nice to have someone, and Wayrest was a very pleasant
-place, a good place for children to grow up, while they
-waited, and hoped, and prayed for their Champion's success
-in his long mission.                                                           
-                                                                                        
-                                                                                        
-                                                                                        
-                                                                                        
-                                                                                        
-                                                                                        
-                                                                                        
-                                                                                        
-                                                                                        
-                                                                                        
-                                                                                        
-                          
+Barenziah y Eadwyre se casaron un año después del nacimiento del hijo
+que tuvo con Jagar Tharn. Eadwyre la adoraba. Ella no lo amaba, pero le
+tenía cariño, y eso era algo. Estaba bien tener a alguien, y Wayrest era
+un lugar muy agradable, un buen sitio para que los niños crecieran
+mientras esperaban, esperanzados, y rezaban por el éxito de su Campeón
+en su larga misión.
+
+
+

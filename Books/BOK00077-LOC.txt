@@ -1,405 +1,384 @@
-Title: Fools' Ebony, Part the Fourth
+Title: Ébano del tonto, cuarta parte
 Author: Frincheps
 IsNaughty: True
 Price: 317
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]Fools' Ebony
+[/center]Ébano del tonto
 
-[/center]Part The
+[/center]Parte la
 
-[/center]Fourth
-
-
+[/center]Cuartarta
 
 [/font=4]
 
+[/center] Reparto
 
+Prólogo El Aventurero, un Bribón Elfo Oscuro Komon, un Sacerdote
+de Akatosh Lheban, otro Sacerdote de Akatosh Epílogo Stete, un
+Sacerdote de Julianos Raic, otro Sacerdote de Julianos Shub, un
+Mago Shub, un Mago Diferente del Mismo Nombre Nephron, un
+Mercader algo Sórdido 5 Armeros Ortho Crunn, esposo de
+Millie Una Condesa Lúbrica Millie, Posadera y Filósofa
+Gurnsey, Moza Bovina Mozas variadas y canallas de las
+tabernas Soldados Enanos Gigantes
 
-[/center] Dramatis Personae
+Parte la Cuartarta - Tratos Mercantiles, los
+Armeros se Involucran.
 
- Prologue The Adventurer, A Dark Elf Rascal Komon, A Priest
-of Akatosh Lheban, Another Priest of Akatosh Epilogue Stete, A
-Priest of Julianos Raic, Another Priest of Julianos Shub, A
-Mage Shub, A Different Mage of the Same Name Nephron, A
-Somewhat Sleazy Merchant 5 Armorers Ortho Crunn, Husband of
-Millie A Lusty Contessa Millie, Innkeep and Philosopher
-Gurnsey, Bovine Wench Assorted Wenches and Cads of the
-Taverns Soldiers Dwarves Giants
+Tras algo de discusión
+  general y danza verbal,
+  finalmente el tema del
+  Ébano del Tonto es
+  explorado ... En algún lugar cerca del mercado, en la
+parte trasera de una tienda llamada "Mercancías Generales de Nephron".
 
+Al día siguiente.
 
+(Entran el Prólogo, el Aventurero y Nephron)
 
- Part The Fourth - Mercantile Dealings,                   The
-Armorers Involve
+Prólogo: Mientras los actores que interpretan al Aventurero
+y al mercader Nephron mueven dramáticamente
 
+sus bocas para simular una conversación,
 
-  Themselves. After some
+recae sobre los hombros del pobre Prólogo
 
+informar al público sobre las acciones
 
-  general discussion and
+de la obra en sus tres primeros actos.
 
+El Aventurero, un pícaro Elfo Oscuro,
 
-  verbal dancing around,
+ha sido contratado por dos grupos diferentes --
 
+cuatro sacerdotes ebrios y dos magos
 
-  finally the topic of
+codiciosos -- para retrasar al otro grupo, y
 
+encontrar el alijo perdido de Ébano del Tonto en
 
-  Fools' Ebony is
+las montañas Wrothgarian. Ahora, imaginen
 
+este decorado payasesco como la habitación
 
-  explored ...                  Somewhere near the market, in
-the back of a store called "Nephron's General Mercantile".
+trasera de una próspera tienda de mercader. Y
 
- The day after.
+antes de que al Aventurero y a Nephron les
 
- (Enter Prologue, the Adventurer, and Nephron)
+de tétanos por el silencio, el Prólogo les
 
- Prologue:   Whilst the actors playing the Adventurer           
- and the merchant Nephron dramatically
+dejará así.
 
+Aventurero: Así que ya ves, amigo Nephron, qué
 
-    move their mouths to pantomime a
+oportunidad tenemos aquí. Tenemos esta
 
+nueva mercancía, para la cual estarás de acuerdo
 
-    conversation, it is on poor Prologue's
+en que habrá una demanda enorme.
 
+Nephron: Especialmente por parte de la Realeza -- una vez
 
-    shoulders to update the audience on the
+que uno de ellos tiene algo nuevo, todos lo quieren,
 
+por supuesto.
 
-    play's actions in its first three acts.
+Aventurero: Y no olvides a los Armeros para sus
 
+forjas, y a los Alquimistas para sus
 
-    The Adventurer, a rogue of a Dark Elf,
+retortas y demás bártulos...
 
+Nephron: Parece que tienes a los Magos bien alineados,
 
-    has been hired two different groups --
+tienes su ubicación, memorizaste el mapa de
 
+acceso y demás - sabes, nosotros los mercaderes
 
-    four inebriated priests and two greedy
+sospechábamos desde hace tiempo que esos viejos
 
+tontos guardaban algún oscuro secreto de interés
 
-    mages -- to delay the other group, and
+para nosotros... Ahora, los sacerdotes - ya
 
+trabajamos bien con la Escuela de Julianos,
 
-    find the lost cache of Fools' Ebony in
+como uña y carne, podría decirse. Pero por
 
+supuesto los dejaremos fuera de las mayores
 
-    the Wrothgarian Mountains. Now, picture
+ganancias -- ¿quizás dejarlos distribuir un poco
 
+a sus rebaños? Y sus Templos son buenos,
 
-    this clownishly decorated set as the
+¿cómo decirlo? -- ¿almacenes? Pero el
 
+Sagrario de Akatosh es un problema, siempre
 
-    back room at a prosperous merchant's
+saliendo y haciendo cosas por su propia iniciativa,
 
+sin cooperación, solo gente loca ... realmente
 
-    shop. And before the Adventurer and
+necesitamos hacer algo con ellos, para ... er ...
 
+asegurar su cooperación ...
 
-    Nephron develop lockjaw, Prologue will
+Aventurero: Tengo una sugerencia que podría ayudar ...
 
+recuerda cómo el viejo Komon se fue y
 
-    leave you thus.
+aparentemente se llevó a rastras a alguna
 
- Adventurer: So you see, friend Nephron, just what an           
- opportunity we have here. We have this
+chica rubia de la farola ... supongamos que,
 
+solo por casualidad, en su estado de ...
 
-    new commodity, for which you agree there
+confusión ... ¿se llevó a alguien importante
 
+por error..? ¿Podría haber muchos problemas
 
-    will be a huge demand.
+para el Sagrario si se corriera la voz?
 
- Nephron:    Especially from the Royals -- once one             of
-them has something new, they all want
+Nephron: Hmmm. Ciertamente ... hay una pequeña y
 
+tonta rubia de la Realeza que está toda emocionada
 
-    it, of course.
+por la 'vida real' en estos barrios de la
 
- Adventurer: And do not forget the Armorers for their            
-forges, and the Alchemists for their
+ciudad. Se disfraza (o eso cree), viene
 
+por aquí y juega a ser pobre. Pequeña y
 
-    retorts and whatnots...
+tonta boba ... Komon todavía está escondido
 
- Nephron:    You seem to have the Mages lined up            
-nicely, got their location, memorized
+con su rubia, ¿verdad?
 
+Aventurero: Sí, en ese 'retiro' que tienen los Sacerdotes,
 
-    the access map, and so on - you know,              we
-merchants have had a suspicion for
+cerca de la zona portuaria.
 
+Nephron: Oh sí, conozco ese lugar - a menudo les
 
-    quite some time that those old twits
+vendo algunos 'polvos espirituales' y demás...
 
+Bien ... verás, imagina lo que pasaría si
 
-    had some deep dark secret of interest
+Komon, por error, hubiera agarrado a esta
 
+Condesita que andaba de barrios bajos ... el
 
-    to us...             Now, the priests - the School of
-Julianos
+Sagrario de Akatosh no pararía de tener
 
+problemas con el palacio si algo malo le
 
-    we already work well with, hand and
+pasara a ella ... y entonces podríamos
 
+entrar nosotros, ofrecer 'ayuda' al Sagrario
 
-    glove, you might say. But of course we
+durante sus tiempos difíciles ... Hmmm. ¡Sí!
 
+Déjamelo a mí, contactaré a algunos de
 
-    shall cut them out of the major profits
+mis ... er ... socios comerciales, por así
 
+decirlo ... haré algunos preparativos.
 
-    -- maybe let them distribute some to
+Aventurero: ¿Y yo seguiré charlando con los
 
+sacerdotes, para que apoyen nuestra pequeña
 
-    their flocks?  And their Temples make
+aventura empresarial?
 
+Nephron: ¡Exacto! Y debería presentarte a algunos de
 
-    good, how can I say? -- storehouses?
+los miembros más veteranos de nuestra
 
+Hermandad ... perdón, Gremio. Déjame
 
-    But the Akatosh Chantry is a problem,
+contactarte en unos días, cuando todo esté
 
+listo. ¿Estás aquí todas las noches?
 
-    always running off and doing things on
+Aventurero: Sí, no es particularmente seguro estar fuera
 
+después de anochecer estos días.
 
-    their own initiative, no cooperation,             just
-crazy people ... we really need to
+Nephron: Ya veo. Tendremos que organizar algo de ...
 
+protección para ti. Bueno, en unos días entonces.
 
-    do something about them, to ... er ...             ensure
-their cooperation ...
+(Sale Nephron, discretamente) (Entran cinco Armeros)
+(Los Armeros y el Aventurero pelean) (El Aventurero cae)
+(Los Armeros atan al Aventurero y luego lo despiertan)
 
- Adventurer: I have a suggestion that might help ...            
-you recall how old Komon left and             apparently
-dragged off some little blonde             lamppost girl ...
-just suppose, that just             by chance, in his state of
-...             befuddlement ... he dragged off someone
+Armero 1: Muy bien, tipo. ¡No andemos con rodeos!
 
+Sabemos lo de este Ébano del Tonto. Y sobre
 
-    important by mistake..? Might be a lot of
+los Magos que aparentemente descubrieron la
 
+ubicación. Y te hemos estado observando bailar
 
-    trouble for the Chantry, if word got out?
+con los Sacerdotes, los Magos, los Mercaderes.
 
- Nephron:    Hmmm. Indeed ... there's this silly            
-little blonde Royal who's all excited by
+¡Casi con cualquiera que tenga dos pies!
 
+Armero 2: Y cómo estás trabajando realmente con Nephron.
 
-    the 'real life' down in these parts of
+Armero 3: Y cómo estás traicionando a los Sacerdotes
 
+y a los Magos ...
 
-    town. Disguises herself (or so she             thinks), comes
-on down here and plays at             being poor.  Stupid
-little twit ... Komon             is still in hiding with his
-blonde, right?
+Armero 2: Tú y Nephron realmente están haciendo un
 
- Adventurer: Yes, in that 'retreat' the Priests have,            
-down near the waterfront.
+buen trabajo con el Sagrario de Akatosh,
 
- Nephron:    Oh yes, I know that place - often sell            
-them some 'spiritual powders' and so on
+debemos admitirlo.
 
+Armero 1: Pero ahora, queremos ese suministro de Ébano
 
-    ... Good ... you see, just imagine what             would
-happen if Komon, by mistake, had             grabbed this
-slumming little Contessa             ... Akatosh Chantry would
-have no end of             trouble from the palace if something 
-           nasty happened to her ... and then we             could
-move in, offer to 'help' the Chantry             during their
-hard times ... Hmmm.             Yes! Leave it to me, I shall
-contact a few             of my ... er ... business associates,
-as             it were ... make some arrangements.
+del Tonto. Lo necesitamos para aumentar nuestra
 
- Adventurer: And I'll keep up chatting with the            
-priests, get them to support our little             business
-venture?
+producción, nuestra calidad -- y nuestros precios.
 
- Nephron:    Right!  And I should introduce you to some           
- of the more senior members of our             Brotherhood ...
-excuse me, Guild.  Let me             contact you in a few days,
-when everything             is all set. You are here every
-evening?
+Podemos trabajar con Nephron y su banda,
 
- Adventurer: Yes, not particularly safe outside after         
-   dark these days.
+necesitamos almacenes y distribución de
 
- Nephron:    I see. We shall have to arrange some ...            
-protection for you. Well, in a few days,
+todos modos.
 
+Armero 4: Podríamos sacártelo con tortura ...
 
-    then.
+Armero 3: Podríamos informar a los Sacerdotes de tus
 
- (Exit Nephron, inconspicuously) (Enter Five Armorers)
-(Armorers and the Adventurer fight) (The Adventurer falls)
-(The Armorers tie the Adventurer up and then wake him up)
+planes -- ¡te lanzarían a la Sociedad Afterdark
 
- Armorer 1:  OK, fellow. Lets not spriggen-foot around!      
-      We know about this Fools' Ebony thing. And             about
-the Mages who apparently discovered              the location.
-And we have been watching you             dance around with the
-Priests, the Mages,             the Merchants. Just about
-everyone with two
+en un instante!
 
+Armero 5: ¡Podríamos informar a los Magos -- te
 
-    feet!
+enviarían a Oblivion por mucho, mucho tiempo!
 
- Armorer 2:  And how you are really working with Nephron.
+Armero 1: Pero preferiríamos que te 'unieras' a nuestro
 
- Armorer 3:  And how you are double-crossing the Priests         
-   and Mages ...
+Gremio. No podemos permitirnos dejar Daggerfall
 
- Armorer 2:  You and Nephron are really doing a good job      
-      on the Akatosh Chantry, we must admit.
+para algún viaje salvaje por la naturaleza. Hay
 
- Armorer 1:  But now, we want that Fool's Ebony supply.       
-     We need it to increase our production, our            
-quality -- and our prices.  We can work             with Nephron
-and his gang, we need             warehouses and distribution
-anyway.
+demasiada demanda de nuestros servicios estos días.
 
- Armorer 4:  We could torture it out of you ... 
+Armero 2: Pero podemos enviar a un grupo de nuestros
 
- Armorer 3:  We could let the Priests know about your            
-plans -- they would throw you to the
+aprendices para que te hagan compañía.
 
+Armero 4: Nuestros aprendices suelen probar todos nuestros
 
-    Afterdark Society in a flash!
+productos ... y estarán ansiosos por hacer
 
- Armorer 5:  We could let the Mages know -- they would            
-send you to Oblivion for a very, very long
+pruebas allí fuera.
 
+Aventurero: ¡Caballeros, caballeros! Por favor - realmente
 
-    time!
+iba a darles todo el trato a ustedes, una vez
 
- Armorer 1:  But we would rather you 'joined' our            
-Guild. We cannot afford to leave Daggerfall             for
-some hairy wilderness trip. Too much             demand these
-days, for our sevices.
+que hubiera sacado oro de todos los demás.
 
- Armorer 2:  But we can send a group of our apprentices        
-    along to keep you company.
+(El Armero 5 golpea al Aventurero con un atizador caliente)
 
- Armorer 4:  Our apprentices usually test all our            
-products ... and will be just itching to             test out
-there.
+Ohhh ... bueno, lo pensé...
 
- Adventurer: Gentlemen, gentlemen! Please - I really was     
-       going to give the whole deal to you, once I             had
-gotten gold from everyone else.
+Armero 5: ¡Claro! ¡Y yo soy una Ninfa!
 
- (Armorer 5 slaps the Adventurer with a hot poker)
+Aventurero: Sí, sí, sí, son muy persuasivos.
 
-             Ohhh ... well, I thought of it...
+Agradecería una ... er ... escolta y guardia de
 
- Armorer 5:  Sure!  And I'm a Nymph!
+caballeros tan duros. Sería muy útil allí fuera.
 
- Adventurer: Yes, Yes, Yes, you are very persuasive.            
-I would welcome an ... er ... escort and             guard of
-such tough gentlemen. Be very             handy out there.
+Armero 1: Bien. ¡Pensé que lo verías a nuestra manera!
 
- Armorer 1:  Good. Thought you would see it our way!            
-Some of our other members are presently             having a
-little ... chat with Nephron. We             can handle him. And
-from now on, two of             our bigger apprentices will
-always be
+Algunos de nuestros otros miembros están teniendo
 
+actualmente una pequeña ... charla con Nephron.
 
-    close at hand.  Protection, of course --             this
-town can be quite dangerous at
+Podemos encargarnos de él. Y de ahora en adelante,
 
+dos de nuestros aprendices más grandes estarán
 
-    night ...
+siempre cerca. Protección, por supuesto -- esta
 
- Armorer 3:  So continue with your arrangements, work            
-with Nephron. You can always leave word             about your
-departure date with any weapons             shop.  And about
-any problems you may
+ciudad puede ser bastante peligrosa de noche ...
 
+Armero 3: Así que continúa con tus preparativos, trabaja
 
-    have ...
+con Nephron. Siempre puedes dejar aviso sobre
 
- Adventurer: Certainly, gentlemen. Yes, you are indeed        
-    very persuasive. I shall keep you up to             date. 
-And, er...thanks for the protection.
+tu fecha de partida en cualquier tienda de armas.
 
- (Enter Ortho, the very large apprentice) (The Adventurer is
-untied) (Exeunt Five Armorers)
+Y sobre cualquier problema que puedas tener ...
 
- Adventurer: Hello, who are you?
+Aventurero: Ciertamente, caballeros. Sí, son de hecho
 
- Ortho:      Me am Ortho!
+muy persuasivos. Los mantendré informados.
 
- Adventurer: My ... protection?
+Y, er... gracias por la protección.
 
- Ortho:      Me am Ortho!
+(Entra Ortho, el aprendiz muy grande) (Desatan al Aventurero)
+(Salen los cinco Armeros)
 
- Adventurer: You look very familiar to me for some            
-reason. Have you every been to Morrowind?
+Aventurero: Hola, ¿quién eres tú?
 
- Ortho:      Me am Ortho!
+Ortho: ¡Yo ser Ortho!
 
- Adventurer: Fine then.             (aside)
+Aventurero: ¿Mi ... protección?
 
+Ortho: ¡Yo ser Ortho!
 
-    My old man used to say the very worst
+Aventurero: Me resultas muy familiar por alguna razón.
 
+¿Has estado alguna vez en Morrowind?
 
-    thing that can happen to a fellow is
+Ortho: ¡Yo ser Ortho!
 
+Aventurero: Está bien entonces. (aparte)
 
-    an evening spent in the company of an
+Mi viejo solía decir que lo peor que le
 
+puede pasar a un tipo es una noche
 
-    earnest politician. This, I think, is
+pasada en compañía de un político ferviente.
 
+Esto, creo, es un segundo puesto muy cercano.
 
-    a close second.
+(Salen el Aventurero y Ortho) (Entra el Epílogo)
 
- (Exeunt the Adventurer and Ortho) (Enter Epilogue)
+Epílogo: Nuestra obra tiene seis partes, y acabamos
 
- Epilogue:   Our play has six parts, and we've just            
-finished the fourth. It's interesting             I think that the
-Lusty Contessa has
+de terminar la cuarta. Es interesante, creo,
 
+que la Condesa Lúbrica aún no haya hecho su
 
-    not made an appearance yet. You don't
+aparición. No supondrán que nuestro dramaturgo
 
+olvidó que la puso en el Reparto, ¿verdad? Bueno,
 
-    suppose our playwrite forgot he put her
+solo lo sabrán si vuelven para Ébano del Tonto,
 
+Parte la Quintarta. Y si su vecino decide no
 
-    in the Dramatis Personae, do you? Well,
+volver, no le cuenten qué pasó. Nosotros los
 
+actores tenemos que ganarnos la vida también,
 
-    you'll only know if you come back for
+ya saben. No olviden dejar propina a sus mozas
 
+mientras cambiamos la escena.
 
-    The Fools' Ebony, Part the Fiveth. And
+(Sale el Epílogo)
 
-
-    if your neighbor decides not to return,
-
-
-    don't tell him what happened. We actors
-
-
-    have to make a living too, you know.
-
-
-    Don't forget to tip your wenches while
-
-
-    we change the scene.
-
- (Exit Epilogue)     
-
-                    So Endeth Part The Fourth 
+Así termina la Cuarta Parte

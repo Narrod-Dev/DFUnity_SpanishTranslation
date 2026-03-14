@@ -1,65 +1,61 @@
-Title: Of Jephre
-Author: Anonymous
+Title: Sobre Jephre
+Author: Anónimo
 IsNaughty: False
 Price: 738
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]Of
+[/center]Sobre
 
 [/center]Jephre
-
-
 
 [/font=4]
 
 [/center]
 
+Cuando el pueblo élfico caminaba solo por la tierra y entonaba cantos
+de poder entre los árboles y las estrellas, Jephre el Cantante caminaba
+con ellos. Jephre prestaba atención a la naturaleza de los bosques y se
+deleitaba con el murmullo de los arroyos y riachuelos. Fue Jephre quien
+enseñó a los pájaros a cantar sus canciones de las estaciones, y Él
+quien enseñó a las corrientes su tintineante melodía etérea. Se dice que
+los mismos árboles se acercaban para oírle cantar en las cálidas noches
+de verano de aquellos días antiguos. Fue en esta época cuando se
+crearon las primeras grandes baladas de los elfos, elaboradas a partir
+de las canciones que Jephre enseñó a los jóvenes silvanos que
+retozaban con sus animadas melodías y baladas de la naturaleza y el
+bosque virgen. En verdad, es adorado como el dios de la canción y del
+bosque.
+
+En el Bosque Valen, Jephre es considerado uno de los principales dioses
+silvanos, con templos y altares en los lugares más profundos del bosque.
+La tradición élfica sostiene que los niños con el don del canto han
+sido bendecidos por el propio Jephre. La leyenda cuenta que bendijo a
+los Elfos del Bosque con una afinidad natural por la naturaleza y
+particularmente por el bosque. La mayoría de los exploradores Elfos del
+Bosque adoran a Jephre.
+
+Fue su gran anhelo por la belleza natural lo que le llevó a la Isla de
+Estivalia. Enseñó a las grandes aves marinas a cantar y moldeó el
+estruendo de las olas contra la playa en una canción de susurros y
+poder. Los altos elfos dicen que Jephre oye y ve todo lo que está a
+cierta distancia del agua, ya sea playa, riachuelo, arroyo o cascada.
+Además, se dice que los mismos pájaros vigilan para Jephre, en pago por
+las canciones que él les enseñó. Se dice también que bendijo a los altos
+elfos con una belleza a la altura de la belleza de su hogar isleño.
+
+Los elfos oscuros tienen la leyenda de que Jephre caminó por la tierra
+antes del primer día, y a la luz de las estrellas tejió una canción tan
+hermosa que las mismas estrellas se movieron a su compás. Algunas de las
+estrellas, hasta el día de hoy, todavía parpadean en memoria de la
+canción de la noche y la oscuridad. Debido a su influencia, la mayoría,
+si no todos los bardos élficos, rinden homenaje a Jephre.
+
+El orden natural de las cosas es la base de los templos de Jephre en el
+Bosque Valen y en la Isla de Estivalia. Lo único que Jephre no tolerará
+es la manipulación dañina del orden natural de las cosas.
 
 
- When the elven folk walked the land alone and sang songs of
-power amongst the trees and stars, Jephre the Singer walked
-with them. Jephre gave heed to the nature of the forests and
-delighted in the gurgling streams and brooks. It was Jephre
-who taught the birds to sing their songs of the seasons and He
-that taught the streams the tinkling ethereal tune. The very
-trees are said to have moved close to hear him sing on the warm
-summer nights of those elder days. It was in this time that the
-first great ballads of the elves were made, crafted from the
-songs that Jephre taught to the sylvan youth who frolicked to
-his lively tunes and ballads of nature and the unspoiled
-forest. In truth, He is worshipped as god of song and forest.
-
- In Valenwood, Jephre is considered one of the Major Sylvan
-gods with temples and altars in the deep woodland places.
-Elven tradition holds that children with a gift for song have
-been blessed by Jephre himself. Legend has it he blessed the
-Wood Elves with a natural affinity for nature and
-particularly the forest. Most Wood Elven Rangers worship
-Jephre.
-
- It was his great eagerness for natural beauty that led him to
-the Isle of Sumurset. He taught the great sea birds to sing and
-molded the crash of wave against beach into a song of
-whispers and power  It is said by the high elves that Jephre
-hears and sees all within distance of water, whether it be
-beach, brook, stream or fall. It is further said that the
-very birds keep watch for Jephre, in repayment for the songs
-he taught them. It is fruther said he blessed the high elves
-with a beauty to match the beauty of their island home.
-
- The dark elves have a legend that Jephre walked the earth
-before the first day, and in the light of the stars weaved a
-song so beautiful that the very stars moved to its sway.
-Some of the stars to this very day still wink and blink in
-memory of the song of night and darkness. Due to his influence
-most if not all Elven Bards pay homage to Jephre.
-
- The natural order of things is the basis for Jephre's temples
-in Valenwood and the Sumurset Isle. The one thing Jephre
-will not tolerate is the harmful manipulation of the natural
-order of things.   

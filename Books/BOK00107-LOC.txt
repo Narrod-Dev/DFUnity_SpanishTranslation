@@ -1,616 +1,494 @@
-Title: King Edward, Part VIII
-Author: Anonymous
+Title: El Rey Edward, Parte VIII
+Author: Anónimo
 IsNaughty: False
 Price: 300
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]King Edward, Part VIII
-
-
+[/center]El Rey Edward, Parte VIII
 
 [/font=4]
 
 [/center]
 
-[/center]Chap 8: Wilderland
+[/center]Cap 8: Tierras Salvajes
 
 [/center]
 
+El viaje a través de Valenwood fue agradable. El clima
+se mantuvo bueno en su mayor parte, con días soleados y noches
+frescas. Hojas brillantes de color escarlata, carmesí, oro y verde
+caían formando una alfombra bajo los pies de sus caballos.
+Valenwood era muy diferente de los sombríos y empinados bosques
+de High Rock. Cuando llegaron a la frontera norte, Edward,
+mirando hacia atrás, vio que los árboles estaban casi desnudos, despojados de
+su gloria. Ante ellos se extendía una amplia tierra verde de colinas onduladas con solo unos pocos grupos de
+árboles. Parecía extenderse por siempre.
 
+"Esto es Wilderland (Tierras Salvajes), Edward", dijo Moraelyn. "Mantente en
+guardia. Parece una tierra agradable, pero aquí no rige la ley de ningún rey. La mano de cada hombre está contra la de
+todos los demás -- y hay cosas peores que los hombres. Todas las razas de
+Tamriel se encuentran aquí, y chocan, salvo la tuya, tal vez".
 
- The journey through Valenwood was pleasant. The weather
-held fair for the most part, with sunny days and cool
-nights. Bright leaves of scarlet,  crimson, gold and green
-drifted down to form a carpet beneath their horses' feet.
-Valenwood was very different from the somber, steep forests
-of High Rock. When they reached the northern border, Edward,
-looking back, saw that the trees were mostly bare, shorn of
-their glory. Before them lay a wide green land of rolling hills with only a few stands of
-trees. It seemed to spread on forever.
+Viajaron durante algunos días más con pocos incidentes...
+salvo por una banda de asaltantes Khajiitas que se acercaron sigilosamente a
+su campamento por la noche. Estos fueron repelidos fácilmente. Silk mató
+a uno y el resto huyó aullando. La gentil chica elfo del bosque,
+Willow, les lanzó bolas de fuego. No había caminos, solo pequeños senderos que se cruzaban entre sí
+y aparentemente no llevaban a ninguna parte.
 
- "This is Wilderland, Edward," Moraelyn said. "Be on your
-guard. It seems a pleasant land, but no king's writ runs here. Each man's hand is against every
-other's -- and there are worse than men. All the races of
-Tamriel meet here, and clash, save thine, perhaps." 
+Después de dos semanas de cabalgata constante, llegaron a un lugar en forma de cuenco
+en las colinas donde la tierra estaba labrada. Los campos se veían bien y
+estaban apilados con la cosecha, pero la gente estaba desanimada,
+harapienta y hostil. Las preguntas sobre posadas solo obtenían encogimientos de hombros y
+miradas confundidas. Bandas armadas los desafiaban a veces y
+exigían saber sus asuntos. Cuando Moraelyn dijo que se
+dirigían a Morrowind, les dijeron que pasaran rápido
+y que se cuidaran de no robar nada.
 
- They journeyed for some days more with small incident ...
-save one for a band of Khajiit raiders that crept up on
-their camp by night. These were easily repelled. Silk slew
-one and the rest ran off yowling. The gentle wood elf girl,
-Willow, lobbed fireballs after them. There were no roads, just small paths that criss-crossed one another
-and seemingly led nowhere.
+"El paso es todo lo que deseamos", dijo Moraelyn en voz baja.
 
- After two weeks of steady riding they came to a bowl shaped
-place in the hills where the land was tilled. The fields looked fair and
-were stacked  with harvest, but the folk were dispirited,
-ragged, and unfriendly. Questions about inns got only shrugs and
-puzzled looks. Armed bands challenged them at times and
-demanded to know their business. When Moraelyn said they were
-bound for Morrowind, they were told to pass through quickly
-and mind they stole nothing.
+"Alguien debería enseñarles modales a esta gente", gruñó el usualmente
+apacible Mats.
 
- "Passage is all we wish," Moraelyn said quietly.
+"Puedes quedarte y abrir una escuela de etiqueta, si te
+place", dijo Moraelyn, "me temo que mi vida es demasiado corta para
+enseñar las lecciones que estos villanos requieren. Aun así, no me gusta
+el aspecto del cielo; se ve incluso más maligno que la gente. Creo que probaremos suerte en el pueblo".
 
- "Someone should teach these folk manners," the usually
-placid Mats growled.
+El pueblo estaba rodeado por una empalizada de madera y tenía una
+puerta robusta. Los guardias los examinaron y les negaron la
+entrada. "Nadie más que humanos entra aquí, elfo. Toma a tu chusma y lárgate".
 
- "Thou mayst stay and open a school of etiquette, if it
-pleases thee," Moraelyn said, "I fear my life's too short to
-teach the lessons these villains require. Still, I like not
-the look of the sky; it looks e'en more evil than the folk. I think we'll try our luck in the town."
+"Ya veo. Ali, Mats, Edward, vosotros parecéis calificar para la
+hospitalidad aquí. El resto de nosotros nos refugiaremos en otra parte".
 
- The town was surrounded by a palisade of wood and had a
-stout gate. Guards looked them over and refused them
-entrance. "None but humans enter here,  elf. Take thy rabble and begone."
+Aliera anunció que preferiría que la tormenta los soplara de vuelta a Firsthold antes de poner un pie dentro de
+estas puertas. Así que rodearon el pueblo, pasando por un foso con muros de piedra por dentro y una torre de algún
+tipo dentro de eso. Un sendero al norte los llevó ante una pequeña casa
+con un gran establo cerca. Ambos se veían en mal estado, pero
+Moraelyn envió a Aliera y Edward a llamar a la puerta y preguntar
+si podrían dormir en el establo. El resto esperó en el camino.
 
- "I see. Ali, Mats, Edward, thou seemst to qualify for the
-hospitality here. The rest of us will shelter elsewhere."
+Una mujer anciana respondió a su llamada; parecía complacida de
+verlos. "¿Quedarse? Sí, me alegraría la compañía. No hay necesidad
+de dormir en el establo, señora. Tengo una habitación de sobra. Mi
+nombre es Ora Engelsdottir". Aliera señaló
+hacia los Compañeros que esperaban. La mujer entrecerró los ojos hacia
+ellos. "¿Tu hombre está allí y algunos amigos? Sí, nos
+apretaremos todos entonces. Estaremos más calientes así. Tengo una olla de
+sopa al fuego; la hice para que me durara una semana pero sois
+bienvenidos a ella. Puedo hacer más".
 
- Aliera announced that she would see them all blown back to Firsthold by the storm before she'd step within
-these gates. So they circled the town, passing a moat with stone walls within and a keep of some
-sort within that. A track north took them past a small house
-with a large barn nearby. Both looked in poor repair, but
-Moraelyn sent Aliera and Edward to knock at the door and ask
-if they might sleep in the barn. The rest waited in the road.
+"Mi marido es un elfo".
 
- An elderly woman answered their knock; she looked pleased to
-see them. "Stay? Aye, I'd be glad of the company. No need
-to sleep in the barn, though, lady. I've a room to spare. My 
-name's Ora Engelsdottir." Aliera gestured
-toward the waiting Companions. The woman squinted toward
-them.  "Thy man's there and some friends? Aye, we'll all
-squeeze together then. T'will be warmer so. I've a pot of
-soup on the fire; made it to last me a  week but you're
-welcome to it. I can make more."
+"¿Lo es? Se ve que cuida bien de ti y de tu hijo.
+Estáis gordos como cerdos. Traedlos adentro. Ojalá mi nieta
+tuviera a alguien así que cuidara de ella".
 
- "My husband's an elf."
+Ora rechazó el pago, diciendo que aún no estaba en tal estado
+de necesidad como para que sus huéspedes tuvieran que pagar por su hospitalidad. Dijo que los cuentos
+y las canciones y una velada de alegría serían pago suficiente. Se colocaron ollas y platos para recoger lo
+peor de las goteras; ella las conocía bien todas. Se reunieron
+alrededor del hogar y se divirtieron mucho mientras la tormenta rugía,
+golpeando las contraventanas y las puertas y amenazando con volar el
+techo por completo.
 
- "Is he so? He looks to take good care of thee and thy son.
-Thou's fat as pigs. Bring them in. I wish my grand-daughter
-had such a one to care for her."
+"Dígame, mi señora", susurró Ora aparte a Aliera, "Él es
+verdaderamente bueno contigo? Es tan grande y tan negro".
 
- Ora refused payment, saying she was not yet at such a pass
-that her guests must pay for her hospitality. She said tales
-and song and an evening's merriment would be payment enough. Pots and dishes were set out to catch the
-worst of the leaks; she knew them all well. They gathered
-around the hearth and made very merry while the storm raged,
-banging the shutters and doors and threatening to blow the
-roof away altogether.
+"Verdaderamente bueno", dijo Aliera manteniendo su boca seria mientras
+sus ojos reían.
 
- "Tell me, my lady," Ora whispered apart to Aliera, "He's
-ame's Ora Engelsdottir." Aliera gestured
-toward the waiting Companions. The woman squinted toward
-them.  "Thy man's there and some friends? Aye, we'll all
-squeeze together then. T'will be warmer so. I've a pot of
-soup on the fire; made it to last me a  week but you're
-welcome to it. I can make more."
+"Sí, está bien, entonces. Me recordó un poco a nuestro barón, que es grande y oscuro --
+oh, no tan oscuro como tu elfo. Se llevó a mi nieta, Caron
+-- y, él no la trata bien. Él -- él la lastima, mi
+señora. Y ella no se atreve a huir. ¿A dónde iría?" Las lágrimas
+se juntaron en los ojos de Ora y siguieron senderos gastados y familiares por sus mejillas.
 
- "My husband's an elf."
+Cuando su anfitriona se fue a dormir a su propia habitación, Aliera repitió lo que le habían contado.
 
- "Is he so? He looks to take good care of thee and thy son.
-Thou's fat as pigs. Bring them in. I wish my grand-daughter
-had such a one to care for her."
+"Rescatemos a la chica", dijo Beech, "nos estamos estancando con la
+inacción".
 
- Ora refused payment, saying she was not yet at such a pass
-that her guests must pay for her hospitality. She said tales
-and song and an evening's merriment would be payment enough. Pots and dishes were set out to catch the
-worst of the leaks; she knew them all well. They gathered
-around the hearth and made very merry while the storm raged,
-banging the shutters and doors and threatening to blow the
-roof away altogether.
+"¡Sí!" dijeron Silk y Willow al unísono.
 
- "Tell me, my lady," Ora whispered apart to Aliera, "He's
-truly good to thee? He's so big and so black."
+Mats gruñó un asentimiento. Mith y Ssa'ass parecían
+interesados.
 
- "Truly good," Aliera said keeping her mouth serious while
-her eyes laughed.
+Moraelyn parecía dudoso. "No podemos corregir cada mal en
+Tamriel. Este barón ofrece a su gente refugio de un tipo. Ellos
+podrían irse si les gustara más estar fuera".
 
- "Aye, 'tis well, then. He put me a bit in mind of our baron, who's big and dark --
-oh, not so dark as thy elf. He took my grand-daughter, Caron
--- and,  he does not treat her well. He -- he hurts her, my
-lady. And she dare not run away. Where would she go?" Tears
-gathered in Ora's eyes and followed  worn familiar tracks down her cheeks.
+"Sí", dijo Mith, "mantiene alejados a los bandidos para poder robar a la
+gente a su antojo".
 
- When their hostess had gone to sleep in her own room, Aliera repeated what she had been told.
+"¿Y si lo derrocamos? Habrá otro que ocupe su lugar. O si no, lo de fuera entrará y no quedará
+nada en absoluto".
 
- "Let's rescue the girl," Beech said, "we grow stale with
-inaction."
+"Nada sería mejor que este algo asqueroso", dijo Mats.
 
- "Aye!" said Silk and Willow at once.
+"Hay algo de razón en eso". La tormenta parecía haberse alejado. Aliera
+fue a la puerta y miró hacia el cielo donde las nubes
+pasaban veloces ante la luna oriental. Una sola estrella grande y azul brillante
+colgaba cerca de la luna. "Zenithar cuelga cerca de Tamriel
+esta noche. ¿Moraelyn?"
 
- Mats growled an agreement. Mith and Ssa'ass looked
-interested.
+"Había pensado arreglar sus techos mañana si hace bueno", dijo él mientras ella volvía al fuego. "Haremos
+al menos eso. En cuanto al resto -- ¿Aliera?"
 
- Moraelyn looked doubtful. "We cannot right every wrong in
-Tamriel. This baron offers his folk shelter of a kind. They
-could leave if they liked it better outside."
+"Ella me pidió ayuda, en cierto modo... y yo -- creo que oigo
+la voz de Zenithar en el viento y siento su mano en la lluvia de
+esta noche".
 
- "Aye," Mith said, "he keeps the bandits off so he may rob the
-folk at leisure."
+"Tu misión, entonces, esposa".
 
- "An we pull him down? There'll be another to take his place. Or else the outside will come in and there'll be nothing
-left at all."
+Aliera asintió, sin sonreír. Se acurrucó con Moraelyn en
+el rincón de la chimenea y susurraron y rieron juntos
+un rato. Edward se quedó dormido. Por la mañana fue enviado al
+techo para ayudar a Beech y Willow a colocar tejas nuevas.
+Moraelyn escribió una carta que le dio a Mats, diciéndole que
+la llevara al barón, para llegar al castillo alrededor de la
+hora de la cena y que fuera a pie.
 
- "Nothing would be better than this filthy something," Mats
-said.
+"¡Vas a desafiarlo por la chica!" Edward
+sonrió. "¿Pero peleará él? ¿Y no se la llevaría de nuevo
+una vez que nos hayamos ido?"
 
- "There's that." The storm seemed to have moved away. Aliera
-went to the door and stared up into the sky where clouds
-raced past the eastern moon. A single large brilliant blue
-star hung near the moon. "Zenithar hangs near Tamriel
-tonight. Moraelyn?"
-
- "I'd thought to mend her roofs tomorrow if it's fair," he said as she returned to the fireside. "We'll
-do so much at least. As for the rest -- Aliera?"
-
- "She asked for my help, in a way ... and I -- I think I hear
-Zenithar's voice in the wind and feel his hand in the rain on
-this night."
-
- "Thy quest, then, wife."
-
- Aliera nodded, unsmiling. She curled up with Moraelyn in
-the chimney corner and they whispered and laughed together
-for awhile. Edward fell  asleep. In the morning he was sent up on
-the roof to help Beech and Willow place new shingles.
-Moraelyn wrote a letter which he gave to Mats, telling  him
-to take it to the baron, to arrive at the castle around
-dinnertime and to go afoot.
-
- "You're going to challenge him for the girl!" Edward
-grinned. "But will he fight? And wouldn't he take her back
-again once we're gone?"
-
- "Mmm. Since he wouldn't let me in his town, thy mother
-thought to invite him to our house instead." Moraelyn
-stamped the letter with his sealing ring and handed it to
+"Mmm. Ya que no me dejó entrar en su pueblo, tu madre
+pensó en invitarlo a nuestra casa en su lugar". Moraelyn
+selló la carta con su anillo de sello y se la entregó a
 Mats.
 
- "Oh. It's a long way to your house still, isn't it?" Edward
-felt a bit of disappointment that no rescue seemed imminent,
-but he supposed it really was not reasonable to expect
-eight people to take a keep, even if they were Moraelyn's
-Companions. Probably the songs exaggerated their deeds.
-
- Moraelyn grinned, ruffled Edward's hair and told him to
-cease his questions, get up on the roof, and mind his mother.
-Moraelyn and Mith set off together on foot. Aliera said they
-were going hunting. They did not return even at suppertime. Aliera told Edward not to worry; they'd meet later.
-
- It was well after sundown when she bid their hostess
-farewell. They took all the horses with them and left them in a
-grove near the north wall of the keep. Aliera asked Edward if
-he wanted to wait for them with the horses. Edward asked where
-they were going.
-
- "We have to enter the keep to get Ora's grandchild out. No
-questions, Edward. If you're coming, then stay with me and do exactly as I say. Levitate across the moat: I
-must swim. Once across we'll scale the wall. Once inside,
-just follow me and be as silent as you can."
-
- Edward gaped at his mother and the other Companions. How
-could the six of them possibly storm a keep? Three women, two
-men and a boy? There would be guards up on the wall and a
-lot more inside. Mats would be inside too,  though, he
-guessed. But where were Moraelyn and Mith?
-
- There were fearsome things in the moat. Edward began a
-protest, then thought better of it. Ssa'ass slid into the moat first. There was some splashing and hissing, then the
-water went quiet. Aliera entered the water. The others levitated. 
-
- "Here's the ropes," Beech said, feeling along the wall. There
-were three ropes. Edward, Beech and Ssa'ass went up first;
-Aliera, Willow and Silk followed. Moraelyn and Mith were
-waiting above. Two guards were snoring softly in a heap.
-
- "How--" Edward began, and found his mother's hand clapped
-over his mouth. A guard from another wall section called
-out and Edward's heart stopped beating. Mith called 
-something back to him and tramping footsteps moved away. 
-
- The Companions went silently down the stairs and slipped
-across the yard like shadows. There was no guard on the door
-to the keep itself. Inside the passages were eerily quiet. They
-stopped at an imposing door and flattened themselves
-against the wall beside it. They could hear voices within. A
-thin chilling wail sounded and died away. Moraelyn whistled
-a snatch of song into the silence that followed. The door
-swung open and they raced inside, falling on the startled
-guards like furies.
-
- Edward was last inside, Tooth in his hand; he stabbed the
-nearest guard in the side, and Beech finished him with a blow
-to the head. Mats had been inside; it was he who had opened the
-door. His axe clove the head of one guard, then swung against the inner door. Aliera and Willow had
-barred the strong outer door. Moraelyn's opponent was a
-very young man. He'd taken one look at the big dark elf,
-dropped his sword and fallen to his knees, praying  for
-mercy.
-
- Moraelyn eyed him with disgust and said, "Greet Zenithar for me; tell him Moraelyn
-of Ebonheart commends you to his mercy. I have none for such
-as you." He slashed the young guard's throat. Blood sprayed
-over Moraelyn's leathers. His victim fell over, gurgling
-horribly. A burning acid rose in Edward's throat; he swallowed hard and looked away.
-
- The guards inside the anteroom had been dispatched, but outside the door shouts and
-footfalls thundered and there was pounding on the door.
-Edward followed his mother into the inner chamber, which was empty save
-for a naked girl tied spreadeagle on the enormous bed, her
-eyes starting from her head.
-
- The Companions cut her free while Aliera caught her
-shoulders. "Thy grandmother sent us, child. Where's the
-baron?"
-
- The girl pointed at a bookcase, then clung to Aliera. She was no bigger than Edward and seemed not
-much older. Her breasts were just beginning. She was covered
-with welts and blood and purple-yellow bruises. Aliera
-flung her own cloak over the girl. Beech picked her up. Mith's
-fingers were feeling over the bookcase; there was a click and
-a section slid aside. He went through  cautiously. The others
-followed and the secret door closed after them. 
-
- "I think it's just a bolt hole," Mith said, "but there'll be
-traps, no doubt."
-
- "Go warily, then, friend," Aliera said. "There's no hurry.
-I think the baron plans to show his departing guests the door,
-as a good host should." 
-
- A narrow passage opened to the left. Mith sent a bolt of
-light down it. The floor was littered with bones. Human
-bones. Small skulls stared eyelessly. "I'm going to enjoy
-killing him," Moraelyn said.
-
- "No!" Aliera protested. "My quest, my kill!"
-
- Moraelyn swung to face her. "Aliera--"
-
- "I want it sung that he died by Aliera's hand! I claim my right to face him, king."
-
- "Leave him to me and we'll sing it your way! He's twice your
-size. D'you want to fight ME for the right?" The elf leaned
-over her, a full head taller.
-
- "If I must." Aliera brushed past him, slinging her shield on
-her arm, and drawing her short sword as she ran. Moraelyn
-grabbed at her, missed, and ran after her. His size hampered
-him in the low, narrow passage. Sparks flew from his spell shield as he caroomed recklessly off the walls.
-
- "Come on, you two," Mith yelled from ahead. "I'm not
-promising to save him for you."
-
- "Moraelyn," Edward gasped, running after him. "You're not
-going to let her!"
-
- "Let her! How d'ye propose I stop her? I'm open to
-suggestions, short of actually fighting her myself." He
-seemed half-angry, half-amused.
-
- "M-maybe he's gone by now."
-
- "Nay, he's locked in here with us; we found the exit earlier
-from the other side and Mith set a lock the baron will not
-undo."
-
- "Well, paralyze her. You can carry her."
-
- "She's activated her shield; it reflects spells, among other
-things. I'd only paralyze myself and I'd be inconvenient to
-carry. She'll be all right. It's an excellent shield. It
-casts a very powerful protective  spell. I'ric himself
-devised it."
-
- "Having a spot of trouble with your locks tonight, baron?"
-Mith's voice came clearly from ahead. They emerged into a
-larger space where the baron had been clawing vainly at
-switches beside a massive door. "Shoddy work. You should get
-another smith."
-
- "He won't be needing one," Aliera snarled. The Companions
-spread around her in a semi-circle. The baron set his back to
-the door and set himself in a fighting stance. He was a big
-man, as big as Mats, and he was holding an axe as big as the
-one Mats wielded, and wearing a breastplate and helm. He
-addressed Moraelyn.
-
- "Nine against one. I'd expect odds like that from you black
-devils," Moraelyn was at the back of the group, yet the baron
- had
-singled him out as the leader. People did, somehow.
-
- "You prefer the advantage of weight, do you not? But my
-wife wants you to herself. She cannot resist your charms it
-seems. Nor can I; I could not wait for you to respond to my
-invitation, so I came to you instead."
-
- "I beat her and the rest of you kill me? Hah! It might be worth
-it at that," he added, staring at Aliera with cold dark eyes.
-
- Aliera smiled a terrible smile. Her dark hair swung free
-about her shoulders and she seemed to glow. "You will not beat this woman, baron, but if you do, then you go free.
-You are mine alone tonight. Swear it all,  by Zenithar! If
-he haps to kill me, my ghost will hound him to his grave and
-beyond." She sounded rather pleased at the prospect. Edward began to shiver.
-
- "By Zenithar!"
-
- The baron laughed, "I don't believe you, but one last
-female for my collection then. Are you so wearied of her, elf
-?"
-
- "Are you so afraid of her that you'd rather face me
-instead?" Somewhere deep in his mind Edward realized that the
-elf was right. Despite the baron's bravado, he was afraid of
-Aliera. Edward hadn't sworn with the  others. He clutched his staff tightly but his feet seemed rooted
-to the floor.
-
- The baron laughed again and swung a mighty blow at Aliera
-in answer, but it deflected harmlessly off her shield. His
-eyes widened as he realized she was spell shielded. Aliera
-danced aside and cut his arm. She was nimble, but he managed to land many blows. If her shield went ... Edward did not
-finish the thought.
-
- But he was leaving himself somewhat open in the hope of wearing her shield down and she was scoring hits against
-his limbs. She kept her blows low, trying to cost him the use
-of his legs and drain him of blood. All the while she taunted
-him about his manhood,  saying she would geld him ere he died.
-A great blow knocked her back; her shield flashed and was gone.
-
-had
-singled him out as the leader. People did, somehow.
-
- "You prefer the advantage of weight, do you not? But my
-wife wants you to herself. She cannot resist your charms it
-seems. Nor can I; I could not wait for you to respond to my
-invitation, so I came to you instead."
-
- "I beat her and the rest of you kill me? Hah! It might be worth
-it at that," he added, staring at Aliera with cold dark eyes.
-
- Aliera smiled a terrible smile. Her dark hair swung free
-about her shoulders and she seemed to glow. "You will not beat this woman, baron, but if you do, then you go free.
-You are mine alone tonight. Swear it all,  by Zenithar! If
-he haps to kill me, my ghost will hound him to his grave and
-beyond." She sounded rather pleased at the prospect. Edward began to shiver.
-
- "By Zenithar!"
-
- The baron laughed, "I don't believe you, but one last
-female for my collection then. Are you so wearied of her, elf
-?"
-
- "Are you so afraid of her that you'd rather face me
-instead?" Somewhere deep in his mind Edward realized that the
-elf was right. Despite the baron's bravado, he was afraid of
-Aliera. Edward hadn't sworn with the  others. He clutched his staff tightly but his feet seemed rooted
-to the floor.
-
- The baron laughed again and swung a mighty blow at Aliera
-in answer, but it deflected harmlessly off her shield. His
-eyes widened as he realized she was spell shielded. Aliera
-danced aside and cut his arm. She was nimble, but he managed to land many blows. If her shield went ... Edward did not
-finish the thought.
-
- But he was leaving himself somewhat open in the hope of wearing her shield down and she was scoring hits against
-his limbs. She kept her blows low, trying to cost him the use
-of his legs and drain him of blood. All the while she taunted
-him about his manhood,  saying she would geld him ere he died.
-A great blow knocked her back; her shield flashed and was gone.
-
-"
-
- "Are you so afraid of her that you'd rather face me
-instead?" Somewhere deep in his mind Edward realized that the
-elf was right. Despite the baron's bravado, he was afraid of
-Aliera. Edward hadn't sworn with the  others. He clutched his staff tightly but his feet seemed rooted
-to the floor.
-
- The baron laughed again and swung a mighty blow at Aliera
-in answer, but it deflected harmlessly off her shield. His
-eyes widened as he realized she was spell shielded. Aliera
-danced aside and cut his arm. She was nimble, but he managed to land many blows. If her shield went ... Edward did not
-finish the thought.
-
- But he was leaving himself somewhat open in the hope of wearing her shield down and she was scoring hits against
-his limbs. She kept her blows low, trying to cost him the use
-of his legs and drain him of blood. All the while she taunted
-him about his manhood,  saying she would geld him ere he died.
-A great blow knocked her back; her shield flashed and was gone.
-
- The baron raised his axe high to cleave her skull with a single
-blow. Her arm drew back and she threw her slender short sword
-straight into her enemy's eye. He dropped the axe and fell
-screaming to his knees, hands clawing at his face. Aliera
-stepped forward and thrust the sword home, piercing deep
-within the brain. The body fell over, twitching and jerking.
-
- "Well fought, wife!"
-
- "I had a master trainer, and a better armorer!" Aliera
-laughed, then she threw back her head and shouted wordlessly in
-triumph, raising her arms, fists clenched.
-
- "That you did!" Moraelyn grabbed Silk in a rough hug and kissed her noisily. "It's a neat trick
-you taught her, Silk."
-
- "I'll thank you to cease flirting with my trainer,
-husband!" Aliera said, wiping her slender adamantium blade
-carefully. 
-
- "Me flirt? Not while thy blood's up ... and thy shield's
-still charged. I'm just thanking her. I'll kiss I'ric too when
-next I see him."
-
- "Is he truly dead?" Caron had clung to Beech throughout the
-fight with her eyes closed. Now she regarded Aliera with --
-Awe, Edward thought was the  right word. Edward felt
-something of the same, although it was akin to horror.
-
- "Dead enough," Aliera said, regarding the still faintly
-twitching form, with satisfaction. The girl drew closer,
-then knelt beside him. She picked up a stone and smashed it
-into the face again and again, sobbing. When she had done,
-Ssa'ass cast some healing spells on her. Mith unlocked the
-door. They'd come out quite near to where they had left the
-horses. 
-
- They took the girl back to her mother's house and left her there, instructing her to tell
-anyone that ventured to molest her, that Zenithar's servants
-would return if she were harmed. The bewildered old woman
-clasped her granddaughter to her. As she bade them farewell,
-she  whispered to Aliera to look after that man of hers. 
-
- "Oh, I do," Aliera said. "I do."
-
-
-
- *    *     *       *       *       *         *         *
-
-
-
- When they stopped for rest Aliera came over to Edward to
-talk to him, but he protested that he was very tired and just
-wanted to sleep. Moraelyn tugged her away, saying that if
-her son did not need her then she could see to her man, who
-did. They moved out of the circle of firelight. Edward lay
-wakeful, listening to their small, stifled sounds. That was
-not unusual. It had troubled him at first. "I can't sleep;
-you're too noisy," he'd protested one night. "What are you
-doing, anyway?" That had drawn giggles from the Companions. "Can't
-you at least pretend you're sleeping?" Moraelyn had asked
-plaintively. "Now  I know why dark elves seldom have more
-than one child. What I do not understand is how humans
-manage to get so many." Moraelyn and Aliera had come back to lie by him that night, but after that he had pretended to s
-leep, like the others.
-
- And the noises were too familiar now to keep images of the
-night's adventures from flashing through his mind, as vivid
-as if they were happening again in truth. He  could feel his
-daedra feeding and could not stop it. It just wasn't fair,
-he thought, but now he was beginning to see what Moraelyn
-meant by feeding his daedra and yet walking with the gods. With Zenithar.
-
- Moraelyn came back, carrying Aliera. He set her gently down,
-then stretched himself out between Edward and her.
-
- "It must be difficult, being a woman," he said softly. "It
-was hard, watching her. Just watching."
-
- Edward nodded.
-
- "I've asked it often enough, of her," Moraelyn continued. 
-"She told me how hard it is, but I never knew until tonight. I knew she'd win. Zenithar was with her, and all the baron had
-was his daedra. And still it was very hard to watch. She makes
-that cast nine tries out of ten, and there were more uses on
-eep, like the others.
-
- And the noises were too familiar now to keep images of the
-night's adventures from flashing through his mind, as vivid
-as if they were happening again in truth. He  could feel his
-daedra feeding and could not stop it. It just wasn't fair,
-he thought, but now he was beginning to see what Moraelyn
-meant by feeding his daedra and yet walking with the gods. With Zenithar.
-
- Moraelyn came back, carrying Aliera. He set her gently down,
-then stretched himself out between Edward and her.
-
- "It must be difficult, being a woman," he said softly. "It
-was hard, watching her. Just watching."
-
- Edward nodded.
-
- "I've asked it often enough, of her," Moraelyn continued. 
-"She told me how hard it is, but I never knew until tonight. I knew she'd win. Zenithar was with her, and all the baron had
-was his daedra. And still it was very hard to watch. She makes
-that cast nine tries out of ten, and there were more uses on
-the shield if she missed ... he'd have dropped of exhaustion before he wore it out entirely."
-
- "I keep thinking about it, too ... and the guard you ... he asked for mercy?"
-
- "I know. And yet, he listened to that ... night after night.
-And still he remained the baron's man."
-
- "Most men are not as strong as you are. Maybe he couldn't help himself?"
-Why was he pleading for a man already dead? His mind kept
-replaying the night's events as if they might yet come out
-differently, for better or for worse.
-
- "Even to witness evil such as that corrupts the soul. To
-watch and do nothing ... Mats would have stayed my hand had
-there been anything there worth keeping. And it's worse for the
-young; I am sorry you had to pass through this night."
-
- "Is my soul corrupted now?"
-
- "You feel the acid's bite, as do we all, but you'll heal."
-
- "Can you Heal me now?"
-
- "Aye." Moraelyn gathered the boy in his arms, then rolled
-over so that Edward lay between his parents. Aliera put her
-arms around him without really waking. Her strong woman smell mingled with Moraelyn's musky dark spice odor in Edward's nostrils.
-
- "She was so angry," Edward whispered. He'd wondered if he
-would ever really feel the same toward her again ... and yet
-her arms were still as comforting as before. Maybe Moraelyn
-too had needed that reassurance and had been wise enough to
-ask for it.
-
- "She's a woman. That sort of injury to another touches her near," he said.
-
- How near? The boy looked the question he dared not put.
-
- "Thy father's not a monster. But she was wed to a man who did
-not care for her, and she could not leave him. It's common
-enough among thy race, which makes it none the easier to bear,
-I think."
-
- "She has a daedra, too, then?" Edward asked sadly.
-
- "You must speak with her about that."
-
- "It wasn't really a fair fight, her shielded and not him."
-
- "Fair fighting's for the arena, boy. Would you fight a wolf
-or hell hound without weapons, spells and armor, though
-they have none? I would not."
-
- "What will become of Caron and Ora? And the other folk, now
-that the baron's dead?"
-
- "Do I look like the prophet Marukh? How should I know? We can
-stop here in the spring and see what's been planted in the
-field we burned tonight. I've no mind to stay and plow it. I've my own fields to tend -- listen to
-me, I sound like a Nord farmer. Mines to dig is more like it."
-He yawned.
-
- "The others didn't think about afterwards. You did."
-
- "I'm a king; it's what we do." 
+"Oh. Todavía falta mucho para vuestra casa, ¿verdad?" Edward
+sintió un poco de decepción porque no parecía haber un rescate inminente,
+pero supuso que realmente no era razonable esperar que
+ocho personas tomaran una torre, aunque fueran los Compañeros de
+Moraelyn. Probablemente las canciones exageraban sus hazañas.
+
+Moraelyn sonrió, revolvió el cabello de Edward y le dijo que
+cesara sus preguntas, subiera al techo y obedeciera a su madre.
+Moraelyn y Mith partieron juntos a pie. Aliera dijo que
+iban a cazar. No regresaron ni siquiera a la hora de la cena. Aliera le dijo a Edward que no se preocupara; se reunirían más tarde.
+
+Fue mucho después de la puesta del sol cuando se despidió de su anfitriona. Llevaron todos los caballos con ellos y los dejaron en una
+arboleda cerca del muro norte de la torre. Aliera le preguntó a Edward si
+quería esperarlos con los caballos. Edward preguntó a dónde
+iban.
+
+"Tenemos que entrar en la torre para sacar a la nieta de Ora. Sin
+preguntas, Edward. Si vienes, quédate conmigo y haz exactamente lo que yo diga. Levita a través del foso: yo
+debo nadar. Una vez cruzado escalaremos el muro. Una vez dentro,
+simplemente sígueme y sé tan silencioso como puedas".
+
+Edward miró boquiabierto a su madre y a los otros Compañeros. ¿Cómo
+podrían los seis asaltar una torre? ¿Tres mujeres, dos
+hombres y un niño? Habría guardias en el muro y
+muchos más adentro. Mats estaría dentro también, supuso. ¿Pero dónde estaban Moraelyn y Mith?
+
+Había cosas temibles en el foso. Edward comenzó una
+protesta, pero luego lo pensó mejor. Ssa'ass se deslizó en el foso primero. Hubo algunos chapoteos y siseos, luego el
+agua se calmó. Aliera entró al agua. Los otros levitaron.
+
+"Aquí están las cuerdas", dijo Beech, palpando a lo largo del muro. Había
+tres cuerdas. Edward, Beech y Ssa'ass subieron primero;
+Aliera, Willow y Silk los siguieron. Moraelyn y Mith estaban
+esperando arriba. Dos guardias roncaban suavemente en un montón.
+
+"¿Cómo--" comenzó Edward, y sintió la mano de su madre apretada
+sobre su boca. Un guardia de otra sección del muro llamó
+y el corazón de Edward dejó de latir. Mith le respondió
+algo y los pasos pesados se alejaron.
+
+Los Compañeros bajaron silenciosamente las escaleras y se deslizaron
+por el patio como sombras. No había guardia en la puerta
+de la torre misma. Adentro los pasillos estaban inquietantemente tranquilos. Se
+detuvieron ante una puerta imponente y se pegaron
+contra la pared junto a ella. Podían oír voces dentro. Un
+gemido fino y escalofriante sonó y se desvaneció. Moraelyn silbó
+un fragmento de canción en el silencio que siguió. La puerta
+se abrió y entraron corriendo, cayendo sobre los sorprendidos
+guardias como furias.
+
+Edward fue el último en entrar, con Tooth en su mano; apuñaló al
+guardia más cercano en el costado, y Beech lo remató con un golpe
+en la cabeza. Mats había estado dentro; fue él quien abrió la
+puerta. Su hacha partió la cabeza de un guardia, luego se balanceó contra la puerta interior. Aliera y Willow habían
+barrado la fuerte puerta exterior. El oponente de Moraelyn era un
+hombre muy joven. Había echado un vistazo al gran elfo oscuro,
+soltó su espada y cayó de rodillas, pidiendo
+misericordia.
+
+Moraelyn lo miró con disgusto y dijo: "Saluda a Zenithar de mi parte; dile que Moraelyn
+de Ebonheart te encomienda a su misericordia. Yo no tengo ninguna para alguien
+como tú". Le cortó la garganta al joven guardia. La sangre roció
+los cueros de Moraelyn. Su víctima cayó, gorgoteando
+horriblemente. Un ácido ardiente subió por la garganta de Edward; tragó con fuerza y miró hacia otro lado.
+
+Los guardias dentro de la antecámara habían sido despachados, pero fuera de la puerta los gritos y
+pasos tronaban y se oía golpear la puerta.
+Edward siguió a su madre a la cámara interior, que estaba vacía salvo
+por una chica desnuda atada de pies y manos en la enorme cama, con sus
+ojos saltándosele de la cabeza.
+
+Los Compañeros la cortaron para liberarla mientras Aliera la tomaba por los
+hombros. "Tu abuela nos envió, niña. ¿Dónde está el
+barón?"
+
+La chica señaló una estantería de libros, luego se aferró a Aliera. No era más grande que Edward y no parecía
+mucho mayor. Sus pechos apenas comenzaban a formarse. Estaba cubierta
+de verdugones y sangre y moretones morados y amarillos. Aliera
+arrojó su propia capa sobre la chica. Beech la cargó. Los
+dedos de Mith palpaban la estantería; hubo un clic y
+una sección se deslizó hacia un lado. Él entró con
+cautela. Los otros lo siguieron y la puerta secreta se cerró tras ellos.
+
+"Creo que es solo un conducto de escape", dijo Mith, "pero habrá
+trampas, sin duda".
+
+"Ve con cuidado, entonces, amigo", dijo Aliera. "No hay prisa.
+Creo que el barón planea mostrarles la puerta a sus invitados que se marchan,
+como debería hacer un buen anfitrión".
+
+Un pasaje estrecho se abría a la izquierda. Mith envió un rayo de
+luz por él. El suelo estaba sembrado de huesos. Huesos
+humanos. Cráneos pequeños miraban sin ojos. "Voy a disfrutar
+matándolo", dijo Moraelyn.
+
+"¡No!" protestó Aliera. "¡Mi misión, mi presa!"
+
+Moraelyn se giró hacia ella. "Aliera--"
+
+"¡Quiero que se cante que murió por mano de Aliera! Reclamo mi derecho a enfrentarlo, rey".
+
+"¡Déjamelo a mí y lo cantaremos a tu manera! Tiene el doble de tu
+tamaño. ¿Quieres pelear CONMIGO por el derecho?" El elfo se inclinó
+sobre ella, una cabeza completa más alto.
+
+"Si debo hacerlo". Aliera pasó junto a él, colgando su escudo en
+su brazo, y desenvainando su espada corta mientras corría. Moraelyn
+trató de agarrarla, falló y corrió tras ella. Su tamaño lo dificultaba
+en el pasaje bajo y estrecho. Saltaron chispas de su escudo de hechizos mientras chocaba imprudentemente contra las paredes.
+
+"Vamos, vosotros dos", gritó Mith desde adelante. "No
+prometo guardarlo para vosotros".
+
+"Moraelyn", jadeó Edward, corriendo tras él. "¡No vas a
+dejarla!"
+
+"¡Dejarla! ¿Cómo propones que la detenga? Estoy abierto a
+sugerencias, aparte de pelear realmente contra ella yo mismo". Parecía medio enfadado, medio divertido.
+
+"Q-quizás ya se haya ido".
+
+"No, está encerrado aquí con nosotros; encontramos la salida antes
+desde el otro lado y Mith puso un cierre que el barón no
+deshará".
+
+"Bueno, paralízala. Puedes cargar con ella".
+
+"Ha activado su escudo; refleja hechizos, entre otras
+cosas. Solo me paralizaría a mí mismo y sería incómodo de
+cargar. Ella estará bien. Es un escudo excelente.
+Lanza un hechizo protector muy poderoso. El propio I'ric
+lo diseñó".
+
+"¿Teniendo problemas con tus cerraduras esta noche, barón?"
+La voz de Mith llegó claramente desde adelante. Salieron a un
+espacio más grande donde el barón había estado arañando en vano los
+interruptores junto a una puerta maciza. "Trabajo chapucero. Deberías buscarte
+otro herrero".
+
+"No lo necesitará", gruñó Aliera. Los Compañeros se
+extendieron a su alrededor en un semicírculo. El barón se puso de espaldas a
+la puerta y se colocó en posición de combate. Era un hombre grande,
+tan grande como Mats, y sostenía un hacha tan grande como la
+que Mats empuñaba, y llevaba un peto y yelmo. Se
+dirigió a Moraelyn.
+
+"Nueve contra uno. Esperaría una ventaja así de vosotros, demonios negros". Moraelyn estaba al fondo del grupo, sin embargo el barón
+lo había
+señalado a él como el líder. La gente lo hacía, de algún modo.
+
+"¿Prefieres la ventaja del peso, no es así? Pero mi
+esposa te quiere para ella sola. Parece que no puede resistirse a tus encantos.
+Ni yo tampoco; no podía esperar a que respondieras a mi
+invitación, así que vine a ti en su lugar".
+
+"¿La venzo a ella y el resto me matáis? ¡Ja! Podría valer la
+pena aun así", añadió, mirando a Aliera con ojos oscuros y fríos.
+
+Aliera sonrió con una sonrisa terrible. Su cabello oscuro ondeaba libre
+sobre sus hombros y parecía brillar. "No vencerás a esta mujer, barón, pero si lo haces, te irás libre.
+Eres mío solo esta noche. ¡Juradlo todos, por Zenithar! Si
+él logra matarme, mi fantasma lo perseguirá hasta su tumba y
+más allá". Parecía bastante complacida con la perspectiva. Edward comenzó a temblar.
+
+"¡Por Zenithar!"
+
+El barón se rió: "No te creo, pero una última
+hembra para mi colección entonces. ¿Tan cansado estás de ella, elfo?"
+
+"¿Tan asustado estás de ella que preferirías enfrentarte a mí
+en su lugar?" En algún rincón profundo de su mente, Edward se dio cuenta de que el
+elfo tenía razón. A pesar de la bravuconería del barón, tenía miedo de
+Aliera. Edward no había jurado con los demás. Agarró su bastón con fuerza pero sus pies parecían enraizados
+al suelo.
+
+El barón se rió de nuevo y lanzó un golpe poderoso a Aliera
+en respuesta, pero se desvió inofensivamente en su escudo. Sus
+ojos se agrandaron al darse cuenta de que ella tenía un escudo de hechizos. Aliera
+bailó a un lado y le cortó el brazo. Ella era ágil, pero él logró asestar muchos golpes. Si su escudo caía... Edward no
+terminó el pensamiento.
+
+Pero él se estaba dejando algo abierto con la esperanza de desgastar el escudo de ella, y ella estaba logrando impactos contra
+sus extremidades. Mantenía sus golpes bajos, intentando quitarle el uso
+de sus piernas y desangrarlo. Todo el tiempo se burlaba
+de su hombría, diciendo que lo castraría antes de que muriera.
+Un gran golpe la hizo retroceder; su escudo destelló y desapareció.
+
+El barón levantó su hacha en alto para partirle el cráneo de un solo
+golpe. El brazo de ella se echó atrás y lanzó su esbelta espada corta
+directamente al ojo de su enemigo. Él soltó el hacha y cayó
+gritando de rodillas, con las manos arañando su rostro. Aliera
+dio un paso adelante y hundió la espada, perforando profundamente
+dentro del cerebro. El cuerpo cayó, retorciéndose y sacudiéndose.
+
+"¡Bien peleado, esposa!"
+
+"¡Tuve un maestro entrenador, y un mejor armero!" Aliera
+se rió, luego echó la cabeza hacia atrás y gritó sin palabras en
+triunfo, levantando sus brazos con los puños cerrados.
+
+"¡Eso es cierto!" Moraelyn agarró a Silk en un fuerte abrazo y la besó ruidosamente. "Es un truco ingenioso
+el que le enseñaste, Silk".
+
+"¡Te agradecería que dejaras de flirtear con mi entrenadora,
+marido!" dijo Aliera, limpiando su esbelta hoja de adamantio
+con cuidado.
+
+"¿Yo flirtear? No mientras tengas la sangre hirviendo... y tu escudo
+esté cargado. Solo le estoy dando las gracias. Besaré a I'ric también cuando
+vuelva a verlo".
+
+"¿Está muerto de verdad?" Caron se había aferrado a Beech durante toda la
+pelea con los ojos cerrados. Ahora miraba a Aliera con --
+Asombro, Edward pensó que era la palabra correcta. Edward sentía
+algo parecido, aunque era más bien horror.
+
+"Bastante muerto", dijo Aliera, observando la forma que aún se
+retorcía débilmente, con satisfacción. La chica se acercó más,
+luego se arrodilló junto a él. Recogió una piedra y la estrelló
+contra su cara una y otra vez, sollozando. Cuando terminó,
+Ssa'ass lanzó algunos hechizos de curación sobre ella. Mith abrió la
+puerta. Salieron bastante cerca de donde habían dejado los
+caballos.
+
+Llevaron a la chica de vuelta a casa de su abuela y la dejaron allí, dándole instrucciones de que dijera a
+cualquiera que se atreviera a molestarla, que los sirvientes de Zenithar
+regresarían si ella resultaba herida. La anciana desconcertada
+abrazó a su nieta. Mientras se despedía de ellos,
+susurró a Aliera que cuidara de aquel hombre suyo.
+
+"Oh, lo hago", dijo Aliera. "Lo hago".
+
+---
+
+Cuando se detuvieron para descansar, Aliera se acercó a Edward para
+hablar con él, pero él protestó diciendo que estaba muy cansado y solo
+quería dormir. Moraelyn se la llevó de un tirón, diciendo que si
+su hijo no la necesitaba, entonces podía ocuparse de su hombre, que
+sí la necesitaba. Se alejaron del círculo de la fogata. Edward se quedó
+despierto, escuchando sus sonidos pequeños y sofocados. Eso no
+era inusual. Le había preocupado al principio. "No puedo dormir;
+hacéis mucho ruido", protestó una noche. "¿Qué estáis haciendo, de todos modos?" Eso provocó risitas entre los Compañeros. "¿No
+puedes al menos fingir que estás durmiendo?" Había preguntado Moraelyn
+lastimosamente. "Ahora sé por qué los elfos oscuros rara vez tienen más
+de un hijo. Lo que no entiendo es cómo los humanos
+se las arreglan para tener tantos". Moraelyn y Aliera habían vuelto a acostarse junto a él aquella noche, pero después de eso él había fingido
+dormir, como los demás.
+
+Y los ruidos eran ya demasiado familiares para evitar que las imágenes de las
+aventuras de la noche pasaran por su mente, tan vívidas
+como si estuvieran ocurriendo de nuevo en realidad. Podía sentir a su
+daedra alimentándose y no podía detenerlo. No era justo,
+pensó, pero ahora estaba empezando a ver lo que Moraelyn
+quería decir con alimentar a su daedra y aun así caminar con los dioses. Con Zenithar.
+
+Moraelyn regresó, cargando a Aliera. La depositó suavemente,
+luego se estiró entre Edward y ella.
+
+"Debe ser difícil ser mujer", dijo en voz baja. "Fue duro verla. Simplemente observar".
+
+Edward asintió.
+
+"Se lo he pedido suficientes veces, a ella", continuó Moraelyn.
+"Ella me decía lo duro que es, pero nunca lo supe hasta esta noche. Sabía que ganaría. Zenithar estaba con ella, y todo lo que el barón tenía
+era su daedra. Y aun así fue muy duro de ver. Ella logra
+ese lanzamiento nueve de cada diez veces, y había más usos en
+el escudo si fallaba... él habría caído de agotamiento antes de desgastarlo por completo".
+
+"Yo sigo pensando en ello también... y el guardia al que... ¿él pidió misericordia?"
+
+"Lo sé. Y sin embargo, escuchaba aquello... noche tras noche.
+Y aun así siguió siendo el hombre del barón".
+
+"La mayoría de los hombres no son tan fuertes como tú. ¿Quizás no pudo evitarlo?"
+¿Por qué estaba abogando por un hombre que ya estaba muerto? Su mente seguía
+reproduciendo los eventos de la noche como si aún pudieran salir
+de forma diferente, para mejor o para peor.
+
+"Incluso presenciar una maldad como esa corrompe el alma. Observar y no hacer nada... Mats habría detenido mi mano si
+hubiera algo allí que valiera la pena conservar. Y es peor para los
+jóvenes; lamento que hayas tenido que pasar por esta noche".
+
+"¿Está mi alma corrompida ahora?"
+
+"Sientes la picadura del ácido, como todos nosotros, pero sanarás".
+
+"¿Puedes curarme (Heal) ahora?"
+
+"Sí". Moraelyn tomó al chico en sus brazos, luego rodó
+de modo que Edward quedó entre sus padres. Aliera lo rodeó con sus
+brazos sin despertarse realmente. Su fuerte olor a mujer se mezcló con el olor a especia oscura almizclada de Moraelyn en las fosas nasales de Edward.
+
+"Ella estaba muy enfadada", susurró Edward. Se había preguntado si
+alguna vez volvería a sentir lo mismo hacia ella... y sin embargo
+sus brazos eran todavía tan reconfortantes como antes. Quizás Moraelyn
+también había necesitado esa reafirmación y había sido lo bastante sabio como para
+pedirla.
+
+"Es una mujer. Ese tipo de daño a otra persona la toca de cerca", dijo.
+
+¿Cómo de cerca? El chico expresó con la mirada la pregunta que no se atrevió a formular.
+
+"Tu padre no es un monstruo. Pero ella estuvo casada con un hombre que
+no se preocupaba por ella, y no podía dejarlo. Es algo común
+entre tu raza, lo cual no lo hace más fácil de soportar,
+creo".
+
+"¿Ella también tiene un daedra, entonces?" preguntó Edward con tristeza.
+
+"Debes hablar con ella sobre eso".
+
+"Realmente no fue una pelea justa, ella con escudo y él no".
+
+"Las peleas justas son para la arena, chico. ¿Pelearías contra un lobo
+o un sabueso del infierno sin armas, hechizos y armadura, aunque
+ellos no tengan nada? Yo no lo haría".
+
+"¿Qué será de Caron y Ora? ¿Y de la otra gente, ahora
+que el barón está muerto?"
+
+"¿Tengo cara de ser el profeta Marukh? ¿Cómo voy a saberlo? Podemos
+parar aquí en primavera y ver qué se ha plantado en el
+campo que quemamos esta noche. No tengo intención de quedarme a ararlo. Tengo mis propios campos que atender -- escúchame,
+sueno como un granjero Nórdico. Minas que cavar es más propio".
+Bostezó.
+
+"Los otros no pensaron en el después. Tú sí".
+
+"Soy un rey; es lo que hacemos".

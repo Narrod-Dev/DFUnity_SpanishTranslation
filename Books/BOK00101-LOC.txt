@@ -1,613 +1,589 @@
-Title: King Edward, Part 2
+Title:El Rey Edward, Part 2
 Author: Anonymous
 IsNaughty: False
 Price: 300
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]King Edward, Part 2
-
-
+[/center]El Rey Edward, Parte 2
 
 [/font=4]
 
+[/center]Capítulo 2:
 
+[/center]Reencuentro en Firsthold
 
-[/center]Chapter 2:
+Edward despertó ante un cielo rojo. El sol apenas asomaba por las
+montañas del oeste. Se acercaban a una torre resplandeciente,
+con destellos de fuego brotando de cada faceta. El dragón viró para volar más cerca y lanzó una
+larga ráfaga de llamas. Una luz parpadeó varias veces desde lo alto de la
+torre mientras descendían repentinamente. El estómago de Edward se sintió
+muy peculiar. Suspiró, se movió y sintió que Moraelyn se
+acomodaba de modo que su brazo derecho ahora sostenía a Edward. Se estiró y bostezó.
 
-[/center]Reunion at Firsthold
+"No falta mucho. Son varios días a caballo desde la
+Torre de Cristal hasta Firsthold, pero calculo que Akatosh nos
+tendrá allí en menos de una hora".
 
- Edward woke to a red sky. The sun was just peeking over the
-western mountains. They were nearing a glittering tower,
-fire flashing from every facet. The dragon veered to fly nearer and shot a long blast of flame. A
-light flashed several times from the tower's top as they
-dropped suddenly. Edward's stomach felt very peculiar. He
-sighed and stirred and felt Moraelyn shift so that his right
-arm now held Edward. He stretched and yawned.
+"¿No nos detendremos en la Torre? I'ric---"
 
- "Not much longer now. It's several days by horse from the
-Crystal Tower to Firsthold but I judge that Akatosh will
-have us there within the hour."
+"No uses ese nombre tan a la ligera, ni siquiera conmigo. El
+Archimago no regresará hasta dentro de unos días. Los unicornios son hermanos del viento y viajan igual de rápido, incluso con carga, pero
+no tan rápido como vuelan los dragones. Estás viendo la patria de los Elfos al amanecer desde el lomo de un dragón. Considérate afortunado entre los hombres".
 
- "We're not stopping at the Tower? I'ric---"
+La mirada de Edward recorrió los profundos bosques verdes y las colinas escarpadas.
+No había señales de habitantes. "Es encantador", dijo cortésmente,
+"pero no tan hermoso como Roca Alta", añadió por lealtad y por verdad. "¿No hay pueblos, aldeas o
+granjas?".
 
- "Do not use that name so lightly, not even to me. The
-ArchMagister will not return for days yet. Unicorns are brothers to the wind and travel as fast, even burdened, but
-not as fast as dragons fly. You see the Elven homeland at dawn from the back of a dragon. Count yourself fortunate among men."
+"Los Primogénitos viven refugiados en lo profundo de los árboles. Y ellos
+no desgarran la tierra para plantar de nuevo, sino que toman con gusto lo que
+Auriel ofrece ... y se lo devuelven. Ahhh, el olor verde de las cosas que crecen".
 
- Edward's gaze roamed the deep green woods and rugged hills. T
-here was
-no sign of habitation. "It's lovely," he said politely,
-"but not so beautiful as High Rock," he added out of loyalty and truth. "Are there no towns or villages or
-farms?"
+De hecho, el aire era tan embriagador como el vino que Edward solía sorber
+de la copa de su padre, antes de ... "Tengo hambre".
 
- "The Firstborn live nestled deep in the trees. And they do
-not tear up the earth and plant anew, but take gladly what
-Auriel offers ... and make return. Ahhh, the green smell of growing things."
+"Me lo imagino". Tras un pequeño movimiento, la mano izquierda de Moraelyn
+sacó un pequeño paquete envuelto en hojas. La mano oscura era
+grande y fuerte y no parecía ni humana ni animal. Edward la miró con repulsión,
+luego tomó el paquete con cautela para no tocar la mano.
+Sintió que Moraelyn se tensaba y la mano que sostenía a Edward relajó
+un poco su agarre. Edward se sintió avergonzado de su reacción. No era ni
+amable ni sabio ofender en tales circunstancias. Moraelyn
+no había señales de habitantes. "Es encantador", dijo cortésmente,
+"pero no tan hermoso como Roca Alta", añadió por lealtad y por verdad. "¿No hay pueblos, aldeas o
+granjas?".
 
- Indeed, the air was as heady as the wine Edward used to sip
-from his father's cup, before ... "I'm hungry."
+"Los Primogénitos viven refugiados en lo profundo de los árboles. Y ellos
+no desgarran la tierra para plantar de nuevo, sino que toman con gusto lo que
+Auriel ofrece ... y se lo devuelven. Ahhh, el olor verde de las cosas que crecen".
 
- "I expect so." A bit of shifting and Moraelyn's left hand
-produced a small leaf-wrapped package. The dusky hand was
-large and strong and looked neither human nor animal. Edward stared at it with revulsion,
-then took the package gingerly so as not to touch the hand. He
-felt Moraelyn stiffen and the hand that held Edward relaxed its grasp
-a bit. Edward felt ashamed of his reaction. It was neither
-kind nor wise to give offense in the circumstances. Moraelyn
-ere was
-no sign of habitation. "It's lovely," he said politely,
-"but not so beautiful as High Rock," he added out of loyalty and truth. "Are there no towns or villages or
-farms?"
+De hecho, el aire era tan embriagador como el vino que Edward solía sorber
+de la copa de su padre, antes de ... "Tengo hambre".
 
- "The Firstborn live nestled deep in the trees. And they do
-not tear up the earth and plant anew, but take gladly what
-Auriel offers ... and make return. Ahhh, the green smell of growing things."
+"Me lo imagino". Tras un pequeño movimiento, la mano izquierda de Moraelyn
+sacó un pequeño paquete envuelto en hojas. La mano oscura era
+grande y fuerte y no parecía ni humana ni animal. Edward la miró con repulsión,
+luego tomó el paquete con cautela para no tocar la mano.
+Sintió que Moraelyn se tensaba y la mano que sostenía a Edward relajó
+un poco su agarre. Edward se sintió avergonzado de su reacción. No era ni
+amable ni sabio ofender en tales circunstancias. Moraelyn
+podría dejarlo caer por la borda con total facilidad. "Necesito bañarme,
+pero tú también", dijo con rigidez. Moraelyn estaba malinterpretando
+deliberadamente la reacción, Edward lo sabía. "Sí, estoy muy
+sucio", Edward mordió el pastel, que resultó ser mucho mejor
+de lo que parecía. "Mi señora madre está acostumbrada a verme
+así--al menos solía estarlo. ¿Pero quizás debería bañarme
+primero?".
 
- Indeed, the air was as heady as the wine Edward used to sip
-from his father's cup, before ... "I'm hungry."
+"Creo que no se te ofrecerá esa opción. ¡Ah, al fin!"
+El dragón extendió sus alas, lanzó una enorme llamarada hacia el cielo y descendió a tierra en un gran claro.
+El aterrizaje fue brusco y sacudido. Los elfos aparecieron de
+repente y unos brazos se extendieron para bajarlo a él y a Shag, quien finalmente despertó,
+corrió frenéticamente en círculos y luego se sentó jadeando
+a los pies de Edward.
 
- "I expect so." A bit of shifting and Moraelyn's left hand
-produced a small leaf-wrapped package. The dusky hand was
-large and strong and looked neither human nor animal. Edward stared at it with revulsion,
-then took the package gingerly so as not to touch the hand. He
-felt Moraelyn stiffen and the hand that held Edward relaxed its grasp
-a bit. Edward felt ashamed of his reaction. It was neither
-kind nor wise to give offense in the circumstances. Moraelyn
-could quite easily drop him overboard. "I need to bathe,
-but so do you," he said stiffly. Moraelyn was deliberately
-misinterpreting the reaction, Edward knew. "Yes, I'm very
-dirty," Edward bit into the cake which proved much better
-than it looked. "My lady mother's used to seeing me like
-this--at least she used to be. But perhaps I should bathe
-first?"
+Un elfo alto con cabello de fuego como el cobre los saludó
+formalmente. "Saludos, mi señor Rey. Vuestra señora esposa os
+espera. Príncipe Edward, os doy la bienvenida a la tierra de los Primogénitos en nombre de todo su
+pueblo. Que vuestra estancia aquí sea agradable y productiva".
 
- "I think you will not be offered that choice. Ah, at last!"
-The dragon spread his wings, sent a huge gout of flame
-soaring skyward and dropped to earth in a large clearing.
-The landing was abrupt and jarring. Elves appeared quite
-suddenly and arms reached up to take him and Shag, who woke
-at last, ran frantically in circles, and then sat panting
-at Edward's feet.
+Moraelyn asintió con deferencia. "Gracias, mi anfitrión. Mi
+Reina ha esperado lo suficiente; iremos a verla ahora".
+La mano de Moraelyn sobre su hombro dirigió a Edward hacia el
+árbol más grande que jamás hubiera visto. El tronco estaba hueco; unos escalones en su interior
+subían; las aberturas daban a más escalones y puentes
+a lo largo y entre las poderosas ramas. Procedieron por
+estos hasta llegar a una gran plataforma con dosel,
+amueblada con asientos y cofres como si fuera una habitación. Una mujer de piel
+dorada les sonrió y les indicó que pasaran, luego se fue. Una
+mujer humana alta, delgada, de piel pálida y cabello oscuro caminó
+hacia ellos, con los ojos puestos en Edward. Solo en Edward.
 
- A tall elf with fiery hair like copper greeted them
-formally. "Greetings, my lord King. Your lady wife awaits
-you. Prince Edward, I welcome you to the land of the Firstborn on behalf of all its
-people. May your stay here prove pleasant and productive."
+"¡Por qué nos dejaste!" El grito salió de lo más profundo,
+resonando a través de él. La detuvo a varios pasos de él.
+Ahora sus ojos se elevaron hacia Moraelyn, quien dijo en un tono más severo
+de lo que Edward le había escuchado hasta entonces. "¡Te dirigirás a tu Madre con respeto, cachorro!" Un golpe superficial hizo que se le saltaran las lágrimas.
 
- Moraelyn nodded deferentially. "Thank you, my host. My
-Queen has waited long enough; we will go to her now."
-Moraelyn's hand on his shoulder steered Edward toward the
-largest tree he'd ever seen. The trunk was hollow; steps inside
-led up; openings gave out onto more steps and bridges
-along and among the mighty branches. They proceeded along
-these until they reached a large canopied platform,
-furnished with seats and chests as if it were a room. A golden
-skinned woman smiled at them and waved them in, then left. A
-tall slender, pale-skinned, dark-haired human woman paced
-toward them, her eyes on Edward. Only Edward.
+Aliera se acercó rápidamente a Moraelyn y puso sus manos sobre su pecho. "Saludos, mi esposo.
+Alabado sea Notorgo por traerte a ti y a mi hijo a salvo conmigo".
 
- "Why did you leave us!" The cry came from deep inside,
-ringing through him. It stopped her several paces from him.
-Now her eyes lifted to Moraelyn, who said in a harsher tone
-than Edward had yet heard from him. "Thou wilt address thy Mother with respect, cub!" A glancing blow made his eyes water.
+"Agradece también al Señor de los Dragones y al Bandido, que
+no podría haber levantado al chico con más limpieza él mismo. El
+Archimago también tuvo algo que ver".
+Las manos oscuras de Moraelyn subieron para sostener sus brazos desnudos con ligereza y
+ternura. Rió, pareciendo relajado y feliz. Pero las
+manos contra su pecho formaban tanto una barrera como una caricia.
 
- Aliera crossed quickly to Moraelyn and placed her hands on his chest. "Greeting, my husband.
-All praise to Notorgo for bringing you and my son safely to
-me."
+"Soy bendecida, en verdad. Pero ha pasado mucho tiempo desde que mi hijo y yo
+hemos hablado. Tal vez encontremos las palabras más fácilmente si las buscamos
+solos".
 
- "Thank also the Lord of the Dragons and the Bandit, who
-could not have lifted the boy more neatly himself. The
-ArchMagister had somewhat to do with it as well."
-Moraelyn's dusky hands came up to hold her bare arms lightly and
-tenderly. He laughed, looking relaxed and happy. But the
-hands against his chest formed a barrier as much as a caress.
+La sonrisa de Moraelyn desapareció al instante. "¿Son las palabras entonces una
+cosa que dos pueden encontrar más fácilmente que tres? Bien.
+Tal vez. A veces. Esposa". Se dio media vuelta y se fue. El puente se balanceó y crujió, pero sus pies no emitieron
+sonido alguno.
 
- "I am blessed indeed. But it has been long since my son and I
-have spoken. We may find words more easily if we seek them
-alone together."
+Aliera lo vio marcharse, pero él no miró atrás. Edward sintió de nuevo la curiosa mezcla de satisfacción y
+arrepentimiento que producía causar dolor a su enemigo. "Edward, mi
+hijo, ven y siéntate a mi lado".
 
- Moraelyn's smile vanished instantly. "Are words then a
-thing which two can find more easily than three? Well.
-Perhaps. At times. Wife." He turned on his heel and left. The bridge swung and creaked, but his feet made
-no sound at all.
+Edward permaneció donde estaba, "Señora madre, he esperado muchos
+años y viajado muchas leguas para tener una respuesta. No esperaré
+más, ni daré un paso más".
 
- Aliera watched after him, but he did not look back. Edward felt again the curious mix of satisfaction and
-regret that came with giving pain to his enemy. "Edward, my
-son, come and sit by me."
+"¿Qué te han dicho?"
 
- Edward stood where he was, "Madam mother, I have waited many
-years and travelled many leagues to have an answer. I will
-wait no longer, nor go one step further."
+"Que fuiste secuestrada traidoramente por la noche con
+ayuda de la magia, mientras mi padre dormía, confiando en el
+honor de su invitado".
 
- "What have you been told?"
+"Tu padre te dijo eso. ¿Y Moraelyn?"
 
- "That you were most treacherously kidnapped by night with
-the aid of magic, while my father slept, trusting in the
-honor of his guest."
+"Dijo que viniste por tu voluntad. Quisiera oír lo que tú dices".
 
- "Your father told you that. And Moraelyn?"
+"¿Quisieras oír por qué dejé a tu padre o por qué no te llevé
+conmigo, habiendo elegido irme?".
 
- "Said that you came full willing. I would hear what you say."
+Edward hizo una pausa, pensando: "Señora, quisiera oír la verdad, por lo tanto debo
+dar la verdad. Quisiera oír por qué me dejaste atrás. Lo
+otro, creo que lo sé, tanto como puedo o querría saber, a menos que desees contarme más u
+otra cosa".
 
- "Would you hear why I left your father or why I did not take
-you with me, having chosen to go."
+"¿La verdad? La verdad no es una cosa única que existe aparte de quienes la
+perciben. Pero te contaré mi verdad y tal vez entonces
+puedas llegar a tu verdad.
 
- Edward paused, thinking, "Madam, I would hear the truth, therefore I must
-give the truth. I would hear why you left me behind. The
-other, I think I know, as much as I can or would know, unless you wish to tell me more or
-other."
+Aliera caminó de regreso a una silla de suaves cojines y se acomodó. Cerca de allí un pequeño pájaro de color rubí se posó en una
+rama y trinó un acompañamiento a su voz suave.
 
- "The truth? Truth is not a single thing existing apart from those who
-apprehend it. But I will tell you my truth and perhaps then
-you may arrive at your truth.
+"Mis padres arreglaron mi matrimonio como es la costumbre de nuestra
+patria. No amaba a Corcyr, pero al principio lo
+respetaba y trataba de ser una buena esposa. Él no se preocupaba por
+mí, ni tenía cuidado. Y así perdió mi respeto y yo moría
+un poco cada día, marchitándome como una planta descuidada. Fui
+feliz solo contigo, pero Corcyr pensaba que te estaba haciendo demasiado blando. "Amujerado," decía, y así, después de tu tercer
+cumpleaños solo se me permitió pasar una hora al día contigo. Escuchaba tus llantos y me sentaba a llorar, sin
+corazón para nada. Finalmente, dejaste de llorar y de preguntar por mí, y mi corazón quedó vacío. Formé el hábito de caminar y cabalgar gran parte del tiempo, sola salvo por un guardia o dos. Entonces vino Moraelyn. Él
+quería extraer ébano en las Montañas de Wrothgar. La tierra que
+quería usar era parte de mi dote. Estaba dispuesto a entrenar
+a nuestra gente en las artes de su uso e incluso a darles
+armas de fabricación de Elfos Oscuros. A cambio, nuestra gente debía
+ayudarlo a mantener alejados a los goblins, y permitirle formar una
+colonia de su gente en Roca Alta. Corcyr no tenía uso para la
+tierra y deseaba mucho las armas -- no las hay
+mejores -- así que favoreció la propuesta. Hubo muchos
+detalles que discutir y organizar y me correspondió a mí
+llevar a cabo estas negociaciones. Corcyr desprecia a los Elfos Oscuros y
+tenía celos de Moraelyn, quien ya era famoso como el mejor luchador de todo Tamriel.
 
- Aliera walked back to a softly pillowed chair and composed
-herself. Nearby a small ruby colored bird settled on a
-branch and trilled an accompaniment to her soft voice.
+"Pero Moraelyn es más que un luchador hábil; es culto e interesado en todo bajo el sol. Cantaba
+y tocaba como si fuera enseñado por Jeh Free y Jhim Sei a la vez. Era
+un compañero como solo había soñado ... eso y nada
+más, lo juro. Ambos amamos estar al aire libre, así que nuestras discusiones tenían lugar mientras cabalgábamos y caminábamos, pero siempre acompañados por sus hombres y los de Corcyr. Cuando todo estuvo
+organizado, Corcyr dio un gran banquete para celebrar el
+tratado. Toda la nobleza de Roca Alta vino y muchos de otras
+provincias. Al final, Corcyr estaba muy bebido y dejó
+caer un insulto que solo podía lavarse con sangre. Yo me había
+retirado hacía tiempo con las otras damas, así que no sé qué
+fue, pero había oído lo suficiente en privado para saber que Corcyr tenía un almacén de tales insultos para elegir. Moraelyn lanzó el
+desafío y le dio a Corcyr hasta el mediodía, para que pudiera recuperar
+el poco juicio que tuviera.
 
- "My parents arranged my marriage as is the custom of our
-homeland. I did not love Corcyr, but in the beginning I
-respected him and tried to be a good wife. He did not care for
-me, nor did he take care. And so he lost my respect and I died
-a little each day, withering like an untended plant. I was
-happy only with you, but Corcyr thought I was making you too soft. "Womanish," he said, and so, after your third
-birthday I was allowed to spend only an hour each day with
-you. I listened to your cries and sat weeping, without
-heart for anything. Finally, you ceased crying and asking for me, and my heart was left empty. I
-formed the habit of walking and riding much of the time, alone save for a guard or two. Then Moraelyn came. He
-wanted to mine for ebony in the Wrothgarian Mountains. The land he
-wanted to use was part of my dowry. He was willing to train
-our people in the arts of its use and even to give them
-weapons of Dark Elf making. In return our people were to
-aid him in keeping the goblins away, and allow him to form a
-colony of his people in High Rock. Corcyr had no use for the
-land and he wanted the weapons very much indeed -- there are
-none better -- so he favored the proposal. There were many
-details to be discussed and arranged and it fell to me to
-conduct these negotiations. Corcyr despises Dark Elves and he
-was jealous of Moraelyn, who was already famed as the finest fighter in all Tamriel.
+"Entonces Moraelyn vino a mí, sola en mi cámara, y me contó
+lo que había sucedido. 'Milady, creo que elegirá a vuestro
+hermano como su campeón; en cualquier caso habrá un río de sangre entre nosotros
+que no podrá cruzarse en esta vida ni en ninguna otra. Puedo vivir
+sin vuestro amor, pero no querría tener vuestra enemistad. Venid
+conmigo ahora, como esposa o invitada de honor, como elijáis. Y
+serviréis como precio de sangre en lugar de vuestra estirpe o parientes'.
 
- "But Moraelyn is more than a skilled fighter; he's well-read and interested in everything under the sun. He sang
-and played as if taught by Jeh Free and Jhim Sei both. He was
-a companion such as I'd only dreamed of ... that and no
-more, I swear. We both love to be outside, so our discussions took place while riding and walking, but always
-accompanied by his men and Corcyr's. When all was
-arranged, Corcyr gave a great feast to celebrate the
-treaty. All of High Rock nobility came and many from other
-provinces. At the end Corcyr was deep in his cups and let
-fall an insult that could only be washed out in blood. I had
-long since retired with the other ladies so I know not what it
-was, but I'd heard enough in private to know that Corcyr had a store of such to choose from. Moraelyn gave the
-challenge and gave Corcyr until noon, that he might recover
-such wits as he had.
+"Y allí, a la luz de la luna, en mi terror, con mis damas
+durmiendo a mi alrededor, supe que lo amaba. Dudé que pudiera
+vivir sin él. ¡Y sin embargo, te amaba más a ti! 'Mi hijo,'
+susurré. 'No puedo--'. 'Milady, debéis elegir. Lo
+lamento.' ¿Lo ves, Edward? Si me quedaba, significaba
+la muerte de mi hermano -- su sangre joven e inocente. ¡O la de tu
+padre! O posiblemente la del hombre que amaba, aunque
+consideraba eso muy poco probable. Las habilidades de lucha de Moraelyn por sí solas eran supremas, y en un
+asunto de este tipo tendría derecho a pedir ayuda mágica también. 'Podríamos llevarlo con nosotros'. Pero
+Moraelyn sacudió la cabeza con tristeza, 'Eso no lo haré. Iría
+contra mi honor separar a padre e hijo'.
 
- "Then Moraelyn came to me, alone in my chamber, and told
-me what had befallen. 'Milady, I think he will choose your
-brother as his champion; in any case there will be a river of blood between us
-that may not be crossed in this life or any other. I can live
-without your love, but I would not have your enmity. Come
-with me now, as wife or honored guest, as you choose. And you
-shall serve as blood price in stead of your kith or kin.'
+"Dejando a un lado el amor, estoy entrenada para el deber", dijo Aliera
+con orgullo. "¿Debería haberte robado a tu padre o a tu
+amado tío? Y pensé que era probable que Corcyr, si
+sobrevivía, de alguna manera me culpara por el asunto y lo usara
+como excusa para repudiarme. Pensé que Corcyr se
+alegraría de que me hubiera ido. Sabía que quería mucho las armas. Podría intercambiarlas por tiempo contigo, pensé." Todo
+esto pasó por mi mente mientras Moraelyn esperaba, sin
+mirarme.
 
- "And there, in the moonlight, in my terror, with my ladies
-sleeping about me, I knew I loved him. Doubted that I could
-live without him. And yet, I loved you more! 'My son,' I
-whispered. 'I can't--'. 'Milady, you must choose. I am
-sorry.' You see, don't you, Edward? If I stayed, it meant
-my brother's death -- his innocent young blood. Or your
-father's! Or possibly that of the man I loved, though I
-counted that most unlikely. Moraelyn's fighting skills alone were supreme, and in an
-affair of this sort he would be entitled to call on magic aid as well. 'We could take him with us.' But
-Moraelyn shook his head sadly, 'That I will not do. It would
-go against my honor to part father and son.'
+"Señora Mara, ayúdame a elegir sabiamente, recé. '¿Realmente me quieres como esposa? Yo--yo no podría traerte más que
+problemas.'
 
- "Leaving love alone, I am trained to duty", Aliera said
-proudly. "Should I have robbed you of your father or your
-loving uncle? And I thought it likely that Corcyr, should he
-survive, would somehow blame me for the affair and use it
-as an excuse to put me away. I thought that Corcyr would be
-pleased to have me gone. I knew he wanted the weapons very
-much. I could trade them for time with you, I thought." All
-this passed through my mind while Moraelyn stood waiting, not
-looking at me.
+"Aliera, te querría como esposa. Y no quiero nada más que a
+ti misma." Se quitó la capa y la envolvió alrededor de mi cuerpo,
+apartando las ropas de cama.
 
- "Lady Mara, help me to choose wisely, I prayed. 'You
-truly want me as wife? I--I could bring you nothing but
-trouble.'
+"Moraelyn, espera--¿es correcto esto que hago?"
 
- "Aliera, I would have you to wife. And I want nothing but
-yourself." He shed his cloak and wrapped it round my body,
-pulling the bedclothes away.
+"¡Milady, si pensara que esto es incorrecto, no estaría
+aquí parado! De las opciones que se os dan, esta me parece la más
+correcta." Me subió en sus brazos y me llevó a su caballo.
+Y así dejé la casa de tu padre, vestida solo con su capa y
+cabalgando ante él. Y una alegría salvaje se mezcló con mi dolor, de modo que apenas sabía cómo
+me sentía. Esa es mi verdad".
 
- "Moraelyn, wait--is this right, what I do?"
+Edward dijo en voz baja, "Pero él nos ha separado a mi padre y a mí al
+final".
 
- "Milady, if I thought this wrong, I should not be standing
-here! Of the choices you are given, this one seems to me most
-right." He swung me up in his arms and carried me to his horse.
-And so I left your father's house, clad only in his cloak and
-riding before him. And wild joy mixed with my sorrow, so that I scarce knew how
-I felt. That is my truth."
+"Con gran renuencia. Y solo porque el dragón dice
+que tú y tu padre ya estabais en verdad separados en el
+corazón. Es solo una cuestión de
+más leguas. Las cuales te proporcionan una medida de seguridad.
+Moraelyn insistió en que debías consentir libremente en venir.
+Eres tan libre de regresar en cualquier momento que desees".
 
- Edward said quietly, "But he has parted my father and me in
-the end."
+"¡Moraelyn simplemente me habría llevado! Fue I'r--quiero decir, el Archimago, quien insistió en que yo
+debía consentir".
 
- "With great reluctance. And only becaue the dragon says
-that you and your father were in truth already parted in hear
-t. It is only a matter of
-more leagues. Which provide a measure of safety for you.
-Moraelyn insisted that you should freely consent to come.
-You are as free to return any time you wish."
+"No es un hombre paciente por naturaleza. Y está ansioso por hacer
+ningún daño a Corcyr. Sin duda sintió que la discusión podría ser
+llevada a cabo igual de bien en otro lugar".
 
- "Moraelyn would have just taken me! It was I'r--I mean, the ArchMagister, who insisted that I
-must consent."
+"Lo llamó Rey del Gallo Pequeño. Y se rió. ¿Por qué?
+¿Son los gallos de Salto de la Daga más pequeños que las aves de Ebonheart? ¿Y
+qué importa, de todos modos? Mi padre estaba muy enfadado;
+creo que le habría gustado pelear. Pero es verdad que me odia. Lo
+sabía, pero no quería saberlo, así que fingí que no.
+No supongo que Moraelyn haría eso".
 
- "He's not a patient man by nature. And he is anxious to do
-Corcyr no harm. Doubtless he felt the discussion could be
-carried on as well elsewhere."
+"No".
 
- "He called him King of the Small Cock. And laughed. Why?
-Are Daggerfall cockerels smaller than Ebonheart birds? And
-what does it matter, anyway? My father was very angry; I
-think he would have liked to fight. But it's true he hates me. I
-knew that, but I didn't want to know, so I pretended not to.
-I don't suppose Moraelyn would do that."
+. Es solo una cuestión de
+más leguas. Las cuales te proporcionan una medida de seguridad.
+Moraelyn insistió en que debías consentir libremente en venir.
+Eres tan libre de regresar en cualquier momento que desees".
 
- "No."
+"¡Moraelyn simplemente me habría llevado! Fue I'r--quiero decir, el Archimago, quien insistió en que yo
+debía consentir".
 
-. It is only a matter of
-more leagues. Which provide a measure of safety for you.
-Moraelyn insisted that you should freely consent to come.
-You are as free to return any time you wish."
+"No es un hombre paciente por naturaleza. Y está ansioso por hacer
+ningún daño a Corcyr. Sin duda sintió que la discusión podría ser
+llevada a cabo igual de bien en otro lugar".
 
- "Moraelyn would have just taken me! It was I'r--I mean, the ArchMagister, who insisted that I
-must consent."
+"Lo llamó Rey del Gallo Pequeño. Y se rió. ¿Por qué?
+¿Son los gallos de Salto de la Daga más pequeños que las aves de Ebonheart? ¿Y
+qué importa, de todos modos? Mi padre estaba muy enfadado;
+creo que le habría gustado pelear. Pero es verdad que me odia. Lo
+sabía, pero no quería saberlo, así que fingí que no.
+No supongo que Moraelyn haría eso".
 
- "He's not a patient man by nature. And he is anxious to do
-Corcyr no harm. Doubtless he felt the discussion could be
-carried on as well elsewhere."
+"No".
 
- "He called him King of the Small Cock. And laughed. Why?
-Are Daggerfall cockerels smaller than Ebonheart birds? And
-what does it matter, anyway? My father was very angry; I
-think he would have liked to fight. But it's true he hates me. I
-knew that, but I didn't want to know, so I pretended not to.
-I don't suppose Moraelyn would do that."
+"Él mentiría, sin embargo. Pensó en decirme que él era mi padre. Pude verlo".
 
- "No."
+Aliera echó la cabeza hacia atrás y soltó su bonita risa
+cristalina; él la recordaba de hacía mucho tiempo, y le produjo escalofríos por la espalda. "Debió de querer reclamarlo con mucha fuerza
+si dejó que lo vieras; suele ser más rápido que eso.
+Y él no miente bajo juramento, ni para herir a quienes ama".
 
- "He'd lie, though. He thought about telling me he was my father. I could see it."
+"Él no me ama; ni siquiera le caigo bien".
 
- Aliera threw back her head and laughed her pretty rippling
-laugh; he remembered it from long ago, and it sent shivers
-down his back. "He must have wanted to claim it very badly
-indeed if he let you see it; he's usually quicker than that.
-And he does not lie under oath, or to hurt those he loves."
+"Pero yo sí, mi querido hijo. Tú--" Edward pensó que ella iba a
+decir que había crecido; los adultos siempre comentaban su crecimiento, incluso
+si los había visto hacía apenas una semana. Muy extraño, ya que él era
+pequeño para su edad. En cambio ella dijo, "Eres justo como
+pensé que serías," con profunda satisfacción maternal.
 
- "He doesn't love me; he doesn't even like me."
+"Y él te ama. Pero dijo que no era el mandadero de nadie.
+Sin embargo lo despachaste como si lo fuera".
 
- "But I do, my dear son. You--" Edward thought she was going
-to say he'd grown; adults always remarked on his growth, even
-if he'd just seen them a week ago. Very strange, since he was
-small for his age. Instead she said, "You're just as I
-thought you'd be," with deep maternal satisfaction.
+El rostro y el cuello de Aliera se tiñeron de un carmesí profundo.
 
- "And he loves you. But he said he was no one's errand boy.
-Yet you dismissed him as if he were."
-
- Aliera's face and neck burned a deep crimson.
-
- "Nay, though I am reduced to serving man, it seems."
+"No, aunque parece que he quedado reducido a sirviente".
 Moraely
-n had entered silently, bearing a huge tray piled high
-with food. "Get me a stool, boy, you can play page if I can
-play server. You must be famished and I thought I'd best
-return before my wife gets round to the rest of my faults.
-Could take her most of the day listing them." He'd shed the mail and bathed and dressed
-in fresh black jerkin and hose with a silvery sash tied round
-his narrow waist. But the black sword still swung by his
-side.
+n había entrado silenciosamente, cargando una enorme bandeja llena
+de comida. "Tráeme un taburete, muchacho, tú puedes hacer de paje si yo puedo
+hacer de servidor. Debes estar hambriento y pensé que sería mejor
+regresar antes de que mi esposa llegue al resto de mis faltas.
+Podría tomarle la mayor parte del día enumerarlas." Se había quitado la cota de malla y se había bañado y vestido
+con un jubón negro limpio y calzas con una faja plateada atada alrededor de
+su estrecha cintura. Pero la espada negra aún colgaba a su
+lado.
 
- "Mara help us, you've enough food for a small army. And
-I've broken my fast." Aliera's small hand reached for the
-elf's arm, slid down it caressingly, then clasped his hand
-and squeezed it, lifting it to her still hot cheek, brushing
-it with her lips. Edward looked away quickly, discomforted by
-the sight of his dusky skin against her fairness.
+"Mara nos ayude, tienes comida suficiente para un pequeño ejército. Y
+yo ya he roto mi ayuno." La pequeña mano de Aliera buscó el
+brazo del elfo, se deslizó por él con caricia, luego apretó su mano
+y la apretó, elevándola a su mejilla aún caliente, rozándola
+con sus labios. Edward miró hacia otro lado rápidamente, incómodo por
+la visión de su piel oscura contra la blancura de ella.
 
- "This's for me, and a bit for the boy. But pray join us, my
-dear. You've grown thin. Pining for me, no doubt." He
-wrapped a lock of her dark curly hair around a finger and
-tugged at it, grinning, then fell on the food like a
-starving wolf, attacking it with small silvery weapons inste
-ad of eating with his
-fingers as humans did. The food was -- wonderful. Edward ate
-until he could eat no more.
+"Esto es para mí, y un poco para el chico. Pero por favor únete a nosotros, mi
+querida. Has adelgazado. Suspirando por mí, sin duda." Él
+enroscó un mechón de su cabello oscuro y rizado alrededor de un dedo y
+tiró de él, sonriendo, luego se lanzó sobre la comida como un
+lobo hambriento, atacándola con pequeños utensilios plateados en lugar
+de comer con los
+dedos como hacían los humanos. La comida era -- maravillosa. Edward comió
+hasta que no pudo más.
 
- "Eavesdropping," he murmured thoughtfully. He'd been
-mulling over a list of Moraelyn's faults while he ate, and realized too late that he'd
-spoken aloud.
+"Escuchando a escondidas," murmuró pensativamente. Había estado
+dando vueltas a una lista de las faltas de Moraelyn mientras comía, y se dio cuenta demasiado tarde de que había
+hablado en voz alta.
 
- "By Zenithar, boy, if you humans will shout your privy conversation all over the tree, d'ye
-expect me to shut my ears with wool?" He tapped one of his
-large pointed ears. Edward hurriedly tried to remember what
-they'd said. What he'd said. Lying. Oh dear. Maybe he hadn't
-heard.
+"¡Por Zenithar, muchacho! Si vosotros los humanos gritáis vuestras conversaciones privadas por todo el árbol, ¿esperáis que me tape los oídos con lana?" Él tocó una de sus
+grandes orejas puntiagudas. Edward intentó recordar apresuradamente lo que
+habían dicho. Lo que él había dicho. Mentir. Oh cielos. Tal vez no lo había
+oído.
 
- "So I'm a liar, am I, boy?" Vir Gil help him, Edward felt
-he was drowning. Could the Elf read minds? He hoped that
-wasn't the insult his father had used! "I -- I meant I thought
-that you were thinking about it. You did hesitate," Edward
-gulped. He was making matters worse.
+"¿Así que soy un mentiroso, eh, muchacho?" Vir Gil lo ayude, Edward sintió
+que se ahogaba. ¿Podía el Elfo leer la mente? ¡Esperaba que esa
+no fuera el insulto que su padre había usado! "Yo -- yo quise decir que pensé
+que estabas pensando en ello. Dudaste," Edward
+tragó saliva. Estaba empeorando las cosas.
 
- "Possibly, I was trying to remember ... " the sardonic
- had entered silently, bearing a huge tray piled high
-with food. "Get me a stool, boy, you can play page if I can
-play server. You must be famished and I thought I'd best
-return before my wife gets round to the rest of my faults.
-Could take her most of the day listing them." He'd shed the mail and bathed and dressed
-in fresh black jerkin and hose with a silvery sash tied round
-his narrow waist. But the black sword still swung by his
-side.
+"Posiblemente, estaba tratando de recordar ... " el sardónico
+había entrado silenciosamente, cargando una enorme bandeja llena
+de comida. "Tráeme un taburete, muchacho, tú puedes hacer de paje si yo puedo
+hacer de servidor. Debes estar hambriento y pensé que sería mejor
+regresar antes de que mi esposa llegue al resto de mis faltas.
+Podría tomarle la mayor parte del día enumerarlas." Se había quitado la cota de malla y se había bañado y vestido
+con un jubón negro limpio y calzas con una faja plateada atada alrededor de
+su estrecha cintura. Pero la espada negra aún colgaba a su
+lado.
 
- "Mara help us, you've enough food for a small army. And
-I've broken my fast." Aliera's small hand reached for the
-elf's arm, slid down it caressingly, then clasped his hand
-and squeezed it, lifting it to her still hot cheek, brushing
-it with her lips. Edward looked away quickly, discomforted by
-the sight of his dusky skin against her fairness.
+"Mara nos ayude, tienes comida suficiente para un pequeño ejército. Y
+yo ya he roto mi ayuno." La pequeña mano de Aliera buscó el
+brazo del elfo, se deslizó por él con caricia, luego apretó su mano
+y la apretó, elevándola a su mejilla aún caliente, rozándola
+con sus labios. Edward miró hacia otro lado rápidamente, incómodo por
+la visión de su piel oscura contra la blancura de ella.
 
- "This's for me, and a bit for the boy. But pray join us, my
-dear. You've grown thin. Pining for me, no doubt." He
-wrapped a lock of her dark curly hair around a finger and
-tugged at it, grinning, then fell on the food like a
-starving wolf, attacking it with small silvery weapons inste
-ad of eating with his
-fingers as humans did. The food was -- wonderful. Edward ate
-until he could eat no more.
+"Esto es para mí, y un poco para el chico. Pero por favor únete a nosotros, mi
+querida. Has adelgazado. Suspirando por mí, sin duda." Él
+enroscó un mechón de su cabello oscuro y rizado alrededor de un dedo y
+tiró de él, sonriendo, luego se lanzó sobre la comida como un
+lobo hambriento, atacándola con pequeños utensilios plateados en lugar
+de comer con los
+dedos como hacían los humanos. La comida era -- maravillosa. Edward comió
+hasta que no pudo más.
 
- "Eavesdropping," he murmured thoughtfully. He'd been
-mulling over a list of Moraelyn's faults while he ate, and realized too late that he'd
-spoken aloud.
+"Escuchando a escondidas," murmuró pensativamente. Había estado
+dando vueltas a una lista de las faltas de Moraelyn mientras comía, y se dio cuenta demasiado tarde de que había
+hablado en voz alta.
 
- "By Zenithar, boy, if you humans will shout your privy conversation all over the tree, d'ye
-expect me to shut my ears with wool?" He tapped one of his
-large pointed ears. Edward hurriedly tried to remember what
-they'd said. What he'd said. Lying. Oh dear. Maybe he hadn't
-heard.
+"¡Por Zenithar, muchacho! Si vosotros los humanos gritáis vuestras conversaciones privadas por todo el árbol, ¿esperáis que me tape los oídos con lana?" Él tocó una de sus
+grandes orejas puntiagudas. Edward intentó recordar apresuradamente lo que
+habían dicho. Lo que él había dicho. Mentir. Oh cielos. Tal vez no lo había
+oído.
 
- "So I'm a liar, am I, boy?" Vir Gil help him, Edward felt
-he was drowning. Could the Elf read minds? He hoped that
-wasn't the insult his father had used! "I -- I meant I thought
-that you were thinking about it. You did hesitate," Edward
-gulped. He was making matters worse.
+"¿Así que soy un mentiroso, eh, muchacho?" Vir Gil lo ayude, Edward sintió
+que se ahogaba. ¿Podía el Elfo leer la mente? ¡Esperaba que esa
+no fuera el insulto que su padre había usado! "Yo -- yo quise decir que pensé
+que estabas pensando en ello. Dudaste," Edward
+tragó saliva. Estaba empeorando las cosas.
 
- "Possibly, I was trying to remember ... " the sardonic
-d of eating with his
-fingers as humans did. The food was -- wonderful. Edward ate
-until he could eat no more.
+"Posiblemente, estaba tratando de recordar ... " el sardónico
+en lugar de comer con los
+dedos como hacían los humanos. La comida era -- maravillosa. Edward comió
+hasta que no pudo más.
 
- "Eavesdropping," he murmured thoughtfully. He'd been
-mulling over a list of Moraelyn's faults while he ate, and realized too late that he'd
-spoken aloud.
+"Escuchando a escondidas," murmuró pensativamente. Había estado
+dando vueltas a una lista de las faltas de Moraelyn mientras comía, y se dio cuenta demasiado tarde de que había
+hablado en voz alta.
 
- "By Zenithar, boy, if you humans will shout your privy conversation all over the tree, d'ye
-expect me to shut my ears with wool?" He tapped one of his
-large pointed ears. Edward hurriedly tried to remember what
-they'd said. What he'd said. Lying. Oh dear. Maybe he hadn't
-heard.
+"¡Por Zenithar, muchacho! Si vosotros los humanos gritáis vuestras conversaciones privadas por todo el árbol, ¿esperáis que me tape los oídos con lana?" Él tocó una de sus
+grandes orejas puntiagudas. Edward intentó recordar apresuradamente lo que
+habían dicho. Lo que él había dicho. Mentir. Oh cielos. Tal vez no lo había
+oído.
 
- "So I'm a liar, am I, boy?" Vir Gil help him, Edward felt
-he was drowning. Could the Elf read minds? He hoped that
-wasn't the insult his father had used! "I -- I meant I thought
-that you were thinking about it. You did hesitate," Edward
-gulped. He was making matters worse.
+"¿Así que soy un mentiroso, eh, muchacho?" Vir Gil lo ayude, Edward sintió
+que se ahogaba. ¿Podía el Elfo leer la mente? ¡Esperaba que esa
+no fuera el insulto que su padre había usado! "Yo -- yo quise decir que pensé
+que estabas pensando en ello. Dudaste," Edward
+tragó saliva. Estaba empeorando las cosas.
 
- "Possibly, I was trying to remember ... " the sardonic
-tone was back.
+"Posiblemente, estaba tratando de recordar ... " el sardónico
+tono había vuelto.
 
- "You don't even like me!" Edward burst out.
+"¡Ni siquiera te caigo bien!" Edward estalló.
 
- "That doesn't seem to have stopped your true father from claiming you."
+"Eso no parece haber impedido que tu verdadero padre te reclamara."
 
- "Moraelyn! Don't!" Aliera interrupted, but the Elf held
-up his hand to quiet her.
+"¡Moraelyn! ¡No!" Aliera interrumpió, pero el Elfo levantó
+su mano para silenciarla.
 
- "I'm not so sure." Edward flashed.
+"No estoy tan seguro." Edward espetó.
 
- "Why do you say that?"
+"¿Por qué dices eso?"
 
- "I don't know--Roane says--things--and I'm not at all like
-him. Everyone remarks on it. And then stops talking."
+"No lo sé--Roane dice--cosas--y no me parezco en nada a
+él. Todo el mundo lo comenta. Y luego dejan de hablar."
 
- "What--things? Speak, boy!"
+"¿Qué--cosas? ¡Habla, muchacho!"
 
- "About how fond Mother was of her brother when they were
-young. How sad and angry he was when she was carried off. More
-like a lover, she said, than a brother. She says it very
-sweetly, but like she means something by it. Something too
-dirty to say. Other times she talks about how elfin I look. And how
-quickly after marriage I came. Not as quickly as her first
-son, though."
+"Sobre lo cariñosa que era Madre con su hermano cuando eran
+jóvenes. Lo triste y enfadado que estaba él cuando se la llevaron. Más
+como un amante, dijo ella, que como un hermano. Dice eso muy
+dulcemente, pero como si quisiera decir algo con ello. Algo demasiado
+sucio para decir. Otras veces habla de lo elfo que parezco. Y de lo
+rápido que llegué tras el matrimonio. Aunque no tan rápido como su primer
+hijo."
 
- Moraelyn leaped up. "By the Avenger, I will go back and
-wring the vixen's neck! The human--", he bit off the insult,
-but his red eyes flamed rage; his muscles swelled and his hair
-stood on end. "You do not look half-elven. I never met your
-mother until four years after your conception. Roane, it
-seems, cannot decide which lie she wishes to use. But incest!
-May Kel strike her down if I may not." The tall elf paced
-furiously about the room, lithe as a Khajiit, hand fondling his sword hilt. The
-platform swayed and dipped.
+Moraelyn saltó. "¡Por el Vengador, volveré y le retorceré el cuello a esa zorra! El humano--", mordió el insulto,
+pero sus ojos rojos llameaban de ira; sus músculos se tensaron y su cabello
+se erizó. "No pareces medio elfo. Nunca conocí a tu
+madre hasta cuatro años después de tu concepción. Roane, al
+parecer, no puede decidir qué mentira desea usar. ¡Pero el incesto!
+Que Kel la fulmine si yo no puedo." El elfo alto caminó
+furiosamente por la habitación, ágil como un Khajiita, con la mano acariciando la empuñadura de su espada. La
+plataforma se balanceaba e inclinaba.
 
- "She's ambitious for her sons, at Edward's expense. The
-question is, how many will believe her. Not enough if she was
-planning to have him killed instead." Aliera's smooth brow
-wrinkled a bit. "I never disliked her, you know. Nor she me. She
-wanted my place and I was glad enough to let her have it
-save for Edward."
+"Es ambiciosa para sus hijos, a expensas de Edward. La
+cuestión es, cuántos le creerán. No los suficientes si ella estaba
+planeando hacerlo matar en su lugar." La frente lisa de Aliera se
+arrugó un poco. "Nunca me desagradó, sabes. Ni ella a mí. Ella
+quería mi lugar y yo estuve encantada de dejárselo
+salvo por Edward."
 
- "You want me to be king so I'll let you have the ebon mines."
-Edward had just worked out the puzzle.
+"Quieres que sea rey para dejarte tener las minas de ébano."
+Edward acababa de resolver el rompecabezas.
 
- "Oh, devil take the ebon, which he probably will. I've a better chance
-of getting co-operation from Roane's boys once your
-father's dead. They'd have reason for gratitude and the
-bargain's a good one. Although the chances they could keep a
-civil tongue long enough to sign a contract seem poor, given their parentage."
+"Oh, que el diablo se lleve el ébano, lo cual probablemente hará. Tengo más posibilidades
+de obtener cooperación de los chicos de Roane una vez que tu
+padre muera. Tendrían motivos para estar agradecidos y el
+trato es bueno. Aunque las posibilidades de que pudieran mantener una
+lengua educada lo suficiente como para firmar un contrato parecen escasas, dado su parentesco."
 
- "Then why? You don't even like me."
+"¿Entonces por qué? Ni siquiera te caigo bien."
 
- "Mara, help me! 'Liking' a person is a human concept. One
-day they like you, the next day they don't. On Tirdas they're
-back to liking you again. My own wife does this to me, but
-claims to love me even when she doesn't like me. Except of
-course on the days when she doesn't do either, and talks about
-joining the Order of Riana. Fortunately that only happens
-once a year or so. I go hunting until she comes to her
-senses."
+"¡Mara, ayúdame! 'Caer bien' a una persona es un concepto humano. Un
+día les caes bien, al siguiente no. El Tirdas vuelven a
+caerte bien de nuevo. Mi propia esposa me hace esto, pero
+afirma amarme incluso cuando no le caigo bien. Excepto, por
+supuesto, en los días en que no hace ninguna de las dos cosas, y habla de
+unirse a la Orden de Riana. Afortunadamente eso solo sucede
+una vez al año más o menos. Me voy de caza hasta que recobra el
+sentido."
 
- "You exaggerate; that only happened once, and well you
-know it."
+"Exageras; eso solo pasó una vez, y bien lo sabes."
 
- "I remember enjoying the recovery period. Maybe it should
-happen more often." They grinned at each other.
+"Recuerdo haber disfrutado el periodo de recuperación. Tal vez debería
+suceder más a menudo." Se sonrieron el uno al otro.
 
- "But why do you want me to be King?" Edward persisted.
+"¿Pero por qué quieres que sea Rey?" Edward persistió.
 
- "I told you; it's Akatosh's notion. And the ArchMagister's. I just came along for
-the ride. Ask them."
+"Te lo dije; es idea de Akatosh. Y del Archimago. Yo solo vine por el viaje. Pregúntales a ellos."
 
- "I shall ask the ArchMagister when I see him."
+"Le preguntaré al Archimago cuando lo vea."
 
- "An excellent plan. You'll spend a few weeks at the Tower
-before heading north with us."
+"Un plan excelente. Pasarás unas semanas en la Torre
+antes de dirigirte al norte con nosotros."
 
- "Only that?"
+"¿Solo eso?"
 
- "Does the prospect of spending the winter with your mother
-and me displease you so much?"
+"¿Tanto te disgusta la perspectiva de pasar el invierno con tu madre
+y conmigo?"
 
- "No ... no, sir. But I agreed to go with I'ric." Not you.
-The words hung unsaid between them.
+"No ... no, señor. Pero acepté ir con I'ric." No contigo.
+Las palabras flotaban sin decir entre ellos.
 
- "You will, in time. A few weeks there now will fit you to
-begin your training in magic; I can teach you spells. But you need
-hardening; your body must catch up to your mind. It is the
-ArchMagister's will."
+"Lo harás, a su tiempo. Unas semanas allí ahora te capacitarán para
+comenzar tu entrenamiento en magia; puedo enseñarte hechizos. Pero necesitas
+endurecerte; tu cuerpo debe alcanzar a tu mente. Es la
+voluntad del Archimago."
 
- "Fighting magic? I want to learn other things. How to call
-beasts. How to heal. And float..."
+"¿Magia de combate? Quiero aprender otras cosas. Cómo llamar a las
+bestias. Cómo curar. Y flotar..."
 
- "You'll learn that, I doubt not. And d'ye think a fighter
-can't Heal? It's the first spell you'll learn. But a King
-must know how to fight."
+"Aprenderás eso, no lo dudo. ¿Y crees que un luchador
+no puede Curar? Es el primer hechizo que aprenderás. Pero un Rey
+debe saber cómo luchar."
 
- "I'm not good at it."
+"No soy bueno en eso."
 
- "Dragon's Teeth, boy! Exactly why you must learn!"
+"¡Dientes de Dragón, muchacho! ¡Exactamente por eso debes aprender!"
 
- "If I cannot?"
+"¿Si no puedo?"
 
- "You've courage and a clear head and the potential to
-learn magic; that's more than most people ever have. I can
-teach you the rest."
+"Tienes valor y la cabeza despejada y el potencial para
+aprender magia; eso es más de lo que la mayoría de la gente tiene jamás. Yo puedo
+enseñarte el resto."
 
- Edward's head whirled with the unaccustomed praise. "I do? I
-have? You can?"
+La cabeza de Edward daba vueltas con el inusual elogio. "¿Lo tengo? ¿Tengo? ¿Puedes?"
 
- "D'ye think any of your father's fool court would stand
-naked before a dragon, a unicorn, the ArchMagister, and the
-Champion of Tamriel and demand justice of them? Justice!
-Faced with such, they might have managed to beg for mercy, if
-they could speak at all, which is doubtful."
+"¿Crees que alguien de la tonta corte de tu padre se plantaría
+desnudo ante un dragón, un unicornio, el Archimago y el
+Campeón de Tamriel y les exigiría justicia? ¡Justicia!
+Frente a tales seres, podrían haber logrado suplicar misericordia, si
+pudieran hablar, lo cual es dudoso."
 
- "I did that? I did, didn't I?" Edward was astonished; he wanted to
-add that he hadn't known, hadn't thought about it ... 
+"¿Yo hice eso? Lo hice, ¿verdad?" Edward estaba asombrado; quería
+añadir que no lo había sabido, no lo había pensado ...
 
- "Aye, you did. And it's a deed that shall be sung from here
-to Morrowwind; I'll compose the ballad myself--as soon as
-I have a nap. I don't sleep as sound as some on dragon's
-backs."
+"Sí, lo hiciste. Y es una hazaña que se cantará desde aquí
+hasta Morrowind; yo mismo compondré la balada--tan pronto como
+tome una siesta. No duermo tan profundamente como algunos en el lomo de un
+dragón."
 
- "You enchanted me and Shag asleep!"
+"¡Nos encantaste a Shag y a mí para dormir!"
 
- "And the rest of the castle, with the help of my friends."
+"Y al resto del castillo, con la ayuda de mis amigos."
 
- "Ooooohhhh. Can you levitate? Will you show me?"
+"Ooooohhhh. ¿Puedes levitar? ¿Me enseñarás?"
 
- "Not so fast. I kept a holding spell on us all night to keep
-us on the dragon's back.  Until I'm rested I couldn't light a
-candle with the aid of a match."
+"No tan rápido. Mantuve un hechizo de sujeción sobre nosotros toda la noche para mantenernos en el lomo del dragón. Hasta que esté descansado no podría encender una
+vela ni con la ayuda de una cerilla."
 
- "Oh. Well, I'd still rather be like the ArchMagister than be
-a fighter."
+"Oh. Bueno, aún preferiría ser como el Archimago que ser
+un luchador."
 
- "Hah! It'll be news to the ArchMagister that he cannot fight! I hope
-he'll find time to show you how to wield a staff. No better
-weapon for early training. And no better trainer. Now, of
-the four you saw before you, which would you say could best
-the others?"
+"¡Ja! ¡Será una noticia para el Archimago saber que no puede luchar! Espero
+que encuentre tiempo para enseñarte cómo blandir un bastón. No hay mejor
+arma para el entrenamiento temprano. Y no hay mejor entrenador. Ahora, de
+los cuatro que viste ante ti, ¿cuál dirías que podría vencer a
+los otros?"
 
- Edward thought carefully for several minutes. "Sir, my
-judgement is poor indeed, but if you would still have my
-answer, it would seem that the one who claims the title
-Champion of Tamriel must be the best. Yet must not the
-ArchMagister be your master in magic? And trained to arms as well, it
-seems. So which should prevail? Could any mortal stand
-against the dragon's fire and claws and teeth? And I know
-naught of the unicorn, save that it is fleet and has a very
-sharp horn, and hooves as well. So I will guess the
-unicorn; it had the mildest manner. And since you asked the
-question it seems the unlikely answer may be correct."
+Edward pensó cuidadosamente durante varios minutos. "Sir, mi
+juicio es ciertamente pobre, pero si aún deseáis mi
+respuesta, parecería que aquel que reclama el título
+de Campeón de Tamriel debe ser el mejor. ¿Pero no debe el
+Archimago ser vuestro maestro en magia? Y entrenado en armas también, al
+parecer. Así que, ¿cuál prevalecería? ¿Podría algún mortal enfrentarse
+al fuego y las garras y los dientes del dragón? Y no sé
+nada del unicornio, salvo que es veloz y tiene un cuerno muy
+afilado, y cascos también. Así que adivinaré el
+unicornio; tenía el comportamiento más suave. Y ya que hiciste la
+pregunta parece que la respuesta improbable puede ser la correcta."
 
- "Well answered, youngling! The unicorn would win easily in any
-single close combat. No mortal or even dragon can move
-quickly enough to land a blow and it cannot be burned or
-touched by any magic or elemental power. It's hooves are
-deadly and a single touch of its horn will kill any enemy,
-although the horn itself will burn away. The most powerful can regenerate it
-within moments, however.
+"¡Bien respondido, jovenzuelo! El unicornio ganaría fácilmente en cualquier
+combate individual cercano. Ningún mortal ni siquiera un dragón puede moverse
+lo suficientemente rápido para asestar un golpe y no puede ser quemado ni
+tocado por ninguna magia o poder elemental. Sus cascos son
+mortales y un solo toque de su cuerno matará a cualquier enemigo,
+aunque el cuerno mismo se consumirá. Los más poderosos pueden regenerarlo
+en instantes, sin embargo.
 
- "And of the four the Champion of Tamriel would probably
-be the loser against any of the others, although the title is
-no idle boast! Moraelyn is not accustomed to being so
-outclassed. My manners may have suffered in consequence."
+"Y de los cuatro el Campeón de Tamriel probablemente
+sería el perdedor contra cualquiera de los otros, aunque el título es
+un alarde que no es en vano. Moraelyn no está acostumbrado a ser tan
+superado. Mis modales pueden haber sufrido en consecuencia."
 
- "Milord King, I am most deeply in your debt. You have done me great honor and service. If ever
-I can repay you, I will. Forgive my brash words and ill
-manners. I have dwelt among the rude and boorish. And it seems I have no father, unless I may call you so?" The elf held his hands out to the boy, who placed his own in them. Edward's feeling of
-distaste was quite gone...as if by magic...the thought
-drifted through his mind ... and then he released his hands and
-clasped Moraelyn about his waist. The elf's hands stroked the
-dark hair and clasped the thin shoulders.
+"Mi señor Rey, estoy profundamente en deuda con vos. Me habéis hecho un gran honor y servicio. Si alguna vez
+puedo pagaros, lo haré. Perdonad mis bruscas palabras y malos
+modales. He vivido entre gente ruda y grosera. Y parece que no tengo padre, ¿a menos que pueda llamaros así?" El elfo extendió sus manos hacia el muchacho, quien puso las suyas en ellas. El sentimiento de Edward de
+disgusto había desaparecido por completo... como por magia... el pensamiento
+flotó en su mente ... y luego soltó sus manos y
+abrazó a Moraelyn por la cintura. Las manos del elfo acariciaron el
+cabello oscuro y sujetaron los hombros delgados.
 
- "I thank you, my wife. After only five years of marriage,
-you have presented me with a fine son, nine years of age.
-Remarkable. In fact...magical."
+"Te doy las gracias, esposa mía. Tras solo cinco años de matrimonio,
+me has presentado un excelente hijo, de nueve años de edad.
+Notable. De hecho... mágico."
 
- 
+

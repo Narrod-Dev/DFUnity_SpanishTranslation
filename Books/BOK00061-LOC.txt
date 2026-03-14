@@ -1,136 +1,121 @@
-Title: A History of Daggerfall
+Title: Una historia de Daggerfall
 Author: Odiva Gallwood
 IsNaughty: False
 Price: 358
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]A
+[/center]Una
 
-[/center]History
+[/center]historia
 
-[/center]of
+[/center]de
 
 [/center]Daggerfall
-
-
 
 [/font=4]
 
 [/center]
 
-[/center]   There is sufficient archaeological evidence for the modern
-historian to believe that there has been some variety of
-human settlement in the city-state of Daggerfall starting
-at least a thousand years before recorded history. The first
-use of the name Daggerfall to refer to the area around the
-current capitol was most probably in the 246th year of the
-1st Era. The north half of the Iliac Bay, in fact all of the
-current province of High Rock, was conquered by invading
-Nords who brought a rough sort of civilization with them. One
-of the first civilized acts the Nords performed was a census
--- the so-called Book of Life. Listed on page 933 of the Book
-is this entry:
+[/center] Existe suficiente evidencia arqueológica para que el historiador
+moderno crea que ha habido alguna variedad de asentamiento humano en la
+ciudad-estado de Daggerfall comenzando al menos mil años antes de la
+historia registrada. El primer uso del nombre Daggerfall para referirse
+al área alrededor de la capital actual fue muy probablemente en el año 246
+de la 1ª Era. La mitad norte de la Bahía de Iliac, de hecho toda la
+provincia actual de Roca Alta, fue conquistada por invasores nórdicos que
+trajeron consigo un tipo rudimentario de civilización. Uno de los primeros
+actos civilizados que realizaron los nórdicos fue un censo: el llamado
+Libro de la Vida. En la página 933 del Libro figura esta entrada:
 
- "North of the Highest bluffs, south of the moors, west of the
-hills, and east of the sea is called DAGGERFALL. 110 men, 93
-women, 13 children under 8 years of age, 58 cows, 7 bulls,
-63 chickens, 11 cocks, 38 hogs live here."
+"Al norte de los farallones más altos, al sur de los páramos, al oeste
+de las colinas y al este del mar se llama DAGGERFALL. Aquí viven 110
+hombres, 93 mujeres, 13 niños menores de 8 años, 58 vacas, 7 toros, 63
+gallinas, 11 gallos y 38 cerdos".
 
-   Nearly four thousand years after this census was taken, we
-can see that these two hundred and sixteen people have
-multiplied heartily. The last census, in the year 3E 401,
-lists the population at over 110,000. It is always difficult
-to find an exact number, but the capitol city of
-Daggerfall certainly outnumbers her rivals, Sentinel and
-Wayrest.
+Casi cuatro mil años después de que se realizara este censo, podemos ver
+que estas doscientas dieciséis personas se han multiplicado con creces.
+El último censo, en el año 401 de la 3ª Era, registra la población en más
+de 110,000. Siempre es difícil encontrar un número exacto, pero la ciudad
+capital de Daggerfall ciertamente supera en número a sus rivales, Sentinel
+y Wayrest.
 
-   It has been a consistant, if not actually helpful
-amusement of historians to find the origin of placenames.
-Daggerfall, by tradition, is said to refer to the knife the
-first chieftain threw to form the borders of his lands. But
-there are other legends that may have equal validity.
+Ha sido una diversión constante, aunque no realmente útil, de los
+historiadores encontrar el origen de los nombres de los lugares.
+Daggerfall (Caída de la Daga), por tradición, se dice que hace referencia
+al cuchillo que el primer caudillo lanzó para formar los límites de sus
+tierras. Pero existen otras leyendas que pueden tener la misma validez.
 
-   The Daggerfall entry from the Book of Life actually
-supports one theory about the reason for Daggerfall's
-longevity. The people were coastal fishermen, but they also
-found the land itself sufficiently rich to support raising
-livestock. This inclination of the early citizenry toward
-reinforcing their principal products brought stability to
-a fickle land.
+La entrada de Daggerfall en el Libro de la Vida apoya en realidad una
+teoría sobre la razón de la longevidad de Daggerfall. La gente era
+pescadora de costa, pero también descubrieron que la tierra misma era lo
+suficientemente rica como para sustentar la cría de ganado. Esta
+inclinación de la ciudadanía temprana hacia el refuerzo de sus productos
+principales trajo estabilidad a una tierra voluble.
 
-   Daggerfall thrived during the years of the Skyrim
-occupancy. When the Wild Hunt killed King Borgas of
-Winterhold in 1E 369, the northlands engaged in the War of
-Succession and Skyrim, greatly weakened, lost her holdings in
-High Rock and Morrowind. The Iliac Bay had become important
-strategically, and Daggerfall began to expand her
-military.
+Daggerfall prosperó durante los años de la ocupación de Skyrim. Cuando
+la Cacería Salvaje mató al rey Borgas de Winterhold en el 1E 369, las
+tierras del norte se enzarzaron en la Guerra de Sucesión y Skyrim, muy
+debilitada, perdió sus posesiones en Roca Alta y Morrowind. La Bahía de
+Iliac se había vuelto importante estratégicamente, y Daggerfall comenzó
+a expandir su ejército.
 
-   There were multiple opportunities for her to exercise this
-army and navy during the Direnni conflicts with the force of
-the Alessian Reform. The Dirennis were native Bretons, and
-Bretons are hardly ever given to excessive religion.
-Daggerfall became a minor base of operations for the
-Dirennis and their allies. Raven Direnni, the enchantress
-whose magic helped secure the final victory over the
-Alessians in the Glenumbria Moors, was one of the earliest
-occupants of Castle Daggerfall.
+Hubo múltiples oportunidades para que ejercitara este ejército y su armada
+durante los conflictos Direnni con la fuerza de la Reforma Alessiana. Los
+Direnni eran bretones nativos, y los bretones rara vez se entregan a una
+religión excesiva. Daggerfall se convirtió en una base menor de
+operaciones para los Direnni y sus aliados. Raven Direnni, la encantadora
+cuya magia ayudó a asegurar la victoria final sobre los alessianos en los
+Páramos de Glenumbria, fue uno de los primeros ocupantes del Castillo
+Daggerfall.
 
-   Over the centuries that followed, the Dirennis felt into
-obscurity, but Daggerfall continued her growth. In 1E 609,
-King Thagore of Daggerfall defeated the army of Glenpoint
-and became the preeminant economic, cultural, and
-military force in southern High Rock. A position the kingdom has
-precariously kept ever since.
+Durante los siglos que siguieron, los Direnni cayeron en la oscuridad,
+pero Daggerfall continuó su crecimiento. En el 1E 609, el rey Thagore de
+Daggerfall derrotó al ejército de Glenpoint y se convirtió en la fuerza
+económica, cultural y militar preeminente en el sur de Roca Alta. Una
+posición que el reino ha mantenido precariamente desde entonces.
 
-   Ironically, it was another successful military exercise
-three hundred and seventy years later that ended
-Daggerfall's monopoly of Bay trade: the annihilation of the
-orcish capitol Orsinium by a joint effort of Daggerfall,
-the new kingdom of Sentinel, and the now extinct Order of
-Diagna. The scattering of the orcs from southeastern High Rock
-made the river route to the Bay more accessible. The tiny
-village of Wayrest grew like a flower that no longer feared
-the mow. In twenty years, Wayrest's trade profits equalled
-Daggerfall's. In forty years, Wayrest was the acknowledged
-master of Iliac Bay trade. In one hundred and twenty years,
-Wayrest became the Kingdom of Wayrest.
+Irónicamente, fue otro ejercicio militar exitoso trescientos setenta años
+después lo que terminó con el monopolio de Daggerfall en el comercio de la
+Bahía: la aniquilación de la capital orca Orsinium por un esfuerzo
+conjunto de Daggerfall, el nuevo reino de Sentinel y la ahora extinta
+Orden de Diagna. La dispersión de los orcos del sureste de Roca Alta hizo
+que la ruta fluvial hacia la Bahía fuera más accesible. La pequeña aldea
+de Wayrest creció como una flor que ya no temía a la guadaña. En veinte
+años, los beneficios comerciales de Wayrest igualaron a los de
+Daggerfall. En cuarenta años, Wayrest era el maestro reconocido del
+comercio de la Bahía de Iliac. En ciento veinte años, Wayrest se
+convirtió en el Reino de Wayrest.
 
-   The Kingdom of Sentinel did not exhibit Wayrest's
-aggrandizement during the First Era. The Redguards were
-warriors learning the ways of the merchants, and their land
-was enemy enough to keep their population checked. Indeed,
-the number of people in all areas of the Iliac Bay was
-halved once in the First Era by the Thrassian Plague, once
-again by the War of Righteousness, and a third time by the
-invading Akavari. If Daggerfall had not spent its first
-thousand years preparing for the battles of the next
-thousand years, it is indeed conceivable that the Iliac Bay
-today might be Akavarian.
+El Reino de Sentinel no mostró el engrandecimiento de Wayrest durante la
+Primera Era. Los Guardias Rojos eran guerreros aprendiendo los caminos de
+los mercaderes, y su tierra era enemigo suficiente para mantener su
+población controlada. De hecho, el número de personas en todas las áreas
+de la Bahía de Iliac se redujo a la mitad una vez en la Primera Era por
+la Plaga Thrassiana, una vez más por la Guerra de la Rectitud, y una
+tercera vez por los invasores Akavari. Si Daggerfall no hubiera pasado
+sus primeros mil años preparándose para las batallas de los siguientes
+mil años, es de hecho concebible que la Bahía de Iliac hoy pudiera ser
+Akavari.
 
-   The Second Era, like the latter part of the First Era, is a
-tapestry of wars, insurrections, and plagues. Daggerfall,
-Sentinel, and Wayrest continued to expand and improve
-their military and economic positions in the Bay.
-Daggerfall and Wayrest would transpose positions as major
-trading center of the Bay, and Daggerfall and Sentinel
-likewise bandied over which was the superior military power.
+La Segunda Era, al igual que la última parte de la Primera Era, es un
+tapiz de guerras, insurrecciones y plagas. Daggerfall, Sentinel y Wayrest
+continuaron expandiendo y mejorando sus posiciones militares y económicas
+en la Bahía. Daggerfall y Wayrest intercambiarían posiciones como centros
+comerciales principales de la Bahía, y Daggerfall y Sentinel harían lo
+mismo sobre quién era la potencia militar superior.
 
-   The Iliac Bay has continued to hold an important position
-in the Imperial government of the Third Era. Rarely allies
-(though the combined armies in opposition to the Camoran
-Usurper in the 3rd century of the 3rd Era is a notable
-exception), but not always enemies, Daggerfall, Sentinel,
-and Wayrest have weathered the storms of contention,
-plague, famine, and pestilence. The recent War of Betony was
-typical of Iliac Bay warfare: sincere, frighteningly
-violent, and peaceably resolved.
-
+La Bahía de Iliac ha seguido ocupando una posición importante en el
+gobierno Imperial de la Tercera Era. Rara vez aliados (aunque los
+ejércitos combinados en oposición al Usurpador Camoran en el siglo III
+de la 3ª Era es una excepción notable), pero no siempre enemigos,
+Daggerfall, Sentinel y Wayrest han capeado las tormentas de contiendas,
+plagas, hambrunas y pestilencias. La reciente Guerra de Betony fue típica
+de los conflictos de la Bahía de Iliac: sincera, aterradoramente violenta
+y resuelta de forma pacífica.
 
 
 

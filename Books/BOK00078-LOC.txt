@@ -1,638 +1,655 @@
-Title: Fools' Ebony, Part the Fiveth
+Title: Ébano del tonto, quinta parte
 Author: Frincheps
 IsNaughty: True
 Price: 317
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]Fools' Ebony
+[/center]Ébano del tonto
 
-[/center]Part The
+[/center]Parte la
 
-[/center]Fiveth
-
-
+[/center]Quintarta
 
 [/font=4]
 
-
-
 [/center]
 
- Dramatis Personae
+Reparto
 
- Prologue The Adventurer, A Dark Elf Rascal Komon, A Priest
-of Akatosh Lheban, Another Priest of Akatosh Epilogue Stete, A
-Priest of Julianos Raic, Another Priest of Julianos Shub, A
-Mage Shub, A Different Mage of the Same Name Nephron, A
-Somewhat Sleazy Merchant 5 Armorers Ortho Crunn, Husband of
-Millie A Lusty Contessa Millie, Innkeep and Philosopher
-Gurnsey, Bovine Wench Assorted Wenches and Cads of the
-Taverns Soldiers Dwarves Giants
+Prólogo El Aventurero, un Bribón Elfo Oscuro Komon, un Sacerdote
+de Akatosh Lheban, otro Sacerdote de Akatosh Epílogo Stete, un
+Sacerdote de Julianos Raic, otro Sacerdote de Julianos Shub, un
+Mago Shub, un Mago Diferente del Mismo Nombre Nephron, un
+Mercader algo Sórdido 5 Armeros Ortho Crunn, esposo de
+Millie Una Condesa Lúbrica Millie, Posadera y Filósofa
+Gurnsey, Moza Bovina Mozas variadas y canallas de las
+tabernas Soldados Enanos Gigantes
 
+Parte la Quintarta - De vuelta con los Sacerdotes,
+Planes Finales, y se Reportan
 
+una Muerte o Dos... Cerca de mediados del mes de
+Helada, la Posada de la Ninfa Rosada. (Entran el Prólogo, el
+Aventurero, Ortho, Nephron, los cinco Armeros, y el
+Prólogo)
 
- Part The Fiveth - Back With The Priests, Final                  
-Plans, and a Killing or Two
+Prólogo: Nuestro pícaro Elfo Oscuro, el Aventurero, ha
+caído en picado ante nuestros ojos atónitos, de
 
+ser el rey de la telaraña de intrigas
 
-  is Reported...          Nearer the middle of the Month of
-Frostfall, The Inn of the Pink Nymph.    (Enter Prologue, the
-Adventurer, Ortho, Nephron, the Five Armorers, and
-Prologue)
+a ser un patético y rastrero bulto de excremento
 
- Prologue:   Our roguish Dark Elf, the Adventurer has            
-plummeted before our stunned eyes, from
+argoniano. En la búsqueda del Ébano del
 
+Tonto, esa sustancia por la que todos matarían,
 
-    the king of the spider web of intrigue
+el Aventurero intentó enfrentar a
 
+Magos contra Sacerdotes con la ayuda del
 
-    to a pathetic, crawling lump of Argonian
+mercader Nephron. ¡Ay de mí!, es decir,
 
+¡qué desgracia!, los cinco armeros han atrapado
 
-    excrement. In the quest for Fools'
+a Nephron y al Aventurero y se han apoderado
 
+de su plan. El corpulento Ortho ahora
 
-    Ebony, that substance that all would kill
+vigila cada movimiento del Aventurero. Pero
 
+tengo la sensación -- para ser sincero, ¿ustedes no? --
 
-    for, the Adventurer attempted to play
+de que bajo la gelatina temblorosa y derrotada
 
+del Aventurero acecha un felino de la selva
 
-    Mage against Priest with the help of the
+con tal astucia y recursos como para
 
+destrozar a todos sus enemigos cuando llegue
 
-    merchant Nephron. Alas, that is to say,
+el momento adecuado. Por supuesto, podría estar equivocado. Ah,
 
+veo a uno de los sacerdotes de Akatosh que
 
-    alackaday, the five armorers have trapped
+se cree amigo del
 
+Aventurero. Yo, el Prólogo, debo marcharme.
 
-    Nephron and the Adventurer and taken over
+(Sale el Prólogo) (Entra Lheban, un Sacerdote de Akatosh.)
 
+Lheban: Buenas noches, ¿le importa si me uno?
 
-    their scheme. The hulking Ortho now
+Aventurero: Bueno ... ya que lo ha hecho - no.
+¿Y dónde está nuestro estimado hermano
 
+Komon esta fría noche?
 
-    watches the Adventurer's every move. But
+Lheban: ¿Quiere decir que no se ha enterado? -- Oh, supongo
 
+que ha estado ocupado con los ...
 
-    I get the feeling -- to be honest, don't
+preparativos?
 
+Aventurero: Correcto, correcto, muy ocupado...
 
-    you? -- that beneath the Adventurer's
+Lheban: Entonces déjeme decirle -- Oh, qué mal
 
+asunto. Qué problemas ... Oh cielos ... Bueno ...
 
-    defeated quivering jelly lurks a jungle
+sin duda recordará que el pobre
 
+Komon tenía este ... er ... problema -- ¡exceso de
 
-    cat of such cunning and resource to
+trabajo, por supuesto!
 
+Aventurero: Oh sí -- ustedes trabajan extremadamente
 
-    shatter all his enemies when the time is
+duro, me parece a mí.
 
+Lheban: Bueno ... ¿recuerda cómo se fue Komon, de forma
 
-    right. Of course, I could be wrong. Ah,
+algo errática por así decirlo, y ... er ...
 
+se largó con esa joven rubia de la
 
-    I see one of the priests of Akatosh who
+farola de fuera? Bueno -- en su ...
 
+er ... estado de confusión -- agarró a
 
-    believes himself a friend of the
+la rubia equivocada - ¡Oh cielos!, ciertamente la
 
+equivocada ...
 
-    Adventurer. I, Prologue must away.
+Aventurero: Todas me parecen más o menos iguales,
 
- (Exit Prologue) (Enter Lheban, a Priest of Akatosh.)
+¡pero claro, yo no me fijo demasiado!
 
- Lheban:     Evening there, mind if I join you?
+Lheban: ¡Vaya por Dios! Bueno, para abreviar el cuento,
 
- Adventurer: Well ... since you already have - no.            
-And where is our esteemed brother
+el viejo Komon agarró a una Condesa, que
 
+había pensado en 'disfrazarse'. ¡Oh
 
-    Komon this chill evening?
+cielos! Aventurero: Bueno -- ¿escapó ella? ¿Atraparon a
 
- Lheban:     You mean you haven't heard -- Oh, I             guess
-you have been busy with the ...
+Komon? ¿Qué pasó?
 
+Lheban: Bueno, el viejo Komon, achispado como estaba, fue
 
-    preparations?
+rápido como un escupitajo en un vendaval. Eludió toda
 
- Adventurer: Right, right, very busy...
+persecución, llevó a la dama a una pequeña casa
 
- Lheban:     Then let me tell you -- Oh, what a bad            
-business. What trouble ... Oh Dear ...             Well ... you
-doubtless recall that poor
+de retiro privada que tenemos. ¡Cielos
 
+santos! Bueno, la Guardia de la Ciudad, los guardias del Palacio,
 
-    Komon had this ... er ... problem --             overwork of
-course!
+media docena de Nobles, todos alcanzaron a
 
- Adventurer: Oh yes -- you fellows do work exceeding            
-hard, seems to me.
+Komon 3 días después. Un día tarde para
 
- Lheban:     Well ... recall how Komon left, somewhat            
-erratically as it were, and ... er ...             made off with
-that young blondie under             the lamppost outside?
-Well -- in his ...             er ... state of confusion -- he
-grabbed             the wrong blondie - Oh My, indeed the
+la pobre Condesa -- he oído que les
 
+costó mucho localizar todos los ... er ...
 
-    wrong one ...
+trozos y pedazos. Komon estaba allí,
 
- Adventurer: They all look pretty much the same to me,           
- but of course, I do not look too hard!
+totalmente inconsciente. Y otro cuerpo, alguna rubia
 
- Lheban:     Oh My! Well, to cut a short tale to the            
-bone, old Komon grabbed a Contessa, who             had thought
-to 'disguise herself.' Oh             Dear!       Adventurer: Well
--- did she get away?  Did they catch             Komon? What
-happened?
+común de la farola. Y a estas horas él ya está frío
 
- Lheban:     Well, old Komon, tipsy as he was, was            
-quick as spit in a gale. Eluded all             pursuit, took
-the lady to a small private
+-- permanentemente, lo más probable es que esté en el fondo
 
+de la Bahía.
 
-    ... retreat house that we have.  Oh Dear
+Aventurero: Oh, bueno. Se lo tiene merecido la Condesa por
 
+bajar a esta zona. Pero, ¿supongo que
 
-    Me! Well, the City Guards, Palace guards,
+hay repercusiones?
 
+<Entran dos sacerdotes más, Raic y Stete de Julianos, y
+cuatro Guardias de la Ciudad armados.)
 
-    half a dozen Royals, all caught up with
+Raic: Buenas noches, Lheban. Buenas noches, Aventurero. Y --
 
+Ortho: Yo ser Ortho.
 
-    Komon 3 days later. One day too late for
+Raic: Síii. Encantado. Y Lheban, de verdad tienes
 
+mis condolencias ... si hay algo que podamos
 
-    the poor Contessa -- I hear that they had
+hacer para ayudar -- nuestro Templo de Julianos,
 
+claro ..? Pero realmente, deberías haber tenido
 
-    a hard time locating all the ... er ...
+a Komon con una correa más corta - ¡o preferiblemente un
 
+nudo de horca!
 
-    bits and pieces. Komon was there, passed
+Aventurero: Hola Raic. Y hola a ti, Stete - ¿cómo está
 
+tu hermana?
 
-    out cold. And another body, some common
+Stete: Oh, ella está genial.
 
+(Raic le prende fuego a Stete, pero se apaga)
 
-    blond lamppost girl. And by now he is cold
+Lheban: Sí, lo sé, lo sé. ¡Oh, las repercusiones! ¿Saben
 
+que los Sacerdotes de Akatosh del Castillo de
 
-    -- permanently, most likely at the bottom             of the
-Bay.
+Daggerfall, del Palacio de Wayrest y de casi
 
- Adventurer: Oh well. Serves the Contessa right, coming        
-    down to this area. But I suppose that
+cualquier otro lugar han sido expulsados? ¿Que
 
+la exención de impuestos reales para el Sagrario
 
-    there are repercussions?
+ha sido revocada? ¿Que el Sagrario de Akatosh acaba
 
- <Enter two more Priests, Raic and Stete of Julianos, and
-four armed City Guards.)
+de recibir una factura de 'impuestos atrasados'? ¡Cielos!
 
- Raic:       Evening, Lheban. Evening, Adventurer. And --
+Aventurero: Bueno ... supongo que podríamos ayudar de
 
- Ortho:      Me am Ortho.
+algún modo, ¿quizás? ¿Tal vez un pequeño préstamo de Julianos
 
- Raic:       Yesss. Charmed. And Lheban, you indeed have           
- my sympathies ... if there is anything we can
+para esa factura de impuestos? ¿Con, digamos, un Templo como
 
+garantía? Oh -- ¿no se basan los impuestos en el número de
 
-    do to help -- our Temple of Julianos, that
+Sacerdotes de Akatosh? Así que, tal vez ... la Escuela
 
+de Julianos podría hacerse cargo de un ... número
 
-    is ..?  But really, you should have kept             Komon
-on a tighter leash - or preferably a             noose!
+significativo? ¿Reducir su factura de impuestos? Se darán cuenta de que
 
- Adventurer: Hello Raic. And hello to you, Stete - how's        
-    your sister?
+este no es el mejor momento para esto -- justo cuando
 
- Stete:      Oh, she's great.
+necesitamos muchos fondos para esa expedición que
 
- (Raic sets Stete on fire, but it goes out)
+estoy organizando para ustedes.
 
- Lheban:     Yes, I know I know. Oh the repercussions! Do           
- you know that the Priests of Akatosh to             Daggerfall
-Castle, Wayrest Palace and just             about everywhere
-else have all been thrown out?             That the Royal tax
-exemption for the Chantry
+Lheban: ¡Oh, siento tanto lo de Komon! Pero, sí, tal vez
 
+si el buen hermano Raic pudiera -- odio decir
 
-    has been revoked? That the Akatosh Chantry has             
-just received a 'past due taxes' bill? Oh My!
+esto -- asumir una mayor parte de la
 
- Adventurer: Well ... I suppose that we could help
-somewhat,             maybe? Maybe a small loan from Julianos
-for             that tax bill? With, say, a Temple as security? 
-           Oh -- are not the taxes based on the number of             
-the Priests of Akatosh? So, maybe ... the School
+carga financiera ..? A cambio, por supuesto, de
 
+... er ... consideraciones ..?
 
-    of Julianos could take over a ... significant
+Raic: Hmmm. ¿Como un buen número de sacerdotes prestados
 
+'permanentemente'? ¿Un largo vistazo a sus libros? ¿A su
 
-    number?  Reduce your tax bill? You realize that           
-  this is not the best time for this -- just as
+bodega? ¿Sus listas de nombres? ¿Un Templo como garantía
 
+de nuestro préstamo? Y, por supuesto, una tajada mayor en
 
-    we need a lot of funds for that expedition that            
-I am arranging for you.
+los beneficios de esta ... expedición? ¿Los nombres de
 
- Lheban:     Oh, I am so sorry about Komon! But, yes, maybe     
-       if good brother Raic could -- I hate to say             this
--- take over a greater share of the
+sus ... er ... proveedores ..?
 
+Lheban: Oh. Preví algo como esto, hablé un poco
 
-    financial burden ..? In return, of course, for            
-... er ... considerations ..?
+con el viejo Gran Jefe - estaba lívido.
 
- Raic:       Hmm. Like a good number of 'permanently' loaned    
-        priests? A long look at your books? At your
+Pero, como soy un Hermano Mayor, finalmente
 
+me autorizó a 'encargarme de ello'. Esas
 
-    cellar?  Your name-lists? A Temple as security
+no fueron sus palabras exactas, conste, que fueron
 
+bastante más ... largas y explícitas ... pero
 
-    on our loan? And, of course, a bigger cut in
+la esencia, al menos.
 
+Aventurero: Por supuesto, Lheban. Si -- y fíjense que digo 'si' --
 
-    the proceeds of this ... expedition? Names of
+si tenemos éxito, entonces podrán volver fácilmente
 
+a gozar de favor en el Palacio. ¡Simplemente
 
-    your ... er ... suppliers ..?
+véndanles los bienes a una tasa baja! ¿Con
 
- Lheban:     Oh. I foresaw something like this, talked a bit       
-     about it with old Mucky-Muck - livid, he was.
+derecho preferente sobre cualquier cargamento que tengan? ¿Qué
 
+es una Condesa para ellos, después de todo?
 
-    But, as I am a Senior Brother, he finally            
-authorized me to 'take care of it.' Those             weren't his
-exact words, mind you, which were
+Lheban: ¡Sí, sí! ¡Eso podría funcionar! Vale la pena intentarlo. ¿Pero
 
+cómo? Los Nobles no hablarán con nadie del
 
-    quite a bit ...longer, more explicit ... but            
-the gist, at least.
+Sagrario de Akatosh ahora.
 
- Adventurer: Of course, Lheban. If -- and note I say 'if' --    
-        if we are successful, why then you can easily            
-get back into good graces at the Palace. Merely            
-sell them the goods, as a good low rate! With             first
-refusal on any shipment you have?  What's             one
-Contessa to them, anyway?
+Aventurero: Déjenme eso a mí, puedo hacer ... acercamientos a
 
- Lheban:     Yes, yes! That could work!  Worth a try. But        
-    how? Royals will not talk to anyone from
+ciertos individuos. Sí, probablemente pueda persuadirlos
 
+de que dejen en paz al Sagrario, a cambio de
 
-    the Akatosh Chantry now.
+... futuros favores ...
 
- Adventurer: Leave that to me, I can make ... approaches to   
-         certain ones. Yes, I can probably persuade            
-them to let up on the Chantry, in return for
+Lheban: ¡Oh, oh!, ¿cómo puedo agradecérselo?
 
+Aventurero: Bueno, necesito una buena cantidad de oro para terminar
 
-    ... future favors ...
+de organizar mi pequeño viaje. ¿Tal vez 10.000?
 
- Lheban:     Oh, Oh how can I thank you?
+Caballos especiales, carros reforzados, carreteros,
 
- Adventurer: Well, I need a fair amount of gold to finish     
-       setting up my little trip. Maybe 10,000?            
-Special horses, reinforced carts, cartiers,
+guardias ... la lista sigue y sigue. Y el
 
+coste de mantener nuestro pequeño viaje en secreto es
 
-    guards ... the list goes on and on. And the             cost
-of keeping our little trip quiet is             really quite
-high.
+realmente bastante alto.
 
- Lheban:     Well, yes, we can afford it, I guess -- you           
- do have the map now, don't you? I know we
+Lheban: Bueno, sí, podemos permitírnoslo, supongo --
 
+ya tienen el mapa, ¿no? Sé que podemos
 
-    can afford 8,000 gold. Given the potential
+pagar 8.000 de oro. Dados los beneficios
 
+potenciales ...
 
-    profits ...
+Aventurero: ¡Descansen tranquilos! - está todo aquí en mi capa --
 
- Adventurer: Rest easy! - it's all here in my cloak --            
-show you in a bit. I've also managed to ...
+se lo mostraré en un momento. También he logrado ...
 
+contratar a algunos buenos muchachos jóvenes y fornidos, como el viejo
 
-    hire some good young hefty fellows, like old
+Ortho aquí, para manejar los carros, cavar y cargar,
 
+actuar como guardias, y demás ...
 
-    Ortho here, to manage the carts, dig and             load,
-act as guards, and so on ...
+Lheban: Bien, bien - puedo relajarme un poco. Cielos, los
 
- Lheban:     Good, good - I can relax a bit. Oh my, the            
-fellows back at the Chantry will be so             relieved. We
-really owe you, the Brotherhood             does -- Oh, I mean the
-Akatosh Chantry, of             course!
+compañeros del Sagrario estarán tan
 
- Stete:      Brotherhood ..? What about our sisterhood, eh?
+aliviados. Realmente le debemos una, la Hermandad
 
- (Raic grapples Stete, allowing Lheban to hit Stete with a
-large mallet)
+lo hace -- ¡Oh, me refiero al Sagrario de Akatosh, por
 
- Adventurer:  Well, Raic, what about you and the School?     
-        How much are you good for, the extra 2000?
+supuesto!
 
+Stete: ¿Hermandad ..? ¿Qué hay de nuestra hermandad femenina, eh?
 
-     And maybe some more - always lots of last             
-minute expenses on a trip like this, you know.
+(Raic inmoviliza a Stete, permitiendo que Lheban golpee a Stete con un
+gran mazo)
 
- Raic:        Well now. Since we seem to getting a whole           
-  extra sect of Priests, and ... other
+Aventurero: Bueno, Raic, ¿qué hay de ti y la Escuela?
 
+¿Cuánto pueden aportar ustedes, los 2000 extra?
 
-     considerations ... Certainly!
+Y tal vez algo más - siempre hay muchos gastos de último
 
- Adventurer:  Well, gentlemen -- Oh, and Stete -- here it        
-     is!
+minuto en un viaje como este, ya sabes.
 
- (The Adventurer pulls out a map, gives it to Raic)
+Raic: Veamos. Dado que parece que vamos a recibir toda una
 
+secta extra de Sacerdotes, y ... otras
 
+consideraciones ... ¡Ciertamente!
 
+Aventurero: Bueno, caballeros -- ¡Oh, y Stete -- aquí
 
-     Oh, by the Arms of Zenithar, did I ever have              to
-work hard for this! Those cagey Mages! But,              in the
-end, just greedy old fools! ... Oh,              just in case
-you or your, er, Head Priest,
+está!
 
+(El Aventurero saca un mapa y se lo da a Raic)
 
-     hasn't seen the goods -- here's a sample.              Play
-with it.
+¡Oh, por los Brazos de Zenithar, cómo tuve que
 
- (The Adventurer hands Raic a small leather bag)
+trabajar para conseguir esto! ¡Esos cautelosos Magos! Pero,
 
- Raic:        Thank you, thank you. I must admit, I had             
-some ... well, some doubts. You know --              dealing
-with a stranger, so on ... No more.              Partner!
+al final, ¡solo son viejos tontos codiciosos! ... Oh,
 
- Adventurer:  Good, good!
+por si acaso usted o su, er, Sacerdote Principal,
 
- (Stete hiccoughs)
+no han visto la mercancía -- aquí hay una muestra.
 
- Stete:       Say, you fellows ever hear this one --             
-what's a Priest keep under his robe? Haha
+Jueguen con ella.
 
+(El Aventurero le entrega a Raic una pequeña bolsa de cuero)
 
-     -- His sister! Haheheha!
+Raic: Gracias, gracias. Debo admitir que tuve
 
- (The Adventurer, Lheban, and Raic beat Stete into
-unconsciousness)
+algunas ... bueno, algunas dudas. Ya saben --
 
- Raic:       You know, I fear that we really have to             do
-something about young Stete here ...
+tratar con un extraño, y demás ... Ya no más.
 
+¡Socio!
 
-    his sister thing ... ugh!    Adventurer: Yes, he could be
-another Komon -- just             what don't need!
+Aventurero: ¡Bien, bien!
 
- Lheban:     Hmmmm. This sister of his -- does she             really
--- exist?
+(Stete tiene hipo)
 
- Raic:       Oh yes. My. Oh yes. We know her well --             I
-mean, we have often seen her ...
+Stete: Digan, ¿han oído alguna vez esto? --
 
- Lheban:     I think, Brother, that she should be             made to
-see the errors of her ways. So
+¿qué guarda un sacerdote bajo su túnica? Jaja
 
+-- ¡A su hermana! ¡Jajejeja!
 
-    she is no longer an influence on
+(El Aventurero, Lheban y Raic muelen a Stete a golpes hasta que queda
+inconsciente)
 
+Raic: Saben, me temo que realmente tenemos que
 
-    Stete ...
+hacer algo con el joven Stete aquí ...
 
- Raic:       Yes, most certainly ... Hmmm ...
+su obsesión con la hermana ... ¡ugh! Aventurero: Sí, podría ser otro Komon -- ¡justo
 
- Lheban:     A somewhat Dibelytical theological             point
--- Oh, please excuse the technical             discussion here -
-Raic, if we are to             make her see the errors -- well, how
+lo que no necesitamos!
 
+Lheban: Hmmmm. Esa hermana suya -- ¿realmente
 
-    shall I put it -- we first have to know
+-- existe?
 
+Raic: Oh sí. Cielos. Oh sí. La conocemos bien --
 
-    just what the ... ways ... are, correct?
+quiero decir, la hemos visto a menudo ...
 
- Raic:       Indeed, an astute observation! Hmmm ...             so
-you are suggesting that ... in a nut,
+Lheban: Creo, Hermano, que debería hacérsele
 
+ver los errores de su conducta. Para que
 
-    we should first determine her ... ways,
+ya no sea una influencia para
 
+Stete ...
 
-    so as to be able to then show her the
+Raic: Sí, muy ciertamente ... Hmmm ...
 
+Lheban: Un punto teológico algo Dibelytico
 
-    ... er ... errors?
+-- Oh, por favor perdonen la discusión
 
- Lheban:     Precisely! Mind you, a difficult,            
-ardous, tiring project, I fear. One that             will take
-all our ... will and energy.
+técnica aquí - Raic, si vamos a
 
- Raic:       Hmmm, true. But challenging, eh? Take             all
-our time - but then, we shall have             some time, while
-friend the Adventurer
+hacerle ver los errores -- bueno, cómo
 
+lo diría -- primero tenemos que saber
 
-    here is off hauling and carting.
+exactamente cuáles son las ... conductas ..., ¿correcto?
 
- Lheban:     And ... I personally, would feel far            
-safer if we were ... in retreat maybe.
+Raic: ¡Ciertamente, una observación astuta! Hmmm ...
 
+así que estás sugiriendo que ... en resumen,
 
-    Studying the ways ..?
+primero deberíamos determinar sus ... conductas,
 
- Adventurer: Yeah -- be a good idea for you two to,            
-maybe, disappear? For a while, of course.             Cut down
-on the chances of a ... rival             faction catching on?
-Or catching you?
+¿para poder luego mostrarle los
 
- Raic:       Very well! Lheban, why don't you and I            
-take his sister off with us on a ...
+... er ... errores?
 
+Lheban: ¡Precisamente! Eso sí, un proyecto difícil,
 
-    theological retreat, as it were? Study             the ways
-in details, and so on ...
+arduo y agotador, me temo. Uno que
 
- Lheban:     We could go to that unused little            
-Temple, up on that shoulder of Edward's             Mountain
-... out of the way, quiet ...
+requerirá toda nuestra ... voluntad y energía.
 
- Raic:       Door has locks ...
+Raic: Hmmm, cierto. Pero desafiante, ¿eh? Nos llevará
 
- Lheban:     Thick walls ...
+todo nuestro tiempo - pero bueno, tendremos
 
- Raic:       A big cellar ...
+algo de tiempo mientras el amigo Aventurero
 
- Lheban:     Good! It's settled then. A theological            
-retreat! Oh goody!
+aquí presente está fuera cargando y transportando.
 
- Raic:       Of course, once we know the ... er ...             ways
-in detail, we can of course tell             old High Mucky-Muck,
-and let him take care              of the ... er ... showing of the
-errors ..?             Yes, that would improve his mood quite a
+Lheban: Y ... yo personalmente, me sentiría mucho más
 
+seguro si estuviéramos ... de retiro tal vez.
 
-    bit ...
+¿Estudiando las conductas ..?
 
- Lheban:     Then it's agreed. Let's start, say, day            
-after tomorrow?
+Aventurero: Sí -- ¡sería una buena idea que ustedes dos,
 
- Raic:       Yes! Adventurer, why don't I meet you at,            
-oh, that horrid ugly statue of ... what
+tal vez, desaparecieran? Por un tiempo, claro.
 
+¿Reducir las posibilidades de que una facción ... rival
 
-    on Tamriel is it? - a harpy and a gargoyle?             
-Called something silly like 'Vendigao and
+se entere? ¿O de que los atrapen?
 
+Raic: ¡Muy bien! Lheban, ¿por qué no nos llevamos a
 
-    Her Lover' or some such? Up in the north
+su hermana con nosotros a un ...
 
+retiro teológico, por así decirlo? Estudiar
 
-    west corner of the town. Oh, and can I
+las conductas en detalle, y demás ...
 
+Lheban: Podríamos ir a ese pequeño Templo en
 
-    keep the map?
+desuso, allá en la ladera de la montaña de
 
- Adventurer: Sure, keep it, I have a copy. And you will        
-    pass me a small bag, there at that nasty
+Edward ... apartado, tranquilo ...
 
+Raic: La puerta tiene cerrojos ...
 
-    statue?
+Lheban: Paredes gruesas ...
 
- Raic:       Have it all ready for you -- say, ten            
-o'clock sharp? Oh, Lheban, another
+Raic: Un gran sótano ...
 
+Lheban: ¡Bien! Trato hecho entonces. ¡Un retiro
 
-    thought about young Stete here. He really             needs
-some ... seasoning in the field,             one might say ...?
+teológico! ¡Qué bien!
 
- Lheban:     Hmmm. Good point ... I know! The priest            
-who handles field assignments is coming             by
-tomorrow. We could arrange an ...             educational ...
-assignment for Stete?
+Raic: Por supuesto, una vez que sepamos las ... er ...
 
- Raic:       Very good! But where ... hmmm ...             Winter's
-coming soon now. There's a
+conductas en detalle, podremos decírselo al
 
+viejo Gran Jefe, y dejar que él se encargue
 
-    vacancy up in Solitude, far north Skyrim,
+de ... er ... mostrarle los errores ..?
 
+Sí, eso mejoraría bastante su humor ...
 
-    I believe. Night collections at street            
-corners, or some such. Very Good! Come on,             Lheban.
-We have accounts to work on. Good             night to you then,
-Adventurer.  Ten             tomorrow morning!        (Lheban,
-Raic rise to leave, picking up Stete)
+Lheban: Entonces queda acordado. ¿Empezamos, digamos, pasado
 
- Lheban and Raic (Together): ... have to arrange some
-supplies ...             ... leather, rope ... holy wine ....     
-       ... lots of that pink powder ... I
+mañana?
 
+Raic: ¡Sí! Aventurero, ¿por qué no me encuentro contigo en,
 
-    prefer the green, myself ...
+oh, esa estatua horrible y fea de ... qué
 
- (Exeunt Lheban, Raic dragging Stete, and City Guard)
+es en Tamriel? - ¿una arpía y un gárgola?
 
- Nephron:    Well?
+¿Llamada algo tonto como 'Vendigao y
 
- Adventurer: Excellent. Went just as I said it would.          
-  Got 5000 gold from them. And, thanks to             your work
-with that Contessa ... we have              the screws on the
-Chantry. And the School
+su Amante' o algo así? En la esquina noroeste
 
+de la ciudad. Oh, ¿y puedo
 
-    of Julianos is going to be ... otherwise
+quedarme con el mapa?
 
+Aventurero: Claro, quédatelo, tengo una copia. ¿Y me
 
-    engaged ... on a theological retreat.
+pasarás una bolsita allí en esa estatua
 
+asquerosa?
 
-    More like a Sanguine retreat!
+Raic: Lo tendré todo listo para ti -- digamos, ¿a las diez
 
- Nephron:    And those Mages Shub and Shub seem to             have
-disappeared ...
+en punto? Oh, Lheban, otro
 
- Adventurer: So we are set?
+pensamiento sobre el joven Stete aquí. Realmente
 
- Nephron:    Yes, you can come by my warehouse            
-tomorrow afternoon. Have the heavy carts             waiting.
+necesita algo de ... fogueo en el campo,
 
- Ortho:      And Ortho ...
+¿podría decirse ...?
 
- Nephron:    Oh yes, must not forget you fellows.             How
-kind of you to ... volunteer your
+Lheban: Hmmm. Buen punto ... ¡ya lo tengo! El sacerdote
 
+que maneja las asignaciones de campo viene
 
-    services ...
+mañana. ¿Podríamos organizar una asignación ...
 
- Adventurer: Tomorrow, then!
+educativa ... para Stete?
 
- (Exeunt omnes) (Last person to leave looks just like a Royal
-in disguise ...) (Enter Epilogue)
+Raic: ¡Muy bien! Pero ¿dónde ... hmmm ...? El invierno
 
- Epilogue:   Well, we only have one part left to this            
-play and I've run out counting the number
+llegará pronto. Hay una
 
+vacante en Soledad, en el lejano norte de Skyrim,
 
-    of loose strings. Either Part the Sixth
+creo. Recaudaciones nocturnas en esquinas,
 
+o algo así. ¡Muy bien! Vamos,
 
-    is going to be eight hours long, or we're
+Lheban. Tenemos cuentas en las que trabajar. Buenas
 
+noches entonces, Aventurero. ¡A las diez
 
-    going to leave some parts unsolved. I for
+mañana por la mañana! (Lheban y Raic se levantan para irse, cargando a Stete)
 
+Lheban y Raic (Juntos): ... tenemos que organizar algunos suministros ...
 
-    one hope that they don't chose to drop
+... cuero, cuerda ... vino sagrado ....
 
+... mucho de ese polvo rosa ... Yo
 
-    the character of the Wanton Contessa. For
+prefiero el verde, personalmente ...
 
+(Salen Lheban, Raic arrastrando a Stete, y la Guardia de la Ciudad)
 
-    Jephre's sake, she's been on the Dramatis
+Nephron: ¿Y bien?
 
+Aventurero: Excelente. Salió tal como dije que saldría.
 
-    Personae since Part the Oneth. Ah, well.
+Conseguí 5000 de oro de ellos. Y, gracias a
 
+tu trabajo con esa Condesa ... tenemos
 
-    Nobody leave your seat. Your gold will
+contra las cuerdas al Sagrario. Y la Escuela
 
+de Julianos va a estar ... ocupada en otros
 
-    not be refunded. Any gold you can spare
+asuntos ... en un retiro teológico.
 
+¡Más bien un retiro de Sanguine!
 
-    to tip your friendly wenches will be
+Nephron: Y esos Magos Shub y Shub parecen haber
 
+desaparecido ...
 
-    greatly appreciated. We just have a quick
+Aventurero: ¿Así que estamos listos?
 
+Nephron: Sí, puedes pasar por mi almacén
 
-    costume change and a set to put together
+mañana por la tarde. Ten los carros pesados
 
+esperando.
 
-    and we'll be back. In the meanwhile, enjoy
+Ortho: Y Ortho ...
 
+Nephron: Oh sí, no debo olvidarme de ustedes. Qué
 
-    our bard's rendition of the Nordic classic
+amable por su parte ... ofrecer sus
 
+servicios ...
 
-    "Alas, The Fleeting Years Glide By."
+Aventurero: ¡Mañana, entonces!
 
+(Salen todos) (La última persona en salir se parece mucho a un Noble
+disfrazado ...) (Entra el Epílogo)
 
+Epílogo: Bueno, solo nos queda una parte de esta
 
-                     So Endeth Part The Five
+obra y he perdido la cuenta del número
 
- 
+de hilos sueltos. O bien la Sexta Parte
+
+va a durar ocho horas, o vamos a
+
+dejar algunas partes sin resolver. Yo, por
+
+mi parte, espero que no decidan eliminar
+
+el personaje de la Condesa Lúbrica. ¡Por
+
+el amor de Jephre!, ha estado en el Reparto
+
+desde la Primera Parte. En fin.
+
+Que nadie se levante de su asiento. Su oro no
+
+será reembolsado. Cualquier moneda de oro que puedan
+
+dar de propina a sus amables mozas será
+
+muy agradecida. Solo tenemos un cambio rápido
+
+de vestuario y un decorado que montar
+
+y estaremos de vuelta. Mientras tanto, disfruten
+
+de la interpretación de nuestro bardo del clásico nórdico
+
+"Ay, los años fugaces se deslizan".
+
+Así termina la Quinta Parte
+

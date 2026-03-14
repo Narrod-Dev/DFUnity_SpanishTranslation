@@ -1,88 +1,73 @@
-Title: Confessions of a Thief
-Author: Anonymous
+Title: Confesiones de un ladrón
+Author: Anónimo
 IsNaughty: False
 Price: 695
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]Confessions
+[/center]Confesiones
 
-[/center]Of A
+[/center]de un
 
-[/center]Thief
-
-
+[/center]ladrón
 
 [/font=4]
 
-
-
-[/center]     I'm a thief. Now, don't get me wrong. I ain't saying this
-out of pride, but I ain't ashamed of my occupation neither.
-Thieves got a perfect right to exist in the Empire. People
-say we're dishonest. Of course, those people are usually
-either merchants or priests, which really slays me. Sort of
-the snake calling the worm legless.     Rulers like us. Crime
-in moderation is good for the economy. The trick is to keep it
-at a good even pace, with a well timed lull and a minor
-wave to keep the fat bottoms from becoming compacent. Of
-course, stupid, but talented thieves will keep stealing,
-empty their pockets, and steal some more. This ain't good
-for no one. That's where the guilds come in.     A thieves guild
-is what they call a crime regulator. We protect each other
-and punish the clumsy and greedy. The kings depend on us to
-keep the amateurs out of business.     Yeah, occasionally, a
-king will come down on us. I've even seen my Thieves
-Guildmaster get himself stuck in prison once or twice. Some
-cohort of mine said her first Guildmaster got himself hanged.
-Then the Thieves Guild has to get foul on the king, and, let
-someone who knows tell you, the results ain't pretty.     I
-got into the guild, the way I've seen most thieves do it. It
-was a few years back, when that bully Jagar Tharn was sitting
-on the throne only everyone thought he was the Emperor. My
-parents farm turned into eight acres of dust and rock, and
-they threw me and my brothers out. I was always a skinny
-thing, but by the time I made it to the closest town, I was a
-good deal more skinnier.     Just cause the town had some dirt
-that plants could grow on didn't make them that much richer
-than my folks were. I tried to get all kinds of jobs, but the
-hungrier and more raggedier I got, the quicker anyone who
-might have work would kick me out. When the rainy season
-finally came, it came like a sea, and I didn't have nowhere to
-stay. Lucky I found the unlocked cellar door.     Turns out
-that the owners of the house slept like old dogs, cause I
-robbed them blind (and tripped into things like I was the
-blind one) and they never woke up. I sold all the stuff at a
-dirty pawners I knew and spent the next two days living like a
-potentate. Then I got my first visit from the local thieves
-guild.     I remember what the guy looked like, but not
-exactly what he said. Something like, "Hey, kid, if you want to
-steal in these parts, you're going to have to join the Guild.
-Otherwise, I or someone like me is going to break your skinny
-arms so you can't steal."     I've know some people who've
-refused membership in the Guild and kept on stealing anyhow.
-I've broken someone of their arms. As for me, this was the first
-offer I'd had for a career since my pa told me that if I
-didn't milk the cow, he'd rip my head off. In comparison, this
-guy at the tavern was almost a gentleman. I agreed right
-away.     Sure, I had to prove my worth to the Guild before I
-could join and even now. But having two working arms is only
-part of the benefit. They trained me, taught me, and kept me
-out of prison. How many other guilds can boast a forgery
-expert on the premises?     So the next time you're calling
-some swindling merchant or usurious priest a thief, think
-about it. There is honor among thieves -- I should know. 
-
-     
+[/center] Soy un ladrón. Ahora, no me malinterpreten. No digo esto por
+orgullo, pero tampoco me avergüenzo de mi ocupación. Los ladrones tenemos
+todo el derecho a existir en el Imperio. La gente dice que somos
+deshonestos. Por supuesto, esa gente suele ser o mercaderes o sacerdotes,
+lo cual me mata de risa. Es como si la serpiente llamara al gusano "cojo".
+A los gobernantes les gustamos. El crimen con moderación es bueno para la
+economía. El truco está en mantenerlo a un ritmo constante, con una calma
+bien planeada y una ola menor para evitar que los peces gordos se vuelvan
+complacientes. Por supuesto, los ladrones estúpidos pero talentosos
+seguirán robando, vaciarán sus bolsillos y robarán un poco más. Eso no es
+bueno para nadie. Ahí es donde entran los gremios. Un gremio de ladrones
+es lo que llaman un regulador del crimen. Nos protegemos unos a otros y
+castigamos a los torpes y a los codiciosos. Los reyes dependen de nosotros
+para mantener a los aficionados fuera del negocio. Sí, ocasionalmente, un
+rey se pondrá duro con nosotros. Incluso he visto a mi propio Maestro del
+Gremio de Ladrones acabar en prisión una o dos veces. Una compinche mía
+dijo que a su primer Maestro del Gremio lo colgaron. Entonces el Gremio de
+Ladrones tiene que ponerse pesado con el rey, y —deja que alguien que sabe
+te lo diga— los resultados no son agradables. Entré en el gremio de la
+manera en que he visto hacerlo a la mayoría de los ladrones. Fue hace unos
+años, cuando ese matón de Jagar Tharn se sentaba en el trono y todos
+pensaban que era el Emperador. La granja de mis padres se convirtió en
+ocho acres de polvo y roca, y nos echaron a mí y a mis hermanos. Siempre
+fui alguien flaco, pero para cuando llegué al pueblo más cercano, estaba
+bastante más flacucho todavía. El hecho de que el pueblo tuviera algo de
+tierra donde crecieran plantas no los hacía mucho más ricos que mi gente.
+Intenté conseguir todo tipo de trabajos, pero cuanto más hambriento y
+harapiento me volvía, más rápido me echaba cualquiera que pudiera tener
+trabajo. Cuando finalmente llegó la temporada de lluvias, llegó como un
+mar, y yo no tenía donde quedarme. Suerte que encontré la puerta de un
+sótano sin cerrar. Resulta que los dueños de la casa dormían como perros
+viejos, porque los desvalijé por completo (y me tropecé con cosas como si
+yo fuera el ciego) y nunca se despertaron. Vendí todo a un prestamista de
+mala muerte que conocía y pasé los dos días siguientes viviendo como un
+potentado. Entonces recibí mi primera visita del gremio de ladrones local.
+Recuerdo cómo se veía el tipo, pero no exactamente lo que dijo. Algo como:
+"Oye, niño, si quieres robar por estos lares, vas a tener que unirte al
+Gremio. De lo contrario, yo o alguien como yo te romperá esos brazos
+flacuchos para que no puedas robar". He conocido a personas que han
+rechazado la membresía en el Gremio y han seguido robando de todos modos.
+Yo mismo le he roto los brazos a alguien. En cuanto a mí, esta era la
+primera oferta de carrera que recibía desde que mi padre me dijo que si no
+ordeñaba la vaca, me arrancaría la cabeza. En comparación, este tipo en la
+taberna era casi un caballero. Acepté de inmediato. Claro, tuve que
+demostrar mi valía ante el Gremio antes de poder unirme e incluso ahora.
+Pero tener dos brazos funcionales es solo parte del beneficio. Me
+entrenaron, me enseñaron y me mantuvieron fuera de la cárcel. ¿Cuántos
+otros gremios pueden presumir de tener a un experto en falsificación en el
+local? Así que la próxima vez que llames "ladrón" a algún mercader
+estafador o a un sacerdote usurero, piénsalo. Hay honor entre ladrones...
+yo debería saberlo.
 
 
 
 
-
-
-
- 

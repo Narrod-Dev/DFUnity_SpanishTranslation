@@ -1,119 +1,111 @@
-Title: Divad the Singer
+Title: Divad el Cantante
 Author: Destri Melarg
 IsNaughty: False
 Price: 684
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
 [/center]Divad
 
-[/center]The
+[/center]el
 
-[/center]Singer
-
-
+[/center]Cantante
 
 [/font=4]
 
+[/center]    Divad el Cantante es, en un solo cuerpo, dos personas únicas
+y distintas. Divad es el más conocido de los héroes de los
+Guardias Rojos. Hijo de Frandar Hunding, probablemente el Ansei
+más consumado que jamás haya existido. Sin embargo, al principio
+de su vida, Divad pareció haber rechazado por completo la
+Senda de la Espada.
+
+Divad fue el único hijo de Frandar Hunding, y nació tarde en la
+vida de Hunding (en el 2396 según el antiguo modo de cómputo,
+probablemente alrededor del 1E 760 del calendario Tamriélico),
+cuando este pasaba la mayor parte del tiempo fuera luchando en el
+último de sus duelos y participando en las muchas batallas e
+insurrecciones del periodo. A los once años, Divad entró en el
+Salón de las Virtudes de la Guerra y comenzó su entrenamiento, pero
+a los 16, finalmente dejó que su ira por haber crecido esencialmente
+sin padre se apoderara de él. Divad rompió sus espadas y abandonó el
+Salón para convertirse en acróbata de un circo ambulante.
+
+La vida en el circo no satisfacía a Divad y, tras dos años, su
+herencia artesana innata lo impulsó a convertirse en músico y,
+finalmente, en Bardo. Durante dos años más viajó, cantando en las
+ciudades del imperio, ganando una fama y un reconocimiento no menores
+por sus conmovedoras y populares canciones y música.
+
+Aunque Divad había renunciado públicamente a la Senda de la espada,
+parece ser que continuó practicando las formas obligatorias de
+entrenamiento que se le enseñaron en el Salón. No portaba ninguna
+espada, pero al caer la tarde, a menudo se podían ver luces brillantes
+en su tienda (mi fuente no dice nada más sobre esto, pero puede
+asumirse que el escritor sugería que Divad practicaba la forma de la
+Senda conocida como Shehai Shen She Ru -- la Senda de la Espada de
+Espíritu, o simplemente el Shehai).
+
+Divad era muy popular entre la gente del imperio, y sus conciertos
+y música contaban con una gran asistencia. Aun así, no pudo escapar
+de su herencia de la espada. Cuando el Último Emperador ascendió al
+poder y comenzó a perseguir a los cantores de espadas, Divad fue uno
+de los primeros en atraer su atención.
+
+Una vez que el Emperador Hira y su consorte decidieron ir a la
+guerra contra los Cantores por el control del imperio, actuó con
+rapidez contra aquellos Cantores que formaban parte visible de la
+sociedad del imperio. A la mayoría los hizo matar, pero la música y
+la fama de Divad estaban tan extendidas que envió a un equipo de su
+guardia personal para arrestarlo.
+
+Los hombres del Emperador fueron muy afortunados o muy desafortunados,
+según se prefiera ver. No siendo tonto, Hira envió a 100 de sus mejores
+guardias, pues incluso un Cantor desarmado era un enemigo muy peligroso.
+La suerte fue que pudieron capturar a Divad y ponerle cadenas, ya que
+fueron a por él mientras cenaba con su anciana madre. El desastre fue que,
+mientras él se rendía, golpearon precipitadamente a la anciana que suplicaba.
+Demasiado fuerte, al parecer, pues cayó muerta con ese solo golpe.
+
+Ese único acto irreflexivo, como suele ocurrir en la guerra, fue el
+factor fundamental que causó su derrota final. Ese acto encendió en
+Divad el espíritu de la Senda. Hasta ese golpe descuidado, Divad era
+un artesano ordinario, no, un artista, un gran artista, pero no un
+guerrero.
+
+En el momento de la muerte de ella, Divad se levantó de su asiento,
+tomó sus cadenas entre sus dos manos y comenzó a balancear la pesada
+cadena en un arco mortal. Mató a cuatro de los guardias, ganando
+espacio suficiente para correr y saltar por la ventana hacia el río.
+Desapareció en la noche.
+
+A partir de ese momento, Divad fue visto muchas veces y se habló
+de él en muchos más rumores por todo el imperio, en muchos más lugares
+de los que un simple hombre mortal podría haber estado jamás. En cada
+punto donde los hombres de Hira se reunían para hacer maldades, la
+resistencia se atribuía a Divad.
+
+Mientras Hira avanzaba contra los Cantores y comenzaba a formar su
+ejército para invadir el Alto Desierto, fue Divad quien llevó la noticia
+a los Cantores. Divad estuvo entre los que escalaron el Hattu para
+encontrar a Hunding en su cueva. Lo que no se sabe bien es que Hunding,
+al principio, se negó a asumir el liderazgo de los Cantores. El primer
+intento de interrumpirlo en su poema de muerte hizo que expulsara a los
+ancianos de su cueva; incluso formó el Shehai en su ira. Fue Divad quien
+volvió a entrar solo en la cueva para hablar con Hunding. Hasta el día de
+hoy, nadie sabe qué se dijo ni qué ocurrió en esa cueva. Los escribas de
+la época informaron de destellos brillantes de luz y voces airadas. Pasaron
+cinco largas horas y entonces ambos salieron de la cueva, Divad al lado
+de Hunding. El resto, como dicen, es historia...
+
+Divad, que no había completado el entrenamiento en el Salón de las
+Virtudes de la Guerra, se convirtió en asesor de Hunding y pasó su tiempo
+leyendo el recién terminado Libro de los Círculos, pero su papel en la
+estrategia del Martillo y el Yunque fue el de un simple cantor de espadas
+y combatiente. No fue hasta que los Cantores huyeron de su imperio nativo
+y desembarcaron en la Nueva Tierra que su historia comienza de verdad.
 
 
-[/center]    Divad The Singer is in one body, two unique and distinct
-people.  Divad is the most well known of the Redguard heroes.
-Frandar Hunding's son, probably the most accomplished Ansei
-who ever lived. Yet early in his life, Divad appeared to
-thoroughly have rejected The Way of the Sword.
-
-    Divad was the only son of Frandar Hunding, and was born
-late in Hunding's life (2396 in the old way of reckoning,
-probably about 1E 760 by the Tamrielic calendar), when he
-was away most of the time fighting the last of his duels and
-engaging in the many battles and insurrections of the
-period. At eleven, Divad entered the Hall of the Virtues of
-War and began training, but at 16, he finally let his anger
-at growing up essentially fatherless get the better of him.
-Divad broke his swords and left the Hall to become an acrobat
-in a traveling circus.
-
-    The life in the circus was unsatisfying to Divad, and
-after two years, his innate artisan heritage drove him to
-become a musician and finally a Bard. For two more years he
-traveled, singing in the cities of the empire -- gaining no
-small amount of fame and recognition for his stirring and
-popular songs and music.
-
-    Although Divad had publicly forsaken the Way of the sword,
-it would appear that he continued to practice the
-compulsory forms of training he was taught in the Hall.  He
-carried no sword, but in the late evening, bright lights
-could be often be seen in his tent (my source says nothing more
-about this, but it may be assumed that the writer was
-suggesting that Divad was practicing the form of the Way
-known as Shehai Shen She Ru -- the Way of the Spirit Sword, or
-simply the Shehai).
-
-    Divad was very popular with the people of the empire, and
-his music and concerts were well attended. Still he could
-not escape his heritage of the sword.  When the Last Emperor
-ascended to power and began to  persecute the sword-singers,
-Divad was among the first to attract his attention.
-
-     Once the Emperor Hira and his consort decided to go to war
-with the Singers for control of the empire, he moved swiftly
-against those Singers who were visibly a part of empire
-society.  Most he had killed, but Divad's music and fame were
-so wide spread that he sent a team of his personal guards to
-arrest him. 
-
-    The Emperor's men were either very lucky or very unlucky
-depending on how you choose to view it.  Being no fool, Hira
-sent 100 of his best guards, for even an unarmed Singer was a
-very dangerous foe. The luck  was that they were able to
-capture Divad and place him in chains, for they came at him as
-he sat dining with his elderly mother. The disaster was that as
-he surrendered, they rashly struck the pleading old woman.
-Too hard, it would seem, for she fell dead with that single
-blow.
-
-    That single thoughtless deed, as is often the case in war,
-was the one pivotal factor causing their eventual defeat.
-That act ignited in Divad the spirit of the Way. Up until
-that careless stroke, Divad was an ordinary artisan, no, an
-artist, a great artist, but no warrior.  
-
-    The moment of her death, Divad rose from his seat, took his
-chains between his two hands and began swinging the heavy
-chain in a deadly arc.  He slew four of the guards, gaining
-enough space to run and dive through the window and into the
-river He disappeared into the night 
-
-    From that point, Divad was spotted many times and told of
-in many more rumors all across the empire -- far more places
-than a mere mortal man could have ever been. At every point
-where Hira's men gathered to do mischief, the resistance was
-attributed to Divad.  
-
-    As Hira moved against the Singers and began forming his
-army to invade High Desert, it was Divad who carried the news
-to the Singers. Divad was among those who climbed Hattu to
-find Hunding in his cave. What is not well known is that
-Hunding, at first refused to take leadership of the Singers.
-The first attempt to interrupt him at his death poem cause
-him to drive the elders from his cave, he even formed the
-Shehai in his anger. It was Divad who reentered the cave
-alone to speak with Hunding. To this day, no one knows what was
-said, what  happened in that cave. Scribes of the time
-reported bright flashes of light and angry  voices. Five
-long hours came and went, then both emerged from the cave,
-Divad, at Hunding's side. The rest, as they say, is history ...
-
-    Divad, who had not completed training in the Hall of the
-Virtues of War, became an adviser to Hunding and spent his
-time reading the newly completed Book of Circles, but his
-role in the Hammer and Anvil strategy was as a simple
-sword-singer and fighter.  It was not till the Singers fled
-their native empire and landed In New Land that his story
-truly begins. 

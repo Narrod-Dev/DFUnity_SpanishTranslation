@@ -1,4 +1,4 @@
-Title: Brief History of the Empire, Part IV
+Title: Breve Historia del Imperio, Parte IV
 Author: Stronach
 IsNaughty: False
 Price: 352
@@ -9,127 +9,103 @@ Content:
 
 [/font=2]
 
-[/center]A Brief History
+[/center]Una Breve Historia
 
-[/center]of the Empire,
+[/center]del Imperio,
 
-[/center]Part IV
+[/center]Parte IV
 
 
 
 [/font=4]
 
+ El primer libro de esta serie describió brevemente a los
+primeros ocho emperadores de la Dinastía Septim, comenzando con
+Tiber I. El segundo volumen describió la Guerra del Diamante
+Rojo y los seis emperadores que le siguieron. El tercer volumen
+describe los problemas de los tres emperadores siguientes: el
+frustrado Uriel IV, el ineficaz Cephorus II y el heroico Uriel V.
+Tras la muerte de Uriel V al otro lado del mar, en la distante y
+hostil Akavir, Uriel VI tenía apenas cinco años de edad. De
+hecho, Uriel VI nació poco antes de que su padre partiera hacia
+Akavir. Los únicos otros descendientes de Uriel V, de una mujer
+diferente, fueron las gemelas Morihatha y Eloisa, que nacieron
+un mes después de que Uriel V partiera. Uriel VI fue coronado
+en el año 290 de la tercera era. A su madre, la consorte
+Thonica, se le otorgó una Regencia restringida hasta que Uriel
+VI alcanzara la mayoría de edad. El Consejo retuvo el poder real,
+como lo habían hecho desde los días de Katariah I. El Consejo
+disfrutó tanto de su libertad ilimitada para crear leyes (y
+obtener beneficios), que a Uriel VI no se le otorgó la licencia
+completa para gobernar hasta el 307, cuando tenía 22 años. Había
+estado asumiendo puestos de responsabilidad lentamente durante
+años, pero tanto el Consejo como su madre, que disfrutaba incluso
+de su regencia limitada, eran reacios a darle el mando. Para
+cuando llegó al trono, los mecanismos del gobierno le otorgaban
+poco poder, salvo el derecho a veto. Este poder lo ejerció con
+regularidad. Para el 313, Uriel VI podía jactarse con convicción
+de que realmente gobernaba Tamriel. Utilizó redes de espionaje
+en desuso y unidades de la guardia para intimidar y coaccionar a
+los miembros difíciles del Consejo de Ancianos. Su hermana era
+su aliada habitual, después de que su matrimonio con el Barón
+Ulfe Gersen de Hibernalia le aportara una riqueza e influencia
+considerables. Como dijo el sabio Ugaridge: "Uriel V conquistó
+Esroniet, pero Uriel VI conquistó al Consejo de Ancianos".
+Cuando Uriel VI cayó de su caballo y no pudo ser salvado por los
+mejores sanadores imperiales, su amada hermana Morihatha tomó el
+trono. A los 25 años de edad, había sido descrita por los
+diplomáticos (ciertamente interesados) como la criatura más bella
+de Tamriel. Era, sin duda, una mujer culta, vivaz, atlética y
+una política consumada. Trajo al Archimago de Skyrim a la Ciudad
+Imperial y nombró al segundo Mago de Batalla Imperial desde los
+días de Tiber Septim. Morihatha terminó el trabajo que su
+hermano había comenzado, y convirtió la Provincia Imperial en un
+gobierno bajo el mando real de la Emperatriz. Fuera de la
+Provincia Imperial, sin embargo, el Imperio se había estado
+desintegrando lentamente. Las revoluciones abiertas y las
+guerras civiles habían hecho estragos sin oposición desde los
+días de su abuelo Cephorus II. Coordinando cuidadosamente sus
+contraataques, Morihatha recuperó lentamente a sus vasallos
+rebeldes, evitando siempre exceder sus capacidades. Aunque las
+campañas militares de Morihatha fueron notablemente exitosas, el
+Consejo a menudo se sentía frustrado por su ritmo pausado. Un
+consejero, un argoniano llamado Thoricles Romus, furioso por su
+negativa a enviar tropas a sus tierras en problemas, se cree que
+fue el hombre que contrató a los asesinos que acabaron con su
+vida en 3E 339. Romus fue juzgado y ejecutado, aunque proclamó
+su inocencia. Morihatha no dejó hijos supervivientes, y Eloisa
+había muerto de fiebre cuatro años antes. El hijo de Eloisa,
+Pelagius, de 25 años, fue coronado como Pelagius IV. Pelagius IV
+continuó el trabajo de su tía, recuperando lentamente los reinos
+sediciosos de su Imperio. Poseía la paciencia de Morihatha y su
+ritmo deliberado en sus empresas, pero, por desgracia, no tuvo
+su éxito. Los reinos habían estado libres de restricciones
+durante tanto tiempo que incluso una presencia imperial benigna
+resultaba odiosa. No obstante, cuando Pelagius murió, tras un
+asombroso reinado de cuarenta y nueve años, Tamriel estaba más
+cerca de la unidad de lo que había estado desde los días de
+Uriel I. Nuestro actual Emperador, su Impresionante y Terrible
+Majestad, Uriel Septim VII, hijo de Pelagius IV, posee la
+diligencia de su tía abuela Morihatha, la habilidad política de
+su tío abuelo Uriel VI y la destreza militar de su tío bisabuelo
+Uriel V. Durante veintiún años reinó y trajo justicia y orden a
+Tamriel. En el año 3E 389, su Mago de Batalla Imperial, Jagar
+Tharn, lo traicionó. Uriel VII fue encarcelado en una dimensión
+creada por Tharn, y este usó su magia de ilusión para asumir el
+aspecto del Emperador. Durante los siguientes diez años, Tharn
+usó los privilegios imperiales, pero no continuó con el plan de
+reconquista de Uriel VII. Todavía no se sabe del todo cuáles
+eran los objetivos y logros personales de Tharn durante los diez
+años que imitó a su señor soberano. En 3E 399, un misterioso
+campeón derrotó al Mago de Batalla en las mazmorras del Palacio
+Imperial y liberó a Uriel VII de su celda en otra dimensión.
+Desde su liberación, Uriel VII ha trabajado diligentemente para
+renovar la batalla por reunificar Tamriel. La interferencia de
+Tharn rompió el ritmo, pero los años transcurridos desde entonces
+han demostrado que la gloriosa edad de oro de Tiber Septim puede
+visitar Tamriel una vez más.
 
 
-[/center]     The first book of this series described, in brief, the first
-eight emperors of the Septim Dynasty beginning with Tiber I.
-The second volume described the War of the Red Diamond and
-the six emperors who followed. The third volume describes the
-troubles of the next three emperors, the frustrated Uriel
-IV, the ineffectual Cephorus II, and the the heroic Uriel V.    
-At Uriel V's death across the sea in distant hostile Akavir,
-Uriel VI was but five years old. In fact, Uriel VI was born
-only shortly before his father left for Akavir. Uriel V's
-only other progeny, by a different woman, were the twins
-Morihatha and Eloisa, who had been born a month after Uriel
-V left.  Uriel VI was coronated in the 290th year of the third
-era. The consort Thonica as the boy's mother was given a
-restricted Regency until Uriel VI reached his minority. The
-Council retained the real power, as they had ever since the
-days of Katariah I.     The Council so enjoyed its unlimited
-and unrestricted freedom to make laws (and profits), Uriel
-VI was not given full license to rule until 307, when he was
-22 years old. He had been slowly assuming positions of
-responsibility for years, but both the Council and his
-mother, who enjoyed even her limited regency, were loath to
-give him reign. By the time he came to the throne, the
-mechanisms of government gave him little power, but the
-power to veto.     This power he regularly exercised. By
-313, Uriel VI could boast with conviction that he truly did
-rule Tamriel. He utilized defunct spy networks and guard
-units to bully and coerce the difficult members of the Elder
-Council. His sister was his usual ally, after her marriage to
-Baron Ulfe Gersen of Winterhold brought her considerable
-wealth and influence. As the sage Ugaridge said, "Uriel V
-conquered Esroniet, but Uriel VI conquered the Elder
-Council."     When Uriel VI fell from his horse and could not
-be saved by the finest Imperial healers, his beloved sister
-Morihatha took the throne. At 25 years of age, she had been
-described by (admittedly self-serving) diplomats as the
-most beautiful creature in Tamriel. She was certainly
-well-learned, vivacious, athletic, and a well-practiced
-politician. She brought the Archmagister of Skyrim to the
-Imperial City and created the second Imperial Battlemage
-since the days of Tiber Septim.     Morihatha finished the job
-her brother had begun, and made the Imperial Province truly
-a government under the Emperess. Outside the Imperial
-Province, however, the Empire had been slowly
-disintegrating. Open revolutions and civil wars had raged un
-challenged since the days of her grandfather Cephorus
-II. Carefully coordinating her counterattacks, Morihatha
-slowly took back her rebellious vassals, always avoiding
-overextending herself.     Though Morihatha's military
-campaigns were remarkable successful, the Council was often
-frustrated by her deliberate pace. One Councilman, an
-Argonian named Thoricles Romus, furious at her refusal to
-send troops to his troubled lands, is believed to be the man
-who hired the assassins who claimed her life in 3E 339. Romus
-was tried and executed, though he protested his innocence.    
-Morihatha had no surviving children, and Eloisa had died of
-a fever four years before. Eloisa's 25-year-old son
-Pelagius was crowned Pelagius IV.     Pelagius IV continued
-his aunt's work, slowly bringing back the seditious kingdoms
-of his Empire. He had Morihatha's patience and deliberate pace
-in his endeavors, but, alas, he did not have her success. The
-kingdoms had been free of constraints for so long, even a
-benign Imperial presence was odious. Nevertheless, when
-Pelagius died, after an astonishing forty-nine year reign,
-Tamriel was closer to unity than it had been since the days
-of Uriel I.     Our current Emperor, his Awesome and Terrible
-Majesty, Uriel Septim VII, son of Pelagius IV, has the
-diligence of his great aunt Morihatha, the political skill of
-hallenged since the days of her grandfather Cephorus
-II. Carefully coordinating her counterattacks, Morihatha
-slowly took back her rebellious vassals, always avoiding
-overextending herself.     Though Morihatha's military
-campaigns were remarkable successful, the Council was often
-frustrated by her deliberate pace. One Councilman, an
-Argonian named Thoricles Romus, furious at her refusal to
-send troops to his troubled lands, is believed to be the man
-who hired the assassins who claimed her life in 3E 339. Romus
-was tried and executed, though he protested his innocence.    
-Morihatha had no surviving children, and Eloisa had died of
-a fever four years before. Eloisa's 25-year-old son
-Pelagius was crowned Pelagius IV.     Pelagius IV continued
-his aunt's work, slowly bringing back the seditious kingdoms
-of his Empire. He had Morihatha's patience and deliberate pace
-in his endeavors, but, alas, he did not have her success. The
-kingdoms had been free of constraints for so long, even a
-benign Imperial presence was odious. Nevertheless, when
-Pelagius died, after an astonishing forty-nine year reign,
-Tamriel was closer to unity than it had been since the days
-of Uriel I.     Our current Emperor, his Awesome and Terrible
-Majesty, Uriel Septim VII, son of Pelagius IV, has the
-diligence of his great aunt Morihatha, the political skill of
-his great uncle Uriel VI, and the military prowess of his
-great grand-uncle Uriel V. For twenty-one years he reigned
-and brought justice and order to Tamriel. In the year 3E 389,
-his Imperial Battlemage Jagar Tharn betrayed him.      Uriel
-VII was imprisoned in a dimension of Tharn's creation, and
-Tharn used his magic of illusion to assume the Emperor's
-aspect. For the next ten years, Tharn used Imperial
-priveleges, but did not continue Uriel VII's schedule of
-reconquest. It is not entirely known yet what Tharn's goals
-and personal accomplishments were during the ten years he
-imitated his liege lord. In 3E 399, a mysterious champion
-defeated the Battlemage in the dungeons of the Imperial
-Palace and freed Uriel VII from his other dimensional cell.  
-  Since his release, Uriel VII has worked diligently to renew
-the battle to reunite Tamriel. Tharn's interference broke
-the momentuum, but the years since then have proven that the
-glorious golden age of Tiber Septim may be visited on
-Tamriel once again.     
 
-     
 
- 
+

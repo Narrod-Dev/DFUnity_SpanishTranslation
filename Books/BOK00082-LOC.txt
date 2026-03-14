@@ -1,154 +1,150 @@
-Title: Banker's Bet
+Title: La apuesta del banquero
 Author: Porbert Lyttumly
 IsNaughty: True
 Price: 467
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]Banker's
+[/center]La Apuesta del
 
-[/center]Bet
-
-
+[/center]Banquero
 
 [/font=4]
 
 [/center]
 
-   It was a perfectly ordinary day at the main office of the
-Bank of Daggerfall. Normal transactions took place:
-deposits were deposited, withdrawals were withdrawn, house
-mortgages were collected, letters of credit were golded.
-When a teller named Clyton J. Wifflington saw the little
-old lady approaching him, dragging two large sacks, each
-nearly as large as her, he changed his mind. It was not to be
-a perfectly ordinary day at the Bank of Daggerfall after
-all.
+Era un día perfectamente ordinario en la oficina principal del
+Banco de Daggerfall. Se realizaban las transacciones habituales:
+los depósitos se depositaban, los retiros se retiraban, se
+cobraban las hipotecas de las casas, las cartas de crédito se
+convertían en oro. Cuando un cajero llamado Clyton J.
+Wifflington vio a la anciana acercándose a él, arrastrando dos
+grandes sacos, cada uno casi tan grande como ella, cambió de
+opinión. Después de todo, no iba a ser un día perfectamente
+ordinario en el Banco de Daggerfall.
 
-   "I would like you to take the thirty million gold pieces I
-have in these sacks and open me an account," croaked the
-little old biddy.
+"—Me gustaría que tomara los treinta millones de piezas de oro
+que tengo en estos sacos y me abriera una cuenta —graznó la
+vieja biddy.
 
-   "Certainly, madam," Wifflington said, eagerly. He
-counted the gold in the sacks and found that it was thirty
-million gold exactly.
+"—Ciertamente, señora —dijo Wifflington, con entusiasmo.
+Contó el oro de los sacos y comprobó que eran exactamente
+treinta millones de oro.
 
-   "One moment, sonny," the little old lady chirruped.
-"Before I open the account, I would like to meet the man I'm
-trusting it to. I'd like to talk to the president of the bank."
+"—Un momento, jovencito —gorjeó la anciana.
+"—Antes de abrir la cuenta, me gustaría conocer al hombre a
+quien se la confío. Me gustaría hablar con el presidente del banco.
 
-    Wifflington wanted the president to know that he was the
-teller who had taken the largest single deposit that year, so
-eagerly sent word to the president's secretary. As it turned
-out, the president was equally eager to meet such a wealthy
-woman, so the old lady was brought to his office that very
-day.
+Wifflington quería que el presidente supiera que él era el
+cajero que había aceptado el mayor depósito individual de ese
+año, así que envió un mensaje entusiasta a la secretaria del
+presidente. Resultó que el presidente estaba igualmente ansioso
+por conocer a una mujer tan rica, por lo que la anciana fue
+llevada a su oficina ese mismo día.
 
-    "Pleased to make your acquaintance, milady. I am
-Gerander P. Baggledon," said the president, Gerander P.
-Baggledon.
+"—Encantado de conocerla, milady. Soy Gerander P.
+Baggledon —dijo el presidente, Gerander P. Baggledon.
 
-    "My name," said the little old lady. "Is Petuva
-Smuthworthy." That was, in fact, her real name. "Thank you
-for seeing me. I like to conduct my business in a more
-personal way."
+"—Mi nombre —dijo la anciana— es Petuva
+Smuthworthy. —Ese era, de hecho, su nombre real. —Gracias
+por recibirme. Me gusta llevar mis negocios de una manera más
+personal.
 
-    "I can certainly appreciate that," said Baggledon
-chucklingly. "It is an appreciable sum of gold. Would it
-be rude of me to ask how you came by it?"
+"—Ciertamente puedo apreciar eso —dijo Baggledon
+riéndose entre dientes. —Es una suma de oro apreciable. ¿Sería
+grosero de mi parte preguntar cómo la consiguió?
 
-    "Not at all," said Mrs. Smuthworthy.
+"—En absoluto —dijo la Sra. Smuthworthy.
 
-    "How came you by it?" asked Baggledon.
+"—¿Cómo la consiguió? —preguntó Baggledon.
 
-    "I'll let you guess," replied Mrs. Smuthworthy, with a
-trace of unattractive girlish flirtation.
+"—Dejaré que lo adivine —respondió la Sra. Smuthworthy, con
+un rastro de poco atractivo coqueteo juvenil.
 
-    Baggledon was a man of enormous imagination, for a
-banker. He guessed inheritance and longtime thrift, but Mrs.
-Smuthworthy coyly shook her head. Perhaps she had sold a
-large, old mansion? No. In a moment of chumminess,
-Baggledon asked if the gold came as a result of plunder or
-thievery. Mrs. Smuthworthy took no offense, but said no.
-Finally, he admitted defeat.
+Baggledon era un hombre de enorme imaginación, para ser
+un banquero. Supuso que se trataba de una herencia y de ahorros
+de mucho tiempo, pero la Sra. Smuthworthy negó con la cabeza
+tímidamente. ¿Quizás había vendido una mansión grande y antigua?
+No. En un momento de camaradería, Baggledon preguntó si el oro
+procedía del saqueo o del robo. La Sra. Smuthworthy no se ofendió,
+pero dijo que no. Finalmente, admitió su derrota.
 
-    "I'm a gambler," she said.      "In arena fights?" he asked,
-interested.
+"—Soy una jugadora —dijo ella. "—¿En peleas de arena? —preguntó él,
+interesado.
 
-    "No, no, dearie. Different things. For example, I'd be
-willing to wager twenty five thousand gold pieces that at
-this time tomorrow morning, your testicles will be covered
-with feathers."
+"—No, no, querido. Cosas diferentes. Por ejemplo, estaría
+dispuesta a apostar veinticinco mil piezas de oro a que mañana
+a esta misma hora, sus testículos estarán cubiertos
+de plumas.
 
-    Mr. Baggledon was somewhat taken aback by the old woman's
-words. Could she be mad? Could she be a witch? He eliminated
-the latter possibility, for he had a sense for such things. If she were mad, she was still a rich madwoman. And he could
-use twenty five thousand gold pieces. So he took her wager.
+El Sr. Baggledon se quedó algo desconcertado por las palabras
+de la anciana. ¿Estaría loca? ¿Sería una bruja? Eliminó la
+última posibilidad, pues tenía instinto para esas cosas. Si estaba
+loca, seguía siendo una loca rica. Y él podría usar veinticinco
+mil piezas de oro. Así que aceptó su apuesta.
 
-    For the next twenty-four hours, Mr. Baggledon obsessed
-over his testicles. He checked his pants so often that
-afternoon, his subordinates feared the worse and suggested
-that he not touch anything and go home for the rest of the
-afternoon. He spent the night seated, his pants around his
-ankles, his beady banker's eyes focused on his scrotum. Every
-time he started to doze off, his vision was filled with images
-of Mrs. Smuthworthy plucking feathers from his balls,
-cackling.
+Durante las siguientes veinticuatro horas, el Sr. Baggledon se
+obsesionó con sus testículos. Revisó sus pantalones con tanta
+frecuencia esa tarde que sus subordinados temieron lo peor y le
+sugirieron que no tocara nada y se fuera a casa por el resto de la
+tarde. Pasó la noche sentado, con los pantalones a la altura de los
+tobillos y sus pequeños ojos de banquero fijos en su escroto. Cada
+vez que empezaba a quedarse dormido, su visión se llenaba de imágenes
+de la Sra. Smuthworthy arrancando plumas de sus bolas, mientras
+soltaba carcajadas.
 
-    Mr. Baggledon arrived at the bank late the next day --
-only moments before Mrs. Smethworthy's arrival.
-Accompanying her was a lean, bespeckled fellow she
-introduced as a barrister from the court. Her son, it turned
-out. Young Mr. Smethworthy always accompanied his mother
-when there was money involved, she explained.
+El Sr. Baggledon llegó al banco tarde al día siguiente,
+solo unos momentos antes de la llegada de la Sra. Smethworthy.
+La acompañaba un hombre delgado y con gafas a quien presentó
+como un abogado de la corte. Su hijo, resultó ser. El joven
+Sr. Smethworthy siempre acompañaba a su madre cuando había
+dinero de por medio, explicó ella.
 
-    "Enough banter," she crowed. "Our bet, dearie?"
+"—Basta de bromas —gritó ella. "—¿Nuestra apuesta, querido?
 
-    "My dear, dear madam, I can tell you that your gold will
-be quite safe at the Bank of Daggerfall. I hope it will not
-cause you distress to discover that your gold will be safer
-here than in your own hands. My family jewels are quite,
-shall we say, featherless. And you owe me a sum equally
-twenty five thousand gold."
+"—Mi querida señora, puedo decirle que su oro estará bastante
+seguro en el Banco de Daggerfall. Espero que no le cause angustia
+descubrir que su oro estará más seguro aquí que en sus propias manos.
+Las joyas de mi familia están bastante, digamos, desplumadas.
+Y usted me debe una suma que equivale a veinticinco mil de oro.
 
-    Poor Mrs. Smethworthy's face fell when she heard this. "Are
-you sure?"
+El rostro de la pobre Sra. Smethworthy decayó al oír esto.
+"—¿Está seguro?
 
-    "Quite, madam."
+"—Totalmente, señora.
 
-    "Not even one feather?" Her voice suggested doubt. Mr.
-Baggledon could tell she thought he might be lying.
+"—¿Ni siquiera una pluma? —Su voz sugería duda. El Sr.
+Baggledon se dio cuenta de que ella pensaba que él podría estar mintiendo.
 
-    "Not one, I fear, madam."
+"—Ni una, me temo, señora.
 
-    "It's not that I don't trust you, Mr. Baggledon, but it
-is quite a lot of gold. Might I -- would you -- could I
-possibly see for myself?"
+"—No es que no confíe en usted, Sr. Baggledon, pero es
+mucho oro. ¿Podría... podría yo... podría verlo por mí misma?
 
-    As he knew he was soon to be a twenty five thousand gold
-pieces richer, and he was still a bit punchy from lack of
-sleep, Mr. Baggledon merely smiled and dropped his breeches
-to the floor. Mrs. Smethworthy examined his testicles very
-carefully, under, to the left, to the right. At last, she was
-satisfied that there was not so much as a down feather
-anywhere in the region. While she was looking under them one
-last time, Mr. Baggledon heard a thwacking noise across the
-office. Young Mr. Smethworthy was banging his head against
-the stone wall.
+Como sabía que pronto sería veinticinco mil piezas de oro
+más rico, y todavía estaba un poco aturdido por la falta de
+sueño, el Sr. Baggledon simplemente sonrió y se bajó los calzones
+hasta el suelo. La Sra. Smethworthy examinó sus testículos con mucho
+cuidado, por debajo, a la izquierda, a la derecha. Finalmente, quedó
+satisfecha de que no hubiera ni una sola pluma de plumón en toda la
+región. Mientras miraba debajo de ellos por última vez, el Sr.
+Baggledon escuchó un ruido sordo al otro lado de la oficina. El joven
+Sr. Smethworthy estaba golpeando su cabeza contra la pared de piedra.
 
-    "What in the Lady's name is wrong with your son, Mrs.
-Smethworthy?" he asked.
+"—¿Qué le pasa a su hijo, en nombre de la Dama, Sra.
+Smethworthy? —preguntó él.
 
-    "Nothing, dear," she said. "I merely bet him one hundred
-thousand gold pieces that by this time I would have the
-president of the Bank of Daggerfall by the balls."
+"—Nada, querido —dijo ella. "—Simplemente le aposté cien mil
+piezas de oro a que para este momento tendría al presidente del
+Banco de Daggerfall agarrado por las bolas.
 
 
 
 
 
- 
+
+
+

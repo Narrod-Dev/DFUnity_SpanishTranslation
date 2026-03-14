@@ -1,4 +1,4 @@
-Title: Special Flora of Tamriel
+Title: Flora Especial de Tamriel
 Author: Hardin
 IsNaughty: False
 Price: 453
@@ -9,9 +9,9 @@ Content:
 
 [/font=2]
 
-[/center]Special Flora
+[/center]Flora Especial
 
-[/center]of
+[/center]de
 
 [/center]Tamriel
 
@@ -19,71 +19,73 @@ Content:
 
 [/font=4]
 
+ Las amapolas, tanto negras como blancas, pueden encontrarse
+creciendo silvestres en las montañas de Páramo del Martillo.
+Sus suculentas vainas son a menudo el único alimento de los
+aventureros que se encuentran en la naturaleza sin raciones.
+Se dice que las amapolas blancas y negras juntas tienen
+propiedades mágicas. Cuando se machacan y se mezclan con la
+leche de la ágil cabra montesa, se puede elaborar una poción
+que permite al usuario planear con seguridad sobre el suelo.
 
+ El Helecho de Fuego, una hierba perenne, nativa de Morrowind.
+Las flores son discretas y a menudo están ocultas. El follaje
+perenne y brillante y las flores son resistentes a las
+condiciones de calor intenso y luz brillante. Un pétalo de
+esta planta colocado bajo la lengua de un aventurero le
+proporcionará protección contra el calor y el fuego que se
+encuentran en los pozos de lava y arroyos alrededor de
+Dagoth-Ur. Lengua de Dragón, nombre común de una hierba similar
+al helecho que se encuentra en la Ciénaga Negra. Es
+especialmente prolífica en la zona del Pantano de Utherus. Es
+una hermosa flor silvestre. Su nombre proviene de las frondas
+rojo fuego que protegen su flor dorada. A pesar de su belleza,
+es un veneno mortal para la mayoría de los seres vivos y los
+aventureros deben evitarla. Se dice, sin embargo, que los
+argonianos pueden recoger la planta y usar la savia derivada
+de sus raíces como una mejora para su resistencia.
 
-[/center] Poppies, both black and white, can be found growing wild in
-the mountains of Hammerfell. Their succulent pods are often
-the only nourishment of adventurers who find themselves in
-the wilderness without rations. It is said that the black and
-white poppies together have magical properties. When they
-are crushed and mixed with the milk of the agile footed
-mountain goat, a potion that allows the user to glide
-safely above the ground can be made.
+ La Redwort de Domica es una hierba cultivada por muchos
+residentes de Bosque Valen por sus hermosas y vistosas flores.
+Alcanzan una altura de unos tres pies y tienen hojas plumosas;
+las flores suelen ser de color rojo brillante. Además de su
+belleza, se dice que tienen habilidades mágicas para mejorar la
+apariencia de cualquiera que lleve o use una de las flores.
 
- Fire Fern, a perennial herb, native to Morrowind. The
-flowers are inconspicuous and often hidden. The glossy,
-evergreen foliage and flowers are resistant to the
-conditions of high heat and bright light. A petal from this
-plant placed under an adventurer's tongue will provide
-protection from the heat and fire found in the lava pits and
-streams found around Dagoth-Ur.      Dragon's-Tongue, common
-name for a fern like herb found in Black Marsh. It is
-especially prolific around  the area of Utherus Swamp. It is
-a beautiful wildflower. Its name comes from the fire red
-fronds that protect its golden flower. As pretty as it is,
-it is a deadly poison to most living beings and needs to be
-avoided by adventurers. It is said, however, that Argonians
-can pick the plant and use the sap derived from its roots as
-an enhancement to their endurance. 
+ Nuez de Madera de Hierro: esta rara nuez proviene de los
+árboles de Madera de Hierro que crecen en lo profundo de los
+bosques de Skyrim. La madera de estos árboles es tan dura como
+el metal por el que llevan su nombre. Se dice que el rarísimo
+árbol de madera de hierro negra produce una nuez que es muy
+suculenta y se cree que aumenta la fuerza del aventurero que
+sea capaz de romper su cáscara.
 
- Domica Redwort is a herb grown by many residents of
-Valenwood for their beautiful and showy flowers. They
-attain a height of about three feet and have feathery leaves;
-the flowers are usually bright red. In addition to their
-beauty, they are said to have magical abilities to enhance
-the appearance of anyone who carries or wears one of the
-flowers.
+ Las hojas de Ginkgo que se encuentran a lo largo de las riberas
+de los ríos y lagos en Páramo del Martillo son muy discretas,
+solo su peculiar forma de media luna las hace notables. Es muy
+dulce y sabrosa. La leyenda dice que cuando se mezcla
+adecuadamente con la pulpa de la planta de Aloe, la poción
+tiene la capacidad de aumentar el aguante de uno por un corto
+tiempo.
 
- Ironwood Nut, this rare nut comes from the Ironwood trees
-which grow deep in the forests of Skyrim. The  wood from these
-trees is as hard as the metal for which they are named. The
-very rare black ironwood tree is said to produce a nut which
-is very succulent and is believed to enhance the strength of
-the adventurer who is able to crack its shell.
+ El Helecho Somnalius se puede encontrar en los pantanos de la
+Ciénaga Negra. Las frondas de esta planta son de color verde
+claro y bastante delicadas. Recoger una fronda puede ser muy
+difícil, pero una vez recuperada puede usarse para dormir a un
+enemigo por un corto tiempo pasándola bajo su nariz.
 
- The Ginko leaves which are found along the banks of rivers and
-lakes in Hammerfell are most inconspicuous, only its
-peculiar halfmoon shape makes it noticeable. It is very sweet
-and tasty. Legend has it that when mixed properly with the
-pulp of the Aloe plant, the potion has the ability to
-increase one's stamina for a short while.
+ La Arruz es un tubérculo grueso y gomoso que se puede encontrar
+en la Provincia de Bosque Valen. La planta es muy difícil de
+encontrar ya que su follaje sobre el suelo es muy escaso y
+raquítico. Pero la Arruz en sí misma puede ser muy beneficiosa
+para el recolector ya que tiene propiedades mágicas. La pasta
+hecha al moler la raíz es muy sabrosa y puede mejorar la
+precisión del usuario con el arco y la flecha.
 
- The Somnalius Fern can be found in the swamps of Black
-Marsh. The fronds from this plant are light green and quite delicate.
-Picking a frond can be very difficult, but once retrieved it
-can be used to put an enemy to sleep for a short while by
-passing it under his nose.
+ La Belladona tiene fama de ser una hierba muy venenosa. Sin
+embargo, la variedad que se encuentra en muchas partes de
+Elsweyr es apreciada por los Khajiitas que han seguido el
+camino profesional del robo. Muchos Khajiitas guardan un trozo
+de Belladona dentro de su armadura para aumentar sus
+habilidades para acechar, esconderse y volverse invisibles.
 
- Arrowroot is a thick, rubbery tuber that can be found in the
-Province of Valenwood. The plant is very difficult to
-find as its above ground foliage is very meager and
-scrawny. But the Arrowroot itself can be most beneficial to
-the gatherer as it has magical properties. The paste made
-from grinding the root is very tasty and can improve the
-user's accuracy with a bow and arrow.
-
- Nightshade is reputed to be a very poisonous herb. However
-the variety found in many parts of Elsweyr is cherished by
-Khajiits who have followed the career path of thievery. Many
-Khajiits will tuck a piece of Nightshade inside their armor to
-increase their abilities to skulk, hide and become invisible. 

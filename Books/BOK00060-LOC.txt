@@ -1,81 +1,66 @@
-Title: Biography of Queen Barenziah, Vol. II
+Title: Biografía de la Reina Barenziah, Vol. II
 Author: Stem Gamboge
 IsNaughty: False
 Price: 406
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]Biography of
+[/center]Biografía de la
 
-[/center]Queen Barenziah,
+[/center]Reina Barenziah,
 
 [/center]Vol. II
 
-
-
 [/font=4]
 
+[/center] El primer volumen de esta serie relató la historia del origen
+de Barenziah, heredera al trono de Mournhold hasta que su padre el rey se
+rebeló contra Su Excelencia Tiber Septim y trajo la ruina a la provincia
+de Morrowind. Debido a la benevolencia del Emperador, la niña Barenziah
+no fue eliminada junto a sus padres, sino criada por el Barón Sven de
+Blackmoor. Creció hermosa, piadosa y confiada bajo su cuidado. Esta
+confianza fue explotada por un malvado mozo de cuadras huérfano en las
+tierras del Barón Sven, quien con mentiras la engañó para que huyera de
+Blackmoor con él. Tras muchas aventuras en el camino, se establecieron en
+Riften, una ciudad de Skyrim en la frontera con Morrowind.
 
+El mozo de cuadras Straw no era del todo malvado. Amaba a Barenziah a su
+manera egoísta, y la mentira era la única forma en que se le ocurrió que
+podría tenerla. Ella, por supuesto, sentía solo amistad por él, pero él
+tenía la esperanza de que ella cambiara de opinión. Quería comprar una
+pequeña granja y establecerse en matrimonio, pero sus ganancias apenas
+eran suficientes para alimentarlos y darles cobijo.
 
-[/center]     The first volume of this series told the story of
-Barenziah's origin, heiress of the throne of Mournhold until
-her father king rebelled against His Excellency Tiber Septim
-and brought ruin to the province of Morrowind. Due to the
-benevolence of the Emperor, the child Barenziah was not
-destroyed with her parents, but reared by the Baron Sven of
-Blackmoor. She grew beautiful, pious, and trusting in his
-care. This trust was exploited by a wicked orphan stable boy
-at Baron Sven's estate, who with lies, tricked her into
-fleeing Blackmoor with him. After many adventures on the
-road, they settled in Rifton, a Skyrim city on the border of
-Morrowind.
+Tras poco tiempo en Riften, Straw se juntó con un audaz villano, un ladrón
+khajiita llamado Therris, quien propuso robar la casa del comandante
+Imperial. Therris dijo que tenía un cliente, un traidor al Imperio, que
+pagaría bien por la información que encontrarían allí. Barenziah alcanzó
+a escuchar este plan y quedó horrorizada. Salió a hurtadillas de sus
+habitaciones y caminó por las calles de Riften en la desesperación,
+debatida entre la lealtad al Imperio y a su amigo.
 
-     The stable boy Straw was not altogether evil. He did love
-Barenziah in his own selfish fashion, and the lie was the only
-way he could think of that he might have her. She, of course,
-felt only friendship for him, but he was hopeful that she
-would change her mind. He wanted to buy a small farm and
-settle down in marriage, but his earnings were barely enough
-to feed and shelter them.
+Al final, la lealtad al Imperio prevaleció sobre la amistad personal, y
+se acercó a la casa del comandante, reveló su verdadera identidad y le
+advirtió del plan de sus amigos. El comandante escuchó su relato, alabó
+su valor y le aseguró que no le pasaría nada malo.
 
-     After only a short time in Rifton, Straw fell in with a
-bold villian of a Khajiit thief named Therris, who proposed
-that they rob the Imperial commandant's house. Therris said
-that he had a client, a traitor to the Empire, who would pay
-well for the information they would find there. Barenziah
-happened to overhear this plan and was appalled. She stole
-from their rooms and walked the streets of Rifton in
-desperation, torn between loyalty to the Empire and to her
-friend.
+El general Symmachus, que había estado peinando el campo en su búsqueda
+desde su desaparición, acababa de llegar a Riften, persiguiéndola de
+cerca. La tomó bajo su custodia y le informó que, lejos de ser vendida,
+debía ser instaurada como Reina de Mournhold tan pronto como cumpliera
+dieciocho años. Hasta ese momento, debía vivir con la familia Imperial
+en la nueva Ciudad Imperial, donde aprendería algo del gobierno Imperial
+y conocería a personas de importancia.
 
-     In the end, loyalty to the Empire prevailed over
-personal friendship, and she approached the commandant's
-house, revealed her true identity and warned him of her
-friends' plan. The commandant listened to her tale, praised
-her courage and assured her that no harm would come to her.
+Y así sucedió. En la Ciudad Imperial, Barenziah se convirtió en gran
+amiga de Tiber Septim durante los últimos años de su reinado; el heredero
+de Tiber, Pelagius, también llegó a amarla como a una hermana. Las baladas
+de la época alababan su belleza, castidad, ingenio y aprendizaje. En su
+decimoctavo cumpleaños, toda la Ciudad Imperial salió a ver su procesión
+de regreso a Mournhold. A pesar de la tristeza por su partida, todos
+sabían que estaba lista para ser la gloriosa soberana del nuevo reino de
+Mournhold.
 
-     General Symmachus had been scouring the countryside in
-search of her since her disappearance had just arrived in
-Rifton, hot in pursuit. He took her into his custody, and
-informed her that, far from being sold, she was to be
-instated as Queen of Mournhold as soon as she turned
-eighteen. Until that time, she was to live with the Imperial
-family in the new Imperial City, where she would learn
-something of Imperial government and make the acquaintance
-of people of importance.
-
-     And so it came to pass. In the Imperial City, Barenziah
-became great friends with Tiber Septim during the last years
-of his reign; Tiber's heir Pelagius also came to love her as a
-sister. The ballads of the day praised her beauty, chastity,
-wit, and learning. On her eighteenth birthday, the entire
-Imperial City turned out to watch her procession back to
-Mournhold. Sorrowful as they were at her departure, all
-knew that she was ready to be the glorious sovereign of the
-new kingdom of Mournhold.
-
- 

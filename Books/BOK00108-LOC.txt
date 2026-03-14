@@ -1,481 +1,388 @@
-Title: King Edward, Part IX
-Author: Anonymous
+Title: El Rey Edward, Parte IX
+Author: Anónimo
 IsNaughty: False
 Price: 300
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]King Edward, Chapter IX
-
-
+[/center]El Rey Edward, Capítulo IX
 
 [/font=4]
 
+[/center]El Rey Edward, Capítulo IX:
+
+[/center]Suerte
+
+[/center] Edward se arrodilló detrás de Moraelyn, inclinándose sobre su hombro para poder ver las cartas
+que el elfo sostenía. Estaba sentado lejos del fuego, así que estaba oscuro
+para los ojos humanos, pero Moraelyn era el único del grupo
+que permitía a Edward ver su mano. Los otros jugadores,
+Beech, Mith y Mats, decían que Edward les traía mala suerte.
+Moraelyn decía que no era realmente una cuestión de suerte, sino que sus manos se reflejaban en el rostro de Edward para
+aquellos que tenían ojos para ver tales imágenes. Estaba demasiado oscuro para que
+Beech y Mats vieran a Edward ahora, y Moraelyn lo ocultaba
+de la vista de Mith. Y aun así, la pila de monedas frente a
+Moraelyn se había vuelto más pequeña desde que Edward se había colocado
+detrás de él. Pero esta vez le habían repartido una buena mano.
+Edward podía ver eso. Era el turno de Mats. Estaba cavilando.
+
+"Estás tiritando, hijo", dijo Moraelyn, "¿No tienes
+ropa más abrigada? Debemos encontrar algo para ti. Ven,
+comparte mi capa, entonces. Puedes sostener las cartas si quieres".
+El viento era gélido; tenía un mordisco ahora que estaban
+más al norte y el año había envejecido. Edward aceptó
+el refugio del brazo de Moraelyn y su cálida capa de piel y se sentó
+cerca de su costado.
+
+"Creo que jugaré las cartas que tengo", dijo Mats al fin,
+y empujó una pila de monedas al pozo, luego, con súbita
+resolución, añadió unas cuantas más. "Ahí está".
+
+"Tira la mano, Edward, hemos terminado".
+
+"¡Pero no hay muchas manos mejores que la que tenemos!"
+protestó Edward.
+
+"¡Edward!" gruñó Moraelyn.
+
+"Bueno, ¿cómo se supone que voy a aprender?" Mats no tenía que mostrar
+sus cartas a menos que igualaran su apuesta.
+
+"Observando. En silencio. Oh, muy bien. Nadie me dijo
+nunca que la paternidad salía barata". Empujó la mayoría de sus monedas
+al pozo para igualar la apuesta de Mats y Edward bajó la mano.
+
+"Ah", dijo Mats, "no hace falta que hagas eso, amigo mío. Le mostraré
+al chico mis cartas gratis".
+
+"Nórdico asqueroso", dijo Moraelyn con disgusto, "baja
+tus cartas y llévate mi oro, si puedes vencer a mi mano. Veamos
+si soy yo quien necesita educación sobre cómo jugar a este
+juego".
+
+"No la necesitas", sonrió Mats. "Excepto que podrías haber
+aceptado mi generosa oferta en lugar de lanzarme un insulto". Mats mostró la mano perfecta llamada Las Damas.
+
+"Un desplante como ese merece un insulto. Mats, esa mano
+casi vale el precio de la entrada. ¡Cinco hermosas Damas! No
+se las ve juntas todos los días; no son tan aficionadas a la compañía de las otras".
+
+"¿Cómo lo supiste?" exigió Edward.
+
+"Ah, eso sería contarlo", sonrió Moraelyn. "Hay cosas que se supone que debes aprender por
+ti mismo. Eso es parte del juego. Pero recuerda que una buena
+mano no vale nada si otro tiene una mejor".
+
+"Lo siento". Edward miró con pesar las pocas monedas restantes.
+
+"No importa. Es una tontería jugar con Mats en esas noches
+en que el mismo Dios de la Suerte está a su hombro y todo lo que yo
+tengo al mío es un príncipe bretón fugitivo que debería estar en su
+cama. Me habría quitado ese dinero al final igualmente. De esta forma
+dormiremos un poco".
+
+"Aguafiestas", se quejó Mats. "No todas las noches me visita Sai
+y disfruto de su presencia".
+
+"Puede irse tan rápido como viene. Sai no es alguien del que
+quieras encariñarte demasiado, Mats".
+
+"¿Quién debería saber eso mejor que yo? No, no te disculpes.
+Aprecio tu preocupación por mí, amigo mío. No es
+del todo injustificada, pero soy consciente de la tentación.
+Sé lo poco fiable que es el favor de Sai, y lo caprichoso.
+Solo juego entre mis amigos, en quienes confío".
+
+"Buenas noches, entonces". Moraelyn y Mith se fueron a reunir con los que ya estaban
+dormidos, dejando a Mats, Beech y Edward junto al fuego. El
+patrón de sueño natural de los elfos oscuros era un periodo de cinco o seis horas durante el día, y una breve siesta de dos
+o tres horas después de la medianoche. Ahora que estaban viajando, dormían solo por la noche,
+lo cual era un ajuste difícil para Mith y Moraelyn,
+quienes tenían que usar hechizos para sobrellevarlo. Edward había dormido un
+poco en cuanto se detuvieron por la noche, mientras los otros
+preparaban la cena. En consecuencia, ahora estaba bien despierto. Beech estaba bostezando. Mats parecía requerir menos sueño que el resto.
+
+"Háblame de Sai, Mats. Nunca he oído hablar de él. No
+sabía que hubiera un dios de la suerte. Pensaba que la suerte solo
+ocurría".
+
+"Siendo bretón, puedo entenderlo. A los bretones os gustan las cosas explicadas, claras y
+razonables, en secuencia, para que una cosa siga a la otra
+y sepáis dónde estáis. La mayoría de los dioses son así. Establecen reglas y
+si las obedeces y rindes homenaje al dios, entonces él o ella te concede su favor. Y cuanto mejor
+cumplas las reglas y más adores al dios, más alto
+subes en su favor. Esas reglas no siempre son fáciles de cumplir,
+y las reglas de un dios pueden exigirte violar las de otro,
+pero sabes a qué atenerte. Bueno, Sai no es así. No
+es un daedra, pero tiene un lado daédrico, por seguro. Una cosa: si lo adoras
+demasiado, te abandonará por completo. Lo llaman 'La Aflicción de Sai'. Es un deseo abrumador por la presencia
+constante del dios. Mi padre la sufrió, pobre hombre.
+La enfermedad es más que solo un deseo por la presencia del dios.
+Los que la sufren requieren pruebas continuas del favor del dios. Así que
+apuestan incesantemente. No para ganar, pues todo lo que hacen con
+las ganancias es seguir apostando hasta que pierden. Luego hacen
+lo que deben para conseguir una apuesta y poder jugar de nuevo.
+
+"Oh, es algo terrible. Terrible. Mi padre me vendió como esclavo por
+causa de ello. Más tarde vendió a mi hermana mayor. Luego, cuando estaba en
+deuda una vez más, se suicidó en uno de sus raros momentos de lucidez cuando pudo ver lo que le estaba pasando. Lo que le estaba haciendo a su familia y a sí mismo. Por supuesto, yo
+era solo un niño cuando me vendieron. No lo entendía.
+Pensaba que era por alguna culpa mía que me habían mandado fuera, pereza o estupidez o desobediencia, y que si tan solo hubiera sido un mejor hijo no habría pasado. Así es el camino de Auriel. Se pretende
+que los niños respeten a sus padres y aprendan de
+ellos, pero algunos padres no merecen respeto. Bueno,
+era una enfermedad en él, según dice mi madre. No sé si se le
+deba culpar por ello, no más que si tuviera la plaga roja o la lepra. La creo, pero a veces sigo
+sintiendo que fue culpa mía. Bueno, eso fue mala suerte, podrías
+decir. Pero Sai me envió a Moraelyn y ese fue un día afortunado
+sin duda.
+
+"¿Qué otro dios le pondría en la cabeza detener a un humano
+que está golpeando a otro? Cualquier otro elfo en Tamriel se
+habría dado la vuelta con disgusto o se habría detenido a mirar y reírse
+de los estúpidos humanos. Dos niños elfos oscuros contra cuatro
+Nórdicos adultos, y por lo que ellos sabían yo merecía lo que recibía.
+Podría haber sido un ladrón o un asesino. Supongo que era un ladrón. Me había robado a mí mismo, por
+así decirlo".
+
+"Moraelyn no sabe explicar por qué lo hizo. Dice que tenía
+ganas de pelea ese día y ver cazadores de esclavos en
+suelo de Morrowind no ayudó a calmar su temperamento. Por eso
+digo: fue Sai. Pero fue Moraelyn quien escuchó al
+dios.
+
+"No hay duda de que es algo grandioso sentir la mano de Sai en tu
+hombro. Es como montar el mejor caballo, como el amor mismo.
+Eres uno con el mundo, y todo sale a tu manera,
+todo está de tu lado, en lugar de ser la lucha constante que la vida es en realidad. No tienes que ser
+inteligente o guapo o amable o ingenioso. Las cosas simplemente salen a tu
+manera. Si haces algo estúpido no importa. Resultará
+ser lo correcto. Suertudo. Algunas personas parecen nacer con suerte, otras sin ella. No sé
+por qué. Casi todo el mundo siente la presencia de Sai a veces, supongo.
+Tú la has sentido, ¿verdad?"
+
+Edward negó con la cabeza. No tenía idea de qué estaba hablando
+Mats.
+
+"Bueno, es un tipo de codicia, supongo, esta Aflicción de Sai.
+Verás, solo hay una cantidad limitada de suerte para repartir, y si unas
+pocas personas se la llevaran toda, no quedaría nada para el resto. Como
+esta noche, yo gané ese último pozo, pero los otros tuvieron que perderlo.
+No todos pueden ganar con Sai. Eso no pasa con otros dioses,
+no necesariamente. Sigues sin entenderlo, ¿verdad?
+¿Te gustaría oír una historia sobre Sai?"
+
+Edward asintió. Mats era un tipo de buen carácter, pero
+usualmente muy callado. Edward lo había creído algo estúpido.
+La suerte de Mats con las cartas parecía haberle soltado la lengua, y ahora Edward veía que pensaba mucho más de lo que hablaba.
+
+Hace mucho, mucho tiempo, cuando la gente era menos y los lobos más
+numerosos que ahora, una joven viuda llamada Josea vivía justo en
+el medio de lo que ahora es la provincia de Skyrim. Era una mujer común, ni fea ni
+bonita. Tenía cabello castaño suave, ojos marrones cálidos, una nariz corta, un rostro redondo y lleno, y un cuerpo a juego. Había
+nacido como hija única de granjeros campesinos. Sus padres habían muerto por tifoidea cuando ella tenía diecisiete años. Poco después se había
+casado con Tom, un joven leñador fuerte con una disposición alegre
+y un ojo inquieto. La dejó embarazada
+rápido, luego dirigió su atención a otra parte. Poco
+antes de que el bebé naciera, fue asesinado por el orfebre local que había vuelto a casa inesperadamente, encontró al apuesto
+leñador en la cama con su esposa, y le clavó un cuchillo en la espalda.
+
+La muerte de Tom ocurrió el Día del Corazón. El bebé, un niño,
+nació cuatro meses después, durante el Mitad de Año. Dos vecinas vinieron a ayudarla a dar a luz y una se quedó unos días. Después de eso, se quedó sola para lidiar con el cuidado del niño y de su
+pequeña propiedad lo mejor que pudo.
+
+Una tarde del siguiente Estrella de la Mañana, Josea salió al
+pequeño establo para hacer las tareas nocturnas, dejando al bebé
+dormido en su cuna. El viento aullaba. Tuvo que apretarse
+la capa con fuerza. Ordeñó y alimentó a la vaca, alimentó a los
+cerdos y a las gallinas. Cuando salió del establo se encontró con
+una feroz ventisca. El viento había subido tanto que la puerta del establo
+fue arrancada de su mano y golpeó contra el
+costado del establo. Ni siquiera podía ver la casa, que estaba
+cerca del camino, a poca distancia del establo, pero
+se dirigió hacia ella con confianza.
+
+Había vivido allí toda su vida y conocía cada palmo de terreno,
+aunque nunca había visto una tormenta tan feroz y
+repentina. Ya había cinco centímetros de nieve bajo sus
+pies. Luchó contra el viento durante un tiempo, hasta que al
+fin se dio cuenta de que de algún modo debía haber pasado de largo la casa. Dio media vuelta e intentó seguir sus propias huellas,
+razonando que al menos se calentaría en el establo antes de
+salir de nuevo. Pero la nieve caía tan densamente que
+sus huellas desaparecían ante sus ojos, y estaba perdida y muerta de frío.
+
+Josea siguió luchando, esperando encontrar algo
+reconocible, una roca o un árbol o el camino, si no la casa
+o el establo. Sus manos y pies estaban mojados y entumecidos. No se había vestido con ropa pesada y ahora estaba helada hasta los huesos, con hielo
+formándose en sus cejas y pestañas.
+
+"¡Timmy! ¡Tiimmmeee!" Gritó el nombre de su hijo, esperando
+contra toda esperanza que el bebé se despertara y llorara y que ella
+pudiera seguir el sonido hasta él. Se detuvo a escuchar, jadeando el aire frío en sus pulmones, pero solo se oía el
+aullido del viento. ¿El viento, o algo más? Una forma
+gris tomó forma frente a ella, mirándola con ojos amarillos
+rasgados. Un gran lobo gris.
+
+Su corazón pareció detenerse. Sus ojos se llenaron de lágrimas al
+pensar en su hijo indefenso solo en la casa, y
+su madre muerta afuera. ¡Qué mala suerte, morir tan cerca del
+refugio! Mala suerte. Pero ella siempre había tenido mala suerte, la
+mujer más desafortunada que conocía. Podrían pasar días antes de que a alguien se le ocurriera
+visitarla. Se dejó caer de rodillas, exhausta. El lobo se sentó ante ella, echó la cabeza hacia atrás y emitió su espantoso aullido.
+
+Sus manos congeladas escarbaron en la nieve, buscando una piedra o
+palo, cualquier cosa con la que defenderse de la manada.
+Otra sombra oscura apareció de la blanca nieve que giraba. Retrocedió
+presa del pánico. Esta también era gris, pero alta y
+bípeda, con capa y capucha grises. Su mano enguantada alcanzó la cabeza del lobo y
+la acarició. El grito se le murió en la garganta.
+
+"No hay necesidad de temer, muchacha. No te haremos daño, sino
+todo lo contrario. ¿Eres tú la madre de aquel niño?"
+
+Ella asintió mudamente. Su voz era profunda y amable, clara en el agudo silbido del viento,
+pero sus ojos se dirigieron a su temible compañero.
+
+"No hay necesidad de temer", repitió. "Mi amigo Grellan aquí nos guiará de vuelta a salvo. A menos que de verdad desees pasar la noche aquí". Sus manos alcanzaron las de ella y la levantaron, y ella se apoyó en su brazo y
+caminó con dificultad junto a él.
+
+Cuando por fin llegaron a su puerta, él dijo: "Me detuve aquí
+esperando refugio de la tormenta. ¿Espero que no te importe?"
+
+¿Cómo podía negarse? Los hombres también podían ser lobos, pero si él
+lo fuera, no era probable que aceptara un no por respuesta de todos modos. "P-p-por favor, entre. Dejé la teter-tetera al fuego pero supongo que ya estará vacía", dijo ella tontamente.
+
+"Entré, cuando no hubo respuesta a mi llamada, y
+encontré al bebé dormido y solo, y la tetera hirviendo. Aparté la tetera del fuego, pero dejé al bebé tranquilo.
+Sabía que su madre no estaría lejos, y envié a Grellan a buscarte. Suerte para ti, pero es que yo
+siempre he traído suerte a quienes me rodean".
+
+Se echó atrás la capucha y ella vio que era alto y pálido,
+con cabello y ojos plateados, pero un rostro joven. Su semblante
+era severo, pero los ojos plateados eran amables y su boca gentil.
+"Mi caballo también querrá refugio en esta noche. ¿Tienes un cobertizo
+que ofrecerle?"
+
+Mientras él estabulaba a su caballo, ella se cambió la ropa mojada
+y preparó un poco de cena para ellos: sopa, pan y
+queso, y té de raíz de olmo. Mientras lo servía, se disculpó humildemente por la escasa comida.
+
+"¡Vaya, es un festín comparado con mis esfuerzos!" Él sonrió y empezó a comer con hambre. Grellan yacía junto al fuego, con los ojos fijos en su
+amo, quien ocasionalmente le lanzaba un bocado. "Comió bien
+ayer, por suerte para tus gallinas, de lo contrario habría tenido que comprarte
+una".
+
+"No, no", protestó ella. "Estoy en deuda contigo y
+encantada de compartir cualquier cosa que tenga". El bebé se movió y lloró entonces, y ella lo tomó en brazos, le cambió el pañal mojado
+y lo puso a su pecho.
+
+"¿Dónde está tu marido, señora?"
+
+Ella vaciló un momento -- el pensamiento de que no debía decirle a este extraño lo sola e indefensa que estaba pasó por su mente -- y luego le dijo la verdad.
+
+"Una historia triste, verdaderamente", dijo él, "pero te ha dejado un niño
+hermoso, y pareces estar bastante cómoda aquí". Sus ojos recorrieron la humilde cabaña de una sola habitación, la cuna y la cama de plumas en
+un extremo, cubierta con una colcha hecha por su madre, y
+el hogar de piedra en el otro, mesa y sillas hechas por su padre
+en el centro. Una escalera llevaba al altillo donde ella había dormido de niña. De repente, la habitación sencilla le pareció un palacio. Estaban calientes, secos
+y bien alimentados, y de hecho, ¿qué podría ser mejor?
+
+"Vaya, tienes razón, extraño. Soy afortunada después de todo. Ahora,
+¿me contarás algo de ti?"
+
+"Soy menos afortunado que tú en algunos aspectos. Soy un
+vagabundo, nacido de vagabundos, chatarrero de oficio, aunque
+puedo darme maña con casi cualquier cosa. Nunca me he casado
+ni tengo hijos, ni he tenido nunca otro hogar que
+el carromato de mi caballo. Nunca me he quedado mucho tiempo en un lugar. Mis padres me llamaron Sai,
+pero la mayoría de la gente me llama Lucky (Suertudo)".
+
+"Lucky es como te llamaré entonces, pues de hecho has
+sido una suerte para mí".
+
+Se levantó y se estiró, y comenzó a limpiar los restos de
+su comida de la mesa. Vertió agua de la tetera de cobre
+en el cuenco y lavó y secó los platos, algo que ella nunca había visto hacer a un hombre.
+Después de alimentar al bebé, jugaron con él en la alfombra frente al fuego
+mientras él le contaba sobre algunos de los lugares y pueblos extraños y maravillosos
+que había conocido en sus viajes, y una vez más
+su vida le pareció muy estrecha y aburrida. Después de una hora o dos,
+el bebé se cansó y se puso caprichoso, y ella lo tomó en su regazo y
+le cantó hasta que se durmió. Lo acostó en su cuna y lo envolvió cálidamente en una manta de piel de conejo.
+
+Cuando volvió al fuego, Lucky tomó su mano y la
+sostuvo por un momento, sin decir palabra, luego estuvieron en los
+brazos del otro besándose con ansia. Se quitaron la ropa y se acostaron juntos sin vergüenza, disfrutando de sus cuerpos
+bajo la parpadeante y rosada luz del fuego. Él amaba la redondez de
+sus pechos y muslos, vientre y glúteos, y dijo que era
+tan jugosa como una manzana. Su cuerpo blanco, delgado y musculoso y
+su cabello sedoso la fascinaban a ella por igual. Había amado a Tom y conocido momentos agradables con él, pero nada como lo que sentía con este
+extraño.
+
+Se despertó en la cama por la mañana, con el llanto del bebé como
+de costumbre. Lucky no estaba allí y pensó que debía haber sido un
+sueño vívido. Entonces la puerta se abrió y cerró, y él caminaba hacia ella, completamente vestido, haciéndole señas para que se quedara
+donde estaba. Besó sus labios, luego le trajo al bebé y se quedó mirando mientras mamaba. "Qué lástima que no
+recordemos el placer que una vez conocimos".
+
+"Sin embargo, todavía tenemos placeres que recordaremos", dijo ella, y sintió que sus mejillas se enrojecían por su audacia. ¡Qué mujerzuela debía pensar él que era!
+
+"En efecto", dijo él, y puso su mano fría contra la mejilla caliente de ella.
+
+La tormenta se había detenido durante la noche, pero la nieve era
+profunda en el camino, y estaba claro que pasarían días
+antes de que el caballo pudiera tirar del pequeño carromato de Lucky por el
+camino. Ese carromato estaba pintado brillantemente con hojas, vides
+y flores en rojo, azul, verde y amarillo. Las
+ruedas eran rojas con radios amarillos. Tenía una lona en la parte superior,
+también pintada, azul con nubes blancas y esponjosas. Josea amaba el
+carromato, pero desentonaba extrañamente con la tranquila grisura de Lucky.
+
+Lucky hacía pequeños trabajos para ella, arreglando herramientas, bisagras y
+utensilios. Cortó más leña para ella, diciendo que si no la necesitaba
+este año, habría otro. Se quedó una semana y llegó un deshielo
+y luego una helada, y el camino estaba lleno de surcos pero apto para
+viajar. Se miraron a la luz de la mañana, y
+él dijo que no haría daño quedarse otro día, o tal vez
+dos... si ella no estaba cansada de él todavía. No lo estaba.
+
+Después de otra semana, Lucky le preguntó si se iría con él. Su corazón dio un salto ante la pregunta, pero miró alrededor de la
+casita donde había pasado toda su vida, pensó en su
+tierra y su pueblo y su bebé, y dijo: "No puedo irme. No tengo
+deseo de viajar, y no quiero criar a mi hijo
+como un vagabundo sin hogar".
+
+El dolor cruzó el pálido rostro de Lucky, pero él solo asintió,
+enganchó su caballo y se despidió de ella con un beso. Las lágrimas nublaron sus ojos y borraron los alegres colores del carromato.
+
+El Amanecer del Sol pasó muy lentamente, con lluvia, aguanieve y
+nieve, pero nada como la tormenta que le había traído a Lucky. De vez en cuando alguien llamaba a su puerta, lo que hacía que
+su corazón latiera con fuerza, pero siempre era solo un aldeano que
+venía a comprar las hierbas secas que ella vendía. Entonces, en la primera noche
+de la Primera Semilla, oyó el crujir de un carromato y lo supo.
+Corrió a la puerta con el rostro iluminado y se lanzó a sus
+brazos.
+
+"No puedo quedarme", dijo él. "Solo estoy de paso --" y
+eso fue todo lo que hablaron durante un buen rato.
+
+Llegó la primavera y los azafranes asomaron la nariz a través de la
+nieve. Lucky cavó su jardín. Vecinos curiosos vinieron a
+visitarla, pero no descubrieron nada más sobre él de lo que ella sabía. Les vendía
+huevos -- sus gallinas ponían muy bien -- hierbas secas y un elixir que hacía con la receta de su abuela,
+que era soberano para el dolor de cabeza y el reumatismo. Contrataron
+a Lucky para trabajos eventuales, a pesar de la sospecha que les inspiraba.
+
+Lucky continuó yendo y viniendo, sin decir nunca a dónde o cuándo
+volvería, pero rara vez se ausentaba más de unos pocos días.
+No decía palabras de amor, pero la amaba ferozmente de todos
+modos. El vientre redondo de Josea se hizo más redondo, y ella destetó
+a Timmy con leche de vaca. Los viajes de Lucky se hicieron más cortos y menos
+frecuentes. En todas partes la tierra prosperaba. Incluso los más viejos
+no recordaban una cosecha mejor. En el Fuego del Hogar Josea
+dio a luz a una hermosa niña con cabello plateado, pero ojos de
+un azul aciano. Lucky sostuvo a su hija y la alegría radiaba de
+él, de tal modo que parecía arder con un fuego blanco.
 
-
-[/center]King Edward, Chapter IX:
-
-[/center]Luck 
-
-
-
-[/center] Edward knelt behind Moraelyn, leaning over his shoulder so that he could see the cards
-the elf held. He was sitting away from the fire, so it was dark
-for human eyes, but Moraelyn was the only one of the group
-who would allow Edward to see his hand. The other players,
-Beech, Mith and Mats said Edward brought them bad luck.
-Moraelyn said that it was not really a question of luck, but that their hands were reflected in Edward's face for
-those that had the eyes to see such images. It was too dark for
-Beech and Mats to see Edward now, and Moraelyn blocked him
-from Mith's view. And yet, the pile of coins in front of
-Moraelyn had grown smaller since Edward had taken a place
-behind him. But this time he had been dealt a good hand.
-Edward could see that. It was Mats' turn. He was cogitating.
-
- "You're shivering, son," Moraelyn said, "Have you no
-warmer clothing? We must find something for you. Here, come
-share my cloak, then. You can hold the cards if you like."
-The wind was chill; there was a bite to it now that they were
-farther north and the year had grown older. Edward accepted
-the shelter of Moraelyn's arm and warm fur cloak and sat
-close against his side.
-
- "I think I'll just play the cards I hold," Mats said at last,
-and pushed a pile of coins into the pot, then with sudden
-resolve, added a few more. "There."
-
- "Throw the hand down, Edward, we're through."
-
- "But there aren't many better hands than what we've got!"
-Edward protested.
-
- "Edward!" Moraelyn growled. 
-
- "Well, how'm I s'posed to learn?" Mats didn't have to show
-his cards unless they matched his bet.
-
- "By watching. Silently. Oh, very well. No one ever told
-me that fatherhood came cheaply." He shoved most of his coins
-into the pot to match Mats' bet and Edward laid the hand
-down. 
-
- "Ah," Mats said, "you needn't do that, my friend. I'll show 
-the boy my cards for
-free."
-
- "You filthy Nord," Moraelyn said in disgust, "put down
-your cards and take my gold, if you can beat my hand. Let's
-see if I'm the one who needs educating on how to play this
-game."
-
- "You don't," Mats grinned. "Except that you could have
-accepted my generous offer instead of throwing an insult at
-me." Mats laid down the perfect hand called The Ladies.
-
- "A taunt like that rates an insult. Mats, that hand is
-almost worth the viewing price. Five beautiful Ladies! You
-don't see them together every day; they're not that fond of one another's
-company."
-
- "How'd you know?" Edward demanded.
-
- "Ah, that'd be telling," Moraelyn grinned. "Some things you're supposed to learn for
-yourself. That's part of the game. But remember that a good
-he boy my cards for
-free."
-
- "You filthy Nord," Moraelyn said in disgust, "put down
-your cards and take my gold, if you can beat my hand. Let's
-see if I'm the one who needs educating on how to play this
-game."
-
- "You don't," Mats grinned. "Except that you could have
-accepted my generous offer instead of throwing an insult at
-me." Mats laid down the perfect hand called The Ladies.
-
- "A taunt like that rates an insult. Mats, that hand is
-almost worth the viewing price. Five beautiful Ladies! You
-don't see them together every day; they're not that fond of one another's
-company."
-
- "How'd you know?" Edward demanded.
-
- "Ah, that'd be telling," Moraelyn grinned. "Some things you're supposed to learn for
-yourself. That's part of the game. But remember that a good
-hand's worthless if someone else holds a better."
-
- "I'm sorry." Edward looked ruefully at the few remaining coins.
-
- "No matter. It's foolish to play with Mats on those nights
-when the God of Luck himself stands at his shoulder and all I
-have at mine is a runaway Breton prince who should be in his
-bed. He'd have had that money off me i' the end. This way we'll
-get a bit of sleep."
-
- "Spoilsport," Mats grumped. "It's not every night Sai
-visits me and I do enjoy his presence."
-
- "He can leave as quickly as he comes. Sai's not someone you
-want to get overfond of, Mats."
-
- "Who should know that better than I? Nay, do not apologize.
-I appreciate your concern for me, my friend. It's not
-altogether unwarranted, but I am mindful of the temptation.
-I know how undependable Sai's favor is, and how capricious.
-I play only among my friends, whom I do trust."
-
- "Goodnight, then." Moraelyn and Mith went off to join those who were already
-asleep, leaving Mats and Beech and Edward by the fire. The
-dark elves' natural sleep pattern was a period of five or six hours during the day, and a short nap of two
-or three hours after midnight. Now that they were travelling, they were sleeping only at night,
-which was a difficult adjustment for Mith and Moraelyn,
-who had to use spells to cope with it. Edward had slept a
-bit as soon as they had stopped for the night, while the others
-prepared supper. In consequence he was now wide awake. Beech was yawning. Mats seemed to require less sleep than the rest.
-
- "Tell me about Sai, Mats. I've never heard of him before. I
-didn't know there was a god of luck. I thought luck just
-happened."
-
- "Being as you're Breton, I can understand that. Bretons like things explained, clear and
-reasonable, in sequence, so one thing follows from another,
-and you know where you are. Most gods are like that. They lay down rules and
-if you obey them and pay homage to the god, why then he or she grants you favor. And the better you
-keep the rules and the more you worship the god, the higher you
-rise in his favor. Those rules aren't always easy to keep,
-and one god's rules may require you to violate another's
-but you know where you are. Well, Sai's not like that. He's
-not a daedra, but he's got a daedric side to him, for sure. One thing, if you worship him
-too much, he'll abandon you altogether. They call it 'Sai's
-Affliction'. It's an overwhelming desire for the god's
-constant presence. My father suffered from it, poor man.
-The disease is more than just a desire for the god's presence.
-The sufferers require continual proof of the god's favor. So they
-gamble incessantly. Not to win, for all they do with
-winnings is keep on gambling until they lose. Then they do
-what they must to raise a stake so they can gamble again.
-
- "Oh, it's a terrible thing. Terrible. My father sold me as a slave because
-of it. Later he sold my oldest sister. Then, when he was in
-debt yet again, he killed himself in one of his rare lucid mome
-nts when he could see what was happening
-to him. What he was doing to his family, himself. 'Course I
-was just a kid when I was sold. I didn't understand. I
-thought it was because of some fault of mine that I'd been
-sent away, laziness or stupidity or disobedience, and that if I'd only been a better son it wouldn't a happened. That's Auriel's way. It's intended
-that children should respect their parents and learn from
-them, but some parents aren't deserving of respect. Well,
-it was a sickness in him, so my mother says. I don't know that he
-should be blamed for it, any more than if he had red plague or leprosy. I believe her, yet sometimes I still
-feel it was my fault. Well, that was bad luck you might
-say. But Sai sent me Moraelyn and that was a lucky day
-indeed.
-
- "What other god would put it into his head to stop one human
-from beating on another? Any other elf in Tamriel would
-have turned away in disgust or stopped to watch and laugh
-at the stupid humans. Two dark elf kids against four grown
-Nords, and for all they knew I deserved what I was getting. I
-could have been a thief or murderer. I suppose I was a thief. I'd stolen myself, so
-ts when he could see what was happening
-to him. What he was doing to his family, himself. 'Course I
-was just a kid when I was sold. I didn't understand. I
-thought it was because of some fault of mine that I'd been
-sent away, laziness or stupidity or disobedience, and that if I'd only been a better son it wouldn't a happened. That's Auriel's way. It's intended
-that children should respect their parents and learn from
-them, but some parents aren't deserving of respect. Well,
-it was a sickness in him, so my mother says. I don't know that he
-should be blamed for it, any more than if he had red plague or leprosy. I believe her, yet sometimes I still
-feel it was my fault. Well, that was bad luck you might
-say. But Sai sent me Moraelyn and that was a lucky day
-indeed.
-
- "What other god would put it into his head to stop one human
-from beating on another? Any other elf in Tamriel would
-have turned away in disgust or stopped to watch and laugh
-at the stupid humans. Two dark elf kids against four grown
-Nords, and for all they knew I deserved what I was getting. I
-could have been a thief or murderer. I suppose I was a thief. I'd stolen myself, so
-to speak."
-
- "Moraelyn can't say himself why he did it. He says he was
-spoiling for a fight that day and seeing slavecatchers on
-Morrowind soil did nothing to ease his temper. That's why I
-say: it was Sai. But it was Moraelyn that listened to the
-god.
-
- "There's no doubt it's a grand thing to feel Sai's hand on your
-shoulder. It's like riding the finest horse, like love itself.
-You're one with the world, and everything goes your way,
-everything's on your side, instead of being the constant struggle that life really is. You don't have to be
-smart or handsome or kind or witty. Things just go your
-way. If you do something dumb it doesn't matter. It'll turn
-out to be the right thing to have done. Lucky. Some folks do seem to be born lucky, others unlucky. I don't know
-why. Most everyone feels Sai's presence sometimes, I guess.
-You have, haven't you?"
-
- Edward shook his head. He'd no idea what Mats was talking
-about.
-
- "Well, it's a kind of greed, I guess, this Sai's Affliction.
-You see, there's only so much luck to spread around, and if a
-few folks got it all, there'd be none left for the rest. Like
-tonight, I won that last pot, but the others had to lose it.
-Everyone can't win with Sai. That's not true with other gods,
-not necessarily. You still don't understand, do you?
-Would you like to hear a story about Sai?"
-
- Edward nodded. Mats was a good-natured fellow, but
-usually quite silent. Edward had thought him rather stupid.
-Mats' luck at cards seemed to have loosened his tongue, and now Edward saw that he thought a
-lot more than he talked.
-
- *                              *                             *
-
- Long, long ago, when people were fewer and wolves more
-numerous than now a young widow named Josea lived smack in
-the middle of what is now the province of Skyrim. She was an ordinary sort of woman, neither plain nor
-pretty. She had smooth brown hair, warm brown eyes, a short
-nose, a full round face, and body to match. She'd been
-born the only child of peasant farmers. Her parents had been
-carried off by typhoid when she was seventeen. Shortly afterwards she had
-married Tom, a strong young woodcutter with a cheerful
-disposition and a roving eye. He'd gotten her pregnant
-quickly, then turned his attentions elsewhere. Shortly
-before the babe was due he'd been killed by the local
-goldsmith who'd come home unexpectedly, found the handsome
-woodcutter in bed with his wife, and stuck a knife in his back.
-
- Tom's death had occurred on Heart's Day. The babe, a boy,
-was born four months later during Mid Year. Two neighbor
-women came to help her birth him and one stayed a few days. After that she was left to cope with caring for child and
-smallholding as best she could.
-
- One evening in the next Morningstar, Josea went out to the
-small barn to do the evening chores, leaving the babe
-asleep in his crib. The wind was howling. She had to clutch
-her cloak tightly around her. She milked and fed the cow, fed
-the pigs and chickens. When she left the barn she walked out
-into a fierce blizzard. The wind had risen so that the barn
-door was wrenched from her hand and slammed back against the
-side of the barn. She couldn't even see the house, which was
-near the road, and some little distance from the barn, but
-she set off toward it with confidence.
-
- She'd lived here all her life and knew every inch of ground,
-although she'd never seen a storm quite this fierce and
-sudden. Already there were two inches of snow beneath her
-feet. She struggled against the wind for some time, until at
-last she realized that she must somehow have gone past the house. She turned back and tried to follow her own footprints,
-reasoning that at least she'd warm herself in the barn before
-setting out again. But the snow was falling so thickly that
-her footprints vanished before her eyes, and she was quite lost, and cold.
-
- Josea struggled on, hoping to come across something
-recognizable, a boulder or a tree or the road if not house
-or barn. Her hands and feet were wet and numb. She hadn't dressed heavily and was now chilled to the bone, with ice
-forming on her eyebrows and lashes.
-
- "Timmy! Tiimmmeee!" She cried her child's name, hoping
-against hope that the babe would wake and cry and that she
-might follow the sound to him. She stood and listened, gasping the cold air into her lungs, but there was only the
-howling of the wind. The wind, or something more? A grey
-shape took form in front of her, staring at her with slitted
-yellow eyes. A great grey wolf.
-
- Her heart seemed to stop. Her eyes filled with tears as she
-thought of her child lying helpless in the house alone, and
-his mother dead outside. How unlucky, to die so close to
-shelter! Unlucky. But she had always been unlucky, the
-unluckiest woman she knew. It might be days before any thought
-to visit her. She sank down to her knees, exhausted. The wolf sat before her, threw back
-its head and voiced its dreadful howl.
-
- Her frozen hands scrabbled in the snow, looking for stone or
-stick, anything with which to defend herself against the pack.
-Another dark shadow appeared from the whirling white snow. She scrambled backwards
-in a panic. This one was also gray, but tall and
-two-legged, gray cloaked and hooded. Its gloved hand reached for the wolf's head and
-patted it. Her scream died in her throat.
-
- "No need to fear, lass. We'll not bring you harm, nay
-quite otherwise. Be you the mother of yon child?"
-
- She nodded dumbly. His voice was deep and kind, clear in the high whistling of the wind,
-but her eyes went to his dread companion.
-
- "No need to fear," he repeated. "My friend Grellan here will lead us back to safety. Unless
-you indeed do wish to spend the night here." His hands reached
-for hers and pulled her up, and she leaned on his arm and
-hobbled alongside him.
-
- When at last they reached her door, he said, "I stopped here
-hoping for shelter from the storm. I hope you don't mind?"
-
- How could she refuse? Men too could be wolves, but if he
-were it wasn't likely he'd take no for an answer anyway. "P-p-please come
-in. I l-left the k-kettle on the boil but I expect it's empty
-by now," she said inanely.
-
- "I did go in, when there was no response to my knock, and
-found the babe asleep and alone, and the kettle boiling
-away. I took the kettle from the fire, but left the babe be. I
-knew his mother would not be far, and sent Grellan to find you. Lucky for you, but then I have
-always brought luck to those around me."
-
- He threw back his hood and she saw that he was tall and pale,
-with silver hair and eyes, but a young face. His countenance
-was grim, but the silver eyes were kind and his mouth gentle.
-"My horse too will want shelter on this night. Have you a shed
-to offer him?"
-
- While he stabled his horse she changed out of her wet clothing
-and fixed a bit of supper for them: soup and bread and
-cheese, and elmroot tea. As she dished it up she apologized meekly for the meager fare.
-
- "Why, 'tis a feast compared to my efforts!" He smiled, and fell to,
-hungrily. Grellan lay by the fire, his eyes fixed on his
-master, who occasionally flung him a morsel. "He ate well
-yesterday, luckily for your chickens, else I'd have to buy
-one from you."
-
- "Nay, nay," she protested. "I'm deep in your debt and
-glad to share anything I have with you." The babe stirred and cried then, and she picked him up, changed his wet diaper,
-and put him to her breast.
-
- "Where's your husband, lady?"
-
- She hesitated a moment--the thought flashed that she should not tell this stranger how alone and unprotected she
-was--then told him the truth.
-
- "A sad tale, truly," he said, "but he's left you a handsome
-child, and you seem quite comfortable here." His eyes went
-round the humble one room cottage, crib and feather bed at
-one end, covered with a quilt of her mother's making, and
-stone hearth at the other, table and chairs made by her father
-in the middle. A ladder led to the loft where she'd slept as a child. Suddenly the simple room seemed a palace to her. They were warm and dry
-and well fed, and indeed what could be better?
-
- "Why, you're right, stranger. I am lucky after all. Now,
-will you tell me something of yourself?"
-
- "I am less fortunate than you in some ways. I am a
-wanderer, and born to wanderers, a tinker by trade, though I
-can turn my hand to most things. I have never been married
-and have no children, nor have I ever had a home other than
-the wagon my horse pulls. I've never stayed long in one place. My parents named me Sai,
-but most folks call me Lucky."
-
- "Lucky is what I will call you then, for you have indeed
-been lucky for me."
-
- He stood and stretched, and began clearing the remnants of
-their meal from the table. He poured water from the copper
-kettle into the basin and washed and dried the dishes, something she had never seen a man do before.
-After the babe was fed they played with him on the hearthrug
-while he told her of some of the odd and wonderful places
-and peoples he had met with on his journeys, and once again
-her life seemed very narrow and dull. After an hour or two
-the babe grew tired and cranky, and she took him on her lap and
-sang to him until he fell asleep. She laid him in his crib and wrapped him warmly in a rabbit
-fur bunting.
-
- When she went back to the fire, Lucky reached for her hand and
-held it for a moment, without a word, then they were in one
-another's arms and kissing hungrily. They shed their clothing and lay together shamelessly, enjoying each others bodies
-in the flickering rosy firelight. He loved the roundness of
-her breasts and thighs, belly and buttocks, and said she was
-as juicy as an apple. His bleached lean muscular body and
-silken hair fascinated her as much. She had loved Tom and known pleasant
-moments with him, but nothing like she felt with this
-stranger. 
-
- She woke in bed in the morning, to the baby's crying as
-usual. Lucky wasn't there and she thought he must have been a
-vivid dream. Then the door opened and shut, and he was striding toward her, fully dressed, and motioning her to stay
-where she was. He kissed her lips, then brought the babe to her and stood watching as he suckled. "What a pity that we
-remember not the pleasure we once knew."
-
- "Yet we have pleasures still that we will remember," she said, and felt her cheeks redden at her boldness. What a wanton he must think her!
-
- "Indeed," he said, and laid his cold hand against her hot
-cheek. 
-
- The storm had stopped during the night, but the snow was
-deep on the road, and it was clear that it would be days
-before the horse could pull Lucky's small wagon along the
-road. That wagon was brightly painted with leaves and vines
-and flowers in red and blue and green and yellow. The
-wheels were red with yellow spokes. It had a canvas top,
-also painted, blue with white fleecy clouds. Josea loved the
-wagon but it sorted oddly with Lucky's quiet greyness.
-
- Lucky did small jobs for her, mending tools, hinges, and
-utensils. He cut more wood for her, saying that if she did not need it
-this year, there would be another. He stayed a week and a thaw
-came and then a freeze, and the road was rutted but fit for
-travel. They looked at one another in the morning light, and
-he said that it couldn't hurt to stay another day, or maybe
-two ... if she was not yet tired of him. She wasn't.
-
- After another week, Lucky asked her if she would come with him. Her heart leaped at the question, but she looked around the
-little house where she'd spent all her life, thought of her
-land and village and her babe, and said, "I can't go. I've
-no desire to travel, and I don't want to bring my babe up
-as a homeless waif."
-
- Pain flashed across Lucky's pale face, but he only nodded,
-harnessed up his horse, and kissed her goodbye. Tears clouded her eyes and blurred the gay wagon colors.
-
- Sun's Dawn passed very slowly, with rain and sleet and
-snow, but nothing like the storm that had brought Lucky to
-her. Occasionally there was a knock at her door, which started
-her heart pounding, but always it was just a villager,
-come to buy the dried herbs she sold. Then, on the first night
-of First Seed, she heard the creak of a wagon and knew. She
-flew to the door, her face alight and flung herself into his
-arms.
-
- "I can't stay," he said. "I'm just passing through--" and
-that was all the talking they did for quite awhile. 
-
- Spring came and crocuses poked their noses up through the
-snow. Lucky spaded up her garden. Curious neighbors came to
-call, but found out no more about him than she knew. She sold
-them eggs -- her chickens were laying very well -- and dried
-herbs and an elixir she made from her grandmother's recipe,
-which was sovereign for headache and rheumatism. They hired
-Lucky for odd jobs, despite their suspicion of him. 
-
- Lucky continued to come and go, never saying where or when
-he'd be back, but he seldom stayed away more than a few days.
-He spoke no words of love, but loved her fiercely all the
-same. Josea's round belly grew rounder, and she weaned
-Timmy to cow's milk. Lucky's trips became shorter and less
-frequent. All around the land prospered. Even the oldest
-could not recall a better harvest. In Hearthfire Josea
-birthed a beautiful baby girl with silver hair, but eyes of
-cornflower blue. Lucky held his child and joy radiated from
-him, so that he seemed to burn with a white fire.
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   

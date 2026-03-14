@@ -1,4 +1,4 @@
-Title: Brief History of the Empire, Part I
+Title: Breve Historia del Imperio, Parte I
 Author: Stronach
 IsNaughty: False
 Price: 352
@@ -7,89 +7,98 @@ WhenVarSet:
 Content:
 
 [/font=2]
-[/center]A Brief History
-[/center]of the Empire,
-[/center]Part I
+[/center]Una Breve Historia
+[/center]del Imperio,
+[/center]Parte I
 
 [/font=4]
-[/center]
-[/center]    Before the day of Tiber Septim, all Tamriel was chaos.
-The poet Tracizis called that era "the days and nights of
-blood and venom." The kings were a petty lot of grasping
-tyrants, who fought Tiber's attempts to bring order to the
-land. But they were as disorganized as they were dissolute,
-and the strong hand of Septim brought peace forcibly to
-Tamriel. The year was 2E 896. The following year, the
-Emperor declared the beginning of a new era, so we began the
-3rd Era, year aught.    For thirty-eight years, the Emperor
-Tiber reigned: a just, pious, and glorious age, when justice
-was known to one and all, from serf to king. It rained for a
-fortnight after as if the land of Tamriel itself was weeping.    The
-Emperor's eldest living son, Pelagius came to the throne.
-Though his reign was short, he was as strong and resolute as
-his father had been, and we could have enjoyed a continuation
-of the Golden Age. Alas, an unknown enemy of the Septims
-hired the cursed organization of cutthroats, the Dark
-Brotherhood, to kill the Emperor Pelagius I as he knelt at
-prayer at the Temple of the One in the Imperial City.
-Pelagius I's reign lasted less than three years.    Pelagius
-had no living children, so the crown of the Empire passed to
-his first cousin, the daughter of Tiber's brother Agnorith. So did
-Kintyra, former Queen of Silvenar, assume the throne.
-Kintyra I was blessed with a time of prosperity and good
-harvests, and was an avid patroness of art, music, and
-dance.    Kintyra's son was crowned after her death, the first
-Emperor of Tamriel to use the imperial name Uriel. The
-Emperor Uriel I was the great lawmaker of the Septim Dynasty,
-and a promoter of independent organizations and guilds.
-Under his kind hand, the Fighters Guild and the Mages Guild
-increased in prominence throughout Tamriel.    His son Uriel
-II reigned for eighteen years, from the death Uriel I in 3E 64 to 3E 82.
-Tragically, the rule of Uriel II was cursed with blights,
-plagues, and insurrections. His tenderheartedness inherited
-from his father did not serve Tamriel well, and little
-justice was done.    Pelagius II inherited not only the throne from his father, but the debt from the poor
-financial and judicial management. Pelagius dismissed all of the old Elder
-Council, and allowed only those willing to pay great sums
-to return. He encouraged similiar acts of his vassals, the kings of Tamriel, and by the end of his
-seventeen year reign, Tamriel had returned to prosperity.
-His critics, however, have suggested that any advisor of wisdom, but without gold
-had been forcibly ousted. This may have led to some of the
-trouble his son Antiochus faced when he became Emperor.    Antiochus was certainly one of the most
-flamboyant of the usually austere Septim family. He had
-many mistresses and nearly as many wives, and was renowned
-for his grandness of dress and good humor. Unfortunately,
-his reign was rife with civil wars, surpassing even that of his grandfather Uriel II. The
-War of the Isle in 3E 110, twelve years after Antiochus
-assumed the throne, nearly took the province of Sumurset
-Isle away from Tamriel. The united alliance of the kings of
-Sumurset and Antiochus only managed to defeat King Orgnum
-of the island-kingdom of Pyandonea due to a freak storm.
-Legend credits the Psijic Order of the Isle of Artaeum with the magic behind the storm.    The story of Kintyra II, heiress
-of her father's throne, is certainly one of the saddest tales
-in modern history. Her first cousin Uriel, son of Queen
-Potena of Solitude, accused Kintyra of being a bastard,
-alluding to the famous decadence of the Imperial City during
-her father's reign. When this accusation failed to stop her coronation, Uriel bought the support of
-several disgrunted kings of High Rock, Skyrim, and Morrowind,
-and, with Queen Potena's assistance, coordinated three attacks on the Septim Empire.    The first attack
-occured in the Iliac Bay that separates High Rock and
-Hammerfell. Kintyra's entourage was destroyed and the
-Emperess was taken captive. For two years, Kintyra II
-languished in an Imperial prison believed to be somewhere in
-Glenpoint or Glenmoril Wyrd before she was slain in her
-cell.    The second attack was on a series of Imperial
-garrisons along the coastal Morrowind islands. The
-Emperess' consort Kontin Arynx died defending the forts.   
-The third attack was a siege of the Imperial City itself,
-occuring after the Elder Council had divided the army to
-attack western High Rock and eastern Morrowind. The much
-weakened government had little defense against Uriel's attack, and surrendered
-after only a fortnight of resistance. Uriel took the throne
-that night and proclaimed himself Uriel III, Emperor of
-Tamriel. The year was 3E 121.    Thus begins the War of the
-Red Diamond, described in Volume II of this series.
+
+ Antes de la época de Tiber Septim, todo Tamriel era caos.
+El poeta Tracizis llamó a esa era "los días y las noches de
+sangre y veneno". Los reyes eran un grupo mezquino de tiranos
+codiciosos, que combatieron los intentos de Tiber de traer el
+orden a la tierra. Pero estaban tan desorganizados como eran
+disolutos, y la mano firme de Septim trajo la paz por la fuerza
+a Tamriel. El año era 2E 896. Al año siguiente, el Emperador
+declaró el comienzo de una nueva era, por lo que comenzamos la
+3ª Era, año cero. Durante treinta y ocho años, el Emperador
+Tiber reinó: una época justa, piadosa y gloriosa, donde la
+justicia era conocida por todos, desde el siervo hasta el rey.
+Llovió durante quince días después, como si la propia tierra de
+Tamriel estuviera llorando. El hijo mayor vivo del Emperador,
+Pelagius, ascendió al trono. Aunque su reinado fue corto, fue
+tan fuerte y decidido como lo había sido su padre, y podríamos
+haber disfrutado de una continuación de la Edad de Oro. Por
+desgracia, un enemigo desconocido de los Septim contrató a la
+maldita organización de degolladores, la Hermandad Oscura, para
+matar al Emperador Pelagius I mientras se arrodillaba para rezar
+en el Templo del Único en la Ciudad Imperial. El reinado de
+Pelagius I duró menos de tres años. Pelagius no tuvo hijos
+vivos, por lo que la corona del Imperio pasó a su prima hermana,
+la hija del hermano de Tiber, Agnorith. Así fue como Kintyra,
+antigua Reina de Silvenar, asumió el trono. Kintyra I fue
+bendecida con una época de prosperidad y buenas cosechas, y fue
+una ávida mecenas del arte, la música y la danza. El hijo de
+Kintyra fue coronado tras su muerte, el primer Emperador de
+Tamriel en usar el nombre imperial de Uriel. El Emperador Uriel I
+fue el gran legislador de la Dinastía Septim y un promotor de
+organizaciones independientes y gremios. Bajo su mano amable,
+el Gremio de Luchadores y el Gremio de Magos aumentaron su
+prominencia en todo Tamriel. Su hijo Uriel II reinó durante
+dieciocho años, desde la muerte de Uriel I en 3E 64 hasta 3E 82.
+Trágicamente, el gobierno de Uriel II estuvo maldito por plagas,
+pestes e insurrecciones. Su ternura de corazón, heredada de su
+padre, no sirvió bien a Tamriel, y se hizo poca justicia.
+Pelagius II heredó no solo el trono de su padre, sino también la
+deuda de la mala gestión financiera y judicial. Pelagius
+despidió a todo el antiguo Consejo de Ancianos y solo permitió
+regresar a aquellos dispuestos a pagar grandes sumas. Fomentó
+actos similares en sus vasallos, los reyes de Tamriel, y al final
+de su reinado de diecisiete años, Tamriel había vuelto a la
+prosperidad. Sus críticos, sin embargo, sugirieron que cualquier
+asesor con sabiduría pero sin oro había sido expulsado por la
+fuerza. Esto puede haber llevado a algunos de los problemas que
+su hijo Antiochus enfrentó cuando se convirtió en Emperador.
+Antiochus fue ciertamente uno de los miembros más extravagantes
+de la usualmente austera familia Septim. Tuvo muchas amantes y
+casi tantas esposas, y fue renombrado por su grandiosidad en el
+vestir y su buen humor. Desafortunadamente, su reinado estuvo
+plagado de guerras civiles, superando incluso al de su abuelo
+Uriel II. La Guerra de la Isla en 3E 110, doce años después de
+que Antiochus asumiera el trono, casi arrebata la provincia de
+Estivalia a Tamriel. La alianza unida de los reyes de Estivalia y
+Antiochus solo logró derrotar al Rey Orgnum del reino insular de
+Pyandonea gracias a una tormenta fortuita. La leyenda atribuye a
+la Orden Psijic de la Isla de Artaeum la magia detrás de la
+tormenta. La historia de Kintyra II, heredera del trono de su
+padre, es ciertamente una de las historias más tristes de la
+historia moderna. Su primo hermano Uriel, hijo de la Reina
+Potema de Soledad, acusó a Kintyra de ser una bastarda,
+aludiendo a la famosa decadencia de la Ciudad Imperial durante
+el reinado de su padre. Cuando esta acusación no logró detener su
+coronación, Uriel compró el apoyo de varios reyes descontentos de
+Roca Alta, Skyrim y Morrowind, y, con la ayuda de la Reina Potema,
+coordinó tres ataques contra el Imperio Septim. El primer ataque
+ocurrió en la Bahía de Iliac que separa Roca Alta de Páramo del
+Martillo. El séquito de Kintyra fue destruido y la Emperatriz
+fue tomada cautiva. Durante dos años, Kintyra II languideció en
+una prisión imperial que se cree estaba en algún lugar de
+Punta Glauca o Glenmoril Wyrd antes de ser asesinada en su
+celda. El segundo ataque fue sobre una serie de guarniciones
+imperiales a lo largo de las islas costeras de Morrowind. El
+consorte de la Emperatriz, Kontin Arynx, murió defendiendo los
+fuertes. El tercero fue un asedio a la propia Ciudad Imperial,
+que ocurrió después de que el Consejo de Ancianos hubiera
+dividido el ejército para atacar el oeste de Roca Alta y el
+este de Morrowind. El muy debilitado gobierno apenas tuvo
+defensa contra el ataque de Uriel, y se rindió tras solo quince
+días de resistencia. Uriel tomó el trono esa noche y se
+proclamó Uriel III, Emperador de Tamriel. El año era 3E 121.
+Así comienza la Guerra del Diamante Rojo, descrita en el Volumen
+II de esta serie.
 
 
 
- 
+
+
+

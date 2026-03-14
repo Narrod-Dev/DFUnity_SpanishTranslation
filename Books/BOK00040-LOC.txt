@@ -1,4 +1,4 @@
-Title: Mysticism
+Title: Misticismo
 Author: Tetronius Lor
 IsNaughty: False
 Price: 661
@@ -9,13 +9,13 @@ Content:
 
 [/font=2]
 
-[/center]Mysticism:
+[/center]Misticismo:
 
-[/center]The
+[/center]El
 
-[/center]Unfathomable
+[/center]Viaje
 
-[/center]Voyage
+[/center]Inescrutable
 
 
 
@@ -23,60 +23,57 @@ Content:
 
 [/center]
 
-[/center]     Mysticism is the school of magic least understood by the
-magical community, most difficult to explain to novices
-mages. The spells effects commonly ascribed to the School
-of Mysticism are as wildly disparate as Soul Trap -- the
-creation of a cell for a victim's spirit after death -- to
-Silence -- the extinction of sound. But these effects are
-simply that: effects. The sorcery behind them is veiled in a
-mystery that may go back to the oldest civilizations of
-Tamriel, and beyond.
+[/center]      El Misticismo es la escuela de magia menos comprendida por la
+comunidad mágica, y la más difícil de explicar a los magos
+novatos. Los efectos de los hechizos comúnmente adscritos a la
+Escuela del Misticismo son tan disparatados como la Trampa de
+Alma —la creación de una celda para el espíritu de una víctima
+tras la muerte— hasta el Silencio —la extinción del sonido—.
+Pero estos efectos son simplemente eso: efectos. La hechicería
+detrás de ellos está velada en un misterio que puede remontarse
+a las civilizaciones más antiguas de Tamriel, e incluso más allá.
 
-     The Psijics of the Order of Artaeum's term for Mysticism
-is the Old Way. The phrase becomes bogged in a semantic
-quagmire, because the Old Way also refers to the religion
-and customs of the Psijics which may, or may not, be part of
-the magic of Mysticism.
+      El término de los Psijics de la Orden de Artaeum para el
+Misticismo es el Viejo Camino. La frase se estanca en un
+cenagal semántico, porque el Viejo Camino también se refiere a la
+religión y las costumbres de los Psijics que pueden, o no, ser
+parte de la magia del Misticismo.
 
-     There are few mages who devote their lives to the study of
-Mysticism. The other schools are far more predictable and
-fathomable. Mysticism seems to derive its power from its
-cunundrums and paradoxes; the act of experimentation, no
-matter how objectively implemented, can influence the
-magicka by its very existance. Thus, the Mystic mage must
-regulate himself to finding consistant patterns in an
-imbroglio of energy. In the time it takes him to find a source
-with a consistant trigger and result, his peers researching
-in other schools may have researched and documented dozens of
-new spells and effects. The Mystic mage is a patient and
-uncompetitve scholar.
+      Hay pocos magos que dediquen sus vidas al estudio del
+Misticismo. Las otras escuelas son mucho más predecibles y
+comprensibles. El Misticismo parece derivar su poder de sus
+acertijos y paradojas; el acto de experimentación, sin importar
+cuán objetivamente se implemente, puede influir en la magicka por
+su propia existencia. Por lo tanto, el mago Místico debe
+limitarse a encontrar patrones consistentes en un embrollo de
+energía. En el tiempo que le toma encontrar una fuente con un
+activador y un resultado consistentes, sus pares que investigan
+en otras escuelas pueden haber investigado y documentado docenas
+de nuevos hechizos y efectos. El mago Místico es un erudito
+paciente y poco competitivo.
 
-     For centuries, mostly during the Second Era, scholarly
-journals publishes theory after theory about the aspect or
-aspects of magicka that we call Mysticism. In the tradition
-of the Mages Guild to find answers to all things, respected
-researchers suggested the energy source as coming from
-Aetherius or the Daedra themselves to explain the seemingly
-random patterns of Mysticism; some ventured to guess that
-Mysticism comes from unused elements of successfully or
-unsuccessfully cast spells; discussion with the Order of
-Artaeum after its reappearance has led some scholars to
-postulate that Mysticism is more spiritual in nature, either
-the intellect or emotion of the believer influences the
-energy pattern and flow.
+      Durante siglos, principalmente durante la Segunda Era, las
+revistas académicas publicaron teoría tras teoría sobre el
+aspecto o aspectos de la magicka que llamamos Misticismo. En la
+tradición del Gremio de Magos de encontrar respuestas para todas
+las cosas, investigadores respetados sugirieron que la fuente de
+energía proviene de Aetherius o de los propios Daedra para
+explicar los patrones aparentemente aleatorios del Misticismo;
+algunos se aventuraron a adivinar que el Misticismo proviene de
+elementos no utilizados de hechizos lanzados con éxito o sin él;
+las discusiones con la Orden de Artaeum tras su reaparición han
+llevado a algunos eruditos a postular que el Misticismo es de
+naturaleza más espiritual, donde el intelecto o la emoción del
+creyente influyen en el patrón y flujo de energía.
 
-     None of these explanations is truly satisfactory. For
-the beginning student of Mysticism, it is best to simple
-learn the patterns distinguished in the maelstrom in the
-centuries past. The more patterns are found, the clearer the
-remaining ones become. Until, of course, they change. And
-then the journey begins anew.
-
-
+      Ninguna de estas explicaciones es verdaderamente
+satisfactoria. Para el estudiante principiante de Misticismo, lo
+mejor es simplemente aprender los patrones distinguidos en el
+maelstrom en los siglos pasados. Cuantos más patrones se
+encuentran, más claros se vuelven los restantes. Hasta que, por
+supuesto, cambian. Y entonces el viaje comienza de nuevo.
 
 
 
 
 
- 

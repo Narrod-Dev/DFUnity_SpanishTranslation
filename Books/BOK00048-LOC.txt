@@ -1,155 +1,148 @@
-Title: The Real Barenziah, Part VI
-Author: Anonymous
+Title: La Verdadera Barenziah, Parte VI
+Author: Anónimo
 IsNaughty: True
 Price: 580
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]The Real
+[/center]La Verdadera
 
 [/center]Barenziah
 
-[/center]Part VI
-
-
+[/center]Parte VI
 
 [/font=4]
 
-
-
 [/center]
 
- "You dance on the edge of a volcano, child," Drelliane scolded, as Barenziah
-admired the emerald ring her lover had given her to
-celebrate their one month anniversary.
+"Bailas al borde de un volcán, niña", la reprendió Drelliane, mientras Barenziah
+admiraba el anillo de esmeralda que su amante le había regalado para
+celebrar su primer mes de aniversario.
 
- "How so? We make one another happy. We harm no one. Symmachus
-bade me to be discriminate and discreet. Who better could I
-choose? And we've been most discreet. He treats me as a
-daughter in public." Tiber Septim's nightly visits were
-made through a secret passage.
+"¿Cómo es eso? Nos hacemos felices el uno al otro. No dañamos a nadie. Symmachus
+me ordenó ser selectiva y discreta. ¿A quién mejor podría
+elegir? Y hemos sido de lo más discretos. Él me trata como a una
+hija en público". Las visitas nocturnas de Tiber Septim se
+realizaban a través de un pasaje secreto.
 
- "He slavers over you like a dog his dinner. Have you not
-noticed the coolness of the Empress and her son toward you?"
+"Él babea por ti como un perro por su cena. ¿No has
+notado la frialdad de la Emperatriz y su hijo hacia ti?"
 
- Barenziah shrugged. Even before she and Septim had become
-lovers she'd had no more from his family than bare civility.
-Threadbare civility. "What matter? It is Tiber who holds
-power."
+Barenziah se encogió de hombros. Incluso antes de que ella y Septim se hicieran
+amantes, no había recibido de su familia más que una cortesía mínima.
+Una cortesía raída. "¿Qué importa? Es Tiber quien ostenta el
+poder".
 
- "It is his son who holds the future. Do not hold his mother up
-to public scorn, I beg you."
+"Es su hijo quien ostenta el futuro. No expongas a su madre al
+escarnio público, te lo ruego".
 
- "Can I help it if that dry stick of a woman cannot hold her
-husband's interest even in conversation at dinner?"
+"¿Puedo evitar yo que esa mujer, seca como un palo, no pueda mantener el
+interés de su marido ni siquiera en una conversación durante la cena?"
 
- "Have less to say in public. That is all I ask. She matters
-little, save that her children love her, and you do not want
-them as enemies. Tiber Septim has not long to live. I mean,"
-Drelliane amended quickly, at Barenziah's scowl, "Humans are
-all short-lived. Temporary, as we elves say. They come and
-go as the seasons do, but the families of the powerful live
-on for a time. You must be a family friend if you would see lasting profit from your relationship. Ah, how can I
-make you truly see, you who are so young and human-bred as
-well! If you take care you and Mournhold are like to live to
-see the fall of Septim's dynasty, if indeed he has founded
-one, as you have seen its rise. It is the way of human history.
-They ebb and flow like the tides. Their cities and even their
-empires bloom like spring flowers, only to wither and die
-in the summer sun."
+"Ten menos que decir en público. Eso es todo lo que pido. Ella importa
+poco, salvo porque sus hijos la aman, y no los quieres como
+enemigos. A Tiber Septim no le queda mucho de vida. Quiero decir",
+corrigió Drelliane rápidamente ante el ceño fruncido de Barenziah, "los humanos
+son todos de vida corta. Temporales, como decimos los elfos. Vienen y
+van como las estaciones, pero las familias de los poderosos perduran
+un tiempo. Debes ser una amiga de la familia si quieres ver un beneficio duradero de tu relación. ¡Ah, cómo puedo
+hacer que lo veas de verdad, tú que eres tan joven y además criada por humanos! Si tienes cuidado, tú y Mournhold probablemente viviréis para
+ver la caída de la dinastía de Septim, si es que realmente ha fundado
+una, tal como has visto su ascenso. Es el camino de la historia humana.
+Fluyen y refluyen como las mareas. Sus ciudades e incluso sus
+imperios florecen como flores de primavera, solo para marchitarse y morir
+bajo el sol del verano".
 
- Barenziah just laughed. She knew that rumors abounded about
-her and Tiber Septim. She enjoyed the attention for all
-save the Empress and her son seemed captivated by her. Bards
-sang of her dark beauty and her charming ways. She was in
-fashion and in love and if it was temporary, well, what was
-not? She was happy for the first time she could remember,
-each day filled with joy and pleasure, and the nights yet
-better.
+Barenziah simplemente se rió. Sabía que abundaban los rumores sobre
+ella y Tiber Septim. Disfrutaba de la atención, pues todos
+salvo la Emperatriz y su hijo parecían cautivados por ella. Los bardos
+cantaban a su belleza oscura y sus formas encantadoras. Estaba de
+moda y enamorada, y si era temporal, bueno, ¿qué no lo era? Era feliz por primera vez que pudiera recordar,
+cada día lleno de alegría y placer, y las noches aún
+mejores.
 
- "What is wrong with me?" Barenziah lamented. "Look, not one
-of my skirts fit? What's become of my waist? Am I getting
-fat?" Barenziah regarded her thin arms and legs and her
-undeniably thickened waist in the mirror with displeasure. 
+"¿Qué me pasa?", se lamentó Barenziah. "Mira, ¿ni una sola de
+mis faldas me queda bien? ¿Qué ha sido de mi cintura? ¿Me estoy
+poniendo gorda?". Barenziah contemplaba con desagrado en el espejo sus
+delgados brazos y piernas y su cintura innegablemente ensanchada.
 
- Drelliane shrugged. "You appear to be with child, young as
-you are. Constant pairing with a human has brought you early
-to fertility. I see no choice but for you to speak with him
-about it. You are in his power. It would be best, I think,
-for you to go directly to Mournhold if he will agree, and
-bear the child there."
+Drelliane se encogió de hombros. "Parece que estás encinta, joven como
+eres. El apareamiento constante con un humano te ha traído una
+fertilidad temprana. No veo otra opción que hables con él
+al respecto. Estás bajo su poder. Sería mejor, creo,
+que fueras directamente a Mournhold si él acepta, y
+tuvieras al niño allí".
 
- "Alone?" Barenziah placed her hands on her swollen belly,
-tears forming in her eyes. Everything in her yearned to share
-the fruit of her love with her lover. "He'll ne'er agree to
-that. He won't be parted from me now. You'll see."
+"¿Sola?". Barenziah puso sus manos sobre su vientre hinchado, con
+lágrimas formándose en sus ojos. Todo en ella anhelaba compartir
+el fruto de su amor con su amante. "Él nunca aceptará
+eso. No se separará de mí ahora. Ya verás".
 
- Drelliane shook her gray head. Although she said no more, a
-look of sympathy and sorrow had replaced her usual cool
-scorn.
+Drelliane sacudió su cabeza gris. Aunque no dijo nada más, una
+mirada de simpatía y dolor había reemplazado su habitual desdén
+frío.
 
- That night Barenziah told Tiber Septim of it when he came to
-her.
+Esa noche, Barenziah se lo contó a Tiber Septim cuando él acudió a
+ella.
 
- "With child?" He looked shocked. Stunned. "You're sure of
-it? I was told elves do not bear so young."
+"¿Encinta?". Él parecía impactado. Aturdido. "¿Estás segura de
+ello? Me dijeron que las elfas no conciben tan jóvenes".
 
- Barenziah summoned a smile. "How can I be sure? I've never --
+Barenziah forzó una sonrisa. "¿Cómo puedo estar segura? Nunca he...
 "
 
- "I'll fetch my healer."
+"Traeré a mi sanador".
 
- The healer, a high elf of middle years, confirmed that
-Barenziah was indeed pregnant and that such a thing had never
-before been known to happen. It was a testimony to His
-Excellency's potency, the healer said sycophantically.
-Tiber Septim snarled at him. "This must not be," he said.
-"Undo it."
+El sanador, un elfo de los bosques de mediana edad, confirmó que
+Barenziah estaba efectivamente embarazada y que tal cosa nunca
+antes se había visto. Era un testimonio de la potencia de Su
+Excelencia, dijo el sanador servilmente.
+Tiber Septim le gruñó. "Esto no puede ser", dijo.
+"Deshazlo".
 
- "Sire," the healer gaped at him. "I cannot--."
+"Señor", el sanador lo miró boquiabierto. "No puedo...".
 
- "Of course you can," he snapped. "I command you do so."
+"Por supuesto que puedes", espetó él. "Te ordeno que lo hagas".
 
- Barenziah, wide-eyed with sudden terror, sat up in the bed.
-"No!" she screamed. "No! What are you saying?"
+Barenziah, con los ojos muy abiertos por un terror repentino, se incorporó en la cama.
+"¡No!", gritó. "¡No! ¿Qué estás diciendo?".
 
- "My dear child," Tiber Septim sat down beside her with his
-winning smile. "I'm so sorry. Truly. But this cannot be.
-Your child could be a threat to my son and his sons. I will
-put it no more plainly than that."
+"Mi querida niña", Tiber Septim se sentó a su lado con su
+sonrisa ganadora. "Lo siento mucho. De verdad. Pero esto no puede ser.
+Tu hijo podría ser una amenaza para mi hijo y los hijos de este. No lo
+diré más claramente que eso".
 
- "The child I bear is your child!" she wailed.
+"¡El hijo que llevo es tu hijo!", gimió ella.
 
- "No. It's but a possibility, a might be, not yet gifted with
-a soul or quickened into life. I will not have it so." He
-gave the healer another hard stare and the elf began to
-tremble.
+"No. No es más que una posibilidad, un 'podría ser', aún no dotado de
+un alma ni animado por la vida. No permitiré que sea así". Le
+lanzó al sanador otra mirada dura y el elfo empezó a
+temblar.
 
- "It is her child. Children are few among elves. No woman
-conceives more than four and that is very rare. Two is the
-allotted number. Some bear none, some only one. If I take
-this one from her, she may not conceive again."
+"Es su hijo. Los hijos son escasos entre los elfos. Ninguna mujer
+concibe más de cuatro y eso es muy raro. Dos es el número
+asignado. Algunas no tienen ninguno, otras solo uno. Si le quito
+este, es posible que no vuelva a concebir".
 
- "You told me she would not bear to me. I've little faith in
-your prognostications."
+"Me dijiste que ella no concebiría de mí. Tengo poca fe en
+tus pronósticos".
 
- Barenziah scrambled naked from her bed, and ran for the
-door, not knowing where she was going, only that she could not
-stay. She never reached the door for blackness took her.
+Barenziah salió desnuda de su cama y corrió hacia la
+puerta, sin saber a dónde iba, solo que no podía
+quedarse. Nunca llegó a la puerta, pues la oscuridad la envolvió.
 
- Barenziah awoke to pain and emptiness. Drelliane was there to
-soothe the pain and clean the blood that pooled between her
-legs, but there was nothing to fill the emptiness. Tiber
-Septim sent gifts and flowers, and came for short visits,
-always well attended. Barenziah received these visits with
-pleasure, but he came no more at night nor did she wish for
-him. After a week, when she was physically recovered, it was
-announced that Symmachus had requested she come to Mournhold
-earlier than planned, and that she would leave forthwith.
-She was given a splendid retinue, a wardrobe befitting a
-queen and a ceremonial departure from the gates of
-Imperial City. 
+Barenziah despertó con dolor y vacío. Drelliane estaba allí para
+calmar el dolor y limpiar la sangre que se acumulaba entre sus
+piernas, pero no había nada para llenar el vacío. Tiber
+Septim envió regalos y flores, y acudió para visitas cortas,
+siempre bien acompañado. Barenziah recibió estas visitas con
+agrado, pero él no volvió más de noche ni ella lo
+deseaba. Después de una semana, cuando estuvo físicamente recuperada, se
+anunció que Symmachus había solicitado que acudiera a Mournhold
+antes de lo planeado, y que partiría de inmediato.
+Se le otorgó un espléndido séquito, un guardarropa digno de una
+reina y una partida ceremonial por las puertas de la
+Ciudad Imperial.

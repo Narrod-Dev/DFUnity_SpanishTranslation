@@ -1,4 +1,4 @@
-Title: On Lycanthropy
+Title: Sobre la Licantropía
 Author: Varnard Karessen
 IsNaughty: False
 Price: 419
@@ -9,144 +9,131 @@ Content:
 
 [/font=2]
 
-[/center]On Lycanthropy
+[/center]Sobre la Licantropía
 
 
 
 [/font=4]
 
-[/center]
+ ¿Cómo llega uno a interesarse por el estudio de la enfermedad
+de la licantropía? He entrevistado a varios de mis colegas y he
+descubierto que, hasta el último hombre, todos entraron en este
+campo tras un encuentro horroroso con un licántropo de alguna
+variedad. Yo no soy la excepción.
 
-[/center]    How does one become interested in studying the disease
-lycanthropy? I have interviewed a number of my peers, and
-discovered that to a man, they have all entered the field
-after a horrifying encounter with a lycanthrope of some
-variety. I am no exception.
+ En Skyrim, es una vieja tradición frotar raíz de canis en los
+árboles que rodean tu casa como protección contra los hombres
+oso. Cuando era joven y estúpido (a diferencia, supongo, de ser
+viejo y estúpido como lo soy ahora), siempre tuve la esperanza
+de conocer a un hombre oso para ver si eran tan impresionantes
+como sugería la leyenda. Seguía rastros extraños en el bosque
+hasta que desaparecían, sin miedo ni pensamiento alguno sobre lo
+que haría después de encontrar a mi presa. Por la barba de
+Thorig, tuve suerte de que mis investigaciones no dieran fruto.
 
-    In Skyrim, it is an old tradition to rub canis root on the
-trees surrounding your house as a ward against werebears.
-When I was young and stupid (as opposed, I guess, to being
-old and stupid as I am now), I always had hoped to meet a
-werebear to see if they were as impressive as legend
-suggested. I would follow strange tracks in the woods until
-they disappeared, with no fear or even thought about what I
-would do after I had found my quarry. By Thorig's beard, I
-was lucky that my investigations were fruitless.
+ Cuando finalmente vi a un licántropo, no fue un hombre oso. Fue
+un hombre lobo, el licántropo "común", que puede encontrarse en
+cada rincón de Tamriel. Mi padre era sacerdote y, durante la
+parte más fría del invierno, permitía que los mendigos y la
+chusma de Falcrenth se quedaran en el relativo calor del sótano
+de su templo. Incluso les suministrábamos un guiso caliente de
+cebada. Mis hermanos y yo disfrutábamos de este trozo de
+filantropía, pues en los sótanos durante el invierno parecía
+haber una fiesta constante. Siempre había viajeros con historias
+interesantes y excentricidades, y la atmósfera en los sótanos
+siempre era ligera y amistosa. Hasta esa noche.
 
-    When I did finally see a lycanthrope, it was not a werebear. It was a werewolf, the
-"common" lycanthope, which can be found in every part of
-Tamriel. My father was a priest and during the coldest part
-of the winter, he allowed the beggars and riffraff of
-Falcrenth to stay in the relative warmth of the cellar of his
-temple. We would even supply warm barley stew. My sisters
-and brothers and I actually enjoyed this bit of
-philanthropy, for in the cellars during the winter, it seemed there was a constant party. There were always
-travellers with interesting stories and eccentricities, and
-the atmosphere in the cellars was always light and friendly.
-Until that night.
+ Por una tradición establecida, los mendigos que estaban enfermos
+o querían descansar más que comida y compañía se dirigían a los
+catres en el extremo más lejano y oscuro del sótano, donde se
+les aseguraba al menos una relativa tranquilidad. Estábamos
+disfrutando de una canción, y mi hermana Gethessa bailaba para
+entretenimiento de todos. La canción terminó, pero un coro
+continuó desde la oscuridad en el extremo lejano del sótano. Tan
+borrachos e incomprensibles como estaban la mayoría de los
+cantores, nos tomó un minuto darnos cuenta de que el sonido que
+escuchábamos no era un canto, sino gritos.
 
-    By an established tradition, the beggars who were sick or
-wanted rest more than food and companionship would go to
-the cots at the farthest, darkest end of the cellar when they
-could be assured at least relative quiet. We were enjoying
-a song, and my sister Gethessa was dancing to the amusement
-of all. The song ended, but a chorus continued from the
-darkness at the far end of the cellar. As drunk and
-incomprehensible as most of the carolers were, it took a
-minute for us to realize that the sound we were hearing was not
-singing, but screaming.
+ Nadie se preocupó demasiado, pues algunos de los viejos
+vagabundos a menudo sufrían pesadillas vívidas. No obstante, uno
+de los sacerdotes de mi padre fue a silenciar al gritón y, en el
+momento en que desapareció en la penumbra, escuchamos otro
+sonido. El gruñido de un lobo. Luego escuchamos al sacerdote
+gritar mientras el grito original se apagaba.
 
-    No one was too concerned, for some of the older tramps
-often suffered from vivid nightmares. Nevertheless, one of
-father's priests went to silence the screamer and the moment he
-disappeared into the murk, we heard another sound. The snarl
-of a wolf. Then we heard the priest screaming as the original
-scream died off.
+ "¡Hombre lobo!", gritó el viejo bardo que había estado guiando
+la canción. El sótano estalló en el caos.
 
-    "Werewolf!" cried the old bard who had been leading the
-song. The cellar exploded into chaos.
+ Fui empujado fuera de la puerta del sótano hacia la nieve con
+la primera ola de pánico, pero pude ver que algunos de los
+vagabundos más valientes (o más borrachos) se lanzaban a la
+oscuridad para luchar contra el licántropo. Todos fueron, por
+supuesto, asesinados casi instantáneamente.
 
-     I was pushed out the cellar door into the snow with the
-first wave of panic, but I could see that some of the more
-brave (or more drunk) hobos were rushing into the darkness to
-do battle with the lycanthrope. They were all, of course,
-almost instantly killed.
+ Mi padre, al enterarse de su huésped no deseado, selló el sótano
+después de que el último superviviente de la carnicería hubiera
+salido. Un experimentado mago de batalla del Gremio de Magos de
+Falcrenth, que le debía un favor a mi padre, entró en el sótano
+y mató a la bestia.
 
-     My father, upon hearing of his unwelcome visitor, sealed
-off the cellar after the last survivor of the carnage had
-left. A seasoned battlemage from the Falcrenth Mages Guild,
-who owed father a favor, went into the cellar and slew the
-beast.
+ "No fue muy difícil", dijo al salir, cargando con el cadáver.
+"El invierno también debió ser duro para él". A pesar de sus
+valientes palabras, la sangre en su cara y pecho no provenía
+solo de su enemigo.
 
-     "Not too tough," he said as he emerged, carrying the
-carcass with him. "Winter must have been tough on him too."
-Despite his bold words, the blood on his face and chest did
-not only come from his foe.
+ Los hombres lobo no revierten a sus formas humanas al morir, a
+pesar de lo que digan las leyendas. Tuve la oportunidad de ver el
+cuerpo humeante del monstruo en la nieve antes de que se lo
+llevaran para quemarlo. Los dientes, cubiertos con la carne de
+los mendigos, eran horrorosos, pero las garras me impactaron aún
+más. Desde entonces he visto licántropos vivos luchar contra
+gólems, atronachs y otros seres a los que las armas mundanas no
+dañan, y concluí que actúan como armas encantadas naturalmente.
 
-     Werewolves do not revert to their human forms upon
-death, despite what legends will tell you. I had the
-opportunity to look at the monster's steaming body out in the
-snow before it was carried away to be burned. The teeth,
-clotted with the flesh of the beggars, were horrifying, but the
-claws shocked me even more. I have since seen live
-lycanthropes battle golems, atronachs, and other beings not
-harmed by mundane weapons, and concluded that they act as
-naturally enchanted weapons.
+ Debido a que el hombre lobo es el más ubicuo de los licántropos,
+el término licantropía se ha utilizado desde la antigüedad para
+describir la enfermedad que transforma a los hombres en media
+bestia, aunque estrictamente licántropo solo debería referirse a
+los hombres que se transforman en hombres lobo. Pero eso es
+semántica. Ciertamente hay diferencias entre las siete formas
+documentadas de licantropía en Tamriel, pero más similitudes.
 
-     Because the werewolf is the most ubiquitous of
-lycanthropes, the term lycanthropy has been used since
-ancient days to describe the disease that transforms men into
-half-beast, although lycanthrope only strictly should
-refer to men who change into werewolves. But that is
-semantics. There are certainly differences between the seven
-documented forms of lycanthropy in Tamriel, but more
-similarities.
+ En la Ciénaga Negra y el sur de Morrowind, los hombres cocodrilo
+acechan en los pantanos. La Ciénaga Negra también comparte con la
+Provincia Imperial y las partes más húmedas de Elsweyr la vil
+presencia de los hombres león. Los hombres buitre de Bosque
+Valen no se encuentran en ninguna otra provincia. El hombre
+jabalí ha encontrado adecuados los climas de Roca Alta y Páramo
+del Martillo. Como mencioné antes, el hombre oso es el
+licántropo más común en Skyrim, y también se encuentra en el
+norte de Roca Alta, la Provincia Imperial y Morrowind. El hombre
+lobo puede encontrarse en todas las provincias. El séptimo
+licántropo, que nunca he visto pero mis colegas de confianza me
+aseguran que existe, es un hombre tiburón que vaga por los
+océanos alrededor de Tamriel.
 
-     In Black Marsh and southern Morrowind, werecrocodiles
-stalk the swamps. Black Marsh also shares with the Imperial
-Province and the wetter parts of Elsweyr the vile presence of
-werelions. Valenwood's werevultures are not found in any
-other province. The wereboar has found both the climates of
-High Rock and Hammerfell amenable. As I mentioned before, the
-werebear is the most common lycanthrope in Skyrim, and is
-also found in the northern parts of High Rock, the Imperial
-Province, and Morrowind. The werewolf can be found in every
-province. The seventh lycanthrope, which I have never seen
-but my trusted peers have assured me exists, is a wereshark
-that roams the oceans around Tamriel.
+ He pasado mi vida categorizando y observando licántropos, pero a
+veces siento que sigo siendo un niño atrapado en un sótano en
+mis intentos por comprenderlos. Sé, por ejemplo, que la
+licantropía puede curarse poco después de la infección, pero
+pasado ese tiempo, la víctima está condenada. Ningún conocido mío
+se ha curado después de sufrir la primera transformación. Por
+otro lado, tengo un colega investigando un aquelarre de brujas en
+las estribaciones de Punta Glauca en Roca Alta, de quienes se
+rumorea que tienen una cura. Sigo siendo escéptico.
 
-     I have spent my life categorizing and observing
-lycanthropes, but I sometimes feel that I am still a child
-trapped in a cellar in my attempts to understand them. I
-know, for example, that lycanthropy can be cured shortly
-after infection, but after that time, the victim is doomed.
-No one of my acquaintance has cured themselves after
-undergoing the first transformation. On the other hand, I
-have a colleague investigating a coven of witches in the
-Glenpoint foothills of High Rock who are rumored to have a
-cure. I remain dubious.
-
-     Perhaps it is because they are doomed that makes
-lycanthropes so aggressive. I have removed the contents of a
-werewolf's stomach and found more remnants of roots and
-berries than animal flesh. My conclusion is that they do not
-need to attack and devour humans to survive. Yet, for some
-reason they do. Does lycanthropy drive them mad, or do
-lycanthropes feel the need to spread the disease as a form of
-procreation? I do not know. I am not certain that any of us
-who are not lycanthropes ourselves will ever know. And then,
-of course, it's too late.
+ Quizás es el hecho de estar condenados lo que hace a los
+licántropos tan agresivos. He extraído el contenido del estómago
+de un hombre lobo y he encontrado más restos de raíces y bayas
+que carne animal. Mi conclusión es que no necesitan atacar y
+devorar humanos para sobrevivir. Sin embargo, por alguna razón lo
+hacen. ¿Acaso la licantropía los vuelve locos, o los licántropos
+sienten la necesidad de propagar la enfermedad como una forma de
+procreación? No lo sé. No estoy seguro de que ninguno de
+nosotros, que no seamos licántropos, lo sepa jamás. Y entonces,
+por supuesto, es demasiado tarde.
 
 
 
 
 
-
-
-
-
-
-
-
-
- 

@@ -1,89 +1,76 @@
-Title: A Dubious Tale of the Crystal Tower
+Title: Un relato dudoso de la Torre de Cristal
 Author: Bibenus Geon
 IsNaughty: False
 Price: 770
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]A
+[/center]Un relato
 
-[/center]Dubious Tale
+[/center]dudoso de la
 
-[/center]of the
-
-[/center]Crystal Tower
-
-
+[/center]Torre de Cristal
 
 [/font=4]
 
 [/center]
 
-[/center]    This story was first told to me when I was a neonate, newly
-studying in the Crystal Tower of Sumurset. I was admiring
-the famous animal pens of the Tower when I was approached by
-an older student. The fellow who told me this tale seemed
-very trustworthy at first, but, as the reader will soon
-discover, the tale is very dubious indeed. Of course, I have
-told it since to other neonates of the Tower in the same
-spirit.
+[/center] Esta historia me la contaron por primera vez cuando era un neófito
+que recién comenzaba sus estudios en la Torre de Cristal de Estivalia.
+Estaba admirando los famosos corrales de animales de la Torre cuando se
+me acercó un estudiante mayor. El sujeto que me contó este relato parecía
+muy confiable al principio, pero, como el lector descubrirá pronto, el
+relato es ciertamente muy dudoso. Por supuesto, desde entonces se lo he
+contado a otros neófitos de la Torre con el mismo espíritu.
 
-    I offer the following for your august consideration,
-gentle reader.
+Ofrezco lo siguiente para su augusta consideración, amable lector.
 
-    Many, many years back, a talented but poor bard was
-passing through Sumurset, looking for work. He could sing, he
-could dance, he could act, but no one had any use for his
-performances. The poor bard was lugubrious, but he still
-visited the taverns and palaces, day after day, begging for
-a chance to showcase his talents.
+Hace muchísimos años, un bardo talentoso pero pobre pasaba por Estivalia
+buscando trabajo. Sabía cantar, sabía bailar, sabía actuar, pero nadie
+tenía uso para sus actuaciones. El pobre bardo estaba lúgubre, pero aun así
+visitaba las tabernas y palacios, día tras día, suplicando una oportunidad
+para mostrar su talento.
 
-    One day, dejected from more bad luck, he was approached by
-a tall elf in a long robe. A Magister of the Crystal Tower,
-in charge of the animal pens. The elf tells the bard of the
-white ape they made a cell for at the Tower, how it had died
-en route. There was a royal party from Firsthold visiting
-who had been promised a glimpse at the rare white ape. The
-Magister had a costume for the bard if he would deign to act
-out the part of the ape for the visitors. The bard had
-promised himself to take the first part that came his way, no
-matter how minor, so he agreed. The elf promised that the
-charade would last no longer than a fortnight, when the
-visitors left.
+Un día, abatido por la mala suerte, se le acercó un elfo alto con una túnica
+larga. Un Magister de la Torre de Cristal, encargado de los corrales de
+animales. El elfo le habló al bardo sobre el simio blanco para el cual
+habían preparado una celda en la Torre, y cómo este había muerto en el
+trayecto. Había una comitiva real de Firsthold de visita a la que se le
+había prometido ver al raro simio blanco. El Magister tenía un disfraz para
+el bardo si este se dignaba a interpretar el papel del simio para los
+visitantes. El bardo se había prometido a sí mismo aceptar el primer papel
+que se le presentara, por pequeño que fuera, así que aceptó. El elfo prometió
+que la farsa no duraría más de una quincena, hasta que los visitantes se
+marcharan.
 
-    For the first several days of the masquerade, the bard did
-nothing more than sit in the back of the pen. He was afraid to
-move and show the possible imperfections of the ape costume.
-In time, he became bored and began walking around. He
-suddenly noticed that the royal party was watching,
-fascinated. Happy that the ruse was working, he decided to
-enliven the act.
+Durante los primeros días de la mascarada, el bardo no hizo más que sentarse
+al fondo del corral. Tenía miedo de moverse y mostrar las posibles
+imperfecciones del disfraz de simio. Con el tiempo, se aburrió y empezó a
+caminar de un lado a otro. De repente, notó que la comitiva real lo
+observaba, fascinada. Feliz de que el truco funcionara, decidió animar la
+actuación.
 
-    Soon he had both a performance and a crowd. Instead of
-dancing a traditional elven jig, he would swing around the
-cell with every acrobatic trick he knew. Instead of singing a
-ballad, he would roar a roar he imagined a rare white ape
-might roar. The crowd loved it. The party outside his cell
-grew larger and larger every day.
+Pronto tuvo tanto una actuación como un público. En lugar de bailar una
+tradicional giga élfica, se columpiaba por la celda con cada truco acrobático
+que conocía. En lugar de cantar una balada, lanzaba un rugido que imaginaba
+que un raro simio blanco podría lanzar. Al público le encantó. El grupo
+fuera de su celda crecía más y más cada día.
 
-    One day, he was performing for the crowd -- his finest work
-to date. He swung himself round and round, roaring and
-bleating. His hand slipped and he went flying through the bar
-and into the cell next door, where a Snow Wolf was in
-residence. Hackling its back and growling, the Snow Wolf
-began to inch toward the bard.
+Un día, estaba actuando para la multitud; era su mejor trabajo hasta la
+fecha. Se columpiaba una y otra vez, rugiendo y balando. Se le resbaló la
+mano y salió volando a través de los barrotes hacia la celda de al lado,
+donde residía un Lobo de las Nieves. Erizando el lomo y gruñendo, el Lobo de
+las Nieves comenzó a avanzar lentamente hacia el bardo.
 
-    Seeing no other way out, the bard screamed, "Help! Help!"
+Al no ver otra salida, el bardo gritó: "¡Auxilio! ¡Auxilio!".
 
-    The Snow Wolf whispered, "Shut up or you'll get us all
-fired."
-
-    
+El Lobo de las Nieves susurró: "Cállate o harás que nos despidan a todos".
 
 
 
- 
+
+
+

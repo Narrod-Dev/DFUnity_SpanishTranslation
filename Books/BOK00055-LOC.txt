@@ -1,190 +1,160 @@
-Title: The Light and The Dark
+Title: La Luz y la Oscuridad
 Author: Irek Unterge
 IsNaughty: False
 Price: 580
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]The Light
+[/center]La Luz
 
-[/center]And
+[/center]y
 
-[/center]The Dark
-
-
+[/center]la Oscuridad
 
 [/font=4]
 
+[/center] "Sí, niños, no es casualidad que a esta tierra de Tamriel se la
+haya llamado 'La Arena'". El anciano cambió su posición sobre la gran roca
+que soportaba su peso y se alisó su larga túnica gris. Sus ojos empañados
+perdieron el foco mientras contemplaban el valle bañado por el sol en las
+montañas de Roca Alta. Por un momento, vio una visión de horrores antiguos
+en lugar del verdor fresco de la primavera. Un escalofrío recorrió sus
+viejos huesos.
 
+"¿Es este un tema adecuado para los jóvenes e inocentes?", se preguntó. Los
+jóvenes deben ser enseñados, pero ¿deben aprender tales cosas ahora, cuando
+deberían estar jugando a la luz del sol? Esta es una historia para el lúgubre
+invierno, con el viento aullando fuera de una ciudad amurallada y las puertas
+y ventanas cerradas y atrancadas contra la ráfaga, el frío y... otras cosas.
 
-[/center] "Yes, children, it is no accident that this land of Tamriel
-has been called 'The Arena'." The old man altered his
-position on the large rock that bore his weight, and
-straightened his long gray robe.  Rheumy eyes lost their focus
-as they gazed out over the sun-warmed valley in the
-mountains of High Rock. For a moment he saw a vision of
-ancient horrors instead of the fresh greenery of spring. A
-chill washed over his aged bones.
+Miró con afecto a sus dos nietos: el pequeño niño rubio con un rastro de
+travesura bailando en sus ojos, incluso en las raras ocasiones en las que
+estaba sentado en silencio, y su hermana mayor. "Una muchacha serena", pensó
+el anciano. Su cabello como una llama oscura y sus orejas ligeramente
+puntiagudas eran los únicos signos obvios de sangre élfica. Tan parecida a
+su abuela, pensó el anciano. El pasado es pasado, e I'shira le había traído
+tanta paz y felicidad después de una vida de batalla. Forzó sus pensamientos
+de vuelta al presente.
 
- "Is this a suitable topic for the young and innocent?" he
-asked himself.  The young must be taught, but must they
-learn of such things now, when they should be playing in the
-sunlight?  This is a tale for the dreary winter, with the wind
-howling outside a walled town and the doors and windows
-closed and bolted against the blast and cold and -- other
-things.
+"Lo siento, niños. Estaba recordando cosas. Los viejos hacemos eso, ya saben".
 
- He glanced with affection at his two grandchildren:  the
-little towheaded boy with a hint of mischief dancing in his eyes
-even on those rare occasions when sitting quietly, and his
-older sister.  A serene lass, the old man thought.  Her hair
-like a dark flame and her slightly pointed ears were the only
-obvious signs of elven blood.  So like her grandmother, the
-old man thought.  The past is past, and I'shira had brought
-him so much peace and happiness after a lifetime of battle.
-He forced his thoughts back to the present.
+"¿Vas a contarnos la historia de Jagar Tharn, el Emperador y el Campeón
+Eterno?", preguntó su nieto. "¡Esa es mi favorita!".
 
- "Sorry, children. I was remembering things. Old people do
-that, you know."
+"No exactamente, hijo. Ellos fueron parte de esto, en cierto modo. Al igual
+que lo son I'ric, Moraelyn, Edward, Reymon y muchos otros. Incluso los dioses
+toman parte. Esta es una historia mucho más antigua, y ni siquiera los
+sacerdotes la contarán a mi manera. Ellos tienen sus propias interpretaciones,
+y también sus miedos. Yo soy demasiado viejo y he visto demasiado como para
+que me quede miedo alguno, excepto el de que nuestro pueblo olvide. Y olvidar
+es peligroso. Así que yo, y algunos otros, portamos este relato e intentamos
+difundirlo entre las generaciones más jóvenes. No son lo suficientemente
+mayores para entenderlo todo, pero puedo sentir que mi final no está lejos.
+Debo pedirles que recuerden de todos modos. En unos años, tal vez, si aún
+vivo, podremos discutirlo de nuevo. Si no, bueno, deberán buscar a otros que
+lo sepan y comparar notas".
 
- "Are you going to tell us the story of Jagar Tharn and the
-Emperor and the Eternal Champion?"  His grandson asked. 
-"That's my favorite!"
+"Hablas como si fueras a morir, abuelo", intervino su nieta. "Eso no puede
+pasar. ¡Vivirás para siempre!".
 
- "Not exactly, son.  They were a part of it, in a way.  As
-are I'ric and Moraelyn and Edward and Reymon and many
-others. Even the gods play a part.  This is a far older
-story, and even the priests won't tell it my way.  They have
-their own interpretations, and their fears as well. I'm too
-old and have seen too much to have any fear left, except
-that our people will forget. And forgetting is dangerous. 
-So I, and a few others, carry this tale and try to spread it
-among the younger generations.  You aren't really old
-enough to understand it all, but I can feel that my end is
-not far off.  I must ask you to remember anyway. In a few
-years, perhaps, if I still live, we can discuss it again. 
-If not, well, you must seek out others who know, and compare
-notes."
+Riendo entre dientes: "Me temo que no, querida. Pero me queda un poco de
+tiempo, el suficiente para la historia".
 
- "You talk as if you are going to die, Granther," his
-granddaughter spoke up.  "That can't happen. You will live
-forever!"
+Los niños se acomodaron contra el tronco de un gran roble, sabiendo que no se
+podía apresurar al anciano. Inclinándose hacia adelante, comenzó:
 
- Chuckling, "I'm afraid not, dear. But I have a little while
-left, enough for the story".
+"Hace mucho, mucho tiempo, antes de que existiera persona alguna; incluso
+antes de los dioses, Tamriel fue elegida como campo de batalla por dos...
+cosas. Es difícil encontrar palabras que les encajen bien. Yo las llamo la Luz
+y la Oscuridad. Otros usan nombres diferentes: el Bien y el Mal, el Pájaro y
+la Serpiente, el Orden y el Caos. Ninguno de estos nombres se aplica realmente.
+Basta con decir que son opuestos y totalmente antitéticos. Ninguno es
+realmente bueno o malo, tal como conocemos las palabras. Son inmortales ya que
+no viven realmente, pero existen. Incluso los dioses y sus enemigos daédricos
+son pálidos reflejos del conflicto eterno entre ellos. Es como si su lucha
+creara energías que distorsionan su entorno, y esas energías son tan poderosas
+que la vida puede aparecer, como un remolino en una corriente".
 
- The children settled back against the bole of a large oak,
-knowing that the old man could not be hurried.  Leaning
-forward, he began:
+"¿Los demonios y los trolls vienen de la Oscuridad, abuelo?".
 
- "Long, long ago, before there were any people at all; even
-before the gods, Tamriel was chosen as a battleground by
-two -- things. It is difficult to find words that fit them
-well. I call them the Light and the Dark. Others use different
-names.  Good and Evil, Bird and Serpent, Order and Chaos. 
-None of these names really apply. It suffices that they are
-opposites, and totally antithetical.  Neither is really
-good or evil, as we know the words. They are immortal since
-they do not really live, but they do exist.  Even the gods
-and their daedric enemies are pale reflections of the eternal
-conflict between them. It's as though their struggle creates
-energies that distort their surroundings, and those energies
-are so powerful that life can appear, like an eddy in a
-stream."
+"No exactamente, hijo. Los males no muertos que conocemos, y los demonios que
+viven en Oblivion, tienden a alinearse con la Oscuridad. Sus naturalezas son
+más afines a ella. Los humanos y los demás pueblos de Tamriel, incluso los
+incomprendidos Elfos Oscuros, están más alineados con la Luz. Nuestros males
+no siempre son de la Oscuridad, pero algunos lo son, y estos son los
+verdaderamente peligrosos. Jagar Tharn estaba casi totalmente alineado con la
+Oscuridad, y esa es la razón por la que era tan monstruoso. No era porque
+fuera un mago negro, como algunos sostienen".
 
- "Do demons and trolls come from the Dark, Grandpa?"
+"¿Su magia venía de la Oscuridad, abuelo?". El interés de la niña se despertó
+ante la mención de la magia. "Su herencia está empezando a mostrarse", pensó
+el anciano.
 
- "Not exactly, son.  The undead evils we know, and the demons
-that live on Oblivion tend to align with the Dark. Their
-natures are more akin to it.  Humans and the other peoples of
-Tamriel, even the misunderstood Dark Elves, are more
-aligned with the Light. Our evils are not always of the Dark,
-but some are, and these are the truly dangerous ones. Jagar
-Tharn was almost wholly aligned with the Dark, and that is
-really why he was so monstrous.  It was not because he was a
-black mage, as some would have it."
+"No, el poder mágico proviene directamente de las energías que se arremolinan
+alrededor de ambas entidades. Estas energías son impersonales y están todas
+mezcladas. La magia negra es más una cuestión de intención que de efecto. El
+Gremio de Magos sostiene que una bola de fuego, por ejemplo, dirigida contra
+una criatura con intención de causar daño, no es magia negra; pero el mismo
+hechizo dirigido a alguien que busca la paz, sí lo es. En esto, tienen razón.
+La destrucción de un daedra de fuego fortalece a la Luz y debilita a la
+Oscuridad solo un poco. De la misma manera, la destrucción de un unicornio
+fortalece a la Oscuridad".
 
- "Did his magic come from the Dark, Granther?"  The girl's
-interest was piqued by mention of magic.  Her heritage is
-beginning to show itself, thought the old man.
+"¿Y los dioses? ¿Vienen de la Luz?". Los ojos del niño estaban animados, pero
+teñidos de aprensión. Adoraba las historias de los dioses y diosas del panteón
+de Tamriel, y de los héroes que les servían.
 
- "No, magic power comes directly from the energies swirling
-about both entities.  These energies are impersonal and all
-mixed up.  Black magic is more a matter of intent than
-effect.  The Mages' Guild holds that a fireball, say,
-directed against a creature intent on causing harm, is not
-black magic; but the same spell directed at one seeking peace
-is.  In this, they are right. Destruction of a fire daedra
-strengthens the Light and weakens the Dark just a little.  In
-the same manner, destruction of a unicorn strengthens the
-Dark."
+El anciano rió entre dientes. "Los dioses tienen un origen inusual, si algunos
+de los relatos más antiguos son ciertos. Los habitantes más antiguos de este
+mundo —nadie parece estar seguro de qué raza eran— tenían un sistema de mitos
+en el que creyeron durante mil años. El pueblo de los et'Ada creyó durante tanto
+tiempo y tan bien, que sus creencias pudieron, solo pudieron, haberse nutrido
+de las energías que rodean a Tamriel para traer a los propios dioses a la
+existencia. Si eso es así, el conflicto entre la Luz y la Oscuridad proporcionó
+la energía, y los et'Adanos la estructura que creó a los dioses de Tamriel.
+Nadie lo sabe realmente, ya que fue hace mucho tiempo y sobrevive muy poco de
+aquella época. Ya no importa; los dioses tienen su propia existencia ahora y,
+en su mayoría, se alinean con la Luz, excepto por unos pocos que son, digamos,
+un poco ambiguos".
 
- "What about the gods?  Do they come from the Light?"  The
-boy's eyes were animated, but tinged with apprehension. He
-adored stories of the gods and goddesses of Tamriel's
-pantheon, and the heroes who served them.
+"¿Por qué tenemos que recordar, abuelo? ¿Cuál es el peligro del que hablaste?
+Si la Luz y la Oscuridad son tan grandes y poderosas, ¿podemos influir en
+ellas? ¿Deberíamos intentarlo? ¿Por qué deberíamos luchar?".
 
- The old man chuckled.  "The gods have an unusual origin, if
-some of the oldest tales are true.  The oldest inhabitants of
-this world -- no one seems to be sure what race they were -- had a
-system of myths that they believed in for a thousand years.
-The people of et'Ada believed for so long and so well,
-that their beliefs may, just may, have drawn upon the
-energies surrounding Tamriel to bring the gods themselves
-into being. If that is so, the conflict between the Light and
-the Dark provided the energy, and the et'Adans the structure,
-that created the gods of Tamriel.  No one really knows since
-it was so long ago and so little survives from that time. It
-no longer matters; the gods have their own existence now, and
-mostly align with the Light, except for a few who are, shall
-we say, a little ambiguous."
+"Veo que tus facultades críticas se están desarrollando, Solara. Eso es bueno.
+La respuesta es simple, pero lo suficientemente grande para meros mortales
+como nosotros. La Luz y la Oscuridad están igualadas, y quizás nunca resuelvan
+su conflicto. Los mortales y los seres del Aetherius a veces pueden percibir
+rastros de ellas. Ahí reside el peligro; para la mayoría de nosotros, la Luz es
+más agradable, incluso inspiradora, y nos mueve a comportamientos que
+llamaríamos buenos. Para criaturas como nosotros, la Oscuridad es... horrible.
+Aquellos que tienen visiones de ella a menudo se vuelven locos, y los que no,
+estarían mejor muertos. La Oscuridad es para nosotros un vacío monstruoso, un
+vacío que succiona el alma hacia él para ser retorcida, mutilada y, en última
+instancia, destruida. Lo que podemos ver de ella parece totalmente malvado.
+Tal vez en otro lugar esto no sería así, pero en nuestro mundo, lo es".
 
- "Why do we have to remember, Granther?  What is the danger
-you spoke of?  If the Light and Dark are so big and powerful,
-can we influence them?  Should we try? What should we fight
-for?"
+El anciano hizo una pausa para reunir sus pensamientos, contemplando una vez
+más la vida fresca y nueva de la primavera.
 
- "I see that your critical faculties are developing,
-Solara. That is good. The answer is simple, but quite large
-enough for mere mortals like us. The Light and Dark are
-evenly matched, and perhaps will never resolve their
-conflict.  Mortals and the beings of the Aetherius sometimes
-can perceive traces of them. Therein lies the danger; to most
-of us the Light is more congenial, even inspiring, and moves
-us to behavior that we would call good. To creatures like
-us, the Dark is  --  horrible. Those who have visions of it are
-often driven mad, and the ones who are not would be better
-dead. The Dark is to us a monstrous emptiness, an emptiness
-that sucks the soul toward it -- to be twisted, maimed, and
-ultimately destroyed.  What we can see of it seems utterly
-evil. Perhaps somewhere else this would not be so, but in our
-world, it is."
+"Lo que debemos hacer es no olvidar nunca que la Oscuridad siempre está ahí,
+llamando a los de alma débil entre nosotros. Si lograra ganar ascendencia
+sobre Tamriel, a través de agentes pervertidos por su horrible atracción,
+podrían suceder cosas terribles. Todo lo que consideramos hermoso o deseable,
+incluso el amor mismo, sería barrido. La paz y la esperanza ya no existirían.
+Para Tamriel, ese sería el peor desastre posible. Lo que vi durante el reinado
+de Jagar casi me mata, casi destruye mi mente. Cuando él fue destruido, pensé
+que lo peor había pasado, pero no fue así. Las fuerzas de la Oscuridad están
+en marcha de nuevo, y nuevos héroes deben alzarse para unirse al Campeón Eterno
+en la lucha contra ellas".
 
- The old man paused to gather his thoughts, gazing once more
-at the fresh new life of spring.
-
- "What we must do is never to forget that the Dark is always
-there, beckoning to the weak-souled among us.  Should it gain
-ascendancy over Tamriel, through agents perverted by its
-awful attraction, terrible things could happen. All that
-we hold beautiful or desirable, even love itself, would be
-swept away. Peace and hope would be no more. For Tamriel,
-that would be the worst possible disaster. What I saw during
-Jagar's reign nearly killed me, almost destroyed my mind. 
-When he was destroyed, I thought the worst was over, but it
-was not.  The forces of the Dark are on the march again, and
-new heroes must rise to join the Eternal Champion in the fight
-against them."
-
- The old man and the two children sat in silence for several
-minutes.  Finally, the children assisted their grandfather
-to his feet, and they walked slowly away. Toward home, and
-hearth, and lunch.
+El anciano y los dos niños se sentaron en silencio durante varios minutos.
+Finalmente, los niños ayudaron a su abuelo a ponerse en pie y se alejaron
+lentamente. Hacia el hogar, la chimenea y el almuerzo.
 
 
 
- 
+

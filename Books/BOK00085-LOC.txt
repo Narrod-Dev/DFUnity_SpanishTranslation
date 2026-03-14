@@ -1,17 +1,14 @@
-Title: The Alik'r
+Title: El Alik'r
 Author: Enric Milres
 IsNaughty: False
 Price: 580
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]The Alik'r
-
-
+[/center]El Alik'r
 
 [/font=4]
 
@@ -19,105 +16,99 @@ Content:
 
 [/center]
 
+Puede que nunca hubiera ido al desierto del Alik'r si no
+hubiera conocido a Weltan en una pequeña taberna de Sentinel.
+Weltan es un poeta Guardia Rojo cuyos versos yo había leído, pero
+solo en traducción. Él prefiere escribir en la lengua antigua de
+los Guardias Rojos, no en Tamriélico. Una vez le pregunté por qué.
+
+"—La palabra tamriélica para el hijo de la putrefacción,
+divinamente rico, sedoso y de leche agria prensada es... queso —dijo
+Weltan, con una enorme sonrisa extendiéndose como una marea sobre
+su rostro negro como el hollín. —La palabra en antiguo Guardia Rojo
+para ello es mluo. Dime, si fueras un poeta fluido en ambos
+idiomas, ¿qué palabra usarías?
+
+Yo soy un hijo de las ciudades, y le contaba relatos sobre
+el ruido y la corrupción, las noches salvajes y la energía, la
+cultura y la decadencia. Él escuchaba con asombrado aprecio sobre la
+ciudad de mi nacimiento: la Ciudad Imperial de mármol blanco, donde
+toda la ciudadanía está convencida de su importancia por la
+proximidad del Emperador y la limpieza de sus calles. Dicen que un
+mendigo en los bulevares de la Ciudad Imperial es un hombre que vive
+en un palacio. Entre cervezas especiadas, deleité a Weltan con
+descripciones del bullicioso mercado de Riverhold; de la oscura y
+melancólica Mournhold; de las villas incrustadas de moho de Lilmoth;
+de los maravillosos y peligrosos callejones de Helstrom; de las
+majestuosas avenidas de la gran y vieja Soledad. Por todo esto, él
+se maravillaba, preguntaba y comentaba.
+
+"—Siento como si conociera tu hogar, el desierto del Alik'r,
+por tus poemas, aunque nunca he estado allí —le dije.
+
+"—Oh, pero no es así. Ningún poema puede expresar el Alik'r.
+Puede prepararte para una visita mucho mejor de lo que la mejor guía
+podría. Pero si quieres conocer Tamriel y ser un verdadero ciudadano
+del planeta, debes ir y sentir el desierto por ti mismo.
+
+Me tomó poco más de un año romper compromisos, ahorrar dinero
+(mi mayor desafío) y dejar la vida urbana por el desierto del Alik'r.
+Llevé varios libros de poemas de Weltan como mi guía de viaje.
+
+"Una llama sagrada se eleva sobre el fuego, Los fantasmas de
+grandes hombres y mujeres sin nombre, Ciudades muertas hace mucho se
+alzan y caen en la llama, La Canción de Revelación de Dioscori,
+Muros que estallan y roca eterna, Arena ardiente que sana y
+destruye".
+
+Estos primeros seis versos de "Sobre la inmortalidad del
+polvo" de mi amigo me prepararon para mi primera imagen del desierto
+del Alik'r, aunque difícilmente le hacen justicia. Mi pobre pluma
+no puede duplicar la severidad, grandeza, fugacidad y permanencia
+del Alik'r.
+
+Todos los principados y fronteras que las naciones han
+colocado sobre la tierra se disuelven bajo la arena movediza del
+desierto. Nunca sabía si estaba en Antiphyllos o en Bergama, y pocos
+de los habitantes sabían decírmelo. Para ellos, y así llegó a ser
+para mí, simplemente estábamos en el Alik'r. No. Somos parte del
+Alik'r. Eso está más cerca de la filosofía de la gente del desierto.
+
+Vi la llama sagrada de la que Weltan escribió en mi primera
+mañana en el desierto: una vasta niebla roja que parecía provenir
+del profundo misterio de Tamriel. Mucho antes del sol del mediodía,
+la niebla había desaparecido. Entonces vi las ciudades de Weltan. Las
+ruinas del Alik'r surgen de la arena por una ráfaga del viento
+desenfrenado y son cubiertas por la siguiente. Nada en el desierto
+dura, pero nada muere para siempre.
+
+A la luz del día, me escondía en las tiendas y pensaba en el
+carácter central de los Guardias Rojos que les haría adoptar esta
+tierra salvaje y eterna. Son guerreros por naturaleza. Como grupo,
+no hay mejores. Nada para ellos tiene valor a menos que hayan luchado
+por ello. Nadie luchó contra ellos por el desierto, pero el Alik'r
+es un gran enemigo. La batalla continúa. Es una guerra sin rencor,
+una guerra santa en el sentido que la frase siempre debería implicar.
+De noche, podía contemplar la tierra misma en su relativa serenidad.
+Pero la serenidad era superficial. Las piedras mismas ardían con un
+calor y una luz que no proviene del sol, ni de las lunas Jone y
+Jode. El poder de las piedras proviene del latido del corazón de la
+propia Tamriel.
+
+Dos años pasé en el Alik'r. Mientras escribo esto, estoy de
+vuelta en Sentinel. Estamos en guerra con el reino de Daggerfall por
+la posesión de una roca cubierta de hierba que pertenece a las aguas
+de la Bahía de Ilíaca. Todos mis compañeros poetas, escritores y
+artistas están desanimados por la codicia y el orgullo que llevó a
+este pueblo a la batalla. Es un punto bajo, una tragedia. En las
+palabras del antiguo Guardia Rojo, un ajcea, un espiral hacia
+abajo.
+
+Sin embargo, no puedo estar triste. En los años que pasé en las
+glorias del Alik'r, he visto las piedras eternas que perduran
+mientras los hombres mueren. He encontrado mi ojo interior en la
+tierra sin senderos, sin forma, inmutable y cambiante. La inspiración
+y la esperanza, como las piedras del desierto, son eternas aunque los
+hombres no lo sean.
 
 
-     I might never have gone to the Alik'r Desert had I not met
-Weltan in a little tavern in Sentinel. Weltan is a
-Redguard poet whose verse I had read, but only in
-translation. He chooses to write in the old language of the
-Redguards, not in Tamrielic. I once asked him why.
-
-     "The Tamrielic word for the divinely rich child of rot,
-silky, pressed sour milk is ... cheese," said Weltan, a huge
-smile spreading like a tide over his lampblack face. "The
-Old Redguard word for it is mluo. Tell me, if you were a
-poet fluent in both languages, which word would you use?"
-
-     I am a child of the cities, and I would tell him tales of
-the noise and corruption, wild nights and energy, culture
-and decadence. He listened with awed appreciation of the
-city of my birth: white-marbled Imperial City where all the
-citizenry are convinced of their importance because of the
-proximity of the Emperor and the lustration of the streets.
-They say that a beggar on the boulevards of the Imperial
-City is a man living in a palace. Over spiced ale, I regaled
-Weltan with descriptions of the swarming marketplace of
-Riverhold; of dark, brooding Mournhold; of the
-mold-encrusted villas of Lilmoth; the wonderful,
-dangerous alleys of Helstrom; the stately avenues of grand
-old Solitude. For all this, he marvelled, inquired, and
-commented.
-
-     "I feel as if I know your home, the Alik'r Desert, from
-your poems even though I've never been there." I told him.
-
-     "Oh, but you don't. No poem can express the Alik'r. It
-may prepare you for a visit far better than the best guide
-book can. But if you want to know Tamriel and be a true
-citizen of the planet, you must go and feel the desert
-yourself."
-
-     It took me a little over a year to break off engagements,
-save money (my greatest challenge), and leave the urban
-life for the Alik'r Desert. I brought several books of
-Weltan's poems as my travel guide.
-
-     "A sacred flame rises above the fire, The ghosts of great
-men and women without names, Cities long dead rise and fall
-in the flame, The Dioscori Song of Revelation, Bursting
-walls and deathless rock, Fiery sand that heals and
-destroys."
-
-     These first six lines from my friend's "On the
-Immortality of Dust" prepared me for my first image of the
-Alik'r Desert, though they hardly do it justice. My poor pen
-cannot duplicate the severity, grandeur, ephemera and
-permanence of the Alik'r.
-
-     All the principalities and boundaries the nations have
-placed on the land dissolve under the moving sand in the
-desert. I could never tell if I was in Antiphyllos or
-Bergama, and few of the inhabitants could tell me. For them,
-and so it came to me, we were simply in the Alik'r. No. We are
-part of the Alik'r. That is closer to the philosophy of the
-desert people.
-
-    I saw the sacred flame of which Weltan wrote on my first
-morning in the desert: a vast, red mist that seemed to come
-from the deep mystery of Tamriel. Long before the noon sun,
-the mist had disappeared. Then I saw the cities of Weltan. The
-ruins of the Alik'r rise from the sand by one blast of the
-unbounded wind and are covered by the next. Nothing in the
-desert lasts, but nothing dies forever.
-
-    At daylight, I hid myself in tents, and thought about the
-central character of the Redguards that would cause them to
-adopt this savage, eternal land. They are warriors by
-nature. As a group, there are none better. Nothing for them
-has worth unless they have struggled for it. No one fought
-them for the desert, but the Alik'r is a great foe. The battle
-goes on. It is a war without rancor, a holy war in the sense
-the phrase should always imply.       By night, I could
-contemplate the land itself in its relative serenity. But
-the serenity was superficial. The stones themselves burned
-with a heat and a light that comes not from the sun, nor the
-moons Jone and Jode. The power of the stones comes from the
-beat of the heart of Tamriel itself.
-
-     Two years I spent in the Alik'r.          As write this, I am
-back in Sentinel. We are at war with the kingdom of
-Daggerfall for the possession of a grass-covered rock that
-belongs to the water of the Iliac Bay. All my fellow poets,
-writers, and artists are despondent for the greed and pride
-that brought these people into battle. It is a low point, a
-tragedy. In the words of Old Redguard, an ajcea, a spiral
-down.
-
-     Yet, I cannot be sorrowful. In the years I spent in the
-glories of the Alik'r, I have seen the eternal stones that live
-on while men go dead. I have found my inner eye in the
-tractless, formless, changeless and changeable land.
-Inspiration and hope, like the stones of the desert, are
-eternal though men be not.
-
- 

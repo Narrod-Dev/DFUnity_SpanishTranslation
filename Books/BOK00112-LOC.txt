@@ -1,4 +1,4 @@
-Title: Bourn in Wood, Part I
+Title: Nacido en el Bosque, Parte I
 Author: Lord Woodborne
 IsNaughty: False
 Price: 300
@@ -6,37 +6,81 @@ IsUnique: False
 WhenVarSet: LiftedCurse
 Content:
 
-
 [/font=2]
 
-[/center]Bourn in Wood, Part I
-
-
-[/center]
-[/font=4]by Lord Woodborne
+[/center]Nacido en el Bosque, Parte I
 
 [/center]
+[/font=4]por Lord Woodborne
 
 [/center]
 
- If you’re reading this, I am probably dead. At quite a young age, I became aware of the concept of mortality, which to me is intriguing, that we all come to dust. Some very intelligent friends of mine found this idea repellent and sought immortality, but from my later conversations with them as vampires or liches, there are things worse than death. If you’ve ever spent an evening reading “A Brief History of the Empire” or "The 36 Lessons of Vivec," you know exactly what I’m talking about.
+[/center]
 
- So, I’ve never had a particular fear of death. To me, it’s what comes at the end of a meal, hopefully a long twelve courses with lots of exotic delights, but perhaps suddenly, unexpectedly, in the middle of the second cheese course. I’m dead, and if you’ve heard of me, you’ve probably heard terrible things. Let me set the record straight. They’re probably all true.
+Si estás leyendo esto, probablemente esté muerto. A una edad bastante temprana,
+me volví consciente del concepto de la mortalidad, el cual me resulta intrigante,
+eso de que todos nos convertimos en polvo. Algunos amigos míos muy inteligentes encontraron
+esta idea repelente y buscaron la inmortalidad, pero de mis conversaciones posteriores con
+ellos como vampiros o liches, hay cosas peores que la muerte. Si alguna vez has
+pasado una velada leyendo "Una breve historia del Imperio" o "Las 36 Lecciones de Vivec",
+sabes exactamente de lo que estoy hablando.
 
- Like I said, I became aware of death at quite an early age, quite inauspiciously, by causing and witnessing the death of my older brother. I was actually responsible for the death of my eldest brother as well, but that came years later, and didn’t affect me as much. I was ten years of age, and my brother (my first victim, not my second) was sixteen. One evening at Woodborne Hall, we were in the library, discussing the family dynasty such as it is – more about that later – when the subject of primogeniture came up. Now, if you’re a peasant unfamiliar with the concept, it’s simply that wealthy landed gentry leave it all to their eldest.
+Por lo tanto, nunca he tenido un miedo particular a la muerte.
+Para mí, es lo que viene al final de una comida, con suerte una
+larga sesión de doce platos con muchas delicias exóticas, pero tal vez
+de repente, inesperadamente, en medio del segundo plato de quesos.
+Estoy muerto, y si has oído hablar de mí, probablemente hayas oído cosas terribles.
+Permíteme dejar las cosas claras. Probablemente todas sean ciertas.
 
- “So the third eldest gets nothing?” I asked, being the third eldest.
+Como dije, me volví consciente de la muerte a una edad muy temprana,
+de manera bastante poco auspiciosa, al causar y presenciar la muerte de mi hermano mayor.
+De hecho, también fui responsable de la muerte de mi hermano primogénito,
+pero eso ocurrió años después, y no me afectó tanto. Yo tenía diez años de edad,
+y mi hermano (mi primera víctima, no la segunda) tenía dieciséis. Una tarde en
+Woodborne Hall, estábamos en la biblioteca, discutiendo la dinastía familiar tal
+como es —más sobre eso más adelante— cuando surgió el tema de la primogenitura.
+Ahora, si eres un campesino poco familiarizado con el concepto, es simplemente que
+la nobleza terrateniente rica se lo deja todo al mayor.
 
- “Not unless the eldest agrees to some light inheritance,” my brother, whose name by the way was Goriph, replied casually. “That’s why it’s a good idea to get along well with your brothers.”
+"¿Entonces el tercero no recibe nada?", pregunté, siendo el tercer hijo.
 
- Of course, that’s the idea behind the practice, but the loophole was right there. If you had no older brothers, you become the eldest. Honestly, I know it’s monstrous, but has any third-born not thought this? It was what was on my mind when I asked Goriph for another book on the twentieth shelf of the library and pulled the ladder from beneath him when he reached it. He fell, broke his back, but didn’t die right away. I came back to visit him several times over the next six hours while he lay paralyzed and bleeding, his face turning paler and paler, the blood on his lips going from scarlet to black. Until he turned cold. Then I called for our knights, pretending I had just discovered him.
+"No, a menos que el mayor acceda a alguna pequeña herencia",
+respondió casualmente mi hermano, cuyo nombre, por cierto, era Goriph.
+"Por eso es una buena idea llevarse bien con tus hermanos".
 
- What I discovered from this was that killing someone I loved, and I loved Goriph as much as someone like me can love, did not affect me at all. Though I am a liar by nature, I won’t lie about this. It bothers me a little that I don’t have feelings of remorse. I feel more guilt over my lack of guilt than my actual guilt. Oh well.
+Por supuesto, esa es la idea detrás de la práctica, pero el vacío legal
+estaba justo ahí. Si no tenías hermanos mayores, te convertías en el mayor.
+Honestamente, sé que es monstruoso, pero ¿hay algún tercer hijo que no haya pensado esto?
+Eso era lo que tenía en mente cuando le pedí a Goriph otro libro en el
+vigésimo estante de la biblioteca y retiré la escalera de debajo de él cuando
+lo alcanzó. Cayó, se rompió la espalda, pero no murió de inmediato.
+Regresé a visitarlo varias veces durante las siguientes seis horas mientras
+yacía paralizado y sangrando, su rostro volviéndose cada vez más pálido, la sangre en
+sus labios pasando de escarlata a negro. Hasta que se quedó frío. Entonces llamé a
+nuestros caballeros, fingiendo que acababa de descubrirlo.
 
- Ah, and I mentioned Woodborne Hall. Yes, I am Lord Woodborne. The hopefully infamous Lord Woodborne, the key behind the Daggerfall plot.
+Lo que descubrí con esto fue que matar a alguien a quien amaba,
+y yo amaba a Goriph tanto como alguien como yo puede amar,
+no me afectó en absoluto. Aunque soy un mentiroso por naturaleza, no mentiré sobre esto.
+Me molesta un poco no tener sentimientos de remordimiento.
+Siento más culpa por mi falta de culpa que por mi culpa real. En fin.
 
- As I said, I am a liar, but if I am indeed dead when you read this, this is the unvarnished truth. I don’t come off particularly well in this narrative, but neither will some of those who no doubt will live on and pretend they never knew me and yet are ruling the Iliac Bay. There are of course a few decent people I’ve met in my life, and I tried to take advantage of them when I could. They were either the lowest of the low who had nothing and could give nothing, or the highest, who could give nearly everything and lose almost nothing. Everyone else I’ve met … well, I’ll get into the particulars in a moment.
+Ah, y mencioné Woodborne Hall. Sí, soy Lord Woodborne.
+El espero que infame Lord Woodborne, la clave detrás del complot de Daggerfall.
 
- You’re probably wondering about me killing my eldest brother and inheriting the title and wealth, how and why I orchestrated the death of King Lysandus of Daggerfall for the benefit of his son Gothryd, and my plot to marry Elysana, Princess of Wayrest, to become king.
+Como dije, soy un mentiroso, pero si de hecho estoy muerto cuando leas esto,
+esta es la verdad pura y dura. No salgo particularmente bien parado en
+esta narrativa, pero tampoco lo harán algunos de los que sin duda vivirán
+y pretenderán que nunca me conocieron y que, sin embargo, gobiernan la Bahía de Iliac.
+Hay, por supuesto, algunas personas decentes que he conocido en mi vida, e intenté
+aprovecharme de ellas cuando pude. Eran o lo más bajo de
+lo bajo que no tenía nada y nada podía dar, o lo más alto, que podía
+dar casi todo y no perder casi nada. Todos los demás que he conocido... bueno,
+entraré en detalles en un momento.
 
- Gather around, children, and listen.
+Probablemente te estés preguntando sobre el asesinato de mi hermano mayor y
+la herencia del título y la riqueza, cómo y por qué orquesté la muerte
+del Rey Lysandus de Daggerfall en beneficio de su hijo Gothryd,
+y mi plan para casarme con Elysana, Princesa de Wayrest, para convertirme en rey.
+
+Acercaos, niños, y escuchad.

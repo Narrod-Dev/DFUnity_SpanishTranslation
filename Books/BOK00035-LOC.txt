@@ -1,4 +1,4 @@
-Title: The Legend of Lovers Lament
+Title: La Leyenda del Lamento de los Amantes
 Author: Croll Baumoval
 IsNaughty: False
 Price: 580
@@ -9,76 +9,78 @@ Content:
 
 [/font=2]
 
-[/center]The Legend of
+[/center]La Leyenda de
 
-[/center]Lovers Lament
+[/center]el Lamento de los Amantes
 
 
 
 [/font=4]
 
-[/center]
+ La noche es muy oscura. El viento agita suavemente los sauces.
+Todo está en silencio, o eso parece, alrededor de las orillas del
+pequeño lago. Las lunas de Tamriel se reflejan en la superficie
+ligeramente ondulada del agua. El ulular inquisitivo de un búho
+resuena. No brilla ninguna luz desde el castillo cercano; parece
+desierto.
 
- The night is very dark. Wind gently ruffles the willow
-trees. All is quiet, or it so appears, around the shores of
-the small lake. Tamriel's moons reflect in the slightly rippling surface of the water. An owl's questioning
-call echoes. No lights are shining from the castle nearby; it
-appears deserted.
+ A medida que avanza la noche y los satélites del planeta se
+mueven por los cielos, aparece un tenue resplandor cerca del
+castillo. La luz se mueve lentamente hacia el lago y, al llegar a
+la orilla, se detiene. Una figura, una mujer hermosa bajo cualquier
+estándar, permanece mirando con nostalgia hacia el agua oscura. Su
+linterna parpadea con la brisa y la ilumina. Las lágrimas corren
+por sus mejillas; su vestido, antaño hermoso, está ahora
+desgarrado y manchado.
 
- As the night wears on and the planet's satellites moves
-across the heavens, a faint glow appears near the castle.
-The light slowly moves towards the lake, and upon reaching
-the shore, stops. A figure, a beautiful woman by any
-measure, stands looking wistfully into the dark water. Her
-lantern flickers in the breeze, and illuminates her. Tears
-are streaming down her cheeks; her gown, once beautiful, is
-now tattered and stained.
+ La superficie del lago se agita, pero no por el viento, pues la
+noche se ha vuelto tan quieta como oscura. Lentamente, del agua
+emerge la figura de un hombre, un guerrero, totalmente adornado
+con la armadura de un caballero en el campo de batalla. Parece
+flotar sobre el agua hacia la mujer y se detiene justo antes de
+llegar a ella.
 
- The surface of the lake becomes agitated, but not from a
-wind as the night has become as still as it is dark. Slowly
-from the water emerges the figure of a man, a warrior, fully
-adorned in the armor of a knight on the field of battle. He
-seems to float over the water towards the woman and stop
-just short of her.
+ "Madylina", entona el guerrero fantasmal.
 
- "Madylina," the ghostly warrior intones.
+ "Mi Señor, Gerthland", susurra la encantadora Madylina mientras
+se arrodilla. "Has vuelto a mí".
 
- "My Lord, Gerthland," whispers the lovely Madylina as she
-kneels. "You have come to me again."
+ "Sí", responde Gerthland, "mis días son largos esperando la noche
+en la que pueda ver a mi amor".
 
- "Yes," Gerthland responds, "My days are long waiting for
-the night in which I can see my love."
+ Los amantes permanecen mirándose con nostalgia, incapaces de
+tocarse, incapaces de besarse, incapaces de satisfacer su amor no
+correspondido hasta que los primeros tintes del amanecer comienzan
+a colorear el cielo occidental. Gerthland deja caer algo al suelo,
+al igual que Madylina, mientras cada uno se retira. Las aguas del
+lago vuelven a tomar posesión del apuesto caballero y la hermosa
+doncella camina lentamente de regreso al castillo. Mientras las
+aguas del lago se asientan en un suave murmullo y la luz de la
+linterna de Madylina desaparece, el amanecer despunta sobre el
+lago.
 
- The lovers stand looking wistfully at each other, unable
-to touch, unable to kiss, unable to satisfy their unrequited
-love until the first tinges of dawn start to color the
-western sky. Gerthland drops something to the ground as does
-Madylina as each depart. The waters of the lake again take
-possession of the handsome knight and the beautiful maiden
-walks slowly back to the castle. As the waters of the lake
-settle into a gentle ripple and the light of Madylina's
-lantern disappears, dawn breaks over the lake.
-
- On the shore are two beautiful roses--one crimson and the
-other white as fresh cream. Ripples from the lake overtake the
-two flowers and pull them into the lake leaving the shore
-bare as it was in the hours before darkness fell.
+ En la orilla hay dos hermosas rosas: una carmesí y la otra blanca
+como la crema fresca. Las ondas del lago alcanzan a las dos flores
+y las arrastran hacia el agua, dejando la orilla tan desnuda como
+estaba en las horas antes de que cayera la oscuridad.
 
  ...
 
- The townfolk around Gerthland Manor tell often of seeing
-these lovers in their nightly meeting. The Boar's Bristle Inn
-is always rumbling with conversation about them. Lord
-Gerthland and Lady Madylina who were betrothed. Lord
-Gerthland called to battle to defend the land. Hergen, the
-castle's resident sorcerer, becoming enflamed with love and
-lust for Madylina only to be rebuked by her. Lord
-Gerthland's death on the field of battle. Lady Madylina's
-death by her own hand at the news. Hergen's curse on both
-their souls that will not allow them to rest until Madylina
-will agree to become Hergen's consort even in death.
+ La gente del pueblo alrededor de la Mansión Gerthland habla a
+menudo de haber visto a estos amantes en su encuentro nocturno.
+La posada El Cerdo Cerdoso siempre retumba con conversaciones
+sobre ellos. Lord Gerthland y Lady Madylina, que estaban
+prometidos. Lord Gerthland, llamado a la batalla para defender la
+tierra. Hergen, el hechicero residente del castillo, inflamado de
+amor y lujuria por Madylina solo para ser rechazado por ella. La
+muerte de Lord Gerthland en el campo de batalla. La muerte de Lady
+Madylina por su propia mano al recibir la noticia. La maldición
+de Hergen sobre las almas de ambos que no les permitirá descansar
+hasta que Madylina acepte convertirse en la consorte de Hergen,
+incluso en la muerte.
 
- Hergen, to this day, wanders the deserted halls of Gerthland
-Manor hoping that Madylina will agree to his demands. And
-the lovers continue to meet for a few moments each night on
-the shores of the lake now known as Lover's Lament. 
+ Hergen, hasta el día de hoy, vaga por los pasillos desiertos de
+la Mansión Gerthland con la esperanza de que Madylina acceda a sus
+demandas. Y los amantes continúan reuniéndose durante unos breves
+momentos cada noche en las orillas del lago ahora conocido como el
+Lamento de los Amantes.

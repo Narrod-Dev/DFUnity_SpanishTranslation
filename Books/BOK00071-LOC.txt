@@ -1,94 +1,88 @@
-Title: Ius, Animal God
-Author: Buljursoma 
+Title: Ius, el dios animal
+Author: Buljursoma
 IsNaughty: False
 Price: 385
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
 [/center]Ius,
 
-[/center]Animal God
-
-
+[/center]el dios animal
 
 [/font=4]
 
 [/center]
 
- The statues one sees throughout Valenwood and parts of
-Hammerfell and Elsweyr that seem to be of a misshapen
-humanoid carrying a rod are of Ius, tHe God of Animals. 
+Las estatuas que se ven por todo el Bosque Valen y partes de Páramo del
+Martillo y Elsweyr, que parecen ser de un humanoide deforme cargando una
+vara, son de Ius, el Dios de los Animales.
 
- The rod He carries has its origin in the tale of The Ox and The
-Evil Farmer. It seems that one day an evil farmer decided to
-kill all of his animals and have a big party. As The story
-unfolds, animal after animal is killed and prepared for a
-big meal. Lastly the farmer comes to the ox and prepares to
-slit its throat. The ox, not wishing to be anybody's dinner,
-prayed very vocally to Ius. This came out as a loud Moo,
-of course.
+La vara que porta tiene su origen en el relato de "El buey y el granjero
+malvado". Parece ser que un día un granjero malvado decidió matar a todos
+sus animales y dar una gran fiesta. A medida que la historia se
+desarrolla, animal tras animal es sacrificado y preparado para una gran
+comida. Por último, el granjero llega al buey y se dispone a degollarlo.
+El buey, no deseando ser la cena de nadie, rezó muy ruidosamente a Ius.
+Esto salió como un fuerte "¡Muuu!", por supuesto.
 
- At that very instant Ius appeared carrying a rather large
-set of balance weights. Without explanation, Ius ate the
-farmer and vanished. Ever since that day Ius The Extremely
-Agitated, has always been protrayed as carrying a large set
-of scales with him. The local Ius worshippers have no idea
-why and do not seem to care. Although this story has been
-called fanciful at best, I personally know a racoon who had
-actually talked to The Ox. That is, before the Ox became
-filler for the local inn's larder.
+En ese mismo instante apareció Ius cargando un juego de pesas de balanza
+bastante grande. Sin dar explicaciones, Ius se comió al granjero y se
+desvaneció. Desde aquel día, Ius el Extremadamente Agitado, siempre ha
+sido representado cargando un gran juego de balanzas consigo. Los
+adoradores locales de Ius no tienen idea de por qué y no parece
+importarles. Aunque esta historia ha sido calificada como fantasiosa en
+el mejor de los casos, personalmente conozco a un mapache que habló en
+realidad con el buey. Es decir, antes de que el buey se convirtiera en el
+relleno de la despensa de la posada local.
 
- I do not have any information one way or the other about the
-validity of this second myth. It is, however, quite
-traditional.
+No tengo información en un sentido u otro sobre la validez de este
+segundo mito. Es, sin embargo, bastante tradicional.
 
- It seems that many, many years ago, before the reign of Uriel
-Septim VII, before the reign of Cephorus Septim II, yes,
-even before the age of Pelagius Septim III (long may his
-name be praised!), there lived a wombat who was the pet of
-Lady Greelina, daughter of the Lord Prufrock of Rockcreek.
-Lady Greelina loved her wombat so, and it loved her too
-with all the passionate intensity a marsupial can muster.
+Parece ser que hace muchos, muchos años, antes del reinado de Uriel
+Septim VII, antes del reinado de Cephorus Septim II, sí, incluso antes
+de la era de Pelagio Septim III (¡sea su nombre siempre alabado!), vivió
+un uómbat que era la mascota de Lady Greelina, hija de Lord Prufrock de
+Rockcreek. Lady Greelina amaba tanto a su uómbat, y este la amaba a ella
+también con toda la intensidad apasionada que un marsupial puede reunir.
 
- Unfortunately, it was a time of great sorrow in Rockcreek. A
-pestilence had come through the town, destroying all their
-cash crops (which consisted of raspberries and a few scraggly
-odd weeds that caused Argonian women to look very
-attractive to those who partook); Then a plague had come,
-inflicting nearly every cobbler with chronic hiccoughs;
-finally a witch had cursed the townspeople so the only words
-any could utter were "Hmmm. Precisely." All the businesses,
-stores, and guilds fled from the town faster than an
-extremely fast thing.
+Desafortunadamente, era una época de gran pesar en Rockcreek. Una peste
+había asolado el pueblo, destruyendo todas sus cosechas comerciales (que
+consistían en frambuesas y unas pocas malezas extrañas y desgarbadas que
+hacían que las mujeres argonianas parecieran muy atractivas para quienes
+las consumían); luego llegó una plaga que infligió a casi todos los
+zapateros con hipo crónico; finalmente, una bruja maldijo a los
+habitantes del pueblo de modo que las únicas palabras que podían
+pronunciar eran "Hmmm. Precisamente". Todos los negocios, tiendas y
+gremios huyeron del pueblo más rápido que una cosa extremadamente rápida.
 
- Lady Greelina saw her father despairing the loss the town was
-suffering, so she brought her wombat in and told him,
-"Father, my wombat can save us all, for it is sacred to the
-god Ius, God of Animals. The only reason I didn't tell you
-earlier is because I am an early adolescent going through
-that period when I don't like to communicate. But please, ask
-a wish of my wombat, and Ius will fulfill it, for my
-wombat loves me."
+Lady Greelina vio a su padre desesperado por las pérdidas que el pueblo
+estaba sufriendo, así que trajo a su uómbat y le dijo: "Padre, mi uómbat
+puede salvarnos a todos, pues es sagrado para el dios Ius, Dios de los
+Animales. La única razón por la que no te lo dije antes es porque soy una
+adolescente temprana pasando por ese periodo en el que no me gusta
+comunicarme. Pero por favor, pide un deseo a mi uómbat e Ius lo cumplirá,
+pues mi uómbat me ama".
 
- The king thought this was fairly flakey, but he had nothing to
-lose so he uttered a modest wish to the wombat, "All I want is
-for one business to come to Rockcreek that will never leave
-no matter the calamity."
+El rey pensó que esto era bastante disparatado, pero no tenía nada que
+perder, así que expresó un deseo modesto al uómbat: "Todo lo que quiero
+es que venga un negocio a Rockcreek que nunca se vaya, sin importar la
+calamidad".
 
- I probably should have mentioned before that the king had
-always been cruel to the wombat (he used to lick it and try to
-make it stick to walls), so the wombat had Ius create an
-equipment store in front of the palace gate that would
-never go away. The royal family ended up going mad and
-eating one another (and ironically, the wombat was one of
-the first to go). But that is why there is to this day an
-equipment store blocking the palace gate in Rockcreek. If
-you don't believe me, go there and see.
+Probablemente debí mencionar antes que el rey siempre había sido cruel
+con el uómbat (solía lamerlo e intentar pegarlo a las paredes), así que
+el uómbat hizo que Ius creara una tienda de equipo frente a la puerta del
+palacio que nunca se iría. La familia real terminó volviéndose loca y
+devorándose unos a otros (e irónicamente, el uómbat fue uno de los
+primeros en caer). Pero es por eso que hasta el día de hoy hay una
+tienda de equipo bloqueando la puerta del palacio en Rockcreek. Si no me
+crees, ve allí y compruébalo tú mismo.
 
 
 
- 
+
+
+
+

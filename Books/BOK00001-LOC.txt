@@ -1,4 +1,4 @@
-Title: A Tale of Kieran
+Title: Un relato de Kieran
 Author: Vegepythicus, editor
 IsNaughty: False
 Price: 312
@@ -9,7 +9,7 @@ Content:
 
 [/font=2]
 
-[/center]Tales of Kieran
+[/center]Relatos de Kieran
 
 
 
@@ -17,18 +17,19 @@ Content:
 
 
 
-[/center]Librarian's Note ...
+[/center]Nota del bibliotecario...
 
- The recorded tales of Kieran the Bard fall into three
-categories: the Woodland Cycle, Castles and Kings, and an
-unnamed cycle of lusty tales (recently destroyed by
-mysterious accident). Some are in the bard's own hand, while
-others, mere shadows of the originals, remain only as bedtime
-tales for children. The structure exemplifies the helical
-form favoured by listeners about the hearth on a long
-winter's eve. As to whether they describe real events, be
-allegory, or be mere entertaining fancy, the reader must
-decide.
+ Los relatos registrados de Kieran el Bardo se dividen en
+tres categorías: el Ciclo del Bosque, Castillos y Reyes, y un
+ciclo sin nombre de relatos lujuriosos (recientemente
+destruido por un misterioso accidente). Algunos están escritos
+por la propia mano del bardo, mientras que otros, meras sombras
+de los originales, permanecen solo como cuentos infantiles para
+antes de dormir. La estructura ejemplifica la forma helicoidal
+favorecida por los oyentes junto al hogar en una larga noche
+de invierno. En cuanto a si describen hechos reales, son
+alegorías o mera fantasía entretenida, el lector debe
+decidir.
 
 
 
@@ -40,125 +41,130 @@ decide.
 
 [/center]I.
 
- Kieran was on the road from Wren to Fairtree, when he grew
-weary from the midday sun. His boots were tight and he thought
-to remove them for a bit in the shade of a nearby oak (oaks
-being a favourite of bards). This particular oak was
-venerable and gnarled, with sturdy branches that dipped
-and swooped, nearly touching the ground in spots. From its
-shade Kieran watched the forest creatures playing in the
-warm sun. But for the rustling of leaves, high above, the
-only sounds were of butterfly wings and birdsong.
+ Kieran estaba en el camino de Wren a Fairtree, cuando se
+cansó por el sol del mediodía. Sus botas estaban apretadas y
+pensó en quitárselas un rato a la sombra de un roble cercano
+(siendo los robles los favoritos de los bardos). Este roble en
+particular era venerable y nudoso, con ramas robustas que se
+inclinaban y descendían, casi tocando el suelo en algunos
+puntos. Desde su sombra, Kieran observaba a las criaturas del
+bosque jugando bajo el cálido sol. Salvo por el susurro de las
+hojas, en lo alto, los únicos sonidos eran de alas de mariposa
+y cantos de pájaros.
 
- "What a peaceful day," Kieran thought as he watched a
-butterfly drift by, "What a beautiful day! In truth, since
-bards first told tales, has there ever been a day more
-peaceful and beautiful than this?"
+ "Qué día tan pacífico", pensó Kieran mientras veía pasar una
+mariposa, "¡Qué día tan hermoso! En verdad, desde que los
+bardos contaron cuentos por primera vez, ¿ha habido alguna vez
+un día más pacífico y hermoso que este?".
 
- He drank from his waterskin and, taking his lute from its sack,
-cleared his throat and began to sing:
+ Bebió de su odre y, tomando su laúd de su saco, se aclaró la
+garganta y comenzó a cantar:
 
- "Oh, the maidens of Wren are passing fair ...  ...with
-breasts like melons, and flaxen hair ..."
+ "Oh, las doncellas de Wren son hermosas al pasar... ...con
+pechos como melones y cabello de lino..."
 
- He had just taken a deep breath to bellow the lusty chorus
-when a small, feminine voice said, "Kind sir ..."
+ Justo acababa de respirar profundamente para bramar el
+estribillo lujurioso cuando una pequeña voz femenina dijo:
+"Gentil señor...".
 
- He leaped to his stockinged feet, his face flaming red. "Who's
-there?" he cried.
+ Saltó sobre sus pies en calcetines, con el rostro rojo como el
+fuego. "¿Quién está ahí?", gritó.
 
- The small voice repeated, "Please, sir, if you will be so
-kind ..."
+ La pequeña voz repitió: "Por favor, señor, si fuera tan
+amable...".
 
- Kieran looked about but saw no person or creature
-addressing him.
+ Kieran miró a su alrededor pero no vio a ninguna persona ni
+criatura dirigiéndose a él.
 
- "Pray thee," he cried. "Show thyself or have cause to fear
-my dagger." (He tried desperately to remember where he had
-last seen it.) "Whether thee be friend or foe, pray thee show
-thyself now."
+ "Te lo ruego", gritó. "Muéstrate o tendrás motivos para temer
+a mi daga". (Trataba desesperadamente de recordar dónde la
+había visto por última vez). "Ya seas amigo o enemigo, te ruego
+que te muestres ahora".
 
- The small voice replied from above him, "Kind sir, thou
-hast no cause to fear me, and I am in need of help. Can thou
-find it in thy heart to aid me?"
+ La pequeña voz respondió desde arriba de él: "Gentil señor,
+no tienes motivo para temerme, y necesito ayuda. ¿Podrías
+encontrar en tu corazón el deseo de ayudarme?".
 
- He looked up and saw naught but a small robin's nest, three
-branches above him. Climbing swiftly, he found a robin with
-three tiny robinlings, their mouths open wide.
+ Miró hacia arriba y no vio nada más que un pequeño nido de
+petirrojo, tres ramas por encima de él. Trepando rápidamente,
+encontró a un petirrojo con tres pequeños polluelos, con las
+bocas abiertas de par en par.
 
- "Good mother robin," he asked, "Can it be thee who addresses
-me thus?"
+ "Buena madre petirrojo", preguntó, "¿puedes ser tú quien me
+habla así?".
 
- "Kind sir," she replied, "I have hurt my wing and it will
-be at least a day before I might fly. If my children do not
-eat soon, they will die. Would you be so kind as to bring a
-fat, juicy meal? Would you find a caterpillar or
-earthworm or grub for my children?"
+ "Gentil señor", respondió ella, "me he lastimado un ala y
+pasará al menos un día antes de que pueda volar. Si mis hijos
+no comen pronto, morirán. ¿Serías tan amable de traerles una
+comida jugosa y gorda? ¿Podrías encontrar una oruga, una
+lombriz de tierra o una larva para mis hijos?".
 
- Now, Kieran was kind of heart and it was not within him to
-refuse a plea such as this, so off he went into the forest.
-Searching under some mulberry leaves, he soon found a
-small green caterpillar. It seemed a perfect meal for young
-robins.
+ Ahora bien, Kieran era de buen corazón y no estaba en él
+rechazar una súplica como esta, así que se internó en el
+bosque. Buscando bajo unas hojas de morera, pronto encontró a
+una pequeña oruga verde. Parecía una comida perfecta para los
+jóvenes petirrojos.
 
- Plucking it from the leaf upon which it fed, he prepared to
-hurry back to the oak when he heard a tiny voice. He opened his
-hand and the caterpillar looked up at him with her big brown
-eyes wide with fear. "Kind sir," she said, "wouldst thou kill
-me so thoughtlessly?"
+ Arrancándola de la hoja de la que se alimentaba, se disponía
+a regresar al roble cuando escuchó una vocecita. Abrió la mano
+y la oruga lo miró con sus grandes ojos marrones abiertos por
+el miedo. "Gentil señor", dijo ella, "¿me matarías así, sin
+pensarlo?".
 
- Kieran scratched his head in puzzlement and the caterpillar
-continued: "When thou cooled thy feet beneath the oak, didst
-thou not find joy in my parents' beauty as they danced
-before thee in the sun? I, too, am soon to change. Wouldst
-thou deny thy successors the joy of my dancing? And if I do
-not live to have children, how will thine own children find
-such joy? Please, sir, would not an earthworm serve the
-needs of the robinlings just as well?
+ Kieran se rascó la cabeza confundido y la oruga continuó:
+"Cuando refrescaste tus pies bajo el roble, ¿no encontraste joya
+en la belleza de mis padres mientras bailaban ante ti bajo el
+sol? Yo también estoy pronto a cambiar. ¿Negarías a tus
+sucesores la alegría de mi baile? Y si no vivo para tener
+hijos, ¿cómo encontrarán tus propios hijos tal alegría? Por
+favor, señor, ¿no serviría una lombriz de tierra para las
+necesidades de los petirrojos igual de bien?".
 
- Kieran looked into the eyes of the caterpillar and knew that
-he could not feed her to the robins. Carefully, he placed
-her beneath her mulberry bush and continued his search.
+ Kieran miró a los ojos de la oruga y supo que no podía dársela
+de comer a los pájaros. Con cuidado, la colocó bajo su arbusto
+de morera y continuó su búsqueda.
 
- Near a rushing brook, Kieran found a flat stone that, when
-moved, revealed a juicy earthworm enjoying the cool moist
-earth. "Aha." he thought. "As nice as the caterpillar may
-have been, this truly seems a more fitting meal for young
-robins."
+ Cerca de un arroyo caudaloso, Kieran encontró una piedra plana
+que, al ser movida, reveló una jugosa lombriz de tierra
+disfrutando de la tierra fresca y húmeda. "Aha", pensó. "Por
+muy agradable que haya sido la oruga, esto realmente parece una
+comida más adecuada para los jóvenes petirrojos".
 
- He had no sooner plucked the earthworm from it's cool abode
-(where it had been frantically trying to burrow away from
-him), when he heard a voice so faint he might have imagined it:
+ No bien hubo arrancado a la lombriz de su fresca morada (donde
+había estado tratando frenéticamente de enterrarse lejos de
+él), cuando escuchó una voz tan débil que pudo haberla
+imaginado:
 
- "Kind sir," he thought he heard, and Kieran looked in his hand.
-The worm continued: "I am but a lowly creature, it's true,
-but might I plead such case that I have?"
+ "Gentil señor", creyó oír, y Kieran miró su mano. La lombriz
+continuó: "No soy más que una humilde criatura, es cierto,
+¿pero podría alegar el caso que tengo?".
 
- Kieran rolled his eyes skyward as the worm sat up and seized
-its chance. "I am not a lowborn worm like others you might
-find. No, I am a prince among earthworms. I come from an
-ancient lineage. My ancestors burrowed the earth when fires
-belched from black pits throughout these lands. I command
-millions like myself. Were it not for my loyal followers,
-you, good sir, would be up to your  neck in leaves, tree
-trunks and mouldy carcasses. I'll make a bargain with you.
-If you release me and choose, instead, a pathetic grub for the
-robinlings, I will dispatch an entire clan of earthworms to
-keep your foreyard clean and sweet-smelling for as long as
-ye shall live." The earthworm looked hopefully at Kieran
-(while calculating the distance to the ground). "Good sir,
-what say ye?"
+ Kieran puso los ojos en blanco hacia el cielo mientras la
+lombriz se erguía y aprovechaba su oportunidad. "No soy una
+lombriz de baja cuna como otras que podrías encontrar. No, soy
+un príncipe entre las lombrices de tierra. Vengo de un linaje
+antiguo. Mis antepasados excavaron la tierra cuando los fuegos
+brotaban de pozos negros por todas estas tierras. Mando sobre
+millones como yo. Si no fuera por mis leales seguidores, usted,
+buen señor, estaría hasta el cuello de hojas, troncos de
+árboles y cadáveres mohosos. Haré un trato con usted. Si me
+libera y elige, en su lugar, una patética larva para los
+petirrojos, enviaré a un clan entero de lombrices de tierra
+para mantener su patio delantero limpio y de dulce aroma
+mientras viva". La lombriz miró esperanzada a Kieran (mientras
+calculaba la distancia hasta el suelo). "Buen señor, ¿qué dice
+usted?".
 
- Kieran was beginning to lose his patience, but, seeing the
-value of the earthworm's offer, decided that a grub would,
-indeed, make a tasty morsel for the young robins. He returned
-the earthworm to its moist haven and carefully replaced the
-flat stone above it. And, true to his desire, a short while
-later, in a forest glade, beneath a wide slab of discarded
-bark, Kieran chanced upon that which he sought: a fat white
-grub that would grow the robinlings into beautiful
-songsters. He plucked it from its hiding place and set forth.
-It was a beautiful day, indeed.
+ Kieran estaba empezando a perder la paciencia, pero, viendo el
+valor de la oferta de la lombriz, decidió que una larva sería,
+en efecto, un bocado sabroso para los jóvenes petirrojos.
+Devolvió la lombriz a su refugio húmedo y volvió a colocar con
+cuidado la piedra plana sobre ella. Y, fiel a su deseo, poco
+después, en un claro del bosque, bajo una ancha losa de corteza
+desechada, Kieran encontró por casualidad lo que buscaba: una
+larva blanca y gorda que convertiría a los petirrojos en
+hermosos cantores. La arrancó de su escondite y se puso en
+marcha. Era un día hermoso, en verdad.
 
 
 
@@ -166,129 +172,132 @@ It was a beautiful day, indeed.
 
 [/center]II.
 
- Nearby, in stately Trowbridge, King Caladan did live with
-his lovely daughter, Einlea. The princess was the apple of
-the old man's eye and the crown jewel of his small kingdom. He
-looked upon her with the blind pride of a doting father, and
-she, for her part, did naught but bask and flourish in his
-bounty.
+ Cerca de allí, en la señorial Trowbridge, vivía el rey
+Caladan con su encantadora hija, Einlea. La princesa era la
+niña de los ojos del anciano y la joya de la corona de su
+pequeño reino. Él la miraba con el orgullo ciego de un padre
+cariñoso, y ella, por su parte, no hacía más que disfrutar y
+florecer en su generosidad.
 
- Trowbridge was quiet now, the chief sounds being the clatter
-of cart wheels and the cries of street vendors, but it was
-not always so. Three years earlier there had been trouble
-with Carthan to the west. It was not much, a border dispute,
-but the king persuaded a wizard named Loziard to come to
-Trowbridge in his employ, to aid him in the contest. Loziard
-was unknown by all in Trowbridge and kept to himself within
-the palace, coming and going as he pleased. When Trowbridge
-prevailed, with almost no loss of life, there was joyous
-celebration for days and weeks thereafter. Time passed, yet
-Loziard remained. The King, not wanting to seem
-ungrateful, said nothing, but became increasingly
-discomforted with the wizard's presence and wished for his
-departure.
+ Trowbridge estaba tranquila ahora, siendo los sonidos
+principales el traqueteo de las ruedas de los carros y los
+gritos de los vendedores callejeros, pero no siempre fue así.
+Tres años antes hubo problemas con Carthan al oeste. No fue
+mucho, una disputa fronteriza, pero el rey convenció a un mago
+llamado Loziard para que viniera a Trowbridge a su servicio,
+para ayudarle en la contienda. Loziard era desconocido por
+todos en Trowbridge y se mantenía reservado dentro del palacio,
+entrando y saliendo a su antojo. Cuando Trowbridge prevaleció,
+casi sin pérdida de vidas, hubo celebraciones alegres durante
+días y semanas después. Pasó el tiempo y, sin embargo, Loziard
+permaneció. El Rey, para no parecer ingrato, no dijo nada, pero
+se sentía cada vez más incómodo con la presencia del mago y
+deseaba su partida.
 
- On Einlea's twentieth birthday, King Caladan called for a
-celebration and holiday through all his land. Unknown to
-his subjects, he intended to proclaim his retirement and the
-transference of his crown to his beautiful daughter. Out of
-politeness, and nothing more, he invited the wizard Loziard
-to aid him in devising a proper speech.
+ En el vigésimo cumpleaños de Einlea, el rey Caladan convocó
+una celebración y día festivo en todas sus tierras. Sin que sus
+súbditos lo supieran, pretendía proclamar su jubilación y el
+traspaso de su corona a su hermosa hija. Por cortesía, y nada
+más, invitó al mago Loziard para que le ayudara a idear un
+discurso adecuado.
 
- Loziard was furious. He paced his chamber, his black brows
-knitted with intensity that would have soured any cow's milk.
-"Why," he cried aloud, "am I treated so unjustly by the old
-buffoon? Were it not for my skills, the border contest,
-mayhaps even the kingdom itself, might have been lost. I
-deserve more. I deserve the crown. To give it to that
-primping simpering daughter of his, who thinks naught of more
-than her own whim, is a slap more stinging than that of gauntlet. I will have justice. I will demonstrate, amply, for
-all to see, wherein lies true power."
+ Loziard estaba furioso. Caminaba por su cámara, con sus cejas
+negras fruncidas con una intensidad que habría agriado la leche
+de cualquier vaca. "¿Por qué", gritó en voz alta, "soy tratado
+tan injustamente por ese viejo bufón? Si no fuera por mis
+habilidades, la contienda fronteriza, quizás incluso el reino
+mismo, podrían haberse perdido. Merezco más. Merezco la corona.
+Dársela a esa hija suya, tan remilgada y afectada, que no
+piensa en nada más que en su propio capricho, es una bofetada
+más hiriente que la de un guantelete. Tendré justicia.
+Demostraré, ampliamente, para que todos lo vean, en qué reside
+el verdadero poder".
 
- Thereupon, Loziard made his preparations.
+ Acto seguido, Loziard hizo sus preparativos.
 
- Princess Einlea's birthday came on a summer morning.
-Everyone within the city, and from the farms without,
-gathered to the palace for the festival. Banners waved
-from every rooftop. Fiddlers fiddled and dancers danced.
-Bakers baked wonderful sweets for the occasion. It was a day
-long to be remembered.
+ El cumpleaños de la princesa Einlea llegó en una mañana de
+verano. Todos los habitantes de la ciudad, y de las granjas
+de fuera, se reunieron en el palacio para el festival. Las
+banderas ondeaban en cada tejado. Los violinistas tocaban y
+los bailarines bailaban. Los panaderos hornearon dulces
+maravillosos para la ocasión. Fue un día para recordar durante
+mucho tiempo.
 
- At noon, precisely, King Caladan and Princess Einlea
-emerged onto the main balcony to the cheers of the kingdom.
-"Good citizens of Trowbridge," called the King, "We are
-but a tiny kingdom, but we prosper, do we not?"
+ Al mediodía, precisamente, el rey Caladan y la princesa Einlea
+salieron al balcón principal ante los vítores del reino.
+"Buenos ciudadanos de Trowbridge", llamó el Rey, "somos solo un
+reino diminuto, pero prosperamos, ¿no es así?".
 
- Loud hails (mostly) erupted from the crowd below.
-Encouraged, Caladan continued, "But now I am an old man.
-The day has arrived when younger blood can better attend to
-the needs and events of the kingdom. My subjects ... My loyal
-subjects and friends ... It is with honour  ...and pride 
-...and the greatest of expectations  ...that I transfer my
-kingdom and my crown to my loving daughter. To one and
-all, I give you" (a long pause here) "Einlea."
+ Grandes aclamaciones (en su mayoría) estallaron entre la
+multitud de abajo. Animado, Caladan continuó: "Pero ahora soy
+un hombre viejo. Ha llegado el día en que sangre más joven
+puede atender mejor las necesidades y eventos del reino. Mis
+súbditos... Mis leales súbditos y amigos... Es con honor... y
+orgullo... y las mayores expectativas... que transfiero mi
+reino y mi corona a mi amada hija. A todos y cada uno, os
+presento" (una larga pausa aquí) "a Einlea".
 
- As cheers filled the air, Caladan made a grand, sweeping
-gesture with his arm, intending to make the presentation as
-spectacular as the pride that filled him. His robe went
-"swoooosh" and his hand pointed to ... nobody. What was
-this? Where had she gone? Where Einlea had been, moments
-earlier, there now was naught but vacant air.
+ Mientras los vítores llenaban el aire, Caladan hizo un gran y
+amplio gesto con el brazo, pretendiendo que la presentación
+fuera tan espectacular como el orgullo que le embargaba. Su
+túnica hizo "swoooosh" y su mano señaló a... nadie. ¿Qué era
+esto? ¿A dónde se había ido? Donde Einlea había estado,
+momentos antes, ahora no había más que aire vacío.
 
- "Er ...Einlea ...?" he called, uncertainly. But there was
-no response. Silence fell over park and courtyard. People
-glanced at each other nervously.
+ "Er... ¿Einlea...?", llamó, con incertidumbre. Pero no hubo
+respuesta. El silencio cayó sobre el parque y el patio. La
+gente se miraba nerviosa.
 
- Old Loziard clapped his hands in glee. He danced. He hugged
-himself with uncontained laughter. "How wonderful ..." he
-cried. "What a breathtakingly stunning and talented a
-wizard I am.." For what he had done, of course, was to rid
-himself of Einlea for once and for all. With one stroke,
-crafty and evil, he had removed the vain creature from the
-palace. Nought else remained between him and that which he
-desired.
+ El viejo Loziard aplaudió con alegría. Bailó. Se abrazó a sí
+mismo con risas incontenibles. "Qué maravilloso...", gritó.
+"Qué mago tan asombrosamente impresionante y talentoso soy...".
+Porque lo que había hecho, por supuesto, era deshacerse de
+Einlea de una vez por todas. Con un solo golpe, astuto y
+malvado, había eliminado a la vanidosa criatura del palacio.
+Nada más quedaba entre él y aquello que deseaba.
 
- Now, magic is a tricky thing. Like all forces in the world,
-it must be kept in balance. As surely as day balances night
-and summer balances winter, so too must positive magic
-balance negative. For every hurtful or destructive spell,
-there must be an act of equal goodness or charity lest
-trouble overflow into the world. For every black wizard,
-there must be a white. For every spell of combat
-destruction, there must be healing. Know ye this  ...if all
-who practice magic cast naught but healing or protective
-spells, dark, horrible forces would build up until chaos
-and ruin would burst forth and rain our doom down upon us.
-Thus may spells of healing be broken by harm, and the worst
-of spells be broken by charity.
+ Ahora bien, la magia es algo complicado. Como todas las
+fuerzas del mundo, debe mantenerse en equilibrio. Tan seguro
+como que el día equilibra a la noche y el verano equilibra al
+invierno, así también la magia positiva debe equilibrar a la
+negativa. Por cada hechizo dañino o destructivo, debe haber un
+acto de igual bondad o caridad, para que los problemas no se
+desborden sobre el mundo. Por cada mago negro, debe haber uno
+blanco. Por cada hechizo de destrucción en combate, debe haber
+curación. Sabed esto... si todos los que practican la magia no
+lanzaran más que hechizos de curación o protección, fuerzas
+oscuras y horribles se acumularían hasta que el caos y la ruina
+estallaran y lloviera nuestra perdición sobre nosotros. Así,
+los hechizos de curación pueden romperse por el daño, y los
+peores hechizos pueden romperse por la caridad.
 
- Knowing this, Loziard planned well his act of vengeance.
-To permanently rid himself of Einlea (short of killing her
-outright) he must devise a spell so cunning that no act of
-kindness would ever break it. He was pulling lice out of his
-long beard, late one evening, when he burst into laughter. He
-would make her into something  ...disgusting.
+ Sabiendo esto, Loziard planeó bien su acto de venganza. Para
+deshacerse permanentemente de Einlea (sin llegar a matarla
+directamente) debía idear un hechizo tan astuto que ningún
+acto de bondad pudiera romperlo jamás. Estaba sacándose piojos
+de su larga barba, tarde una noche, cuando estalló en risas.
+La convertiría en algo... repugnante.
 
- "I will make her into a frog." he laughed, then frowned. No
-... that had been done. People might expect it and go
-around, like mindless idiots, seeking frogs, hoping to earn a
-kings ransom.
+ "La convertiré en una rana", se rio, y luego frunció el ceño.
+No... eso ya se había hecho. La gente podría esperarlo e iría
+por ahí, como idiotas sin cerebro, buscando ranas, esperando
+ganar el rescate de un rey.
 
- And then, a brilliant plan occurred to him.
+ Y entonces, se le ocurrió un plan brillante.
 
- "I will make her into a bug, an insect, a WORM ..." He
-almost choked on his wine. "Oh. How perfect.. I will make her
-into something so truly loathsome that she will spend the
-rest of her little bug life in terror of being squashed by the
-first person who sees her." He squealed and his rings jangled
-and his fat jiggled and he snorted wine out his nose in
-laughter. "Oh, how absolutely delicious ..."
+ "La convertiré en un bicho, un insecto, una LOMBRIZ...". Casi
+se ahogó con su vino. "Oh. Qué perfecto... La convertiré en
+algo tan verdaderamente detestable que pasará el resto de su
+vivida de bichito aterrorizada de ser aplastada por la primera
+persona que la vea". Chilló, sus anillos tintinearon, su grasa
+se sacudió y resopló vino por la nariz mientras reía. "Oh, qué
+absolutamente delicioso...".
 
- And that's exactly what he did. While King Caladan and his
-subjects scratched their heads in puzzlement, nobody saw a
-small fat white tree grub plop to the cobblestones beneath
-the main balcony and immediately curl up, glistening and
-quivering.
+ Y eso fue exactamente lo que hizo. Mientras el rey Caladan y
+sus súbditos se rascaban la cabeza confundidos, nadie vio a
+una pequeña larva de árbol, gorda y blanca, caer sobre los
+adoquines bajo el balcón principal y enroscarse de inmediato,
+brillante y temblorosa.
 
 
 
@@ -296,76 +305,79 @@ quivering.
 
 [/center]III.
 
- Einlea was terrified. What had happened? Well, she had seen
-enough of Loziard's magic to know what had happened. But
-why? Why would he do this to her? She didn't have long to
-ponder the question. A huge black hound, hundreds of times her
-size, ran to the cobblestone where she lay, and almost
-gobbled her with one slurp of his tongue. From somewhere, she
-found the wherewithal to roll out of his way and into the
-crevice between the stones. His HUGE slurpy tongue followed
-her, drooling and panting great hurricanes of hot awful
-breath down at her. But just as the tongue was about to lick
-her into the waiting stomach, the hound's owner yanked his
-massive chain and pulled the beast toward home.
+ Einlea estaba aterrorizada. ¿Qué había pasado? Bueno, había
+visto suficiente de la magia de Loziard para saber qué había
+ocurrido. ¿Pero por qué? ¿Por qué le haría esto a ella? No
+tuvo mucho tiempo para reflexionar sobre la pregunta. Un enorme
+sabueso negro, cientos de veces su tamaño, corrió hacia el
+adoquín donde ella yacía, y casi la engulle con un lametón de
+su lengua. De algún lugar, encontró los medios para rodar fuera
+de su camino y meterse en la grieta entre las piedras. Su
+ENORME lengua babosa la siguió, goteando y lanzando grandes
+huracanes de un aliento caliente y espantoso sobre ella. Pero
+justo cuando la lengua estaba a punto de llevarla al estómago
+que esperaba, el dueño del sabueso tiró de su pesada cadena y
+arrastró a la bestia hacia casa.
 
- It is true that Einlea, in her life as a human, was self
-indulgent and not inclined to effort or resource, but that
-was merely because she had no need of either. In the
-following days, she had cause to discover plenty of both
-within her. After the incident with the hound, she knew she must
-go far away from people and dogs. And she knew what kinds of
-creatures dined on grubs, too. She slept out of sight under
-leaves, in places where grubs would not likely be sought.
+ Es cierto que Einlea, en su vida como humana, era indulgente
+consigo misma y no estaba inclinada al esfuerzo ni al ingenio,
+pero eso era simplemente porque no tenía necesidad de ninguna
+de las dos cosas. En los días siguientes, tuvo motivos para
+descubrir mucho de ambos dentro de ella. Después del incidente
+con el sabueso, supo que debía alejarse de la gente y los
+perros. Y sabía qué tipo de criaturas se daban banquetes con
+larvas también. Durmió fuera de la vista bajo las hojas, en
+lugares donde probablemente no se buscarían larvas.
 
- Even so, Einlea's days were filled with terror and
-adventure. There were circling hawks by day and owls by
-night. A bear, tearing at a rotting tree trunk, gobbled
-grubs, indistinguishable from Einlea, by the hundreds, as she
-watched in horror from behind a nearby rock. The smallest
-stream was now an enormous, gushing torrent, to be crossed
-in a nutshell under the greatest of peril. Einlea passed
-these tests, along with many others, and she passed them
-well.
+ Aun así, los días de Einlea estuvieron llenos de terror y
+aventuras. Había halcones sobrevolando de día y búhos de noche.
+Un oso, desgarrando un tronco de árbol podrido, devoró larvas,
+indistinguibles de Einlea, por cientos, mientras ella observaba
+con horror desde detrás de una roca cercana. El arroyo más
+pequeño era ahora un torrente enorme y brotante, que debía ser
+cruzado en una cáscara de nuez bajo el mayor de los peligros.
+Einlea pasó estas pruebas, junto con muchas otras, y las pasó
+bien.
 
- It was on her tenth such day that a clumsy boot kicked aside
-the piece of bark under which she had sought shelter from the
-sun. Blinded by the sudden light, she heard an exclamation
-from high above. Then, before she could react, two fingers
-dropped from the sky and plucked her up and deposited her
-firmly inside a huge fist.
+ Fue en su décimo día cuando una bota torpe apartó el trozo de
+corteza bajo el cual había buscado refugio del sol. Cegada por
+la luz repentina, escuchó una exclamación desde lo alto. Luego,
+antes de que pudiera reaccionar, dos dedos cayeron del cielo,
+la arrancaron y la depositaron firmemente dentro de un puño
+enorme.
 
- Ten days ago, Einlea would have been paralysed with
-terror. But that was ten days ago.  Her mind raced. "Who is
-this clumsy idiot, anyway??" she thought,  "and what on
-earth does he want with a tree grub? At least he didn't squash
-me on the spot. That's encouraging, isn't it? So he must be
-here to rescue me.."
+ Hace diez días, Einlea se habría quedado paralizada de terror.
+Pero eso fue hace diez días. Su mente corría. "¿Quién es este
+idiota torpe, de todos modos?", pensó, "¿y qué demonios quiere
+con una larva de árbol? Al menos no me aplastó en el acto. Eso
+es alentador, ¿no? Así que debe estar aquí para rescatarme...".
 
- She wriggled and squirmed in his fist until she could see his
-face, high above her, between two of his fingers. "Ugh. A
-beard. If I'm going to be rescued, why can't it be by a fine
-young prince?" But it then occurred to her that she was speaking from old habit. "I wonder how many of those foppish boys
-could have survived these past ten days?" She laughed,
-thinking of them. "Not many, I bet. Those who wouldn't have
-curled up and died immediately would, by now, be
-whimpering and crying for their mothers." She looked at
-Kieran again. "Well ... maybe he would look better if I
-wasn't looking straight up his nostrils. Ouch.. Why isn't he
-more careful with me??"
+ Se retorció y se escabulló en su puño hasta que pudo ver su
+rostro, muy por encima de ella, entre dos de sus dedos. "Ugh.
+Una barba. Si voy a ser rescatada, ¿por qué no puede ser por
+un apuesto joven príncipe?". Pero entonces se le ocurrió que
+estaba hablando por vieja costumbre. "Me pregunto cuántos de
+esos chicos petimetres habrían sobrevivido estos últimos diez
+días". Se rio, pensando en ellos. "No muchos, apuesto. Los que
+no se habrían enroscado y muerto de inmediato estarían, a estas
+alturas, lloriqueando y llamando a sus madres". Miró a Kieran
+de nuevo. "Bueno... tal vez se vería mejor si no estuviera
+mirando directamente hacia sus fosas nasales. ¡Ay!... ¿Por qué
+no tiene más cuidado conmigo?".
 
- And then it occurred to Einlea that, if this oaf were truly
-rescuing her, he probably would have said something to her.
+ Y entonces se le ocurrió a Einlea que, si este patán realmente
+la estuviera rescatando, probablemente le habría dicho algo.
 
- "Uh-oh." Einlea's heart raced and she started wriggling
-furiously , imagining the worst of all possible deaths. "He
-must be going fishing."
+ "Uh-oh". El corazón de Einlea se aceleró y empezó a retorcerse
+furiosamente, imaginando la peor de todas las muertes
+posibles. "Debe ir de pesca".
 
- Einlea couldn't do much in her current state, but she could
-spit. And spit she did. In quantities unimaginable for so
-small a grub. She spit and spit and spit until her tiny
-grub mouth was too dry to spit another drop. She felt
-Kieran's hand squirming and thought, "It's working.."
+ Einlea no podía hacer mucho en su estado actual, pero podía
+escupir. Y escupió. En cantidades inimaginables para una larva
+tan pequeña. Escupió y escupió y escupió hasta que su diminuta
+boca de larva estuvo demasiado seca para escupir otra gota.
+Sintió la mano de Kieran retorcerse y pensó: "Está
+funcionando...".
 
 
 
@@ -373,54 +385,61 @@ Kieran's hand squirming and thought, "It's working.."
 
 [/center]IV.
 
- Kieran was fair disgusted. Twas bad enough that he had to
-touch the slimy thing, but now it was oozing something and
-becoming truly revolting. Finally, just before he reached
-the robin's oak, he could take it no longer. He stopped and
-examined the creature in his hand. White and plump and
-glistening, it was, in truth, a repellent creature. Yet the
-poor thing was obviously terrified. It gazed up at him with
-what he imagined to be minuscule grub eyes, pleading.
-Kieran thought of the caterpillar and the earthworm, and his
-heart gave in. Heaving a great resigned sigh, he found a nice
-clean root and placed the grub upon it.
+ Kieran estaba bastante disgustado. Ya era bastante malo tener
+que tocar la cosa viscosa, pero ahora estaba supurando algo y
+volviéndose verdaderamente repugnante. Finalmente, justo antes
+de llegar al roble de los petirrojos, no pudo aguantar más. Se
+detuvo y examinó a la criatura en su mano. Blanca, regordeta y
+brillante, era, en verdad, una criatura repelente. Sin embargo,
+la pobre cosa estaba obviamente aterrorizada. Lo miraba con lo
+que él imaginaba que eran minúsculos ojos de larva, suplicantes.
+Kieran pensó en la oruga y en la lombriz de tierra, y su
+corazón cedió. Lanzando un gran suspiro de resignación, encontró
+una raíz bonita y limpia y colocó a la larva sobre ella.
 
- And thus was Loziard's spell broken.
+ Y así se rompió el hechizo de Loziard.
 
- None could have been more astonished than Einlea when she
-unexpectedly grew to her former size, except, perhaps for
-Kieran, who nearly died of fright. He was no more than
-catching his breath when Einlea regained her wits. Raising her
-index finger, warning  Kieran not to say even ONE word,
-Einlea snatched Kieran's coat to cover herself. Then, with
-fire in her eyes, and as much dignity as she could muster, she
-was off to Trowbridge, leaving Kieran to stare, open-
-mouthed, at her departing figure.
+ Nadie pudo estar más asombrado que Einlea cuando creció
+inesperadamente hasta su tamaño anterior, excepto, tal vez, por
+Kieran, que casi se muere del susto. Apenas estaba recuperando
+el aliento cuando Einlea recobró sus sentidos. Levantando su
+dedo índice, advirtiendo a Kieran que no dijera ni UNA sola
+palabra, Einlea arrebató el abrigo de Kieran para cubrirse.
+Luego, con fuego en sus ojos y tanta dignidad como pudo reunir,
+partió hacia Trowbridge, dejando a Kieran mirando, con la boca
+abierta, a su figura que se alejaba.
 
- Einlea knew she could not simply enter the city and
-confront Loziard. The moment he saw her, he would but cast another enchantment upon her. So, disguising
-herself as a shepherd, she found an abandoned house on the
-moors and began to make her plans. What happened next is a
-tale worth hearing. But it is a tale for another evening.
-Indeed, it is a tale to be told over many an evening, and
-many a good pot of ale.
+ Einlea sabía que no podía simplemente entrar en la ciudad y
+enfrentarse a Loziard. En el momento en que la viera, no haría
+más que lanzarle otro encantamiento. Así que, disfrazándose de
+pastor, encontró una casa abandonada en los páramos y comenzó
+a trazar sus planes. Lo que ocurrió después es un relato digno
+de ser escuchado. Pero es un relato para otra noche. De hecho,
+es un relato para ser contado durante muchas noches, y muchas
+buenas jarras de cerveza.
 
 
 
- And what of the baby robins? Having no alternative, Kieran
-climbed the tree and took from his pack his last piece of fatty
-mutton. Tearing it into small shreds, he gave it to the
-grateful mother robin, who fed it to her family.
+ ¿Y qué hay de los bebés petirrojos? Al no tener alternativa,
+Kieran trepó al árbol y sacó de su mochila su último trozo de
+cordero graso. Desgarrándolo en pequeñas tiras, se lo dio a la
+agradecida madre petirrojo, quien alimentó a su familia.
 
- Upon returning to the ground, Kieran looked first toward
-Fairtree, his former destination, then, grinning, set off after the most surprising young lady, for whom he now had many
-questions. "Who knows ..." he called back to the robins, "It
-may be fate. And besides, I need my coat."
+ Al regresar al suelo, Kieran miró primero hacia Fairtree, su
+destino anterior, y luego, sonriendo, partió tras la joven más
+sorprendente, para quien ahora tenía muchas preguntas.
+"Quién sabe...", les gritó a los petirrojos, "Puede que sea el
+destino. Y además, necesito mi abrigo".
 
- He was heard, late that evening, far down the road, singing:
+ Se le escuchó, tarde esa noche, mucho más adelante en el
+camino, cantando:
 
- "Oh, the maidens of Trowbridge are passing fair ...  
-...with breasts like melons, and flaxen hair ..."
+ "Oh, las doncellas de Trowbridge son hermosas al pasar...
+ ...con pechos como melones y cabello de lino..."
+
+
+
+
 
 
 

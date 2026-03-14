@@ -1,641 +1,572 @@
-Title: Fools' Ebony, Part the Threeth
+Title: Ébano del tonto, tercera parte
 Author: Frincheps
 IsNaughty: True
 Price: 317
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]Fools' Ebony,
+[/center]Ébano del tonto,
 
-[/center]Part the
+[/center]Parte la
 
-[/center]Threeth
-
-
+[/center]Tercerera
 
 [/font=4]
 
-
-
 [/center]
 
- Dramatis Personae
+Reparto
 
- Prologue The Adventurer, A Dark Elf Rascal Komon, A Priest
-of Akatosh Lheban, Another Priest of Akatosh Epilogue Stete, A
-Priest of Julianos Raic, Another Priest of Julianos Shub, A
-Mage Shub, A Different Mage of the Same Name Nephron, A
-Somewhat Sleazy Merchant 5 Armorers Ortho Crunn, Husband of
-Millie A Lusty Contessa Millie, Innkeep and Philosopher
-Gurnsey, Bovine Wench Assorted Wenches and Cads of the
-Taverns Soldiers Dwarves Giants
+Prólogo El Aventurero, un Bribón Elfo Oscuro Komon, un Sacerdote
+de Akatosh Lheban, otro Sacerdote de Akatosh Epílogo Stete, un
+Sacerdote de Julianos Raic, otro Sacerdote de Julianos Shub, un
+Mago Shub, un Mago Diferente del Mismo Nombre Nephron, un
+Mercader algo Sórdido 5 Armeros Ortho Crunn, esposo de
+Millie Una Condesa Lúbrica Millie, Posadera y Filósofa
+Gurnsey, Moza Bovina Mozas variadas y canallas de las
+tabernas Soldados Enanos Gigantes
 
+Parte la Tercerera - En el Gremio de Magos, de uno
+a tres días después
 
+(Entra el Prólogo)
 
- Part The Threeth - In The Mages' Guild, One                    to
-Three Days Later
+Prólogo: Estamos ahora en el punto medio
+de nuestra inconexa epopeya. Si acaban
 
- (Enter Prologue)
+de llegar, se han perdido
 
- Prologue:   We are now at the halfway point of             of
-our disjointed epic. If you are
+poco. El Aventurero, nuestro pícaro
 
+Elfo Oscuro, se ha unido a un
 
-    just arriving, you have missed
+cuadripartito (eso es un triunvirato
 
+más uno) de sacerdotes decididos a
 
-    little. The Adventurer, our rogue
+descubrir un metal ardiente llamado
 
+Ébano del Tonto y hacerse ricos.
 
-    Dark Elf, has joined with a
+Los sacerdotes le han dado a nuestro héroe
 
+algo de oro para sobornar mercaderes,
 
-    quadripartite (that's a triumvirate
+pero las únicas personas que saben dónde
 
+está el Ébano del Tonto son los magos
 
-    plus one) of priests intent on
+del Gremio de Magos. Como señaló el Epílogo
 
+al final de la Segunda Parte,
 
-    discovering a burning metal called
+no existe tal cosa como el Ébano del Tonto
 
+y el Ébano real no se extrae en minas.
 
-    Fools' Ebony and becoming wealthy.
+Algo que nuestro dramaturgo
 
+aparentemente no investigó. Bueno,
 
-    The priests have given our hero
+acéptenlo como alta fantasía, si
 
+quieren. O lo que sea. ¡Escuchen!, aquí
 
-    some gold for bribing merchants,
+viene nuestro héroe ahora. Imaginen el
 
+miasma (si esa es la palabra que busco)
 
-    but the only people who know where
+de elixires mágicos, calderos burbujeantes,
 
+bolas flotantes de chismes brillantes.
 
-    the Fools' Ebony is are the mages
+Y ahora, el Prólogo debe partir.
 
+(Entran el Aventurero y Shub)
 
-    of the Mages' Guild. As the Epilogue
+Aventurero: ¡Hola! ¿Hay alguien por aquí?
 
+Shub: Por aquí, joven, en la esquina ...
 
-    pointed out at the end of Part the
+Aventurero: Buenos días. ¿Le llamo ... Shub ..?
 
+Shub: Oh sí, Shub es mi nombre, Shub es ... ¿Cómo
 
-    Twoth, there is no such thing as
+diablos en Tamriel lo supo?
 
+Aventurero: ¿Podemos tener algo de ... privacidad ...?
+Tengo un asunto algo ... er ...
 
-    Fools' Ebony and real Ebony is not
+delicado que discutir ..?
 
+Shub: ¡No hay necesidad de privacidad aquí! ¡Nosotros los Magos no
 
-    mined. Something our playwrite
+escondemos nada!
 
+Aventurero: ¿Ébano del Tonto?
 
-    apparently did not research. Well,
+Shub: ¡Rápido, por esta puerta ..! Gira a la derecha ...
 
+Gira a la izquierda ... Ah ... solo déjame lanzar un hechizo de
 
-    accept it as high fantasy, if you
+privacidad a nuestro alrededor ...
 
+(Fuertes sonidos de chispazos) (Entra Shub)
 
-    will. Or whatever. Hark, here
+¡Bien! Ahora Señor -- Oh, por cierto, conozca
 
+a mi colega Mago, Shub.
 
-    comes our hero now. Imagine the
+Shub: Mmmm.
 
+Shub: Ahora, mencionó el Ébano del Tonto ..?
 
-    miasma (if that's the word I want)
+Aventurero: Bueno, me considero un poco
 
+experto en ébano. He tenido bastante yendo
 
-    of magical elixirs, bubbling
+y viniendo por mis manos en mi tiempo, así es ...
 
+Shub: Notamos que tiene un amuleto de ébano,
 
-    cauldrons, hovering balls of
+y una katana de ébano -- ¡de Relámpagos, nada
 
+menos! Y un cinturón de ébano ...
 
-    sparkling whatnot. And now, the
+...mmmm...
 
+Aventurero: ¡Quiten las manos de los juguetes, caballeros,
 
-    Prologue must depart.
+por favor!
 
- (Enter the Adventurer and Shub)
+Shub: Perdónenos -- pero apreciamos tanto
 
- Adventurer: Ho! Anyone around?
+objetos tan finos ...
 
- Shub:       Over here, young man, in the             corner ...      
- Adventurer: Morning. Do I call you ...             Shub ..?      
-Shub:       Oh yes, Shub is my name, Shub it             is ... How
-on Tamriel did you
+Shub: ... también los coleccionamos ...
 
+Aventurero: Bueno, el otro día, solo por casualidad
 
-    know?
+por supuesto, escuché casualmente a
 
- Adventurer: Can we have some ... privacy ...             I have
-a somewhat ... er ...                   delicate matter to discuss
-..?
+dos sacerdotes del Templo de ... er
 
- Shub:       No need for privacy here! We Mages do             not
-hide anything!
+... Stendarr, creo que era ... Estaban
 
- Adventurer: Fools' Ebony?
+un poco pasados de copas, creo,
 
- Shub:       Quick through this door ..!             Turn right ...
+un poco ruidosos, y nunca notaron
 
+que yo estaba merodeando -- quiero decir,
 
-    Turn left ...             Ah ... just let me throw a
-privacy
+parado -- allí. Estaban hablando sobre este
 
+Ébano del Tonto - material igual al real, solo que
 
-    spell around us ...
+sin magicka alguna. Ninguna. Pero arde
 
- (Loud zap sounds) (Enter Shub)
+como la madera, solo que más tiempo,
 
-             Good! Now Sir -- Oh, by the way, meet
+con más calor, sin humo, un calor agradable y constante.
 
+Shub: Sí ... hemos oído rumores similares.
 
-    my fellow Mage, Shub.
+Hemos visto un poco de ese material -- trozos
 
- Shub:       Mmmm.
+de un saco o dos que algún explorador
 
- Shub:       Now, you mentioned Fools' Ebony ..?
+loco trajo, ese tipo de cosas.
 
- Adventurer: Well, I fancy myself a bit of an            
-expert in ebony. Had quite a bit come
+¿Verdad, Shub?
 
+Shub: Oh - Oh sí, correcto, ese tipo de cosas ...
 
-    and go through my hands in my time, I             have ...
+correcto ...
 
- Shub:       We notice that you have an ebony             amulet,
-and an ebony katana -- Of
+(aparte)
 
+Debo recordar mantener el secreto,
 
-    Lightning, no less!  And an ebony
+sea cual sea.
 
+Aventurero: Bueno, estos sacerdotes tontos parecían
 
-    belt ...
+hablar como si supieran de una ubicación con
 
+montones, quiero decir pilas, de ese material --
 
-    ...mmmm...
+en algún lugar de las montañas Wrothgarian ...
 
- Adventurer: Hands off the toys, gentlemen,             please!
+Shub y Shub (Juntos): ¡Dónde! ¡Quién! ¿Dijeron? ¿Cómo?
 
- Shub:       Forgive us -- but we so appreciate             such
-fine items ...
+¿Cuándo? ¿Dónde? Shub: No dejó que supieran que estaba
 
- Shub:       ... collect them too ...
+escuchando, ¿verdad?
 
- Adventurer: Well, the other day, just by chance             of
-course, I just happened to hear
+Aventurero: ¡Por supuesto que no! ¿Por quién me toma,
 
+por un amante de los sacerdotes?
 
-    two priests of the Temple of ... er
+Shub: Cálmese, mi señor ... eso está
 
+mejor... solo no juegue tanto con esa
 
-    ... Stendarr, I think it was ...  They
+katana. Nos pone nerviosos.
 
+Shub: Sí, muy nerviosos ...
 
-    were a bit high in their cups, I
+Shub: Aquí, siéntese. Ahí. ¿Quiere un poco de vino caliente?
 
+¿No? Oh bueno, tendré que terminármelo
 
-    think, a bit loud, and never noticed
+yo mismo.
 
+Shub: Así que parecían conocer la ubicación.
 
-    me skulking -- I mean, standing --
+(aparte) Hmmmm. Esto significa que debemos actuar rápido,
 
+pronto, con celeridad y gran
 
-    there. They were going on about this
+rapidez.
 
+Aventurero: ¡Oh sí! Estaban hablando como si
 
-    Fools' Ebony - stuff like the real             thing, only
-no magicka at all. None.             But it burns like wood,
-only longer,
+fueran a traer un cargamento en unas pocas
 
+semanas o así ...
 
-    hotter, no smoke, nice even heat.
+Shub: ¡Oh, cielos! ¡Ay de mí! Ohhh...
 
- Shub:       Yes ... we have heard similar rumors.             Seen
-a bit of that stuff -- lumps
+Shub: Ahora bien. Parece que sabe bastante
 
+sobre este Ébano del Tonto. Y se da
 
-    from a sack or two that some crazed             delver
-dragged up, that kind of thing.
+cuenta del potencial -- solo piense,
 
+grandes fuegos cálidos en todas nuestras salas de estudio ...
 
-    Right, Shub?
+Shub y Shub (Juntos): ... Vendiéndolo al Palacio... vendiéndolo
 
- Shub:       Oh - Oh yes, right, that kind of             thing ...
-right ...
+a esos estúpidos Alquimistas ... el
 
+Gremio de Armeros compraría mucho ...
 
-    (aside)
+... mantener a nuestros familiares agradables y cálidos ...
 
+... y nuestras posaderas ..! ... solo piense
 
-    I must remember to keep the secret,
+cómo a las Seductoras Daedra les encanta un buen
 
+fuego cálido ... Dando trozos humeantes a los
 
-    whatever it is.
+campesinos para calentar sus chozas -- a
 
- Adventurer: Well, these fool priests seemed to             talk
-as if they knew a location for             lots, I mean piles,
-of that stuff --
+cambio de algo de oro, por supuesto ...
 
+Shub: ...solo piense en todo ese oro...
 
-    somewhere up in the Wrothgarians ...
+Shub: El problema es, hijo - nos gustaría traer ese
 
- Shub and Shub (Together): Where! Who!  Did they say? How?
-When?             Where?   Shub:       You didn't let them know you
-were             listening, did you?
+material por carros llenos, traerlo aquí abajo ...
 
- Adventurer: Of course not! What do you take me for,            
-a priest lover?
+Shub: Tener algún mercader de confianza ...
 
- Shub:       Calm yourself, my lord ... that's            
-better...just don't go fiddling with
+Shub: ¡Lanzarle un hechizo!
 
+Shub: ... Tener a algún mercader que actúe como
 
-    that katana so much. Makes us nervous.
+intermediario para nosotros ...
 
- Shub:       Yes, nervous, very ...
+Aventurero: Pero ... ¿entonces por qué la demora, caballeros?
+Shub: Parece un tipo honesto. Se lo
 
- Shub:       Here, sit down.               There. Want some mulled
-wine?               No? Oh well, just have to finish it
+diremos -- eso sí, si deja escapar una palabra
 
+de esto, habrá un Daedra de Fuego en
 
-    myself.
+su cama ... ¡pero nada de amenazas entre
 
- Shub:       So they seemed to know the location.            
-(aside)             Hmmmm. This means we have to act fast,
+caballeros, de acuerdo!
 
+Aventurero: Muy bien -- seré el alma misma
 
-    quickly, speedily, and with great
+de la discreción.
 
+Shub: Verá, sabemos dónde está el material,
 
-    rapidity.
+carros y carros de él. Pero no podemos
 
- Adventurer: Oh yes! They were talking like they             were
-going to get a load in a few
+ir y volver ...
 
+Shub: No somos del tipo que gusta del aire libre.
 
-    weeks or so ...
+Shub: Mucho más seguro aquí en la ciudad.
 
- Shub:       Oh My! Oh Dear Me! Ohhh...
+Shub: Mucho más cálido también.
 
- Shub:       Now then. Seems you know a fair amount            
-about this Fools' Ebony.  And you
+Shub: Piense en todos los suministros que tendríamos
 
+que llevar.
 
-    realize the potential -- just think,
+Shub: Todas esas cosas desagradables que hay ahí fuera.
 
+Shub: ¿Sabía que las seductoras no vienen a
 
-    big warm fires in all our study rooms ...
+nosotros en la naturaleza?
 
- Shub and Shub (Together): ... Selling it to the Palace...
-selling             it to those stupid Alchemists ... the
+Shub: Tendríamos que contratar guardias, para mantener
 
+alejados a esos horribles sacerdotes.
 
-    Armorer's Guild would be good for a lot ...             
-... keep out familiars nice and warm ...             ... and our
-posteriors ..! ... just think
+Shub: Y el estrés de tratar con todos esos
 
+tipos groseros ... los
 
-    how Daedra Seducers love a nice warm
+Mercaderes.
 
+Shub: Los Armeros.
 
-    fire ... Giving smoldering lumps to the
+Shub: La Realeza.
 
+Aventurero: Mmm. Creo que comprendo. Quieren a
 
-    peasants to warm their hovels with -- in
+algún -- tipo héroe-explorador experimentado,
 
+alguien acostumbrado a la naturaleza -- para que vaya a
 
-    return for some gold, of course ... 
+buscarlo por ustedes, establezca una línea de suministro,
 
- Shub:       ...just think of all that gold...
+y demás ..?
 
- Shub:       Trouble is, son - we would like to get that            
-stuff by the cartload, bring it down here ...
+Shub: Exactamente. Y búsquenos a un mercader
 
- Shub:       Have some trustworthy merchant ... 
+agradable y útil. Alguien a quien podamos controlar.
 
- Shub:       Put a spell on him!
+Shub: Con un gran, gran almacén, servicio de
 
- Shub:       ... Have some merchant act as sort of,            
-middleman, for us ...
+entrega, ese tipo de cosas ...
 
+Aventurero: Bueno, caballeros. ¡Permítanme ofrecer mis
 
-     Adventurer: But ... then why the delay, gentlemen?  
-Shub:       You seem like an honest fellow.  We'll            
-tell you -- mind you, you let out a word
+servicios! Siempre les he admirado, señores
 
+Magos -- tan listos, tan agudos. No hay quien les
 
-    of this, and there will be a Fire Daedra
+engañe en nada, ¿verdad?
 
+Shub: No, nadie nos engaña ...
 
-    in your bed ... but no threats between
+(Entra el Prólogo)
 
+Prólogo: Esto, damas y caballeros, es ironía.
 
-    gentlemen, right!
+(Sale el Prólogo) Aventurero: Les diré qué, probablemente pueda organizar
 
- Adventurer: Very well -- I shall be the very soul             of
-discretion.
+un mercader adecuado para ustedes. Aunque hará falta
 
- Shub:       You see, we know where the stuff it,            
-cartloads and cartloads of it.  But we
+algo de oro -- ¡esos ladrones conocen el valor de
 
+una pieza de oro! Por desgracia, mi último oro
 
-    can't get there and back ...
+me lo estafó un sacerdote ladrón, en algún
 
- Shub:       We are not the outdoorsy types.
+pueblucho al sur de aquí. Y perdí
 
- Shub:       Far safer here in town.
+un montón de cosas buenas en un naufragio
 
- Shub:       Much warmer too.
+justo antes de eso ...
 
- Shub:       Think of all the supplies we would             have to
-take.
+Shub: Bueno ... ya que ha aceptado ayudarnos
 
- Shub:       All those nasty things out there.
+... podemos sacar algo de oro
 
- Shub:       Did you know that seducers won't come             to us
-in the wilderness?
+de la tesorería, ¿no es así, Shub?
 
- Shub:       We'd have to hire guards, to keep             those
-awful priests away.
+Shub: ¡Oh! Oh sí, hay mucho allí ... siempre
 
- Shub:       And the strain of dealing with all             those
-coarse types ... the
+hacemos más ...
 
+Aventurero: Ahora bien, necesito saber aproximadamente dónde
 
-    Merchants.
+está este sitio, tengo que elegir la raza
 
- Shub:       The Armorers.
+adecuada de caballo, calcular mis suministros
 
- Shub:       The Royals.
+hasta la última gota, averiguar qué
 
- Adventurer: Mmm. I think I comprehend.  You want            
-some -- experienced explorer-hero type,
+armas podría necesitar ... suministros,
 
+como comida, cositas así
 
-    someone used to the wilderness -- to go             get it
-for you, set up a supply line,
+... el diámetro de las ruedas del carro en
 
+yurtas cuadradas ... puntos de emboscada para
 
-    so on ..?
+los sacerdotes, por si intentan subir
 
- Shub:       Exactly. And find us a nice, useable            
-merchant.  Someone we can control. 
+allí ... mmmmm ...
 
- Shub:       With a big, big warehouse, delivery            
-service, that kind of thing ...
+Shub: Le diré qué - aquí hay 500 de oro. Vaya y
 
- Adventurer: Well, gentlemen. Let me volunteer my            
-services! I have always admired you Mage
+empiece con los preparativos.
 
+Shub: Sí ... siempre podemos hacer más.
 
-    gentlemen -- so clever, so sharp. No
+Shub: (aparte, a Shub) ¡Cállate!
 
+(Shub lanza un hechizo a Shub que lo reduce a cenizas y
 
-    fooling you in anything, is there?
+luego lo reconstituye)
 
- Shub:       No, no fooling us ...
+(a todos) Discúlpenos ... por dónde iba ... Oh ...
 
- (Enter Prologue)
+consiga un mercader, guardias, carros, lo que
 
- Prologue:   This, ladies and gentlemen, is irony.
+crea que hará falta. Vuelva si
 
- (Exit Prologue)         Adventurer: Tell you what, I can
-probably arrange             a suitable merchant or you. Take
-some
+necesita más.
 
+Shub: Pero ¿qué pasa con esos sacerdotes?
 
-    gold though -- those thieves know the             value of a
-gold piece! As luck would
+Aventurero: Tengo una idea o dos al respecto. Me
 
+haré amigo de ellos - tal vez contrate
 
-    have it, my last gold was swindled off             me by a
-thieving priest, in some
+a un par de buenas chicas de la farola, traiga
 
+unos cuantos cajones de vino sagrado ... Los
 
-    little town south of here. And I lost
+tendré comiendo de mi mano en
 
+poco tiempo. Y si me muestran dónde está
 
-    a lot of good stuff in a shipwreck
+este Ébano del Tonto ... bueno, puedo
 
+despistarlos, enviarlos directamente
 
-    just before that ...
+a la guarida de un troll o algo así.
 
- Shub:       Well ... since you have agreed to             help us
-... we can spare some gold
+Shub: ¡Usted es el experto! Aquí, deje que se lo
 
+muestre en un mapa ... y no hace falta que
 
-    from the treasury, can't we, Shub?
+mencione a los Daedras de Fuego, ¿verdad?
 
- Shub:       Oh! Oh yes, lots there ... always             make more
-...
+Aventurero: Así que ... parece estar ... hmmmm ... a solo
 
- Adventurer: Now, I do need to know roughly where             this
-site is, got to pick the right
+treinta días de allí, en esta época del año.
 
+Quizá cuarenta de vuelta, con la carga. Déjenme
 
-    breed of horse, calculate my supplies
+estudiar esto un poco más ...
 
+Shub: No puede llevárselo consigo, por supuesto ...
 
-    to the last drop, figure out what
+no queremos que esto se sepa ahora ...
 
+Aventurero: Oh no. Está bien. Mire, déjeme
 
-    weapons I might need ... supplies,
+tener un poco más de oro. Voy a necesitar
 
+algunos carros de gran resistencia. Vea aquí, esta
 
-    like food, little things like that
+sección ... cortada por todos estos arroyos
 
+... hmmmm ... la confusión allí será
 
-    ... diameter of the cart wheels in
+algo terrible ... Oh, y estas ruinas, llenas de fantasmas, apuesto
 
+... hmmmm ... y este paso, lleno
 
-    square yurts ... ambush points for
+de sustos también ...
 
+Shub: Si usted lo dice ... Vaya, parece que
 
-    the priests, in case they try to get
+elegimos al hombre adecuado, ¡verdad, Shub!
 
+Shub: Oh sí, ciertamente.
 
-    up there ... mmmmm ...
+Aventurero: Entonces -- ¿por qué no hago los preparativos, y
 
- Shub:       Tell you what - here is 500 gold. Go             get
-things started.
+vuelvo con ustedes en ... er ... digamos una
 
- Shub:       Yes ... we can always make some more.
+semana? Digan -- ¿seguros que no quieren
 
- Shub:       (aside, to Shub)             Shut up!
+venir conmigo? Después de todo, no hay
 
- (Shub fires a spell at Shub that burns him to a cinder and
-then reconstitutes him)
+nada como la vida en la naturaleza.
 
-             (to all)             Excuse us ... where was I ... Oh ... 
-           get a merchant, guards, carts, whatever
+Despertar con el sol, sacudirse
 
+la escarcha. Cazar un orco para el
 
-    you think it will take. Come back if
+desayuno - ¿alguna vez han comido tripas de orco
 
+fritas sobre madera apestosa? ¡Oh, eso es un
 
-    you need more.
+manjar! ¡Revisar cada arroyo en busca de
 
- Shub:       But what about those priests?
+arañas gigantes muertas - o vivas!
 
- Adventurer: I've an idea or two there. Let me             get
-friendly with them - maybe hire             a couple of good
-lamppost girls, lay             in a few cases of holy wine ...
-I'll             have them eating out of my hand in             no
-time. And if you show me where             this Fools' Ebony is
-... why, I can             misdirect them, send them straight
+¡Cecina de diablillo para el almuerzo! ¡Escanear las
 
+crestas en busca de dragonlings! ¡Hacer
 
-    into an trolls' den or something.
+guardia contra Daedras de Hielo en una
 
- Shub:       You're the expert!  Here, let me show             you on
-a map ... and I don't need to
+tormenta de nieve cegadora! ¡Oh, qué vida!
 
+Shub y Shub (Juntos): No, no ... nosotros, mejor nos quedamos aquí
 
-    mention Fire Daedras, do I?
+en el Gremio. Tenemos nuestros deberes después
 
- Adventurer: So ... seems to be ... hmmmm ... only            
-thirty days there, this time of year.             Maybe forty
-back, with the loads. Let
+de todo ... alguien tiene que cuidar la
 
+tienda ... alguien tiene que pasar la
 
-    me study this a bit more ...
+palabra a clientes seleccionados ... No, gracias
 
- Shub:       Can't take it with you, of course ...             don't
-want this getting out now ...
+amable Señor, suena como una
 
- Adventurer: Oh no. That's fine.  Look, let me             have a
-bit more gold. Going to need
+vida encantadora, pero creo que mejor
 
+estamos aquí ... sí,
 
-    some heavy-duty carts. See here, this             section
-... cut by all these washes
+ciertamente ...
 
+Aventurero: Una lástima, caballeros. Bueno, me
 
-    ... hmmmm ... the flummox there will
+pondré a ello entonces. Y no se preocupen si
 
+me ven con esos sacerdotes --
 
-    be something terrible ... Oh, and             these ruins,
-full of ghosts, I bet
+¡tengo que engañarlos y despistarlos,
 
+no es cierto!
 
-    ... hmmmm ... and this pass, just full
+Shub: ¡Una semana, entonces!
 
+(Salen Shub, el Aventurero y Shub) (Entra el Epílogo)
 
-    of willies too ...
+Epílogo: Shub y Shub, damas y caballeros.
 
- Shub:       If you say so ... My, seems that we             picked
-the right man, right, Shub!
+Magos inverosímilmente retrasados, sí, pero tal vez haya
 
- Shub:       Oh yes, indeed.
+algo más en ellos de lo que este acto sugiere. ¿Creen
 
- Adventurer: So -- why don't I make arrangements,             get
-back to you in ... er ... say a
+que sí, tal vez? Bueno, si no están
 
+en el teatro para la Cuarta Parte, no lo sabrán
 
-    week?             Say -- sure that you don't want to
+con certeza, ¿verdad? No olviden dejar propina a sus
 
+mozas y piensen en eso mientras
 
-    come with me. After all, there's
+cambiamos el escenario.
 
+Así termina la Tercera Parte
 
-    nothing like the wilderness life.
 
-
-    Waking up with the sun, shaking off
-
-
-    the frost. Catching an orc for              breakfast - ever
-have orc guts
-
-
-    fried over stinkwood? Oh, that's a
-
-
-    treat! Checking each stream for
-
-
-    dead giant spiders - or live ones!
-
-
-    Imp jerky for lunch! Scanning the
-
-
-    ridges for dragonlings! Standing
-
-
-    guard against Ice Daedra in a
-
-
-    blinding snowstorm! Oh, what a life!
-
- Shub and Shub (Together): No, no ... we, we better stay here  
-          at the Guild. Got our duties after
-
-
-    all ... someones got to mind the
-
-
-    store ... someones got to get the
-
-
-    word out to selected customers ...             No, thank
-you kind Sir, it does
-
-
-    sound such a lovely life, but I
-
-
-    think we best be here ... yes,
-
-
-    indeed ...
-
- Adventurer: A pity, gentlemen. Well, I'll be            
-about it then. And don't worry if
-
-
-    you see me with those priests --
-
-
-    got to mislead and misdirect them,
-
-
-    haven't I!
-
- Shub:       One week, then!
-
- (Exeunt Shub, the Adventurer, and Shub) (Enter Epilogue)
-
- Epilogue:   Shub and Shub, ladies and gentlemen.            
-Implausibly retarded mages, yes, but  
-    perhaps there's
-something more to
-
-
-    them than this act suggests. Do you
-
-
-    think so, maybe? Well, if you are
-
-
-    not in the theater for Part the
-
-
-    Fourth, you won't know for certain,
-
-
-    will you? Don't forget to tip your
-
-
-    wenches and think on that while we
-
-
-    change the set.
-
- So Endeth Part the Three
-
- 

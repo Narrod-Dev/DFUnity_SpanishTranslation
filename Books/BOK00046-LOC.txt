@@ -1,377 +1,337 @@
-Title: The Real Barenziah, Part IV
-Author: Anonymous
+Title: La Verdadera Barenziah, Parte IV
+Author: Anónimo
 IsNaughty: True
 Price: 580
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]The Real
+[/center]La Verdadera
 
 [/center]Barenziah
 
-[/center]Part IV
+[/center]
 
-
+[/center]Parte IV
 
 [/font=4]
 
-
-
-[/center] Barenziah fidgeted impatiently while Therris sorted through
-the papers in the desk. He was being meticulous and
-methodical, careful to replace everything just as he'd
-found it. They'd entered a nobleman's house, leaving Straw
-outside as a lookout. Therris had said it was a simple job
-but very secret. He hadn't even wanted to bring any other
-Guild members along. He said he knew he could trust Berry and
+[/center] Barenziah se movía impaciente mientras Therris revisaba los
+papeles en el escritorio. Él estaba siendo meticuloso y
+metódico, cuidando de volver a colocar todo tal como lo había
+encontrado. Habían entrado en la casa de un noble, dejando a Straw
+afuera como vigía. Therris había dicho que era un trabajo sencillo
+pero muy secreto. Ni siquiera había querido traer a otros
+miembros del Gremio. Dijo que sabía que podía confiar en Berry y
 Straw.
 
- "Tell me what you're looking for and I'll find it," Berry
-whispered. Therris' night sight wasn't as good as hers and he
-didn't want to make a light. Berry had never been in such a
-luxurious place. She gazed around with wonder as they'd made
-their way through the huge echoing downstairs rooms, but
-Therris didn't seem interested in anything but the desk in the
-small book-lined study on the upper floor.
-
- "Ssss't," he hissed angrily.
-
- "Someone's coming!" Berry said, a moment before the door
-opened and two dark figures appeared. Therris gave her a
-violent shove toward them and sprang away toward the window.
-Barenziah's muscles went rigid; she couldn't move or even
-speak. She watched helplessly as a dark figure leaped after
-Therris. There were two quick, silent blue flares of light,
-then Therris folded in a still heap. Outside the study the
-house had come alive with footsteps and voices calling and
-the clank of armor.
-
- The big man, a dark elf, half lifted, half dragged Therris
-to the door and thrust him into waiting arms. A jerk of the
-elf's head sent his robed companion after him. The elf came
-over to inspect Barenziah, who was once again able to move,
-although her head throbbed maddeningly when she did so.
-
- "Open your shirt, Barenziah," the elf said.
-
- Barenziah gaped at him and clutched it closed.
-
- "You are a girl, aren't you, Berry?" he said softly. "You
-should have stopped dressing as a boy a few months ago, you
-know. You were only drawing attention to yourself. And
-calling yourself Berry! Is your friend Straw too stupid to
-remember anything else?"
-
- "It's a common elf name," Barenziah defended herself.
-
- The man shook his head sadly. "Not among dark elves it isn't,
-my dear, but you really don't know much about dark elves,
-do you? I regret that, but it couldn't be helped. No
-matter. I'll remedy it."
-
- "Who are you?" Barenziah demanded.
-
- "So much for fame," the man shrugged, smiling wryly. "I am
-Symmachus, my lady, and it's a merry chase you've led me,
-although I'd guessed you'd head for Morrowind. You had a bit
-of luck. A body was found in Whiterun that was thought to be
-Straw's so we stopped looking for the pair. That was
-careless of me, yet I'd not have thought you'd have stayed
-together this long."
-
- "Where is he? Is he all right?"
-
- "Oh, he's fine for now. In custody, of course. You -- care
-for him, then?" he stared at her with curiosity out of red eyes
-that were so strange to her, except in her own seldom-seen
-image.
-
- "He's my friend," Barenziah said. The words came in a tone
-that sounded dull and hopeless in her own ears. Symmachus! A
-general in the Imperial Army, said to have the friendship
-and the ear of Tiber Septim himself. 
-
- "Ai. You seem to have several unsuitable friends, if you'll
-forgive my saying so, my lady." As they talked the bustle
-and flurry in the house had died away, although she could
-hear people, presumably the residents, whispering together
-not far off. The tall elf seated himself on a corner of the
-desk. He seemed quite relaxed and prepared to stay awhile. 
-
- Several? "W-what's going to happen to them? To me?"
-
- "Ah. As you know this house belongs to the commander of the
-Imperial troops in this area." Barenziah gasped and
-Symmachus looked up sharply. "You didn't know? You are
-rash, even for seventeen. You must always know what it is
-you do."
-
- "B-but the G-guild w-wouldn't -- " Barenziah was trembling.
-The Thieves' Guild would never have attempted a mission that
-involved Imperial policies. No one dared oppose Tiber
-Septim, at least no one she knew of. 
-
- "I daresay. It's unlikely that Therris had Guild approval
-for this job. I wonder--" Symmachus examined the desk
-carefully, pulling out its drawers. He selected one, placed
-its contents on the desk top and removed the false bottom.
-There was a folded sheet of paper inside. It seemed to be a
-map of some sort. Barenziah edged closer to see it.
-Symmachus held it away from her, laughing. "Rash indeed!"
-He glanced it over, then folded and replaced it.
-
- "You advised me to seek knowledge."
-
- "So I did, so I did." Suddenly he seemed to be in high good
-humor. "We must be going, my dear lady."
-
- He shepherded her to the door, down the stairs and out into the
-night air. No one was about. Barenziah's eyes darted to the
-shadows. She wondered if she could outrun him, or elude him
-somehow.
-
- "You're not thinking of attempting to escape, are you?
-Don't you want to hear what my plans for you are first?" He
-sounded a bit hurt.
-
- "Yes."
-
- "Perhaps you'd rather hear about your friends first."
-
- "No." He looked pleased. It was the answer he wanted, but it
-was also the truth. While Barenziah was concerned for her
-friends, especially Straw, she was far more concerned for
-herself.
-
- "You will take your rightful place as Queen of
-Mournhold."
-
- Her heart leapt. It was really true then! 
-
- Symamchus explained that this had been his, and Tiber
-Septim's plan for her all along. That Mournhold, which had
-been under military rule for the dozen years since she had
-left was to be returned, gradually, to civilian
-government, under Imperial guidance, of course, and as a
-part of the Imperial Province of Morrowind.
-
- "But why was I sent to Darkmoor."
-
- "For safekeeping. Why did you run away?"
-
- Barenziah shrugged. "I saw no reason to stay. I should have
-been told."
-
- "You would have been by now. I had in fact sent for you to
-be removed to Imperial City to spend some time as a part of
-the Emperor's household. As for your destiny, it should have
-been obvious to you. Tiber Septim does not keep those he has
-no use for, and what else could you be that is of use to
-him?"
-
- "I know nothing of him or you."
-
- "Then know this: Tiber Septim rewards friend and foe alike
-according to their deserts."
-
- Barenziah chewed on that for a few moments. "Straw has
-deserved well of me and has never done anyone any harm. He is
-not a member of the Thieves' Guild. He came along to protect
-me. He earns our keep by running errands, and--"
-
- Symmachus waved her to silence. "I know all about Straw,"
-he said, "and about Therris. So? What would you?"
-
- "Straw wants a little farm. If I'm to be rich, then I would
-give that to him."
-
- "Very well. He shall have it. And Therris?"
-
- "He betrayed me," Barenziah said in a low voice. Therris
-should have told her the risks the job entailed. Further, he'd
-pushed her right into their foes' arms in an attempt to save
-himself.
-
- "Yes. And?"
-
- "Well, he should be made to suffer for it, shouldn't he?"
-
- "That seems reasonable. What form should the suffering
-take?"
-
- Barenziah balled her hands into fists. She'd like to beat and
-claw at the Khajiit herself, but that didn't seem very
-queenly. "A whipping. Would twenty stripes be too many do
-you think? I don't want to do him any permanent injury."
-
- "I shall arrange it."
-
- Barenziah spent two days in Symmachus' apartment during
-which she was kept very busy. There was a dark elf woman named
-Drelliane who saw to their needs, although she did not seem to
-be exactly a servant as she took her meals with them. Nor was
-she his wife. Drelliane seemed amused when Barenziah asked her
-about that. She simply said she was in Symmachus' employ and
-did whatever he asked of her. 
-
- With Drelliane's assistance several fine gowns and pairs of
-shoes were ordered for her, plus a riding habit and boots,
-along with other small necessities. Barenziah was given a
-room to herself. Symmachus was out a great deal. She saw him
-at most meals, but he said little about himself or what he
-had been doing, although he was cordial and polite, was
-quite willing to converse on most subjects, and seemed
-interested in anything she had to say. Drelliane was much the
-same. Barenziah found them pleasant enough, but hard to get
-to know, as Katisha would have put it. She felt an odd
-disappointment. These were the first dark elves with whom
-she'd associated closely. She had expected to feel
-comfortable with them, to feel, at last, that this was where
-she belonged. Instead she found herself yearning for her
-Nord friends, Katisha and Straw. When Symmachus told her
-they were to set out for Imperial City on the morrow, she
-asked if she could say goodbye to her friends.
-
- "Katisha?" he asked. "Well enough. I suppose I owe her
-something. She it was who led me to you by telling me of a
-lonely dark elf girl named Berry who need elven friends --
-and sometimes dressed as a boy. She has no association with
-the Thieves' Guild. And no one associated with the Thieves'
-Guild seems to know your true identity, save Therris. That is
-well. I prefer that your former Guild membership not be
-made public knowledge. You will speak of it to no one. It
-does not become an Imperial queen."
-
- "No one knows but Straw and Therris. They won't tell
-anyone."
-
- "No, they won't." He didn't know that Katisha knew then! 
-
- Straw came to their apartment the morning of their
-departure, and they were left alone in the parlor, although
-Barenziah knew that the other elves were well within hearing.
-Straw looked drawn and pale. They hugged one another
-silently for a few minutes. Straw's shoulders were shaking and
-tears were rolling down his cheeks, but he said nothing.
-
- Barenziah tried a smile. "So we both get what we want. I'm
-to be Queen of Mournhold and you'll be king of your own
-farm. I'll write you. You must find a scribe so you can
-write me, too." Straw shook his head sadly, and when Barenziah
-persisted, he opened his mouth and pointed inside, making an
-inarticulate noise. His tongue was gone! Barenziah
-collapsed onto a chair and wept noisily. 
-
- "Why?" she demanded of Symmachus, when Straw had been
-ushered away. "Why?"
-
- Symmachus shrugged. "He knows too much of you. He could be
-dangerous. At least he's alive, and he won't need his tongue
-to farm."
-
- "I hate you!" Barenziah screamed at him, then leaned over
-and vomited on the floor. She continued to revile him
-between intermittent bouts of nausea. He listened stolidly
-for some time, while Drelliane cleaned up after her.
-Finally, he told her to cease or he would gag her for the
-journey.
-
- They stopped at Katisha's house. Symmachus and Drelliane
-didn't dismount. All seemed normal but Barenziah was
-frightened as she knocked on the door. Katisha answered her
-knock. She'd obviously been weeping, but she embraced
-Barenziah.
-
- "Why are you crying?" Barenziah asked.
-
- "For Therris, of course. You haven't heard? He's dead. He was
-caught stealing from the commandant's house. Poor fellow,
-but it was so foolish of him. Oh, Barenziah, he was drawn and
-quartered this very dawn by the commandant's order. I went;
-he asked for me. It was terrible; he suffered so before he
-died. I'll never forget it. I looked for you and Straw but
-no one knew where you'd got to. That's Symmachus you're with,
-isn't it? You know, the moment I saw him, I thought, this is the
-one for Barenziah! I told him about you, you know."
-
- "Yes," Barenziah said. "Katisha, I love you, but please
-don't ever tell anyone else anything about me. Ever. Swear
-you won't. Especially not Symmachus. And look after poor
-Straw for me." Katisha promised, puzzled but willing.
-"Berry, it wasn't somehow because of me that Therris was
-caught? I never said anything about Therris to Symmachus."
-
- Barenziah assured her that it wasn't, that an informer had
-told of the Imperial Guard of Therris' plans, which was
-probably a lie, but Katisha badly needed some kind of
-comfort. 
-
- "Oh, I'm glad of that, if I can be glad of anything just
-now. I'd hate to think-- but how could I have known? And
-Symmachus is very handsome, don't you think? And charming."
-
- "I don't know," Barenziah said. "I haven't really thought
-about it. There hasn't been time." She explained about being
-Queen of Mournhold and going to live in Imperial City for
-awhile first. "He was looking for me. I don't think he thinks
-of me as a woman at all. He said I didn't look like a boy,
-though," she added in the face of Katisha's incredulity. She
-knew that Barenziah evaluated every male she saw in terms of
-sexual desirability. "I suppose it's the shock of finding
-out that I really am a queen," she added, and Katisha agreed
-that that must be something of a shock, although one there was
-no likelihood of her experiencing first hand.
-
- Their party left Rifton by the great south gate. Once
-through Symmachus tapped her shoulder and pointed back to
-the gate. "I thought you might want to say good-bye to
-Therris, too," he said. Barenziah stared briefly but
-steadily at the head impaled on a spike above the gate. The birds
-were at it, but the face was still recognizable.
-
- "I think he will not hear me," she said. "Let's be on our
-way, shall we?"
-
- Symmachus was clearly disappointed by her lack of
-reaction. "You heard of this from Katisha?"
-
- "Of course. She attended the execution." Barenziah said
-casually. If he didn't know already, he'd find out soon
-enough; she was sure of that. 
-
- "Did she know Therris belonged to the Guild?"
-
- "Everyone knew that. It's only lower ranking members like me
-who are supposed to keep their membership secret. The ranking
-officers are well known. But you know all that, don't
-you?" She smiled archly at him.
-
- "So you told her who you were and whence you'd come, but not
-about the Guild."
-
- "The Guild membership was not my secret to tell. The other
-was. There is a difference. Besides, Katisha is a very honest
-person. Had I told her it would have lessened me in her eyes.
-She was always after Therris to take up a more honest line of
-work. I value her good opinion. She also thought I'd be
-happier if I'd settle down with just one man friend, one of
-my own race. You, in fact. Isn't it odd how wishes come true
-sometimes, but not the way you want them to?"
-
- "Yes. Very odd." Something about the way he said it made her
-think that she herself was one of his wishes that had come true
-in a way that wasn't altogether to his liking.
-
-
-
-
-
-
-
-
-
- 
+"Dime qué buscas y lo encontraré", susurró Berry. La visión nocturna
+de Therris no era tan buena como la de ella y él no quería encender
+ninguna luz. Berry nunca había estado en un lugar tan lujoso. Miraba
+a su alrededor con asombro mientras atravesaban las enormes y resonantes
+habitaciones del piso de abajo, pero Therris no parecía interesado en
+nada más que en el escritorio del pequeño estudio lleno de libros en
+la planta superior.
+
+"Ssss't", siseó él con enfado.
+
+"¡Viene alguien!", dijo Berry, un momento antes de que la puerta
+se abriera y aparecieran dos figuras oscuras. Therris le dio un
+violento empujón hacia ellos y saltó hacia la ventana. Los músculos
+de Barenziah se tensaron; no podía moverse ni hablar. Observó
+impotente cómo una figura oscura saltaba tras Therris. Hubo dos
+destellos azules de luz, rápidos y silenciosos, y luego Therris se
+desplomó como un montón inerte. Fuera del estudio, la casa había
+cobrado vida con pasos, voces llamando y el tintineo de armaduras.
+
+El hombre corpulento, un elfo oscuro, medio levantó y medio arrastró
+a Therris hacia la puerta y lo entregó a unos brazos que esperaban.
+Un movimiento de cabeza del elfo envió a su compañero con túnica tras
+él. El elfo se acercó a inspeccionar a Barenziah, quien ya era capaz
+de moverse de nuevo, aunque su cabeza palpitaba de forma exasperante
+cuando lo hacía.
+
+"Ábrete la camisa, Barenziah", dijo el elfo.
+
+Barenziah lo miró boquiabierta y se la cerró con fuerza.
+
+"Eres una chica, ¿verdad, Berry?", dijo él suavemente. "Deberías haber
+dejado de vestirte como un chico hace unos meses, sabes. Solo estabas
+llamando la atención. ¡Y llamarte Berry! ¿Es tu amigo Straw tan estúpido
+como para no recordar nada más?"
+
+"Es un nombre común entre los elfos", se defendió Barenziah.
+
+El hombre sacudió la cabeza con tristeza. "No entre los elfos oscuros,
+querida, pero realmente no sabes mucho sobre los elfos oscuros, ¿verdad?
+Lo lamento, pero no pudo evitarse. No importa. Yo lo remediaré".
+
+"¿Quién eres?", exigió Barenziah.
+
+"Tanto para la fama", el hombre se encogió de hombros, sonriendo con
+ironía. "Soy Symmachus, milady, y me has hecho seguir un rastro animado,
+aunque supuse que te dirigirías a Morrowind. Tuviste algo de suerte. Se
+encontró un cuerpo en Whiterun que se pensó que era el de Straw, así que
+dejamos de buscar a la pareja. Eso fue descuidado por mi parte, y aun así
+no habría pensado que permaneceríais juntos tanto tiempo".
+
+"¿Dónde está él? ¿Está bien?"
+
+"Oh, está bien por ahora. Bajo custodia, por supuesto. ¿Te... importa
+él, entonces?" la miró con curiosidad con esos ojos rojos que le
+resultaban tan extraños, excepto en su propia imagen rara vez vista.
+
+"Es mi amigo", dijo Barenziah. Las palabras salieron con un tono que sonó
+apagado y sin esperanza a sus propios oídos. ¡Symmachus! Un general del
+Ejército Imperial, de quien se decía que tenía la amistad y el favor del
+mismísimo Tiber Septim.
+
+"Ai. Parece que tienes varios amigos poco adecuados, si me permites
+decirlo, milady". Mientras hablaban, el ajetreo y la agitación en la casa
+habían cesado, aunque ella podía oír a la gente, presumiblemente los
+residentes, susurrando entre sí no muy lejos. El elfo alto se sentó en
+una esquina del escritorio. Parecía bastante relajado y preparado para
+quedarse un rato.
+
+¿Varios? "¿Q-qué va a pasar con ellos? ¿Conmigo?"
+
+"Ah. Como sabes, esta casa pertenece al comandante de las tropas
+imperiales en esta zona". Barenziah se quedó sin aliento y Symmachus la
+miró fijamente. "¿No lo sabías? Eres temeraria, incluso para tener
+diecisiete años. Siempre debes saber qué es lo que haces".
+
+"P-pero el G-gremio n-no lo haría..." Barenziah temblaba. El Gremio de
+Ladrones nunca habría intentado una misión que involucrara políticas
+imperiales. Nadie se atrevía a oponerse a Tiber Septim, al menos nadie
+que ella conociera.
+
+"No me cabe duda. Es poco probable que Therris tuviera la aprobación del
+Gremio para este trabajo. Me pregunto..." Symmachus examinó el escritorio
+con cuidado, sacando sus cajones. Seleccionó uno, colocó su contenido sobre
+el escritorio y quitó el fondo falso. Había una hoja de papel doblada en
+su interior. Parecía ser un mapa de algún tipo. Barenziah se acercó para
+verlo. Symmachus lo mantuvo alejado de ella, riendo. "¡Temeraria de verdad!".
+Le echó un vistazo, luego lo dobló y lo volvió a guardar.
+
+"Me aconsejaste que buscara el conocimiento".
+
+"Así lo hice, así lo hice". De repente, parecía estar de muy buen humor.
+"Debemos irnos, mi querida señora".
+
+La guió hacia la puerta, bajando las escaleras y saliendo al aire de la
+noche. No había nadie cerca. Los ojos de Barenziah se lanzaron hacia las
+sombras. Se preguntaba si podría correr más que él, o eludirlo de alguna
+manera.
+
+"¿No estarás pensando en intentar escapar, verdad? ¿No quieres oír primero
+cuáles son mis planes para ti?". Sonaba un poco herido.
+
+"Sí".
+
+"Quizá prefieras oír primero lo de tus amigos".
+
+"No". Él pareció complacido. Era la respuesta que quería, pero también era
+la verdad. Aunque Barenziah estaba preocupada por sus amigos, especialmente
+por Straw, estaba mucho más preocupada por sí misma.
+
+"Tomarás el lugar que te corresponde como Reina de Mournhold".
+
+Su corazón dio un salto. ¡Entonces era verdad!
+
+Symmachus explicó que este había sido su plan, y el de Tiber Septim, para
+ella desde el principio. Que Mournhold, que había estado bajo mando militar
+durante los doce años transcurridos desde que ella se marchó, debía ser
+devuelta, gradualmente, al gobierno civil, bajo la guía imperial, por
+supuesto, y como parte de la Provincia Imperial de Morrowind.
+
+"Pero ¿por qué me enviaron a Darkmoor?".
+
+"Para ponerte a salvo. ¿Por qué te escapaste?".
+
+Barenziah se encogió de hombros. "No vi ninguna razón para quedarme.
+Deberían habérmelo dicho".
+
+"Ya te lo habrían dicho para estas fechas. De hecho, había mandado que
+te trasladaran a la Ciudad Imperial para que pasaras algún tiempo como parte
+de la casa del Emperador. En cuanto a tu destino, debería haber sido obvio
+para ti. Tiber Septim no se queda con aquellos que no le son de utilidad,
+¿y qué otra cosa podrías ser tú que le sea útil?"
+
+"No sé nada de él ni de ti".
+
+"Entonces sabe esto: Tiber Septim recompensa a amigos y enemigos por igual
+según sus méritos".
+
+Barenziah reflexionó sobre eso durante unos momentos. "Straw se ha portado
+bien conmigo y nunca ha hecho daño a nadie. No es miembro del Gremio de
+Ladrones. Vino para protegerme. Se gana nuestro sustento haciendo recados,
+y..."
+
+Symmachus le hizo un gesto para que se callara. "Lo sé todo sobre Straw",
+dijo, "y sobre Therris. ¿Y bien? ¿Qué querrías?"
+
+"Straw quiere una pequeña granja. Si voy a ser rica, entonces me gustaría
+dársela".
+
+"Muy bien. La tendrá. ¿Y Therris?"
+
+"Él me traicionó", dijo Barenziah en voz baja. Therris debería haberle
+contado los riesgos que conllevaba el trabajo. Además, la había empujado
+directamente a los brazos de sus enemigos en un intento de salvarse él
+mismo.
+
+"Sí. ¿Y bien?"
+
+"Bueno, debería hacérsele sufrir por ello, ¿no?"
+
+"Eso parece razonable. ¿Qué forma debería tomar ese sufrimiento?"
+
+Barenziah cerró los puños. Le gustaría golpear y arañar al khajiita ella
+misma, pero eso no parecía muy propio de una reina. "Azotes. ¿Crees que
+veinte latigazos serían demasiados? No quiero causarle ninguna herida
+permanente".
+
+"Yo lo arreglaré".
+
+Barenziah pasó dos días en el apartamento de Symmachus durante los cuales
+estuvo muy ocupada. Había una mujer elfa oscura llamada Drelliane que se
+encargaba de sus necesidades, aunque no parecía ser exactamente una sirvienta,
+ya que comía con ellos. Tampoco era su esposa. Drelliane pareció divertida
+cuando Barenziah le preguntó al respecto. Simplemente dijo que estaba al
+servicio de Symmachus y que hacía lo que él le pidiera.
+
+Con la ayuda de Drelliane, se encargaron varios vestidos finos y pares de
+zapatos para ella, además de un traje de montar y botas, junto con otras
+pequeñas necesidades. A Barenziah se le dio una habitación para ella sola.
+Symmachus salía mucho. Lo veía en la mayoría de las comidas, pero él decía
+poco sobre sí mismo o sobre lo que había estado haciendo, aunque era cordial
+y educado, estaba bastante dispuesto a conversar sobre la mayoría de los
+temas y parecía interesado en cualquier cosa que ella tuviera que decir.
+Drelliane era muy parecida. Barenziah los encontraba bastante agradables,
+pero difíciles de conocer, como diría Katisha. Sintió una extraña decepción.
+Estos eran los primeros elfos oscuros con los que se relacionaba estrechamente.
+Había esperado sentirse cómoda con ellos, sentir, por fin, que este era su
+lugar. En cambio, se encontró anhelando a sus amigos nórdicos, Katisha y Straw.
+Cuando Symmachus le dijo que debían partir hacia la Ciudad Imperial al día
+siguiente, ella preguntó si podía despedirse de sus amigos.
+
+"¿Katisha?", preguntó él. "Bastante bien. Supongo que le debo algo. Fue
+ella quien me llevó hasta ti al hablarme de una solitaria niña elfa oscura
+llamada Berry que necesitaba amigos élficos... y que a veces se vestía de
+chico. Ella no tiene ninguna relación con el Gremio de Ladrones. Y nadie
+asociado con el Gremio de Ladrones parece conocer tu verdadera identidad,
+salvo Therris. Eso está bien. Prefiero que tu antigua pertenencia al Gremio
+no se haga pública. No se lo dirás a nadie. No es propio de una reina
+imperial".
+
+"Nadie lo sabe excepto Straw y Therris. Ellos no se lo dirán a nadie".
+
+"No, no lo harán". ¡Entonces no sabía que Katisha lo sabía!
+
+Straw fue a su apartamento la mañana de su partida y los dejaron solos en
+el salón, aunque Barenziah sabía que los otros elfos estaban lo bastante
+cerca como para oír. Straw parecía demacrado y pálido. Se abrazaron en
+silencio durante unos minutos. Los hombros de Straw temblaban y las lágrimas
+rodaban por sus mejillas, pero no dijo nada.
+
+Barenziah intentó sonreír. "Así que ambos conseguimos lo que queremos. Yo
+voy a ser Reina de Mournhold y tú serás el rey de tu propia granja. Te
+escribiré. Debes encontrar a un escriba para que tú también puedas
+escribirme". Straw sacudió la cabeza con tristeza y, cuando Barenziah
+insistió, abrió la boca y señaló el interior, emitiendo un ruido
+inarticulado. ¡Le faltaba la lengua! Barenziah se desplomó en una silla y
+lloró ruidosamente.
+
+"¿Por qué?", le exigió a Symmachus, cuando se hubieron llevado a Straw.
+"¿Por qué?".
+
+Symmachus se encogió de hombros. "Sabe demasiado de ti. Podría ser
+peligroso. Al menos está vivo, y no necesitará la lengua para cultivar la
+tierra".
+
+"¡Te odio!", le gritó Barenziah, y luego se inclinó y vomitó en el suelo.
+Continuó insultándole entre ataques intermitentes de náuseas. Él escuchó
+impasible durante un tiempo, mientras Drelliane limpiaba lo que ella había
+ensuciado. Finalmente, le dijo que cesara o la amordazaría para el viaje.
+
+Se detuvieron en casa de Katisha. Symmachus y Drelliane no desmontaron.
+Todo parecía normal, pero Barenziah estaba asustada mientras llamaba a la
+puerta. Katisha respondió a su llamada. Evidentemente había estado llorando,
+pero abrazó a Barenziah.
+
+"¿Por qué lloras?", preguntó Barenziah.
+
+"Por Therris, por supuesto. ¿No te has enterado? Está muerto. Lo atraparon
+robando en la casa del comandante. Pobre muchacho, pero fue tan tonto por
+su parte. Oh, Barenziah, fue descuartizado al amanecer por orden del
+comandante. Yo fui; él me lo pidió. Fue terrible; sufrió tanto antes de
+morir. Nunca lo olvidaré. Te busqué a ti y a Straw, pero nadie sabía dónde
+os habíais metido. Ese es Symmachus con el que estás, ¿verdad? Sabes, en el
+momento en que lo vi, pensé: ¡este es el indicado para Barenziah! Le hablé
+de ti, ya sabes".
+
+"Sí", dijo Barenziah. "Katisha, te quiero, pero por favor, no vuelvas a
+decirle a nadie nada sobre mí. Nunca. Júrame que no lo harás. Especialmente
+no a Symmachus. Y cuida del pobre Straw por mí". Katisha lo prometió,
+perpleja pero dispuesta. "Berry, ¿no habrá sido por mi culpa que atraparon
+a Therris? Yo nunca le dije nada de Therris a Symmachus".
+
+Barenziah le aseguró que no fue así, que un informador había hablado a la
+Guardia Imperial de los planes de Therris, lo cual era probablemente una
+mentira, pero Katisha necesitaba desesperadamente algún tipo de consuelo.
+
+"Oh, me alegro de eso, si es que puedo alegrarme de algo ahora mismo.
+Odiaría pensar... ¿pero cómo podría haberlo sabido? Y Symmachus es muy
+guapo, ¿no crees? Y encantador".
+
+"No lo sé", dijo Barenziah. "Realmente no lo he pensado. No ha habido
+tiempo". Le explicó lo de ser Reina de Mournhold e irse a vivir a la Ciudad
+Imperial por un tiempo primero. "Él me estaba buscando. No creo que piense
+en mí como una mujer en absoluto. Aunque dijo que yo no parecía un chico",
+añadió ante la incredulidad de Katisha. Sabía que Barenziah evaluaba a cada
+macho que veía en términos de deseabilidad sexual. "Supongo que es la
+impresión de descubrir que realmente soy una reina", añadió, y Katisha
+estuvo de acuerdo en que eso debía ser algo impactante, aunque no hubiera
+probabilidad de que ella lo experimentara de primera mano.
+
+Su grupo abandonó Riften por la gran puerta sur. Una vez fuera, Symmachus
+le tocó el hombro y señaló hacia la puerta. "Pensé que también querrías
+despedirte de Therris", dijo. Barenziah miró breve pero fijamente la cabeza
+empalada en una pica sobre la puerta. Los pájaros estaban en ella, pero el
+rostro aún era reconocible.
+
+"Creo que él no me oirá", dijo ella. "Sigamos nuestro camino, ¿de acuerdo?"
+
+Symmachus estaba claramente decepcionado por su falta de reacción. "¿Te
+has enterado de esto por Katisha?"
+
+"Por supuesto. Ella asistió a la ejecución", dijo Barenziah con
+indiferencia. Si él no lo sabía ya, lo descubriría pronto; estaba segura
+de ello.
+
+"¿Sabía ella que Therris pertenecía al Gremio?"
+
+"Todo el mundo lo sabía. Solo se supone que los miembros de menor rango
+como yo mantengamos nuestra pertenencia en secreto. Los oficiales de rango
+son bien conocidos. Pero tú ya sabes todo eso, ¿verdad?". Ella le sonrió
+con picardía.
+
+"Así que le dijiste quién eras y de dónde venías, pero no lo del Gremio".
+
+"La pertenencia al Gremio no era mi secreto para contarlo. Lo otro sí. Hay
+una diferencia. Además, Katisha es una persona muy honesta. Si se lo hubiera
+dicho, me habría rebajado a sus ojos. Siempre estaba insistiendo a Therris
+para que buscara un trabajo más honesto. Valoro su buena opinión. También
+pensaba que yo sería más feliz si me estableciera con un solo amigo, uno de
+mi propia raza. Tú, de hecho. ¿No es extraño cómo los deseos se cumplen a
+veces, pero no de la forma en que uno quiere?".
+
+"Sí. Muy extraño". Algo en la forma en que lo dijo hizo que ella pensara
+que ella misma era uno de sus deseos que se había cumplido de una forma
+que no era del todo de su agrado.
+
+
+
+

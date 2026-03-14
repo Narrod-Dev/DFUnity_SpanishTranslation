@@ -10,6 +10,7 @@ Este proyecto busca traducir todo el juego para que se pueda disfrutar de la exp
 
 Actualmente, el proyecto cubre los siguientes archivos de la carpeta `/Text`:
 
+- **Carpeta /Books**: Todos los libros que contienen el lore de Daggerfall
 - **GameSettings.txt**: Opciones de juego, interfaz, vídeo y accesibilidad.
 - **Internal_Strings.csv**: Información interna.
 - **Internal_RSC.csv**: Dialogos, nombres y la mayoria de textos del juego.
@@ -36,9 +37,9 @@ Actualmente, el proyecto cubre los siguientes archivos de la carpeta `/Text`:
 ## 🚀 Estado del proyecto
 
 - [x] Menu de Daggerfall Unity (MainMenu.txt, ModSystem.txt, GameSettings.txt, DialogShortcuts.txt) - _listo_
-- [ ] Historia principal (carpeta `/Master Localization CSV`) - _en proceso_
+- [x] Contenido principal (carpeta `/Master Localization CSV Files`) - _Listo_
 - [ ] Misiones (carpeta `/Quests`) — _en proceso_
-- [ ] Libros (carpeta `/Books`) — _en proceso_
+- [x] Libros (carpeta `/Books`) — _Listo_
 
 ## 📸 Capturas
 

@@ -1,4 +1,4 @@
-Title: Brief History of the Empire, Part II
+Title: Breve Historia del Imperio, Parte II
 Author: Stronach
 IsNaughty: False
 Price: 352
@@ -9,113 +9,103 @@ Content:
 
 [/font=2]
 
-[/center]A Brief History
+[/center]Una Breve Historia
 
-[/center]of the Empire
+[/center]del Imperio
 
-[/center]Part II
+[/center]Parte II
 
 
 
 [/font=4]
 
-
-
-[/center]    Volume I of this series described in brief the lives of the
-first eight Emperors of the Septim Dynasty, beginning with
-the forebear Tiber Septim and ending with his great great
-great great grandniece Kintyra II. Kintyra's murder in
-Glenpoint, while in captivity, is considered by some to be
-the end of the pure strain of Septim blood. Certainly, it
-marks the end of something.    Uriel III not only proclaimed
-himself Emperor of Tamriel, but also proclaimed himself
-Uriel Septim III, taking a surname as a title. In truth, his
-surname was Uriel Mantiarco from his father. In time, Uriel
-III was deposed and his crimes reviled, but the tradition of
-taking the name Septim as a title for the Emperor of Tamriel
-did not die with him.    For six years, the War of the Red
-Diamond tore apart the Empire. The combatants were the three
-surviving children of Pelagius II, Potema, Cephorus, and
-Magnus, and their offspring. Potema, of course, supported
-her son Uriel III, and had the support of all of Skyrim and
-northern Morrowind. With the efforts of Cephorus and
-Magnus, High Rock turned. Hammerfell, Sumurset Isle,
-Valenwood, Elsweyr, and Black Marsh were divided, but most
-kings supported Cephorus and Magnus.    In 3E 127, Uriel III
-was captured at the Battle of Ichidag in Hammerfell. En
-route to his trial in the Imperial City, a mob overtook his
-carriage and burned him alive within it. His captor and
-uncle continued on to the Imperial City, and by common
-acclaim, was proclaimed Cephorus I, Emperor of Tamriel.   
-Cephorus' reign is marked by nothing but war. By all
-accounts, he was a kind and intelligent man, but what
-Tamriel needed was a great warrior, and he was that. It took
-an additional ten years of constant warfare for him to
-defeat his sister Potema. The so-called wolf queen of
-Solitude died in the siege of her city-state in the year 137.
-Cephorus only survived his sister by three years.     Cephorus
-never had the time during the war years to marry, so it was
-his brother, the fourth child of Pelagius II, who assumed the
-throne. The Emperor Magnus was elderly, and the business of
-punishing the traitorous kings of the War of the Red Diamond
-drained much of his health. Legend also accuses Magnus' son
-and heir Pelagius III of murder, but that seems very
-unlikely. For no other reason, Pelagius was King of
-Solitude, following the death of Potema, and seldom visited
-the Imperial City.     Pelagius III, sometimes called
-Pelagius the Mad, was proclaimed Emperor in the 145th year of
-the 3rd Era. Almost from the start, his eccentricities of
-behavior was noted. He embarassed dignitaries, offended his
-vassal kings, and, on one occasion, marked the end of a grand
-ball by attempting to hang himself. His long-suffering wife
-was finally awarding the regency of Tamriel and Pelagius
-III was sent to a series of healers and asylums until his death
-in 3E 153 at the age of thirty-four.     The Emperess Regent of
-Tamriel was proclaimed Emperess Katariah I upon the death of
-her husband. Some who do not mark the end of the Septim
-bloodline with the death of Kintyra II consider the accendancy
-of this dark elf woman as the true mark. Her defenders assert
-that though Katariah was not descended from Tiber, the son she
-had with Pelagius, was, so the chain does continue.    Despite
-the racist assertations to the contrary, Katariah's
-forty-six year reign was one of the most glorious in
-Tamriel's history. Uncomfortable in the Imperial City,
-Katariah travelled extensively throughout the Empire, such
-as no Emperor ever had since Tiber's day. She repaired much
-of the damage the broken alliances and bungled diplomacy
-had created. The people of Tamriel came to love their
-Emperess far more than the nobility did. Katariah's death in
-a minor skirmish in Black Marsh is a favorite source for
-conspiracy-minded historians. The sage Montalius' discovery
-of a disenfranchised branch of the Septim family's
-involvement with the skirmish was a revelation indeed.    When
-Cassynder assumed the throne at the death of his mother, he was
-already middle-aged. Only half-elven, he aged like a Breton.
-In fact, he had left the rule of Wayrest to his half-brother
-Uriel due to poor health. Nevertheless, as the only true
-blood relation of Pelagius, and thus Tiber, he was pressed
-into accepting the throne. To no one's surprise, the Emperor
-Cassynder's reign did not last long. In two years, he was
-dead.    Uriel Lariat, Cassynder's half-brother, the child of
-Katariah I and her Imperial consort Lariat, left the
-kingdom of Wayrest to reign as Uriel IV. Legally, Uriel IV
-was a Septim: Cassynder had adopted him into the family when
-he had become King of Wayrest. Nevertheless, to the Council
-and the people of Tamriel, he was a bastard child of
-Katariah. Uriel did not possess the dynamism of his mother,
-and his long forty-three year reign was a hotbed of sedition. 
-  Uriel IV's story is told in the third volume of this series.
-
+ El Volumen I de esta serie describió brevemente las vidas de
+los primeros ocho Emperadores de la Dinastía Septim, comenzando
+con el antepasado Tiber Septim y terminando con su tataranieta
+en cuarta generación, Kintyra II. El asesinato de Kintyra en
+Punta Glauca, mientras estaba en cautiverio, es considerado por
+algunos como el fin del linaje puro de la sangre Septim.
+Ciertamente, marca el fin de algo. Uriel III no solo se
+proclamó Emperador de Tamriel, sino que también se llamó a sí
+mismo Uriel Septim III, tomando el apellido como un título. En
+realidad, su apellido era Uriel Mantiarco, por parte de su
+padre. Con el tiempo, Uriel III fue depuesto y sus crímenes
+fueron repudiados, pero la tradición de tomar el nombre Septim
+como título para el Emperador de Tamriel no murió con él.
+Durante seis años, la Guerra del Diamante Rojo desgarró el
+Imperio. Los combatientes fueron los tres hijos supervivientes
+de Pelagius II: Potema, Cephorus y Magnus, junto con su
+descendencia. Potema, por supuesto, apoyó a su hijo Uriel III y
+contó con el respaldo de todo Skyrim y el norte de Morrowind.
+Gracias a los esfuerzos de Cephorus y Magnus, Roca Alta cambió
+de bando. Páramo del Martillo, las Islas Estivalia, Bosque Valen,
+Elsweyr y la Ciénaga Negra estuvieron divididos, pero la mayoría
+de los reyes apoyaron a Cephorus y Magnus. En 3E 127, Uriel III
+fue capturado en la Batalla de Ichidag, en Páramo del Martillo.
+De camino a su juicio en la Ciudad Imperial, una turba asaltó su
+carruaje y lo quemó vivo en su interior. Su captor y tío
+continuó hacia la Ciudad Imperial y, por aclamación común, fue
+proclamado Cephorus I, Emperador de Tamriel. El reinado de
+Cephorus no estuvo marcado por nada más que la guerra. Según
+todos los relatos, era un hombre amable e inteligente, pero lo
+que Tamriel necesitaba era un gran guerrero, y él lo era. Le
+tomó diez años adicionales de guerra constante derrotar a su
+hermana Potema. La llamada Reina Loba de Soledad murió en el
+asedio de su ciudad-estado en el año 137. Cephorus solo
+sobrevivió a su hermana por tres años. Cephorus nunca tuvo
+tiempo durante los años de guerra para casarse, por lo que fue
+su hermano, el cuarto hijo de Pelagius II, quien asumió el
+trono. El Emperador Magnus era anciano, y la tarea de castigar
+a los reyes traidores de la Guerra del Diamante Rojo mermó mucho
+su salud. La leyenda también acusa al hijo y heredero de Magnus,
+Pelagius III, de asesinato, pero eso parece muy poco probable.
+Por ninguna otra razón, Pelagius era Rey de Soledad tras la
+muerte de Potema, y rara vez visitaba la Ciudad Imperial.
+Pelagius III, a veces llamado Pelagius el Loco, fue proclamado
+Emperador en el año 145 de la 3ª Era. Casi desde el principio se
+notaron sus excentricidades de comportamiento. Avergonzaba a los
+dignatarios, ofendía a sus reyes vasallos y, en una ocasión,
+marcó el final de un gran baile intentando colgarse a sí mismo.
+A su sufrida esposa finalmente se le otorgó la regencia de
+Tamriel y Pelagius III fue enviado a una serie de sanadores y
+asilos hasta su muerte en 3E 153 a la edad de treinta y cuatro
+años. La Emperatriz Regente de Tamriel fue proclamada Emperatriz
+Katariah I tras la muerte de su marido. Algunos que no marcan el
+fin del linaje Septim con la muerte de Kintyra II, consideran el
+ascenso de esta mujer elfo oscuro como la verdadera marca. Sus
+defensores afirman que, aunque Katariah no descendía de Tiber,
+el hijo que tuvo con Pelagius sí lo hacía, por lo que la cadena
+continúa. A pesar de las afirmaciones racistas en contra, el
+reinado de cuarenta y seis años de Katariah fue uno de los más
+gloriosos en la historia de Tamriel. Incómoda en la Ciudad
+Imperial, Katariah viajó extensamente por todo el Imperio, como
+ningún Emperador lo había hecho desde los días de Tiber. Reparó
+gran parte del daño que las alianzas rotas y la diplomacia fallida
+habían creado. El pueblo de Tamriel llegó a amar a su Emperatriz
+mucho más que la nobleza. La muerte de Katariah en una escaramuza
+menor en la Ciénaga Negra es una fuente favorita para los
+historiadores amigos de las conspiraciones. El descubrimiento del
+sabio Montalius sobre la participación de una rama desheredada de
+la familia Septim en la escaramuza fue, de hecho, una revelación.
+Cuando Cassynder asumió el trono a la muerte de su madre, ya era
+de mediana edad. Al ser solo medio elfo, envejecía como un bretón.
+De hecho, había dejado el gobierno de Salto del Correo a su
+medio hermano Uriel debido a su mala salud. No obstante, como
+único pariente consanguíneo verdadero de Pelagius, y por tanto de
+Tiber, se vio presionado a aceptar el trono. Para sorpresa de
+nadie, el reinado del Emperador Cassynder no duró mucho. En dos
+años, estaba muerto. Uriel Lariat, el medio hermano de Cassynder,
+hijo de Katariah I y su consorte imperial Lariat, dejó el reino
+de Salto del Correo para reinar como Uriel IV. Legalmente, Uriel
+IV era un Septim: Cassynder lo había adoptado en la familia
+cuando se convirtió en Rey de Salto del Correo. No obstante, para
+el Consejo y el pueblo de Tamriel, él era un hijo bastardo de
+Katariah. Uriel no poseía el dinamismo de su madre, y su largo
+reinado de cuarenta y tres años fue un foco de sedición. La
+historia de Uriel IV se cuenta en el tercer volumen de esta serie.
 
 
 
 
 
 
-
-
-
-
-
-
- 

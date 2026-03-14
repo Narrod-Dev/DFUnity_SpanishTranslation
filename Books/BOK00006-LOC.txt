@@ -1,4 +1,4 @@
-Title: The Faerie
+Title: Las Hadas
 Author: Szun Triop
 IsNaughty: False
 Price: 580
@@ -9,59 +9,59 @@ Content:
 
 [/font=2]
 
-[/center]The Faerie
+[/center]Las Hadas
 
 
 
 [/font=4]
 
- Faerie have been on Tamriel, in all probability, long
-before recorded history, perhaps since or before the days of
-the Elder Ones. The tales of their mischief are found in every
-culture, in most every village, town, and city-states in
-the Empire. Alternately they are called Faerie, Fey,
-Illyadi, Sprites, Pixies, and Sylphim, and their natures seem
-to flit from one story to the next with the same variation.
-It could almost be said that Faeries are anything
-unpredictable in nature.
+ Las hadas han estado en Tamriel, con toda probabilidad,
+mucho antes de la historia registrada, quizás desde o antes de
+los días de los Antiguos. Los relatos de sus travesuras se
+encuentran en cada cultura, en casi cada aldea, pueblo y
+ciudad-estado del Imperio. Alternativamente se les llama
+Hadas, Fey, Illyadi, Espíritus, Pixies y Sílfides, y sus
+naturalezas parecen revolotear de una historia a otra con la
+misma variación. Casi podría decirse que las Hadas son
+cualquier cosa impredecible en la naturaleza.
 
- The noted scholar Ahrtabazus studying at the time in the
-Crystal Tower of Sumurset Isle developed an interesting if
-controversial theory about Faerie. He organized the Fey
-variants on a chain, beginning with the glimmering sparks
-called Pixies or Whilloki by the Redguards at one end and the
-godlike beings such as Gheateus, Chonus, and Sygria at the
-other. In the middle are human and semi-human beings
-generating up to intelligent trees, brooks, rocks, even
-mountains. All of this was a new and completely original
-theory and would have prompted enthusiastic, if somewhat
-skeptical response had Ahrtabazus not added this footnote:
-"It may be that elves as a whole are part of this chain,
-above whilloki and below nephrine. They certainly have
-similar features and propensities for magicka as the other
-Faerie." (Ahrtabazus, "The Faerie Chain" Firsthold, 2E 456)
+ El notable erudito Ahrtabazus, que estudiaba en ese momento
+en la Torre de Cristal de la Isla de Estivalia, desarrolló una
+teoría interesante, aunque controvertida, sobre las Hadas.
+Organizó las variantes Fey en una cadena, comenzando con las
+chispas relucientes llamadas Pixies o Whilloki por los Guardas
+Rojos en un extremo, y los seres divinos como Gheateus, Chonus
+y Sygria en el otro. En el medio se encuentran seres humanos y
+semi-humanos que ascienden hasta árboles inteligentes,
+arroyos, rocas e incluso montañas. Todo esto era una teoría
+nueva y completamente original que habría provocado una
+respuesta entusiasta, aunque algo escéptica, si Ahrtabazus no
+hubiera añadido esta nota a pie de página: "Puede ser que los
+elfos en su conjunto sean parte de esta cadena, por encima de
+los whilloki y por debajo de los nephrine. Ciertamente tienen
+rasgos y propensiones hacia la magia similares a las otras
+Hadas". (Ahrtabazus, "The Faerie Chain", Firsthold, 2E 456).
 
- No elf liked to be put in a hierarchy slightly above
-whimsical pranksters like the whilloki, and Ahrtabazus was
-challenged on his assumptions based on very slight
-coincidences. Nevertheless, with modification, his Fairie
-Chain theory has gained wider and wider acceptance since its
-publication. 
+ A ningún elfo le gustó ser puesto en una jerarquía apenas
+por encima de bromistas caprichosos como los whilloki, y
+Ahrtabazus fue cuestionado por sus suposiciones basadas en
+coincidencias muy leves. No obstante, con modificaciones, su
+teoría de la Cadena de las Hadas ha ganado una aceptación cada
+vez más amplia desde su publicación.
 
- The hierarchial chain is not, in the strictest sense, an order
-of command. While Gheateus and Sygria are said to be
-surrounded by a host of minor Sylphim, faerie on the whole
-are not followers nor leaders. Their plans and schemes are
-not governed by a higher purpose, simply by their own whim.
+ La cadena jerárquica no es, en el sentido más estricto, un
+orden de mando. Aunque se dice que Gheateus y Sygria están
+rodeados por una hueste de Sílfides menores, las hadas en su
+conjunto no son seguidoras ni líderes. Sus planes y esquemas
+no se rigen por un propósito superior, simplemente por su
+propio capricho.
 
- To this most faerie scholars agree. Because it is based on
-coincidental evidence and supported by auxiliary
-theories, it may very well be wrong.
-
-
-
-
+ En esto coinciden la mayoría de los estudiosos de las hadas.
+Debido a que se basa en pruebas coincidentes y se apoya en
+teorías auxiliares, muy bien podría estar equivocada.
 
 
 
- 
+
+
+

@@ -1,17 +1,14 @@
-Title: Mara's Tear
+Title: La lágrima de Mara
 Author: Zhen
 IsNaughty: False
 Price: 484
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]Mara's Tear
-
-
+[/center]La lágrima de Mara
 
 [/font=4]
 
@@ -19,132 +16,115 @@ Content:
 
 [/center]
 
- Well, children, if you all gather round, and sit quietly,
-I'll tell you the story of Mara's Tear and Shandar's Sorrow
-...
+Bueno, niños, si todos se reúnen y se sientan en silencio, les contaré
+la historia de la Lágrima de Mara y el Pesar de Shandar...
 
- Long, long ago, long before your grandmother and I were
-were born, long ago, there were two young children growing
-up in a village far, far from here. They played together,
-and ran through the woods together, exploring their little
-world and learning to see things through each other's eyes.
-This was very different from their parents because Shandar
-was the son of Maldor, who was captured in a war and forced
-to work as a slave for the village baron. Their village and
-another both needed the land between them to feed the
-villagers, and fought and fought, until many of the
-villagers died. Maldor was wounded in battle, and left for
-dead by his fellows. He was captured and forced to work in
-the fields as punishment. Shandar was not allowed to play
-with Mara, but she was very small and the other children
-didn't like to play with her, so she played with Shandar
-against her father's command. And they learned that they
-were really not very different at all. They couldn't
-understand why their parents hated each other so.
+Hace mucho, mucho tiempo, mucho antes de que su abuela y yo
+naciéramos, hace mucho tiempo, había dos niños pequeños que crecían en
+una aldea muy, muy lejos de aquí. Jugaban juntos y corrían por los
+bosques juntos, explorando su pequeño mundo y aprendiendo a ver las
+cosas a través de los ojos del otro. Esto era muy diferente a sus
+padres, porque Shandar era el hijo de Maldor, quien fue capturado en una
+guerra y obligado a trabajar como esclavo para el barón de la aldea. Su
+aldea y otra necesitaban las tierras entre ellas para alimentar a los
+aldeanos, y lucharon y lucharon, hasta que muchos de los aldeanos
+murieron. Maldor fue herido en batalla y dado por muerto por sus
+compañeros. Fue capturado y obligado a trabajar en los campos como
+castigo. A Shandar no se le permitía jugar con Mara, pero ella era muy
+pequeña y a los otros niños no les gustaba jugar con ella, así que jugaba
+con Shandar contra las órdenes de su padre. Y aprendieron que en
+realidad no eran tan diferentes después de todo. No podían entender por
+qué sus padres se odiaban tanto.
 
- Well, Shandar and Mara played together for many years,
-and learned to love each other as they grew up. They knew
-that they couldn't let their parents know, because it was
-forbidden for them ever to marry, since they were from
-different villages and the war was still going on. They
-tried and tried to figure out how they could be happy
-together, and finally decided that they must run away from
-their village. They would try to make a new life for
-themselves in another village, far, far away from where they
-grew up.
+Bueno, Shandar y Mara jugaron juntos durante muchos años, y aprendieron
+a amarse mientras crecían. Sabían que no podían dejar que sus padres lo
+supieran, porque les estaba prohibido casarse, ya que eran de aldeas
+diferentes y la guerra aún continuaba. Intentaron e intentaron
+descubrir cómo podrían ser felices juntos, y finalmente decidieron que
+debían huir de su aldea. Intentarían forjar una nueva vida para ellos en
+otra aldea, muy, muy lejos de donde crecieron.
 
- One night, while planning their escape, they were discovered
-by the town guards. Shandar tried to fight them, but they
-tied him up and dragged him away to the prison inside town.
-Mara was taken home, and her father was very angry with her,
-and told her that she could not leave their home again. He
-went to the house of another farmer, and asked if their son
-would marry Mara, so that she could never see Shandar again.
-The marriage was planned for the next week.
+Una noche, mientras planeaban su escape, fueron descubiertos por los
+guardias del pueblo. Shandar intentó luchar contra ellos, pero lo ataron
+y lo arrastraron a la prisión dentro del pueblo. Mara fue llevada a casa,
+y su padre estaba muy enfadado con ella, y le dijo que no podría volver
+a salir de su hogar. Él fue a la casa de otro granjero y preguntó si su
+hijo se casaría con Mara, para que ella nunca pudiera volver a ver a
+Shandar. El matrimonio fue planeado para la semana siguiente.
 
- Shandar, meanwhile, was to be killed for daring to be with
-Mara. He was beaten, and placed in a stockade. He was placed
-in a stockade, and they were to hang him the next day. When
-Mara found out that Shandar was to be killed, she knew that
-she could never live without him, and climbed out her
-window and ran into the woods, crying and crying. She ran
-and ran, and soon was lost. It was very dark, because back
-then they did not have any moons in the sky back then to make it
-safe for little boys and girls. Soon she found herself in a
-part of the woods she had never been before, and sat down on
-a rock since she was very tired.
+Shandar, mientras tanto, iba a ser ejecutado por atreverse a estar con
+Mara. Fue golpeado y puesto en un cepo. Lo pusieron en un cepo y lo iban
+a ahorcar al día siguiente. Cuando Mara se enteró de que Shandar iba a
+ser ejecutado, supo que nunca podría vivir sin él, así que trepó por su
+ventana y corrió hacia el bosque, llorando y llorando. Corrió y corrió, y
+pronto se perdió. Estaba muy oscuro, porque en aquel entonces no tenían
+lunas en el cielo para que fuera seguro para los niños y niñas. Pronto se
+encontró en una parte del bosque donde nunca había estado antes, y se
+sentó en una roca ya que estaba muy cansada.
 
- Well, the rock was a secret entrance to a cave where a very
-mean orc lived. When he came back from his hunting, he found
-Mara curled up asleep on his rock, and thought to himself,
-"Hmmm, a tasty little girl. I shall save her for my
-breakfast!"
+Bueno, la roca era una entrada secreta a una cueva donde vivía un orco
+muy mezquino. Cuando regresó de su cacería, encontró a Mara acurrucada
+durmiendo sobre su roca, y pensó para sí mismo: "Hmmm, una niña pequeña
+y sabrosa. ¡La guardaré para mi desayuno!".
 
- He grabbed her and took her into his cave, moving the rock back
-so that she could not escape. She was sure to die, and tried
-to escape, but the evil orc just laughed and laughed at her,
-until she finally gave up.
+La agarró y la llevó a su cueva, moviendo la roca de vuelta para que
+ella no pudiera escapar. Ella estaba segura de que moriría e intentó
+escapar, pero el malvado orco solo se reía y se reía de ella, hasta que
+finalmente se rindió.
 
- When the villagers found out that Mara had run off, they
-were very worried. No one knew the woods very well, and all
-were afraid of the evil orc that lived there. Only Shandar
-was not afraid, and he begged and begged for the baron to
-set him free, so that he could go look for Mara. The Baron
-finally decided to let Shandar go, for no one else was
-brave enough to go and rescue Mara. So Shandar was set free,
-and he set off into the woods to go and rescue her.
+Cuando los aldeanos descubrieron que Mara había huido, se preocuparon
+mucho. Nadie conocía muy bien el bosque, y todos temían al malvado orco
+que vivía allí. Solo Shandar no tenía miedo, y suplicó y suplicó al barón
+que lo liberara para poder ir a buscar a Mara. El Barón finalmente
+decidió dejar ir a Shandar, pues nadie más era lo suficientemente
+valiente para ir a rescatar a Mara. Así que Shandar fue liberado y
+partió hacia el bosque para rescatarla.
 
- Shandar searched and searched, but could not find poor
-Mara. Finally, he sat down on a rock to rest for a moment,
-and as he sat down, he noticed a piece of cloth under the rock.
-It was a piece from Mara's cloak! He realized that she must be
-under the rock somehow, and knew that the orc had captured her.
-He pushed and pushed on the rock, and finally was able to
-roll it aside. He climbed down into the orc's cave, but it was
-very dark, and he could not see anything. The evil orc, when
-he heard his front door moving, hid in the shadows to see what
-was coming into his home. When he saw that it was just a
-little man-boy, he grinned to himself and thought, "Now I have
-lunch, TOO!" 
+Shandar buscó y buscó, pero no pudo encontrar a la pobre Mara.
+Finalmente, se sentó en una roca para descansar un momento y, mientras se
+sentaba, notó un trozo de tela bajo la roca. ¡Era un trozo del manto de
+Mara! Se dio cuenta de que ella debía estar bajo la roca de alguna
+manera, y supo que el orco la había capturado. Empujó y empujó la roca,
+y finalmente pudo rodarla a un lado. Bajó a la cueva del orco, pero
+estaba muy oscuro y no podía ver nada. El malvado orco, cuando oyó que su
+puerta principal se movía, se escondió en las sombras para ver qué
+entraba en su hogar. Cuando vio que solo era un pequeño hombre-niño,
+sonrió para sí y pensó: "¡Ahora TAMBIÉN tengo almuerzo!".
 
- When Shandar came near, the orc grabbed him, and began to
-squeeze the life out of him.
+Cuando Shandar se acercó, el orco lo agarró y comenzó a estrujarle la
+vida.
 
- Back in the village, the people soon realized that they were
-foolish to let a young man go off into the woods by himself.
-They gathered all of their weapons, and set off to find the
-two lost children. When they finally came upon the clearing
-near the orcs' cave, they saw a strange and wondrous sight: A
-slain orc near the entrance to the cave, and Mara holding
-the head of poor Shandar in her lap. Shandar had killed the
-orc, but not before the it gave Shandar a mortal wound.
+De vuelta en la aldea, la gente pronto se dio cuenta de que era una
+insensatez dejar que un joven fuera al bosque solo. Reunieron todas sus
+armas y partieron para encontrar a los dos niños perdidos. Cuando
+finalmente llegaron al claro cerca de la cueva del orco, vieron una vista
+extraña y maravillosa: un orco muerto cerca de la entrada de la cueva, y
+a Mara sosteniendo la cabeza del pobre Shandar en su regazo. Shandar
+había matado al orco, pero no antes de que este le infligiera una herida
+mortal.
 
- Mara's tears flowed freely from her eyes and splashed upon
-Shandar's face, reflecting the light from the villager's
-torches. Shandar was filled with sorrow at the thought that he
-had saved Mara, only to lose her because of his own impending
-death from the battle with the orc. He cried out to Mara's
-namesake, the goddess of love, to help them.
+Las lágrimas de Mara fluían libremente de sus ojos y salpicaban el
+rostro de Shandar, reflejando la luz de las antorchas de los aldeanos.
+Shandar se llenó de pesar al pensar que había salvado a Mara solo para
+perderla debido a su propia muerte inminente por la batalla con el orco.
+Clamó a la deidad homónima de Mara, la diosa del amor, para que los
+ayudara.
 
- The Goddess Mara recognized their true love and wept at
-their loss. Not having power over death, she could do
-nothing to save Shandar, but she knew that she could not let
-their love die. She reached down from the heavens and picked
-up Mara and Shandar in her arms, and placed them high in the
-heavens. They could be together always, and provide light
-in the dark night to others so that they may be safe from the
-evils in the world. The villagers were amazed at this sight,
-and vowed to honor the love of Shandar and Mara by
-learning more about themselves and their neighbors, so that
-the war that had been going on as long as anyone could
-remember would end. Shandar's sacrifice for the one he
-loved showed them that he was worthy of their respect, and that
-those from his village were just as proud and worthy as
-themselves.
+La Diosa Mara reconoció su amor verdadero y lloró por su pérdida. Al no
+tener poder sobre la muerte, no podía hacer nada para salvar a Shandar,
+pero sabía que no podía dejar que su amor muriera. Extendió su mano desde
+los cielos y tomó a Mara y a Shandar en sus brazos, y los colocó en lo
+alto de los cielos. Podrían estar juntos siempre y proporcionar luz en
+la noche oscura a otros para que pudieran estar a salvo de los males del
+mundo. Los aldeanos se asombraron ante esta vista y juraron honrar el
+amor de Shandar y Mara aprendiendo más sobre ellos mismos y sus vecinos,
+para que la guerra que había durado tanto como cualquiera podía recordar
+terminara. El sacrificio de Shandar por la persona que amaba les mostró
+que era digno de su respeto, y que aquellos de su aldea eran tan
+orgullosos y dignos como ellos mismos.
 
- And, that's why, children, every night we can see Mara's Tear
-and Shandar's Sorrow spending their lives together high in the
-heavens, lighting the way for all the little boys and girls
-like you.
+Y por eso, niños, cada noche podemos ver la Lágrima de Mara y el Pesar
+de Shandar pasando sus vidas juntos en lo alto de los cielos, iluminando
+el camino para todos los niños y niñas como ustedes.
 
- 
+

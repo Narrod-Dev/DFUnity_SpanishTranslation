@@ -1,79 +1,77 @@
-Title: The Ebon Arm
+Title: El Brazo de Ébano
 Author: Witten Rol
 IsNaughty: False
 Price: 580
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]The Ebon Arm
+[/center]El Brazo
 
-
+[/center]de Ébano
 
 [/font=4]
 
 [/center]
 
-[/center] The ground shakes. The great armies continue to wage their
-unrelenting battle. The battlefield is red, the rivers flow
-crimson, the sky reflects a deep pink. In the distance
-lightning flashes, and thunder sounds.  Two huge ravens begin
-circling the field; their blackness is vibrant against the
-various shades of red in this vista of death and suffering.
-The bright flashes of light and rumbling begin to increase.
-The redness surrounding the battlefield begins giving way
-to a golden glow from the east, almost like a summer's
-setting sun. From the false sunset a massive golden stallion
-and single rider approach. All become suddenly still on
-the field of battle as both sides recognize  Reymon Ebonarm,
-God of War, and the companion and protector of all
-warriors, also known as the Black Knight and his mighty steed
-War Master.
+[/center] El suelo tiembla. Los grandes ejércitos continúan librando su
+batalla implacable. El campo de batalla es rojo, los ríos fluyen
+carmesí, el cielo refleja un rosa profundo. En la distancia destellan
+relámpagos y resuena el trueno. Dos enormes cuervos comienzan a
+circular sobre el campo; su negrura es vibrante contra los diversos
+tonos de rojo en este panorama de muerte y sufrimiento. Los brillantes
+destellos de luz y el estruendo comienzan a aumentar. El rojo que rodea
+el campo de batalla comienza a dar paso a un resplandor dorado desde
+el este, casi como un sol de verano al atardecer. Desde el falso ocaso,
+un enorme semental dorado y un único jinete se aproximan. Todos se
+quedan repentinamente quietos en el campo de batalla mientras ambos
+bandos reconocen a Reymon Ebonarm, Dios de la Guerra y compañero y
+protector de todos los guerreros, también conocido como el Caballero
+Negro, y a su poderosa montura, War Master.
 
- He rides into the middle of the blood soaked field and
-dismounts. He is a very imposing figure. His very tall  and
-heavily muscled body is encased in ebony armor. His ebony
-helmet does not hide the flowing reddish blonde hair and
-beard which appear almost as shimmering gold, nor does it
-shield the steel blue eyes that seem to pierce all they fall
-upon. In his left hand he carries a massive ebony tower
-shield on which is emblazoned a fiery red rose. As he raises his
-right arm, all see an arm and a magnificent ebony blade
-which are extensions of each other. The fused arm and sword
-are a result and symbol of the wounds suffered by this god
-during titanic battles in the youth of this world.
+Cabalga hacia el centro del campo empapado de sangre y desmonta. Es una
+figura muy imponente. Su cuerpo, muy alto y fuertemente musculado, está
+encerrado en una armadura de ébano. Su casco de ébano no oculta el
+cabello y la barba rubio-rojizos que fluyen y parecen casi oro
+reluciente, ni protege los ojos azul acero que parecen perforar todo
+aquello sobre lo que caen. En su mano izquierda porta un enorme escudo
+de torre de ébano en el que está blasonada una rosa roja ardiente.
+Cuando levanta su brazo derecho, todos ven un brazo y una magnífica hoja
+de ébano que son extensiones el uno de la otra. El brazo y la espada
+fusionados son el resultado y el símbolo de las heridas sufridas por
+este dios durante batallas titánicas en la juventud de este mundo.
 
- The ravens come to rest on his shoulders. And, as the point
-of the ebony blade seemingly touches the sky,  lightning
-flashes, thunder roars. Then total quiet descends and a
-shudder rolls through both armies.
+Los cuervos se posan en sus hombros. Y, mientras la punta de la hoja de
+ébano parece tocar el cielo, los relámpagos destellan y el trueno ruge.
+Entonces desciende un silencio total y un escalofrío recorre a ambos
+ejércitos.
 
- The leaders of both armies approach Reymon Ebonarm and
-kneel. In turn they tell their reasons for this war. Each asks
-for the favor of the Black Knight for their cause. Reymon
-Ebonarm listens, but there is no  acknowledgment that he has
-chosen to favor one side or the other in this fight. However,
-each of the leaders  has heard the other state his position.
-And, each now knows that this war is baseless. They embrace
-and  turn to their armies. They instruct their forces to bury
-their dead, tend their wounded and return to their  homes.
+Los líderes de ambos ejércitos se acercan a Reymon Ebonarm y se
+arrodillan. Por turno, cuentan las razones de esta guerra. Cada uno pide
+el favor del Caballero Negro para su causa. Reymon Ebonarm escucha, pero
+no hay reconocimiento de que haya elegido favorecer a un bando o al
+otro en esta lucha. Sin embargo, cada uno de los líderes ha escuchado
+al otro exponer su posición. Y cada uno sabe ahora que esta guerra carece
+de fundamento. Se abrazan y se vuelven hacia sus ejércitos. Instruyen a
+sus fuerzas para enterrar a sus muertos, atender a sus heridos y
+regresar a sus hogares.
 
- Reymon Ebonarm mounts his great golden stallion, War
-Master, and again raises the ebony blade skyward  and
-extends the huge rose emblazoned ebony shield to both armies.
-A massive chorus of cheers rises from  the armies.  The ravens
-again take to the air. Lightning and thunder follow him as he
-rides into the sunset  followed by the two birds.
+Reymon Ebonarm monta su gran semental dorado, War Master, y vuelve a
+levantar la hoja de ébano hacia el cielo y extiende el enorme escudo de
+ébano blasonado con la rosa hacia ambos ejércitos. Un coro masivo de
+vítores surge de los ejércitos. Los cuervos vuelven a alzar el vuelo.
+Relámpagos y truenos le siguen mientras cabalga hacia el atardecer
+seguido por las dos aves.
 
- The armies do as they have been bidden. They care for their
-wounded and bury their dead. As they retreat  towards their
-homes each warrior is sure that the great God Reymon Ebonarm,
-the Black Knight, has responded to their individual prayers
-for intervention. Each side has won, neither has lost.
+Los ejércitos hacen lo que se les ha ordenado. Cuidan de sus heridos y
+entierran a sus muertos. Mientras se retiran hacia sus hogares, cada
+guerrero está seguro de que el gran Dios Reymon Ebonarm, el Caballero
+Negro, ha respondido a sus oraciones individuales de intervención. Cada
+bando ha ganado, ninguno ha perdido.
 
- As the armies depart the field, the rivers begin to run
-clear, and a single red rose begins to bloom near the  grave
-of a fallen hero. 
+Mientras los ejércitos abandonan el campo, los ríos comienzan a correr
+claros, y una sola rosa roja comienza a florecer cerca de la tumba de un
+héroe caído.
+

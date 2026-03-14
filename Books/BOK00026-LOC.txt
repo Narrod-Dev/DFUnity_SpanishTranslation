@@ -1,4 +1,4 @@
-Title: The Brothers of Darkness
+Title: Los Hermanos de la Oscuridad
 Author: Pellarne Assi
 IsNaughty: False
 Price: 580
@@ -9,92 +9,88 @@ Content:
 
 [/font=2]
 
-[/center]The
+[/center]Los
 
-[/center]Brothers of
+[/center]Hermanos de la
 
-[/center]Darkness
+[/center]Oscuridad
 
 
 
 [/font=4]
 
-
-
-[/center]    As their name suggests, the Dark Brotherhood has a history
-shrouded in obfuscation. Their ways are secret to those who
-are not Brothers of the order (Brothers is the generic term:
-some of the deadliest of the assassins are female, but they
-are called Brothers as well). How they continue to exist in
-shadow, but can be easily found by those desparate enough
-to pay for their services is not the least of their mysteries.  
- The Dark Brotherhood sprang from a religious order, the
-Morag Tong, during the Second Era. The Morag Tong were
-worshippers of the daedra spirit Mephala, who encouraged
-them to commit ritual murders. In their early years, they
-were as disorganized as cultists usually are. There was no
-one to lead the group, and as a group they dared not murder
-any of any importance. This changed with the rise of the
-Night Mother.    All leaders of the Morag Tong, and then the
-Dark Brotherhood, have been called the Night Mother. Whether
-the same woman has commanded the Dark Brotherhood since the
-second era is unknown. What is believed is that the original
-Night Mother developed an important belief of the Morag
-Tong.    This first belief is that, while Mephala grows
-stronger with every murder commited in her name, certain
-murders were better than others. Murders that came from hate
-pleased Mephala more than murders commited because of greed.
-Murders of great men and women pleased Mephala more than
-murders of unknowns.    We can approximate the time this
-belief was adopted with the first known murder commited by the
-Morag Tong. In the year 324 of the 2nd Era, the Potentate
-Versidue-Shaie was murdered in his palace in what is today the
-Elsweyr kingdom of Senchal. In a brash move, the Night Mother
-announced the identity of the murderers by painting MORAG
-TONG on the walls in the Potentate's blood.    Previous to
-that time, the Morag Tong existed in relative peace, like a
-witches coven. Occasionally persecuted, but usually
-ignored. In a remarkable syncroncity at a time when the Arena
-was a fractured land, the Morag Tong was outlawed
-throughout the continent. Every sovereign gave the cult's
-elimination his highest priority. Nothing more was
-officially heard of them for a hundred years.    It is more
-difficult to date the era when the Morag Tong re-emerged as
-the Dark Brotherhood. Assassin guilds have sporadically
-appeared throughout the history of Tamriel. The first
-mention of the Dark Brotherhood that I have found is from the journals of the Blood
-Queen Arlimahera of Hegathe: she spoke of slaying her enemies
-by her own hand, or, if necessary, "with the help of the Night
-Mother and her Dark Brotherhood, the secret arsenal my family
-has employed since my grandfather's time." Arlimahera wrote
-this in 2E 412, so one can surmise that the Dark Brotherhood had
-been in existance since at least 360 if her grandfather truly
-used them.    The important distinction between the Dark
-Brotherhood and the Morag Tong was that the Brotherhood was a
-business as much as a cult. Rulers and wealthy merchants now
-used the order as an assassin's guild. The Brotherhood gained
-the obvious benefits of a profitable enterprise, as well as
-the secondary benefit that no longer could rulers actively
-persecute them. They were needed. Even an extremely virtuous leader would be unwise to maltreat the Brotherhood.   
-Not long after Alimahera's journal entry about them was
-penned came perhaps the most famous series of executions in
-the history of the Dark Brotherhood. The Colovian Emperor
-Potentate Savirien-Chorak and every one of his heirs was
-murdered on one bloody night in Sun's Dawn in 430. Within a
-fortnight, the Colovian Dynasty crumbled, to the delight of
-its enemies. For over four hundred years, until the age of
-Tiber Septim, chaos reigned over Tamriel. Though no
-comparably impressive executions have been recorded, the
-Brotherhood must have grown fat with gold during that age.   
-The Dark Brotherhood has no shortage of business
-opportunities -- an accounting, I have been informed, is the
-Brotherhood's favorite euphemism for execution. While they
-are officially an unlawful organization in every corner
-of the Empire, like the Thieves Guild, they are almost
-universally tolerated.
+ Como sugiere su nombre, la Hermandad Oscura tiene una historia
+envuelta en la ofuscación. Sus caminos son secretos para aquellos
+que no son Hermanos de la orden (Hermanos es el término genérico:
+algunos de los asesinos más mortíferos son mujeres, pero también se
+las llama Hermanos). Cómo continúan existiendo en las sombras, pero
+pueden ser encontrados fácilmente por aquellos lo suficientemente
+desesperados como para pagar por sus servicios, no es el menor de
+sus misterios. La Hermandad Oscura surgió de una orden religiosa,
+la Morag Tong, durante la Segunda Era. Los Morag Tong eran
+adoradores del espíritu daedra Mephala, quien los alentaba a
+cometer asesinatos rituales. En sus primeros años, estaban tan
+desorganizados como suelen estar los cultistas. No había nadie para
+dirigir el grupo, y como grupo no se atrevían a asesinar a nadie
+de importancia. Esto cambió con el ascenso de la Madre Noche.
+Todos los líderes de la Morag Tong, y luego de la Hermandad Oscura,
+han sido llamados la Madre Noche. Se desconoce si la misma mujer ha
+comandado a la Hermandad Oscura desde la segunda era. Lo que se
+cree es que la Madre Noche original desarrolló una creencia
+importante de la Morag Tong. Esta primera creencia es que, si bien
+Mephala se fortalece con cada asesinato cometido en su nombre,
+ciertos asesinatos eran mejores que otros. Los asesinatos que
+provenían del odio complacían a Mephala más que los asesinatos
+cometidos por codicia. Los asesinatos de grandes hombres y mujeres
+complacían a Mephala más que los asesinatos de desconocidos.
+Podemos aproximar el momento en que se adoptó esta creencia con el
+primer asesinato conocido cometido por la Morag Tong. En el año 324
+de la 2ª Era, el Potentado Versidue-Shaie fue asesinado en su
+palacio en lo que hoy es el reino de Elsweyr, en Senchal. En un
+movimiento audaz, la Madre Noche anunció la identidad de los
+asesinos pintando MORAG TONG en las paredes con la sangre del
+Potentado. Anteriormente a esa época, la Morag Tong existía en
+relativa paz, como un aquelarre de brujas. Ocasionalmente
+perseguidos, pero usualmente ignorados. En una sincronía notable en
+un momento en que la Arena era una tierra fracturada, la Morag Tong
+fue proscrita en todo el continente. Cada soberano dio a la
+eliminación del culto su más alta prioridad. No se volvió a saber
+oficialmente de ellos durante cien años. Es más difícil fechar la
+era en que la Morag Tong resurgió como la Hermandad Oscura. Los
+gremios de asesinos han aparecido esporádicamente a lo largo de la
+historia de Tamriel. La primera mención de la Hermandad Oscura que
+he encontrado proviene de los diarios de la Reina de Sangre
+Arlimahera de Hegathe: habló de matar a sus enemigos por su propia
+mano o, si era necesario, "con la ayuda de la Madre Noche y su
+Hermandad Oscura, el arsenal secreto que mi familia ha empleado
+desde los tiempos de mi abuelo". Arlimahera escribió esto en 2E 412,
+por lo que se puede suponer que la Hermandad Oscura había estado en
+existencia desde al menos 360 si su abuelo realmente los utilizó.
+La distinción importante entre la Hermandad Oscura y la Morag Tong
+era que la Hermandad era tanto un negocio como un culto. Los
+gobernantes y los comerciantes ricos ahora usaban la orden como un
+gremio de asesinos. La Hermandad obtuvo los beneficios obvios de
+una empresa rentable, así como el beneficio secundario de que los
+gobernantes ya no podían perseguirlos activamente. Eran necesarios.
+Incluso un líder extremadamente virtuoso sería poco sabio si
+maltratara a la Hermandad. No mucho después de que se escribiera la
+entrada del diario de Alimahera sobre ellos, ocurrió quizás la serie
+de ejecuciones más famosa en la historia de la Hermandad Oscura.
+El Potentado Emperador Coloviano Savirien-Chorak y cada uno de sus
+herederos fueron asesinados en una noche sangrienta en el Amanecer
+del Sol de 430. En quince días, la Dinastía Coloviana se
+desmoronó, para deleite de sus enemigos. Durante más de cuatrocientos
+años, hasta la era de Tiber Septim, el caos reinó sobre Tamriel.
+Aunque no se han registrado ejecuciones comparablemente
+impresionantes, la Hermandad debió engordar con oro durante esa era.
+A la Hermandad Oscura no le faltan oportunidades de negocio: un
+ajuste de cuentas, según me han informado, es el eufemismo favorito
+de la Hermandad para la ejecución. Si bien son oficialmente una
+organización ilegal en cada rincón del Imperio, al igual que el
+Gremio de Ladrones, son tolerados casi universalmente.
 
 
 
 
 
- 
+

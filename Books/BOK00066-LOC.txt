@@ -1,67 +1,61 @@
-Title: Galerion the Mystic
+Title: Galerion el Místico
 Author: Asgrim Kolsgreg
 IsNaughty: False
 Price: 638
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
 [/center]Galerion
 
-[/center]The Mystic
-
-
+[/center]el Místico
 
 [/font=4]
 
 [/center]
 
-     During the early bloody years of the Second Era, Vanus
-Galerion was born under the name Trechtus, a serf on the
-estate of a minor nobleman, Lord Gyrnasse of
-Sollicich-on-Ker. Trechtus' father and mother were common
-laborers, but his father had secretly, against the law of
-Lord Gyrnasse, taught himself and then Trechtus to read.
-Lord Gyrnasse had been advised that literate serfs were an
-abomination of nature and dangerous to themselves and their
-lords, and had closed all bookstalls within
-Sollicich-on-Ker. All booksellers, poets, and teachers were
-forbidden, except within Gyrnasse's keep. Nevertheless, a small scale smuggling operation kept a number of books and
-scrolls in circulation right under Gyrnasse's shadow.
+Durante los primeros y sangrientos años de la Segunda Era, Vanus
+Galerion nació bajo el nombre de Trechtus, un siervo en las tierras de
+un noble menor, Lord Gyrnasse de Sollicich-on-Ker. El padre y la madre
+de Trechtus eran trabajadores comunes, pero su padre, en secreto y contra
+la ley de Lord Gyrnasse, había aprendido por sí mismo y luego enseñado a
+Trechtus a leer. Lord Gyrnasse había sido advertido de que los siervos
+alfabetizados eran una abominación de la naturaleza y peligrosos para sí
+mismos y para sus señores, y había cerrado todos los puestos de libros
+dentro de Sollicich-on-Ker. Todos los libreros, poetas y maestros fueron
+prohibidos, excepto dentro de la fortaleza de Gyrnasse. No obstante, una
+operación de contrabando a pequeña escala mantuvo varios libros y
+pergaminos en circulación justo bajo la sombra de Gyrnasse.
 
-     When Trechtus was eight, the smugglers were found and
-imprisoned. Some said that Trechtus's mother, an ignorant
-and religious woman fearful of her husband, was the
-betrayer of the smugglers, but there were other rumors as
-well. The trial of the smugglers was nonexistant, and the
-punishment swift. The body of Trechtus' father was kept
-hanging for weeks during the hottest summer Sollicich-on-Ker
-had seen in centuries.
+Cuando Trechtus tenía ocho años, los contrabandistas fueron descubiertos
+y encarcelados. Algunos decían que la madre de Trechtus, una mujer
+ignorante y religiosa que temía a su marido, fue quien traicionó a los
+contrabando, pero también hubo otros rumores. El juicio de los
+contrabandistas fue inexistente y el castigo veloz. El cuerpo del padre
+de Trechtus permaneció colgado durante semanas durante el verano más
+caluroso que Sollicich-on-Ker había visto en siglos.
 
-     Three months later, Trechtus ran away from Lord
-Gyrnasse's estate. He made it as far as Alinor, half-way
-across Sumurset Isle. A band of troubadours found him
-nearly dead, curled up in a ditch by the side of the road,
-nursed him to health, and employed him as an errand boy in
-return for food and shelter. One of the troubadours, a
-soothsayer named Heliand began testing Trechtus' mind and
-found the boy, though shy, to be preternaturally
-intelligent and sophisticated given his circumstances. Heliand
-recognized in the boy a commonality, for Heliand had been
-trained on the Isle of Artaeum as a mystic.
+Tres meses después, Trechtus huyó de las tierras de Lord Gyrnasse. Llegó
+hasta Alinor, a mitad de camino a través de la Isla de Estivalia. Una
+banda de trovadores lo encontró casi muerto, acurrucado en una zanja a un
+lado del camino, lo cuidaron hasta que recuperó la salud y lo emplearon
+como recadero a cambio de comida y refugio. Uno de los trovadores, un
+adivino llamado Heliand, comenzó a poner a prueba la mente de Trechtus
+y descubrió que el chico, aunque tímido, era preternaturalmente
+inteligente y sofisticado dadas sus circunstancias. Heliand reconoció en
+el chico algo familiar, pues Heliand había sido entrenado en la Isla de
+Artaeum como místico.
 
-     When the troupe was performing in the village of Potansa
-on the far eastern end of Sumurset, Heliand took Trechtus,
-then a boy of eleven, to the Isle of Artaeum. The Magister
-of the Isle, Iachesis, recognized potential in Trechtus and
-took him on as pupil, giving him the name of Vanus Galarion.
-Vanus trained his mind on the Isle of Artium, as well as his
-body.
+Cuando la compañía estaba actuando en el pueblo de Potansa, en el extremo
+oriental de Estivalia, Heliand llevó a Trechtus, que entonces era un niño
+de once años, a la Isla de Artaeum. El Magister de la Isla, Iachesis,
+reconoció el potencial en Trechtus y lo aceptó como alumno, dándole el
+nombre de Vanus Galerion. Vanus entrenó su mente en la Isla de Artaeum,
+así como su cuerpo.
 
-     Thus was the first Archmagister of the Mages Guild
-trained. From the Psijics of the Isle of Artaeum, he received
-his training. From his childhood of want and injustice, he
-received his philosophy of sharing knowledge. 
+Así fue como se formó el primer Archimagister del Gremio de Magos. De
+los Psijic de la Isla de Artaeum recibió su entrenamiento. De su
+infancia de penuria e injusticia recibió su filosofía de compartir el
+conocimiento.

@@ -1,110 +1,100 @@
-Title: Vampires of the Iliac Bay, Part II
-Author: Anonymous
+Title: Vampiros de la Bahía de Iliac, Parte II
+Author: Anónimo
 IsNaughty: False
 Price: 429
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]Vampires
+[/center]Vampiros
 
-[/center]of the
+[/center]de la
 
-[/center]Iliac Bay,
+[/center]Bahía de Iliac,
 
-[/center]Part II
-
-
+[/center]Parte II
 
 [/font=4]
 
 [/center]
 
-[/center]     I told in the first chapter of my story how I became a
-vampire and of my first kill. While it might (and, indeed,
-should) horrify the reader that my first victim was a friend
-of the mortal I used to be, it is my understanding that they
-are not uncommon first kills.
+[/center] En el primer capítulo de mi historia conté cómo me convertí en
+vampiro y mi primera víctima. Aunque al lector podría (y, de hecho,
+debería) horrorizarle que mi primera víctima fuera una amiga del mortal
+que solía ser, tengo entendido que no son casos inusuales para una
+primera muerte.
 
-     I left the snow white corpse in the alley and ran to the
-only place I felt perversely safe, the masoleum. For the
-first couple days of my undeath, I starved myself while I
-considered my fate. I relearned what I was capable of
-doing, and found that I was stronger, faster, tougher, and
-more agile than before. I had powers that as a knight I had
-only seen powerful mages wield. Later, I discovered
-additional abilities, such as a total immunity to disease.
-Helpful when descending on a plague-stricken city like a
-jackal.
+Dejé el cadáver blanco como la nieve en el callejón y corrí al único
+lugar donde me sentía perversamente a salvo: el mausoleo. Durante los
+primeros días de mi no-muerte, me negué a comer mientras meditaba sobre
+mi destino. Volví a aprender de lo que era capaz y descubrí que era más
+fuerte, más rápido, más resistente y más ágil que antes. Poseía poderes
+que, como caballero, solo había visto blandir a magos poderosos. Más
+tarde, descubrí habilidades adicionales, como una inmunidad total a las
+enfermedades. Útil cuando te lanzas sobre una ciudad asolada por la
+peste como un chacal.
 
-     I also found my weaknesses. I could no longer stand the
-light of the sun -- exposure to it for longer than a few
-seconds burned me terribly. It also pained me to enter
-temples and other places of worship. The worst effect, of
-course, had to be my blood lust. If I did not kill a warm
-blooded creature once a night and drink its blood, my hunger
-would gnaw at me, and any wounds I suffered would not heal
-no matter how much I rested.
+También encontré mis debilidades. Ya no podía soportar la luz del sol;
+la exposición a ella durante más de unos pocos segundos me quemaba
+terriblemente. También me dolía entrar en templos y otros lugares de
+culto. El peor efecto, por supuesto, tenía que ser mi sed de sangre. Si
+no mataba a una criatura de sangre caliente una vez por noche y bebía su
+sangre, el hambre me roía y cualquier herida que sufriera no sanaba, sin
+importar cuánto descansara.
 
-     Is this the moment for me to admit that there was a time I
-loved being a bloodsucking creature of the night? It is not
-impossible to live only at night, merely occasionally
-inconvenient. And I wouldn't have to kill humans every
-night, merely warm-blooded creatures. Orcs have a
-delicious, rich brothy blood; rats are a little sweet for the
-only meal of the night; werewolves are a real treat, almost
-decadent the tincture between human and beast. A real
-gourmet's delight.
+¿Es este el momento de admitir que hubo un tiempo en que amé ser una
+criatura de la noche succionadora de sangre? No es imposible vivir solo
+de noche, simplemente resulta inconveniente en ocasiones. Y no tenía que
+matar humanos todas las noches, bastaba con criaturas de sangre caliente.
+Los orcos tienen una sangre deliciosa, rica como un caldo; las ratas son
+un poco dulces para ser la única comida de la noche; los hombres lobo
+son un verdadero manjar, casi decadente por ese matiz entre humano y
+bestia. Un auténtico deleite para gourmets.
 
-     About a month after I died, I was having the best time of
-my life. One night, I received a letter from someone who
-said he was "family." Curious, I went to visit him at his
-tavern, and was told about the tribe of vampires to which I
-belonged -- the Montalion. In return for me performing
-certain duties for the "family," the man at the inn would
-train my in my vampiric abilities and skills.
+Aproximadamente un mes después de morir, estaba pasando el mejor momento
+de mi vida. Una noche, recibí una carta de alguien que decía ser de la
+"familia". Curioso, fui a visitarlo a su taberna y me hablaron de la
+tribu de vampiros a la que pertenecía: los Montalion. A cambio de que yo
+realizara ciertas tareas para la "familia", el hombre de la posada me
+entrenaría en mis habilidades y destrezas vampíricas.
 
-     Though I never got very much detail, I surmised that the
-two main differences between the different vampire clans is
-geography and powers. Montalion alone have the gift for
-teleportation, but the other eight have powers of their own. 
+Aunque nunca obtuve muchos detalles, supuse que las dos diferencias
+principales entre los distintos clanes de vampiros son la geografía y
+los poderes. Solo los Montalion poseen el don de la teletransportación,
+pero los otros ocho clanes tienen poderes propios.
 
-     My mentor (that is the title he used) would congratulate
-me after each mission I performed, and came to trust me more
-and more. If asked, he would tell me about the Montalion's
-newest alliances, who they were manipulating, who they were
-stalking. It was then I started to become frightened at
-last. They, and all of their rival clans, were draining the
-blood of Tamriel itself.
+Mi mentor (ese es el título que utilizaba) me felicitaba tras cada misión
+que realizaba y llegó a confiar en mí cada vez más. Si se lo pedía, me
+hablaba de las nuevas alianzas de los Montalion, a quién estaban
+manipulando, a quién acechaban. Fue entonces cuando, por fin, empecé a
+sentir miedo. Ellos, y todos sus clanes rivales, estaban drenando la
+sangre de la mismísima Tamriel.
 
-     I panicked. I had to find a cure. But nowhere could I find
-any book or rumor suggesting that vampirism is anything but
-permanent. So I resolved to kill myself, but I wanted to
-bring the Montalion down with me. I joined guilds they
-opposed, and failed any mission given to me
-spectacularly. I thought my mentor would turn against me,
-but he only became quieter, less forthcoming with
-information, never violent. He was not concerned. He had
-probably seen vampires like me before.
+Entré en pánico. Tenía que encontrar una cura. Pero en ningún lugar pude
+hallar libro o rumor alguno que sugiriera que el vampirismo fuera otra
+cosa que permanente. Así que decidí suicidarme, pero quería arrastrar a
+los Montalion conmigo. Me uní a gremios a los que ellos se oponían y
+fallé espectacularmente cualquier misión que se me encomendara. Pensé que
+mi mentor se volvería contra mí, pero solo se volvió más silencioso,
+menos comunicativo con la información, nunca violento. No estaba
+preocupado. Probablemente ya había visto a vampiros como yo antes.
 
-     Here's why he never attacked me: immortals can afford to be
-eternally patient.
+He aquí por qué nunca me atacó: los inmortales pueden permitirse ser
+eternamente pacientes.
 
-     At last, he refused to give me any further missions. He
-wouldn't even talk with me, but he never left his tavern. I
-could come and go, and he'd watch but never talk. That's
-when I got another letter.
+Por fin, se negó a darme más misiones. Ni siquiera hablaba conmigo, pero
+nunca abandonaba su taberna. Yo podía entrar y salir, y él me observaba
+pero nunca hablaba. Fue entonces cuando recibí otra carta.
 
-     There are several of us, you see, former vampires who know
-what to look for. We're patient too: we learned it in our
-unlife. We watch and listen, and anonymously contact the
-vampires we know wish to end the curse.
+Verás, somos varios, antiguos vampiros que sabemos qué buscar. Nosotros
+también somos pacientes: lo aprendimos en nuestra vida de ultratumba.
+Observamos y escuchamos, y contactamos de forma anónima con los vampiros
+que sabemos que desean poner fin a la maldición.
 
-     Ending the curse is possible, but only just. It is very
-dangerous, but when you are cursed, the only real danger is
-no escape.
+Poner fin a la maldición es posible, pero solo por poco. Es muy
+peligroso, pero cuando estás maldito, el único peligro real es no
+escapar.
 
- 
+

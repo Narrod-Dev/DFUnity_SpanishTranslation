@@ -1,66 +1,59 @@
 Title: Wabbajack
-Author: Anonymous
+Author: Anónimo
 IsNaughty: False
 Price: 599
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
 [/center]Wabbajack
 
-
-
 [/font=4]
 
 [/center]
 
-[/center]     Little boys shouldn't summon up the forces of eternal
-darkness unless they have an adult supervising, I know, I
-know. But on that sunny night on the 5th of First Seed, I
-didn't want an adult. I wanted Hermaeus Mora, the daedra of
-knowledge, learning, gums, and varnishes. You see, I was
-told by a beautiful, large breasted man who lived under the
-library in my home town that the 5th of First Seed was Hermaeus
-Mora's night. And if I wanted the Oghma Infinium, the book of
-knowledge, I had to summon him. When you're the new king of
-Solitude, every bit of knowledge helps.
+[/center] Los niños pequeños no deberían invocar a las fuerzas de la
+oscuridad eterna a menos que tengan a un adulto supervisándoles, lo sé,
+lo sé. Pero en esa noche soleada del 5 de Primrose, yo no quería a un
+adulto. Quería a Hermaeus Mora, el daedra del conocimiento, el
+aprendizaje, las encías y los barnices. Verás, un hombre hermoso y de
+grandes pechos que vivía bajo la biblioteca de mi ciudad natal me dijo
+que el 5 de Primrose era la noche de Hermaeus Mora. Y si quería el Oghma
+Infinium, el libro del conocimiento, tenía que invocarlo. Cuando eres
+el nuevo rey de Soledad, cada pizca de conocimiento ayuda.
 
-     Normally, you need a witches coven, or a mages guild, or
-at least matching pillow case and sheets to invoke a prince
-of Oblivion. The Man Under the Library showed me how to do it
-myself. He told me to wait until the storm was at its height
-before shaving the cat. I've forgotten the rest of the
-ceremony. It doesn't matter.
+Normalmente, necesitas un aquelarre de brujas, o un gremio de magos, o
+al menos una funda de almohada y sábanas a juego para invocar a un
+príncipe de Oblivion. El Hombre Bajo la Biblioteca me enseñó cómo
+hacerlo yo mismo. Me dijo que esperara hasta que la tormenta estuviera
+en su apogeo antes de afeitar al gato. He olvidado el resto de la
+ceremonia. No importa.
 
-     Someone appeared who I thought was Hermaeus Mora. The
-only thing that made me somewhat suspicious was Hermaeus Mora,
-from what I read, was a big blobby multi-eyed clawed
-monstrosity, and this guy looked like a waistcoated banker.
-Also, he kept calling himself Sheogorath, not Hermaeus Mora.
-Still, I was so happy to have successfully summoned
-Hermaeus Mora, these inconsistencies did not bother me. He had
-me do some things that didn't make any sense to me (beyond the
-mortal scope, breadth, and ken, I suppose), and then his
-servant happily gave me something he called the Wabbajack.
+Apareció alguien que pensé que era Hermaeus Mora. Lo único que me hizo
+sospechar un poco fue que Hermaeus Mora, por lo que había leído, era una
+gran monstruosidad amorfa de múltiples ojos y garras, y este tipo
+parecía un banquero con chaleco. Además, seguía llamándose a sí mismo
+Sheogorath, no Hermaeus Mora. Aun así, estaba tan feliz de haber
+invocado con éxito a Hermaeus Mora que estas inconsistencias no me
+molestaron. Me hizo hacer algunas cosas que no tenían sentido para mí
+(más allá del alcance, la amplitud y el conocimiento mortal, supongo),
+y luego su sirviente me dio alegremente algo que llamó el Wabbajack.
 Wabbajack. Wabbajack. Wabbajack.
 
- Wabbajack. Wabbajack. Wabbajack. Wabbajack. Wabbajack.
-Wabbajack.
+Wabbajack. Wabbajack. Wabbajack. Wabbajack. Wabbajack. Wabbajack.
 
-      Maybe the Wabbajack is the Book of Knowledge. Maybe I'm
-smarter because I know cats can be bats can be rats can be
-hats can be gnats can be thats can be thises. And that doors
-can be boars can be snores can be floors can be roars can be
-spores can be yours can be mine. I must be smart, for the
-interconnective system is very clear to me.  Then why, or
-wherefore do people keep calling me mad?
+Tal vez el Wabbajack sea el Libro del Conocimiento. Tal vez soy más
+inteligente porque sé que los gatos pueden ser murciélagos pueden ser
+ratas pueden ser sombreros pueden ser mosquitos pueden ser eses pueden
+ser eses. Y que las puertas pueden ser jabalíes pueden ser ronquidos
+pueden ser suelos pueden ser rugidos pueden ser esporas pueden ser
+tuyas pueden ser mías. Debo de ser inteligente, porque el sistema
+interconectado es muy claro para mí. Entonces, ¿por qué, o por qué
+razón la gente me sigue llamando loco?
 
- Wabbajack. Wabbajack. Wabbajack.
-
-
+Wabbajack. Wabbajack. Wabbajack.
 
 
 
@@ -70,6 +63,3 @@ wherefore do people keep calling me mad?
 
 
 
-
-
- 

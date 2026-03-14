@@ -1,892 +1,665 @@
-Title: Fools' Ebony, Part the Sixth
+Title: Ébano de los tontos, Sexta Parte
 Author: Frincheps
 IsNaughty: False
 Price: 317
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]Fools' Ebony,
+[/center]Ébano de los tontos,
 
-[/center]Part the
+[/center]Sexta
 
-[/center]Sixth
-
-
+[/center]Parte
 
 [/font=4]
 
+[/center] Reparto
 
+Prólogo El Aventurero, un bribón Elfo Oscuro Komon, un Sacerdote
+de Akatosh Lheban, otro Sacerdote de Akatosh Epílogo Stete, un
+Sacerdote de Julianos Raic, otro Sacerdote de Julianos Shub, un
+Mago Shub, un Mago diferente con el mismo nombre Nephron, un
+Comerciante algo sórdido 5 Armeros Ortho Crunn, esposo de
+Millie Una Contessa Lúbrica Millie, tabernera y filósofa
+Gurnsey, moza bovina Surtido de mozas y canallas de las
+tabernas Soldados Enanos Gigantes
 
-[/center] Dramatis Personae
+Daggerfall y sus alrededores en los tiempos muertos de la 3ª Era
 
- Prologue The Adventurer, A Dark Elf Rascal Komon, A Priest
-of Akatosh Lheban, Another Priest of Akatosh Epilogue Stete, A
-Priest of Julianos Raic, Another Priest of Julianos Shub, A
-Mage Shub, A Different Mage of the Same Name Nephron, A
-Somewhat Sleazy Merchant 5 Armorers Ortho Crunn, Husband of
-Millie A Lusty Contessa Millie, Innkeep and Philosopher
-Gurnsey, Bovine Wench Assorted Wenches and Cads of the
-Taverns Soldiers Dwarves Giants
+Escena 1: En la suite del Aventurero en la Posada del Daedra Muerto.
 
+Entran Prólogo, el Aventurero y Ortho. Ortho se mete en la cama.
 
+    Prólogo: Gracias por darnos tiempo para cambiar el escaso decorado,
+mientras nuestro bardo cantaba ese viejo favorito, "Salud y Adiós". Ahora,
+imaginen, si quieren, la lujosa y lánguida suite de ese pícaro Elfo Oscuro,
+el Aventurero, en la Posada del Daedra Muerto. El momento es poco después
+de la última escena, que por si lo han olvidado, terminó con nuestro héroe
+y su socio en el crimen, Nephron, haciendo algunos arreglos para estafar
+a magos, sacerdotes y armeros. Todos están interesados en poner sus manos
+en un filón de Ébano de los Tontos, un milagroso mineral ardiente, y los
+sacerdotes y magos consideran al Aventurero su aliado. Los Armeros saben
+más y han asignado a uno de sus aprendices, Ortho, para vigilar los
+movimientos del Aventurero. Ahora, mientras Ortho duerme, el Aventurero
+tiene su primer momento de paz en días. Debo mencionar que, en interés de
+la decencia común, esta escena ha sido abreviada de la original por orden
+del Gremio de Dramaturgos, Actores y Autores. Ahora contiene poco material
+de relevancia. Una copia completa puede obtenerse del autor después de la
+función por una módica tarifa de copia de 50 monedas de oro. Ahora es el
+momento de que el pobre Prólogo se retire.
 
- Daggerfall and Environs in the Doldrums of the 3rd Era
+(Sale Prólogo) (El Aventurero empieza a desnudarse)
+(Toc-toc en la puerta. El Aventurero salta, sobresaltado) (Ronquido de Ortho)
 
- Scene 1: In The Adventurer's suite at the Dead Daedra Inn.
+    Aventurero: ¿Quién está ahí? ¡Ya voy!
+(Abre la puerta con cuidado) (Entra la Contessa)
 
- Enter Prologue, the Adventurer, and Ortho. Ortho climbs
-into bed.
+    Aventurero: Er, bueno... er... ¡Pase! Por favor.
+(El Aventurero retrocede, tropezando con sus pantalones
+alrededor de los tobillos...)
 
-       Prologue: Thank you for allowing us the time to change
-the meager set, while our bard sang that old favorite, "Hail
-and Farewell." Now then, imagine, if you will, the
-luxuriant and langorous suite of that Dark Elven rogue, the
-Adventurer, at the Dead Daedra Inn. The time is shortly
-after the last scene, which if you've forgotten, ended with
-our hero and his partner-in-crime, Nephron, making some
-arrangements to swindle from the mages, priests, and
-armorers. All are interested in getting their hands on a
-lode of Fools' Ebony, a miraculous burning mineral, and the
-priests and mages each consider the Adventurer their ally.
-The Armorers know better and have assigned one of their
-apprentices, Ortho, to watch the Adventurer's movements.
-Now, as Ortho slumbers, the Adventurer has his first moment
-of peace in days. I should mention that in the interest of
-common decency, this scene has been abbreviated from the
-original by order of the Guild of Playwrites, Actors, and
-Dramatists. It now contains little material of relevance.
-A full copy may be obtained from the playwrite after the
-show for a mere 50 g.p. copying fee. Now is the time for
-poor Prologue to shuffle away.
+    Contessa: Siento mucho sorprenderte, pero pensé que podríamos
+encontrar algo en común... ¡Oh! ¡Pobre hombre, tienes una herida! Aquí,
+déjame arreglar ese vendaje... parece muy reciente.
 
- (Exit Prologue) (The Adventurer begins to get undressed)
-(Tap-tap at the door. Adventurer jumps, startled) (Snore
-from Ortho)
+(Arreglando el vendaje, esta vez correctamente)
 
-       Adventurer: Who's there? I'm coming!
+    Aventurero: Bueno, yo... acabo de abrirla de nuevo. Ejercicios
+nocturnos, calistenia, y esas cosas...
 
- (Opens door - carefully) (Enter Contessa)
+    Contessa: ¿Cómo te hiciste este corte, si no te importa que te
+pregunte?
 
-       Adventurer: Er, well ... er ... Come In! Please.
+    Aventurero: No, en absoluto. Estaba... en una pelea, hace poco.
+Esas tres personas locas me asaltaron.
 
- (The Adventuer steps back, tripping over his trousers
-around his ankles ...)
+    Contessa: ¿De verdad? Esta tela parece parte de la túnica de un
+Mago.
 
-       Contessa So sorry to surprise you, but I thought that we
-might find something in common ... Oh! You poor man, you
-have a wound!  Here, let me fix that bandage ... it looks
-very fresh.
+    Aventurero: Bueno, sí, dos de ellos eran Magos.
 
- (Fixing bandage, properly this time)
+    Contessa: ¡Vaya! Debes haber sido muy bueno para derrotarlos.
 
-       Adventurer: Well, I ... just opened it up again.
-Evening exercises, calisthenics, so on...
+    Aventurero: Oh, ah, bueno, he estado en una o dos peleas. No
+quiero ser grosero, pero ¿quién eres tú?
 
-       Contessa: How did you get this cut - if you do not mind me
-asking?       
+    Contessa: Oh, lo siento mucho, olvidé por completo las
+presentaciones adecuadas. Soy la Contessa Aveet Videspreed; llámame
+Ave. De la Corte de Daggerfall.
 
-       Adventurer: No, not at all. I was ... in a fight,
-earlier. These three crazy people jumped me.
+    Aventurero (Aparte) Por Oblivion, ¿ahora qué?
 
-       Contessa: Really?  This cloth looks like part of a Mage's
-robe.
+    Contessa: Aquí, ayúdame a quitarme esta túnica, estas habitaciones
+de posada siempre están... tan calientes. Y déjame revisar ese vendaje de
+nuevo, pobre hombre. ¡Ooh!, llevas un cinturón de ébano de aguante y
+brazales de fuerza. Ooh, un brazalete de resistencia. Esta es mi noche de
+suerte.
 
-       Adventurer: Well, yes, two of them were Mages.
+    Aventurero (Aparte) Ayuda.
 
-       Contessa: Oh My! You must have been very good, to defeat
-them.
+    Contessa: Aquí, déjame ayudarte a quitarte esa vieja camisa; tengo
+que revisarte por si tienes más cortes; pueden ponerse feos muy pronto,
+¿sabes?
 
-       Adventurer: Oh, ah, well, I've been in one or two
-fights. Not to be rude, but who are you?
+    Aventurero (Aparte) Bueno, esta vez no son los Armeros. Quizá mi
+suerte haya cambiado.
 
-       Contessa: Oh, I am so sorry, I quite forgot the proper
-introductions. I am the Contessa Aveet Videspreed -- call me
-Ave.  From the Court at Daggerfall.
+    Contessa: Bueno, todo parece estar bien... muy bien, de hecho...
 
-       Adventurer       (aside) By Oblivion, what now?
+    Aventurero: Er... bueno, Ave... cuéntame sobre... er... ti misma.
 
-       Contessa: Here, help me off with this robe, these inn rooms
-are always ... so hot. And let me check that bandage again,
-poor man. Ooh, you are wearing an ebony belt of stamina,
-and bracers of strength. Ooh, a bracelet of endurance. This
-is my lucky night.
+    Contessa: Si quieres, solo por un momento... 
 
-       Adventurer       (aside) Help.
+    Aventurero: Toma, bebe un poco de vino...
+Entra Prólogo
 
-       Contessa: Here, let me help you off with that old shirt -
-got to check you for any more cuts - they can go bad so
-easily, you know.
+    Prólogo: Aquí el discurso de nuestro digno dramaturgo ha sido
+fuertemente editado por el Gremio de Dramaturgos, Actores y Autores. Me
+esforzaré por rellenar esos pasajes eliminados. Primero debo mencionar que
+la Contessa no pretende ser pariente de ningún noble actual en el Castillo
+de Daggerfall. La Contessa Aveet deleita al Aventurero con relatos sobre
+los peculiares y robustos miembros de su familia real. Tiene muchos
+hermanos y hermanas. Todos son muy... cercanos.
 
-       Adventurer       (aside) Well, its not the Armorers this
-time. Maybe my luck has turned.
+    Contessa: Creo que debo de haber sido una bastarda. Era la única con
+el pelo rojo y afinidad por la magia. Todos los demás intentaban ocultar
+esta habilidad mía. Recuerdo muy bien una azotaina...
 
-       Contessa: Well, everything seems all right...very all
-right, in fact...
+    Prólogo: La Contessa relata más diferencias entre sus hermanos.
 
-       Adventurer: Er...well, Ave - tell me about ... er ...
-yourself.           Contessa: If you want - just for a bit - 
+    Contessa: Mientras mis hermanas aprendían a hacer reverencias en
+diez modos diferentes, y mis hermanos aprendían arreglos florales, yo solía
+escaparme al bosque o a la ciudad. Pronto aprendí cómo conseguir lo que
+quería de casi cualquiera. Solo por ejemplo, había un comerciante que tenía
+tres hijos...
 
-       Adventurer: Here, have some wine ...
+    Prólogo: La Contessa entra en detalles sobre su entrenamiento.
 
- Enter Prologue
+    Contessa: Me volví bastante buena en la escuela de ilusión. Nunca
+me notaste ahí abajo, ¿verdad? También aprendí a usar algunas armas.
+Déjame decirte cómo aprendí el combate cuerpo a cuerpo...
 
-       Prologue: Here our worthy playwrite's speech has been
-heavily edited by the Guild of Playwrites, Actors, and
-Dramatists. I will endeavor to fill in those removed
-passages. I should first mention that the Contessa is not
-meant to be a relative of any noble currently in Castle
-Daggerfall. The Contessa Aveet regales the Adventurer with
-tales of the peculiar and hearty members of her royal
-family. She has many brothers and sisters. They are all very
--- close.
+    Prólogo: La Contessa relata una anécdota divertida y luego continúa.
 
-       Contessa: I think I must have been a bastard. I was the
-only one with red hair, and an affinity for magicka. Everyone
-else tried to hide this skill of mine. I remember one spanking
-very well ...
-
-       Prologue: The Contessa relates futher differences
-between her siblings.
-
-       Contessa: While my sisters were learning to curtsey in
-ten different modes, and my brothers were learning
-flower-arranging, I used to sneak off into the woods or town.
-I soon learnt how to get what I wanted, from just about
-anyone. Just for example, there was this merchant who had
-three sons ...
-
-       Prologue: The Contessa goes into detail about her
-training.
-
-       Contessa: I became quite good at the school of illusion.
-You never noticed me, downstairs, did you?. I also learned
-how to use some weapons. Let me tell you how I learned
-hand-to-hand ...
-
-       Prologue: The Contessa relates an amusing anecdote, and
-then continues.
-
-       Contessa: And on bad days, I used to dig in my father's
-library. He had a marvelous collection of old texts. I was
-fascinated by Old Dwarvish, managed to learn it quite well,
-I think. Of course, no one has seen or spoken to one in years
-and years. So its probably perfectly useless knowledge.
-But I've always had an interest in collecting new
-knowledge. At the Mages Guild, they taught me an old High
-Elven tradition. You spread this potion all over your body
+    Contessa: Y en los días malos, solía escarbar en la biblioteca de mi
+padre. Tenía una colección maravillosa de textos antiguos. Me fascinaba el
+Antiguo Enano, y logré aprenderlo bastante bien, creo. Por supuesto, nadie
+ha visto ni hablado con uno en años y años. Así que probablemente sea un
+conocimiento perfectamente inútil. Pero siempre he tenido interés en
+recopilar nuevos conocimientos. En el Gremio de Magos, me enseñaron una
+vieja tradición de los Altos Elfos. Te untas esta poción por todo el cuerpo
 ...
 
-       Prologue: The Contessa relates her current state of
-boredom.
+    Prólogo: La Contessa relata su estado actual de aburrimiento.
 
-       Contessa: The life up at the Palace bores me so. My
-sisters ...
+    Contessa: La vida en el Palacio me aburre tanto. Mis hermanas...
 
-       Prologue: The Contessa's sisters are entertaining some
-visitors.
+    Prólogo: Las hermanas de la Contessa están entreteniendo a unos
+visitantes.
 
-       Contessa: And my brothers are now studying Advanced
-Floral Theory, so I come down here, do a little ... er ...
-business. I keep all my relations supplied with their
-favourite vices -- so I can blackmail the whole rotten lot.
+    Contessa: Y mis hermanos están ahora estudiando Teoría Floral
+Avanzada, así que bajo aquí, hago un poco de... er... negocios. Mantengo a
+todos mis parientes provistos de sus vicios favoritos, para poder chantajear
+a toda esa panda de podridos.
 
-       Adventurer: But is'nt it dangerous, down here? Did I not
-hear that some young Contessa got killed, recently?
+    Aventurero: Pero, ¿no es peligroso aquí abajo? ¿No oí que mataron a
+alguna joven Contessa hace poco?
 
-       Contessa: That little twit was my cousin, and as far as
-I'm concerned, she got what she deserved. She thought  she could
-just borrow a maids dress, muss up her hair, and pass for s
-commoner. She was spotted the first minute she left the
-Palace gates. Now, I use illusion, craft, guile -- and I
-carry weaponry. By the way, that was a neat scheme you and
-Neph cooked up.
+    Contessa: Esa tontita era mi prima, y por lo que a mí respecta, tuvo
+lo que se merecía. Pensó que podía simplemente tomar prestado un vestido de
+criada, alborotarse el pelo y pasar por una plebeya. Fue descubierta al
+primer minuto de salir por las puertas del Palacio. Ahora, yo uso la
+ilusión, la astucia, el engaño... y llevo armas. Por cierto, ese fue un
+plan ingenioso el que tú y Neph tramaron.
 
-       Adventurer: Well, lets change the subject, can we? ...
-Just what do you carry? I can't see anything ... like a
-weapon, I mean ...
+    Aventurero: Bueno, cambiemos de tema, ¿podemos? ... ¿Qué es
+exactamente lo que llevas? No veo nada... como un arma, quiero decir...
 
-       Contessa: Here, let me show you ...
+    Contessa: Aquí, deja que te enseñe...
 
-       Adventurer: Oh my, those are nice ... knives...
+    Aventurero: ¡Vaya!, esos son unos bonitos... cuchillos...
 
-       Contessa: And there're more ...             Adventurer: Oh yes
-...
+    Contessa: Y hay más...               Aventurero: Oh, sí...
 
-       Contessa: But we don't need these silly nasty weapons
-now, do we?
+    Contessa: Pero no necesitamos estas tontas y desagradables armas
+ahora, ¿verdad?
 
-       Adventurer: My, my -- now those are what I call weapons
-... Oh yes ... heavy duty, high class ones too, my ...
+    Aventurero: Vaya, vaya... ahora a eso es a lo que yo llamo armas...
+Oh, sí... de uso pesado, y de alta clase también, vaya...
 
-       Contessa: I think its time that we put that ebony to the
-test ... to say nothing of your Mages Staff ...
+    Contessa: Creo que es hora de poner a prueba ese ébano... por no
+hablar de tu Vara de Mago...
 
-       Prologue: At this point, extensive material has been
-removed. However, please remember that any scholar who
-truly wishes to peruse this material can obtain a copy for
-only 50 g.p. - hand-drawn illustrations are of course extra.
-The Contessa, after a bit of fun, volunteers to be a part
-of the Adventurer's party to find the fools' ebony lode. I
-know, I know. It didn't make much sense in the original draft
-either, if you want to know the truth.
+    Prólogo: En este punto, se ha eliminado material extenso. Sin
+embargo, por favor recuerden que cualquier erudito que realmente desee
+estudiar este material puede obtener una copia por solo 50 monedas de oro;
+las ilustraciones hechas a mano son, por supuesto, extras. La Contessa,
+tras un poco de diversión, se ofrece voluntaria para formar parte del grupo
+del Aventurero para encontrar el filón de ébano de los tontos. Lo sé, lo sé.
+Tampoco tenía mucho sentido en el borrador original, si quieren saber la
+verdad.
 
- (Exit Prologue)
+(Sale Prólogo)
 
-       Adventurer: Sure you want to go out there in the wilds?
+    Aventurero: ¿Segura que quieres ir allá afuera, a las tierras
+salvajes?
 
-       Contessa: Oh, yes. I am so bored here. Well, not right
-here and now, but generally. And I can really be of
-assistance. I'm pretty good with woods survival, knife
-work, hand-to-hand ... and it gets cold out there at night,
-even for big ebony-wearing men like you ...
+    Contessa: Oh, sí. Estoy tan aburrida aquí. Bueno, no justo aquí y
+ahora, pero en general. Y realmente puedo ser de ayuda. Soy bastante buena
+en supervivencia en el bosque, manejo de cuchillos, combate cuerpo a
+cuerpo... y hace frío ahí fuera por la noche, incluso para hombres grandes
+que visten de ébano como tú...
 
-       Adventurer: All right, then. Do you know where and why we
-are going?
+    Aventurero: Está bien, entonces. ¿Sabes a dónde vamos y por qué?
 
-       Contessa: Oh, of course. It's all over Daggerfall.
-Everyone is watching and waiting to see what happens. There is
-even a lottery or two running ...
+    Contessa: Oh, por supuesto. Se sabe por todo Daggerfall. Todos están
+vigilando y esperando para ver qué pasa. Incluso hay una lotería o dos en
+marcha...
 
-       Adventurer: On what ..?
+    Aventurero: ¿Sobre qué..?
 
-       Contessa: Oh, your life.
+    Contessa: Oh, sobre tu vida.
 
-       Adventurer: Oh dear Oh dear! Oh my!
+    Aventurero: ¡Ay de mí! ¡Vaya por Dios!
 
-       Contessa: Look, don't worry -- I know all about the
-double-dealings with mages, priests, merchants, those crude
-armorers. And I intend that we come out on top. I love
-being on top. With the goods and the profits. I'll have yet
-another vice to sell to my stupid relatives in their boring
-palaces.
+    Contessa: Mira, no te preocupes; lo sé todo sobre los dobles tratos
+con magos, sacerdotes, comerciantes y esos toscos armeros. Y tengo la
+intención de que salgamos ganando. Me encanta estar arriba. Con los bienes
+y las ganancias. Tendré otro vicio más que vender a mis estúpidos parientes
+en sus aburridos palacios.
 
-       Adventurer: But won't it be us two against hordes?
+    Aventurero: Pero, ¿no seremos nosotros dos contra hordas?
 
-       Contessa: Oh no. Most everyone is waiting here in town to
-see what and who comes back. And I will have a surprise
-arranged for our 'escorts' - Ortho included. Out in the
-wilderness, they can be dealt with easily.
+    Contessa: Oh, no. Casi todo el mundo está esperando aquí en la
+ciudad para ver qué y quién vuelve. Y tendré una sorpresa preparada para
+nuestros "escoltas", Ortho incluido. En el desierto, se puede lidiar con
+ellos fácilmente.
 
- (Ortho snores)
+(Ortho ronca)
 
-       Adventurer: Tell me more.
+    Aventurero: Cuéntame más.
 
-       Contessa: Certainly. But first ... lets see how many
-uses you have left in that ebony. Mmm, your Mages' Staff is
-in good shape ...
+    Contessa: Ciertamente. Pero primero... veamos cuántos usos te quedan
+en ese ébano. Mmm, tu Vara de Mago está en buena forma...
 
- (Enter Prologue)
+(Entra Prólogo)
 
-       Prologue: Exactly. Sorry to interrupt again, but
-we're going to have to stop this scene right here. After a
-frenzied night comes the placid dawn, tripping onto the sky
-like a budding rose. And then another day doth dawn, and then
-another. Ten dawns and ten frenzied nights pass as our wily
-Adventurer, the wanton Contessa, the clever and naughty
-Nephron, the loutish Ortho, and an assemblage of randy
-armorers and backsliding maidens take to the road. Imagine
-now that we are in the wildy wilderness of High Rock near the
-Wrothgarian Mountains.
+    Prólogo: Exactamente. Lamento interrumpir de nuevo, pero vamos a
+tener que detener esta escena aquí mismo. Tras una noche frenética llega el
+plácido amanecer, asomándose al cielo como un capullo de rosa. Y luego otro
+día amanece, y luego otro. Diez amaneceres y diez noches frenéticas pasan
+mientras nuestro astuto Aventurero, la lúbrica Contessa, el ingenioso y
+travieso Nephron, el patán de Ortho y un conjunto de armeros fogosos y
+doncellas descarriadas emprenden el camino. Imaginen ahora que estamos en
+el desierto más salvaje de Roca Alta, cerca de las Montañas de Wrothgar.
 
- Scene 2
+Escena 2
 
- (Enter Nephron and assorted lads and lasses) (Exit
-Prologue)
+(Entra Nephron y un surtido de muchachos y muchachas) (Sale
+Prólogo)
 
-       Contessa: I do so love a bucolic frolic.
+    Contessa: Me encantan las retozos bucólicos.
 
-       Adventurer: It's getting pretty wild now. I guess the
-dangerous part is coming up tomorrow...?
+    Aventurero: Se está poniendo bastante salvaje ahora. ¿Supongo que la
+parte peligrosa llega mañana...?
 
-       Contessa: Yes, one last stop tonight, at that old inn up
-here -- Minnie's Inn.
+    Contessa: Sí, una última parada esta noche, en esa vieja posada de
+por aquí: la Posada de Minnie.
 
-       Adventurer: Minnie's Inn? Oh, those two old scholars who
-gave it all up, came to run the inn out here. they must get
-all of two customers a year.
+    Aventurero: ¿La Posada de Minnie? Oh, esos dos viejos eruditos que lo
+dejaron todo para venir a regentarla aquí. Deben tener unos dos clientes
+al año.
 
-       Contessa: I think they like the solitude. It gives them
-time to study. They know a lot about old Dwarvish stuff -- get
-them started on that, they will wear you ears out.
+    Contessa: Creo que les gusta la soledad. Les da tiempo para estudiar.
+Saben mucho sobre cosas antiguas de los Enanos; si dejas que empiecen con
+eso, te dejarán sordo.
 
-       Adventurer: Er ... when does your surprise happen? I
-should probably know.
+    Aventurero: Er... ¿cuándo ocurre tu sorpresa? Probablemente debería
+saberlo.
 
-       Contessa: Don't fret, dear. At the Inn tonight. Just sit
-back and enjoy the show.
+    Contessa: No te angusties, querido. En la Posada, esta noche. Solo
+siéntate y disfruta del espectáculo.
 
- (Enter Prologue)
+(Entra Prólogo)
 
- Prologue: Time passes, the carts roll, things happen in the
-backs of the carts. And there are strange furtive movements
-unnoticed by all, on the high ridges around. When next we see
-our players, they are at Minnie's Inn, home of Minnie and
-Crunn, the philosopher- innkeeps. Imagine, if you will, the
-rather dusty dining room of Minnie's Inn.
+Prólogo: El tiempo pasa, los carros ruedan, pasan cosas en la parte trasera
+de los carros. Y hay extraños movimientos furtivos que nadie nota en las
+altas crestas de alrededor. La próxima vez que veamos a nuestros jugadores,
+estarán en la Posada de Minnie, hogar de Minnie y Crunn, los
+filósofos-taberneros. Imaginen, si quieren, el comedor bastante polvoriento
+de la Posada de Minnie.
 
- (Enter Minnie, Crunn, and Gurnsey) (Exit Prologue) (Gurnsey
-goes to Orthos' table with more ale for him. She sits down
-suddenly. She stares into Orthos'  eyes, Ortho stares into
-hers. Mouths drop open.)
+(Entran Minnie, Crunn y Gurnsey) (Sale Prólogo) (Gurnsey va a la
+mesa de Ortho con más cerveza para él. Ella se sienta de repente. Mira fijamente
+a los ojos de Ortho, Ortho la mira fijamente a ella. Se les abre la boca.)
 
-       Minnie: ... er ... Crunn ...
+    Minnie: ... er ... Crunn ...
 
-       Crunn: ... yes ... Minnie ...
+    Crunn: ... sí ... Minnie ...
 
-       Minnie: ... I was thinking ...
+    Minnie: ... estaba pensando ...
 
-       Crunn: ... yes, you were thinking, Minnie ...
+    Crunn: ... sí, estabas pensando, Minnie ...
 
-       Minnie: ... er .... thinking ...
+    Minnie: ... er .... pensando ...
 
-       Crunn: ... yes ...so was I ....
+    Crunn: ... sí ... yo también ....
 
-       Minnie: ... can't remember now ...
+    Minnie: ... no puedo recordarlo ahora ...
 
-       Crunn: ... yes, Minnie ... Minnie ...
+    Crunn: ... sí, Minnie ... Minnie ...
 
-       Minnie: ... Yes ..?
+    Minnie: ... ¿Sí ..?
 
-       Crunn: ... Shut up ...
+    Crunn: ... Cállate ...
 
-       Gurnsey and Ortho       (Together): Moo ... oooh ... moo.
+    Gurnsey y Ortho (Juntos): Muuu... oooh... muuu.
 
-       Adventurer: Moo?
+    Aventurero: ¿Muuu?
 
-       Contessa: See, Adventurer, Ortho's fixed.
+    Contessa: Mira, Aventurero, Ortho ya está arreglado.
 
-       Adventurer: Is he?
+    Aventurero: ¿Lo está?
 
-       Contessa: You just watch.
+    Contessa: Solo mira.
 
-       Adventurer: And what about the other armorers?
+    Aventurero: ¿Y qué hay de los otros armeros?
 
-       Contessa: Any minute now.
+    Contessa: En cualquier minuto.
+(Ortho y la sirvienta se levantan y se acercan a la mesa del Aventurero.
+El suelo tiembla.)
 
- (Ortho and serving girl arise, approach Adventurers'
-table. The floor shakes.)
+    Ortho: Esta Gurnsey. Ortho ama a Gurnsey, oooh.
 
-       Ortho: This Gurnsey. Ortho love Gurnsey, oooh.
+    Gurnsey: Gurnsey ama a Ortho... muuu...
 
-       Gurnsey: Gurnsey love Ortho ... moo ...
+    Ortho: Vamos a casarnos, nosotros vamos.
 
-       Ortho: We go get marry, we is.
+    Aventurero: ¡Bueno, felicidades! ¡Y ese ha sido un buen discurso
+largo, Ortho!
 
-       Adventurer: Well, congratulations! And that was a fine
-long speech, Ortho!
+    Ortho: Vamos a criar cerditos.
 
-       Ortho: We go raise piggies.
+    Gurnsey: Crece animales también, granjeros seremos.
+(Salen Ortho y Gurnsey)
 
-       Gurnsey: Grows animals too, farmers be we.
+    Aventurero: Extraordinario. Ave, creo que debes haber estado aquí
+antes.
 
- (Exit Ortho and Gurnsey)
+    Contessa: Oh, sí. A menudo vengo aquí para alejarme del Palacio y
+hablar de enanos con Minnie y Crunn.
 
-       Adventurer: Extraordinary. Ave, I think that you must
-have been up here before.
+Aventurero: ¿Quieres decir que estos dos ancianos... er,
+eruditos-taberneros pueden realmente hablar de enanos?
 
-       Contessa: Oh yes. I often come up here to get away from
-the Palace and talk dwarves with Minnie and Crunn.         
-Adventurer: You mean that these two ancient ... er, Scholar-I
-nnKeeps can actually talk and about dwarves?
+(Todos menos el Aventurero, la Contessa, Minnie y Crunn se quedan
+dormidos sobre sus pasteles de carne.)
 
- (All but Adventurer, Contessa, Minnie, and Crunn fall
-asleep in their meat pies.)
+    Contessa: Oh, sí, solo hay que tener mucha paciencia. Pero mira a
+nuestros otros escoltas...
 
-       Contessa: Oh yes, you must just be very patient. But look
-over at our other escorts ...
+    Aventurero: ¡Por la Dama!
 
-       Adventurer: By the Lady!
+    Contessa: Minnie era Alquimista antes de conocer a Crunn, y conoce
+muchas viejas pociones de los Enanos olvidadas.
 
-       Contessa: Minnie was an Alchemist before she met Crunn,
-and knows a lot of old forgotten Dwarvish potions.        
-Adventurer: But what do we do with the bodies?        
+Aventurero: ¿Pero qué hacemos con los cuerpos?
 
-       Contessa: Wait ...
+    Contessa: Espera...
+(Entra el Mayor)
 
- (Enter Major)
+    Contessa: Aventurero, conoce al Mayor Bloodnok, jefe de mi propio...
+pequeño guardaespaldas privado. Ha estado conmigo desde que era una simple
+niña. Me ha servido muy bien, ¿no es cierto, Mayor?
 
-       Contessa: Adventurer, meet Major Bloodnok, head of my
-own ...private little bodyguard. He's been with me since I
-was a mere girl. Served me very well, haven't you, Major?
+    Mayor: Lo damos todo, milady.
+(Sale todo el mundo, menos el Aventurero y la Contessa)
 
-       Major: We give our all, milady.
+    Aventurero: ¡Enanos, Ave! ¿Eso es un problema? Quiero decir, ellos
+son en cierto modo los dueños de todo el ébano de por aquí, ¿no?
 
-nKeeps can actually talk and about dwarves?
+    Contessa: Tal vez. Supongo que tenemos que seguir adelante y ver qué
+pasa. ¿Puedo intentar hablar con ellos, tal vez? Oh, y Aventurero, tú tendrás
+que conducir el primer carro. Yo llevaré el del viejo Nephron. Dejaremos el
+otro aquí; repuestos para más tarde.
 
- (All but Adventurer, Contessa, Minnie, and Crunn fall
-asleep in their meat pies.)
+    Aventurero: ¿Qué, no más retozos bucólicos?
 
-       Contessa: Oh yes, you must just be very patient. But look
-over at our other escorts ...
+    Contessa: Lo siento, pero tenemos que llegar al sitio y salir de
+nuevo antes de que el clima empeore.
 
-       Adventurer: By the Lady!
+    Aventurero: ¿No pueden tu Mayor y sus hombres encargarse de los
+carros?
 
-       Contessa: Minnie was an Alchemist before she met Crunn,
-and knows a lot of old forgotten Dwarvish potions.        
-Adventurer: But what do we do with the bodies?        
+    Contessa: Oh, no. Ellos nos cubrirán por todos lados y se asegurarán
+de que no haya sorpresas.
 
-       Contessa: Wait ...
+    Aventurero: Oh, bueno. Supongo que todas las cosas buenas terminan.
 
- (Enter Major)
+    Contessa: No del todo. Si te quedan cargas en tus brazaletes de
+resistencia, podemos subir y ver qué surge.
 
-       Contessa: Adventurer, meet Major Bloodnok, head of my
-own ...private little bodyguard. He's been with me since I
-was a mere girl. Served me very well, haven't you, Major?
+(Entra Prólogo)
 
-       Major: We give our all, milady.
+    Prólogo: Bueno, supongo que todos lo veíamos venir. La Escena 3
+ocurre un tiempo después en el sitio. Flanqueados por los hombres del
+Mayor, el Aventurero y la Lúbrica Contessa siguen con éxito el mapa de los
+queridos y difuntos magos. Imaginen grandes vetas de un material brillante
+tipo ébano perforando la superficie del suelo, y un agradable fuego cálido
+de Ébano de los Tontos donde el Aventurero y la Contessa se despatarran. Al
+oeste hay señales de que el tiempo está cambiando y se acerca la primera
+gran tormenta de nieve del año. Han estado excavando durante algún tiempo
+y el Aventurero empieza a sentir el esfuerzo del trabajo real.
 
-       Adventurer: Pleased to meet you, Major.
+(Sale Prólogo)
 
-       Contessa: How are my other men?
+Escena 3
 
-       Adventurer:       (aside) Other men?
+    Aventurero: Tengo ampollas en las manos de palear esa podredumbre
+negra, ampollas en el trasero por el asiento del carro, y se nos está
+acabando la cerveza. Mi brazalete se está agotando y mis dedos se están
+congelando.
 
- (Enter Other Men in Khajiit suits)         Major: All present
-and accounted for, milady. Had a spot of bother with what
-looked like a party of Merchants following you. But they are
-out of the picture now, down a ravine. Only one thing.
+    Contessa: ¿Qué, tu brazalete se está agotando? Oh, ahora eso es
+serio.
 
-       Contessa: Yes?
+(Entra el Mayor, corriendo)
 
-       Major: Me and my men, we've been noticing sort of
-furtive movements, up on cliffs, on ridges -- always just
-out of the corners of our eyes. And we keep getting this
-feeling of being watched. Now, me and my men, we're the best
-but there's something out there. Don't like it, not one bit.
+    Mayor: ¡Enanos! ¡Milady, enanos, docenas de esos bichitos atraparon a
+mis hombres! Lo siento, milady.
 
-       Contessa: Oh Dear - and just when it was getting to be fun.
+(La Contessa se pone de pie de un salto)
 
-       Major: Its not anything human. Not Mages, Armorers,
-Priests. And its not the usual werewolves, harpies, orcs,
-daedra. Nothing like that, not at all.
+    Contessa: Mayor, salga de aquí ahora mismo. Si escapa, tal vez pueda
+ayudarnos más tarde. Intentaré hablar con ellos.
 
-       Minnie: Dwarves!
+(Sale el Mayor) (Entran los Enanos)
 
-       Crunn: Where? ... oh ... Minnie ... you mean ... up ...
-there ... here ...
+    Contessa: Hhjgys jjvvu klpss Jjqqx zzyzx.
 
-       Minnie: ... Dwarves, up there ...
+    Enanos (Juntos): Jjpoo Kalagloo gashnoo bibloo franoo Xxnadoo
 
-       Crunn: ... How exciting ... mmmm ...
+    Contessa: Jnik? Balpo?
 
-       Minnie: ... There, there, Crunn, calm down ... just
-dwarves ... I knew that one day they would ...
+    Enanos (Juntos): Gabloo! Wazzikoo! Eppapupu!
 
-       Crunn: ... Wake up ..?
+    Contessa: Glooky, glooky, glooky.
 
-       Minnie: ... Come back ...
+    Aventurero: Ave, ¿qué está pasando?
 
-       Crunn: ... But ... I didn't go anywhere ...
+    Contessa: Relájate. Creo que los he impresionado hablando su lengua.
+No lo entiendo todo, pero parece que acaban de "despertar" o algo así. Y
+que no nos dejarán llevarnos nada de este Ébano de los Tontos; está
+relacionado de alguna manera con el de verdad o algo así. Y realmente
+pertenece a los Señores de Oblivion; los Enanos solo lo cuidan o algo así.
 
-       Minnie: ... The dwarves, Crunn ...
+    Aventurero: Muy interesante. Ahora, ¿qué hay de nosotros?
 
-       Crunn: ... Oooh ... Back ... So excited ... Dwarves! ...
-oooh ...
+    Contessa: Hice un trato con ellos de la única manera que pude. Les
+hablé de Minnie y Crunn, de cómo esos dos viejos conocen muchos cuentos y
+leyendas enanas. Los enanos me dicen que, habiendo acabado de "despertar"
+o algo así, quieren tres cosas: cerveza, mujeres y que dejemos en paz el
+Ébano de los Tontos.
 
-       Contessa: Well Major, is it possible?
+    Aventurero: Ah, que me azoten el tronco.
 
-       Major: Anything's possible, especially up here.
-Dwarves? I don't know. Me and my men, we'll get rid of this
-lot. There's a good deep mine shaft out back.
+    Contessa: Bueno, les hablé de toda la cerveza que hay en la Posada de
+Minnie. Y de las dos pelirrojas que hay allí. Se van para allá, saliendo
+ahora mismo. Podemos llevarnos un carro vacío y dos caballos. Y nos
+mantendrán vigilados todo el camino hasta allí. También dijeron que van a
+—no sé cómo— destruir todo el Ébano de los Tontos que hay aquí. Dicen que no
+debería estar en la superficie así. (Aparte) El enano es un lenguaje
+notablemente compacto.
 
- (Exit All, but the Adventurer and Contessa)
+    Aventurero: ¡Por las grandes nalgas rugientes de Sheogorath! ¡Tantas
+ampollas y dolor de espalda para nada! En fin. Al menos seguimos vivos. Por
+ahora...
 
-       Adventurer: Dwarves, Ave! Is that trouble? I mean, they
-sort of own all the ebony down here, don't they?
+(Salen) (Entra Prólogo)
 
-       Contessa: Maybe. I guess we just have to push on, see what
-develops. I can try to talk to them, maybe? Oh, and
-Adventurer, you'll have to drive the first cart. I'll take
-old Nephron's. We'll leave the other here -- Spares for
-later.
+Prólogo: Farnoo Lickety Kanoo Gadfloo. Oh, lo siento muchísimo. Al comenzar
+la Escena 4, estamos de vuelta en la Posada de Minnie, donde los enanos
+parecen estar de vacaciones.
 
-       Adventurer: What, no more bucolic frolics?
+(Entran el Aventurero, la Lúbrica Contessa, Minnie, Crunn y los
+Enanos)
 
-       Contessa: Sorry, but we've got to get to the site and
-out again before the weather goes bad.
+(Sale Prólogo)
 
-       Adventurer: Can't your Major and his men, handle the
-carts?
+Escena 4
 
-       Contessa: Oh, no. They will cover us from all sides and make certain there are no surprises.
+    Minnie: ... ga ... sszx ... spnoo? ...
 
-       Adventurer: Oh well. All good things end, I guess.
+    Crunn: ... glurky ...
 
-       Contessa: Not quite. If you have any charges left in
-your bracelets of endurance, we can go upstairs and see what
-develops.
+    Enanos (Juntos): Jotcha potchka lazzo lanni joopy hoopy qui me
+amat, amat et canem meam
 
- (Enter Prologue)
+    Aventurero: Ave, ¿alguna idea? No parece que pueda hacer funcionar
+mis objetos mágicos. Y cuando la cerveza se acabe...
 
-       Prologue: Well, I guess we all saw that coming. Scene 3
-takes place some time later at the site. Flanked by the
-Major's men, the Adventurer and the Wanton Contessa
-successfully follow the map of the dear, departed mages.
-Imagine great veins of glistening ebonyesque material
-piercing the surface of the ground, and a nice warm fire of
-Fools Ebony where the Adventurer and the Contessa sprawl.
-To the west are signs that the weather is turning and the first
-major snowstorm of the year is coming. For some time, they
-have been mining and the Adventurer is beginning to feel the
-strain of actual labor.
+    Contessa: Tu material de ébano es inútil contra ellos. Los enanos
+fabrican el ébano, así que supongo que pueden suprimirlo o algo así. No te
+preocupes; solo piensa que estos enanos han estado dormidos o algo así
+durante cientos de años. Y Minnie tiene un enorme stock de cerveza. No
+vienen muchos clientes por aquí, y ella sabe cómo salar la cerveza lo justo
+para que no se eche a perder durante décadas.
 
- (Exit Prologue)
+Aventurero: Oh, por eso mi lengua siempre parece un trozo de cuero después
+de una pinta o dos.
 
- Scene 3
+    Contessa: Los enanos aparentemente aman la cerveza. Espero que todos
+pierdan el conocimiento en una hora más o menos.
 
-       Adventurer: I've got blisters on my hands from
-shovelling that black rot, blisters on my rear from that cart
-bench, and we are running out of ale. My bracelet is running
-down and my fingers are getting frostbite.
+(Los enanos caen en coma)
 
-       Contessa: What, your bracelet is running down? Oh, now
-that is serious.
+    Contessa: Si no antes. Vamos, Aventurero. ¡Agarra un saco y empieza
+a recolectar! Cuando los enanos despierten, terminarán con la cerveza, y
+luego con nosotros.
 
- (Enter Major, running)
+(La Lúbrica Contessa y el Aventurero saquean a los enanos)
 
-       Major: Dwarves! Milady, dwarves, dozens of the little
-buggers caught my men! I'm sorry, milady.
+    Aventurero: ¡Al sur, tan rápido como nuestros caballos nos lleven
+con este tiempo!
 
- (The Contessa jumps to her feet)
+    Contessa: Si nos alejamos lo suficiente antes de que despierten,
+estaremos bien; no creo que dejen sus preciosas montañas. Espero que no.
 
-       Contessa: Major, get out of here now. If you get away,
-you can maybe help us later. I'll try to talk to them.
+(Entra Prólogo)
 
- (Exit Major) (Enter Dwarves)
+    Prólogo: El viento invernal aúlla malvadamente, las ráfagas
+azotan, vadeando hasta la cintura, oh, no importa. El Aventurero y la
+Contessa se pierden en la tormenta de nieve. Varios días después, los
+encontramos desesperados por el calor y agotados.
 
-       Contessa: Hhjgys jjvvu klpss Jjqqx zzyzx.
+(Sale Prólogo)
 
-       Dwarves       (Together): Jjpoo Kalagloo gashnoo bibloo
-franoo Xxnadoo
+    Aventurero: Los caballos ya no pueden más. No pueden dar ni un paso
+más y va a nevar de nuevo. No queda cerveza, y solo una hogaza de pan.
+Contessa: Tendrá que bastar.
 
-       Contessa Jnik? Balpo?
+(De repente, un grupo de gigantes salta sobre nuestro héroe y
+heroína. Pero tras un rápido trabajo con los Brazales de Tormenta de Fuego,
+hay montones de gigantes realmente muertos por ahí.)
 
-       Dwarves       (Together) Gabloo! Wazzikoo! Eppapupu!
+    Aventurero: ¿Queda algo, Ave?
 
-       Contessa Glooky, glooky, glooky.
+    Contessa: No, nada de fuego de nada; solo mis dagas.
 
-       Adventurer: Ave, whats going on?
+    Aventurero: Lo mismo aquí, solo una espada corta común. ¡Maldito sea
+Sheogorath por esos enanos! ¡Esos brutos se masticaron nuestros caballos!
+¿Crees que el Mayor logró salir?
 
-       Contessa: Relax. I think I've impressed them by talking
-their language. I don't understand everything, but it seems
-that they have only just 'woken up' or something. And that
-they will not let us take any of this Fool's Ebony -- it's
-somehow related to the real stuff or something. And it
-really belongs to the Lords of Oblivion -- the Dwarves are
-just care or something.
+Contessa: Si alguien puede, es él. Supongo que lo descubriremos en la
+ciudad. Se me acaba de ocurrir un pensamiento interesante. ¿No cazan los
+gigantes en varios grupos? ¿Eso que oigo son más?
 
-       Adventurer: Very interesting. Now, what about us?
+(Sonido de gruñidos y gárgaras fuera de escena)
 
-       Contessa: I made a deal with them the only way I could
-see. I told them about Minnie and Crunn, how those two old
-ones know lots of dwarven tales and legends. The dwarves
-tells me that, having just 'woken up' or something, they want
-three things -- ale, women, and us to leave the Fools' Ebony
-alone.
+    Aventurero: Sí, hay más gigantes ahí fuera. Rápido, Ave. Ayúdame con
+este.
 
-       Adventurer: Ah, flog my log.
+(El Aventurero empieza a destripar el cuerpo de un gigante)
 
-       Contessa: Well,I told them about all the ale down at
-Minnie's Inn. And about the 2 redheads there. They are going
-there, leaving right now. We may take one empty cart, 2
-horses. And they will keep us guarded all the way there. They
-also said that they will -- I don't know how -- destroy all the
-Fool's Ebony here. It shouldn't be on the surface like this,
-they say.       (aside) Dwarvish is a remarkably compact
-language.
+    Contessa: ¿Qué en Tamriel estás haciendo? ¡Este no es el momento para
+estudiar anatomía!
 
-       Adventurer: By the great roaring buttocks of
-Sheogorath! All these blisters and backache for nothing! Ah
-well. At least we are still alive. For now ...
+    Aventurero: ¡No discutas, métete dentro!
 
- (Exeunt) (Enter Prologue)
+    Contessa: ¡Tonterías y bobadas! ¿Dentro de ese gigante muerto y
+apestoso? Mi querido Aventurero, soy una Dama.
 
- Prologue: Farnoo Lickety Kanoo Gadfloo. Oh, I'm terribly
-sorry. As Scene 4 begins, we are back at Minnie's Inn, where
-the dwarves appear to be on holiday.
+    Aventurero: ¡Es nuestra única esperanza! El olor del gigante ocultará
+nuestro rastro, y los gigantes vivos nunca tocan a los muertos. ¡Rápido!
 
- (Enter the Adventurer, the Wanton Contessa, Minnie, Crunn,
-and Dwarves)
+(El Aventurero y la Contessa se meten dentro del cuerpo humeante del
+gigante)
 
- (Exit Prologue)
+    Aventurero: Aquí, ayúdame a cerrar la piel y trata de no vomitar.
+No hagas ni un ruido.
 
- Scene 4
+(Entra Prólogo)
 
-       Minnie: ... ga ... sszx ... spnoo? ...
+    Prólogo: Pasan unas cuantas horas.
+(Sale Prólogo) (El Aventurero y la Lúbrica Contessa asoman sus
+cabezas por el vientre del gigante.)
 
-       Crunn: ... glurky ...
+    Aventurero: Se han ido todos, pero está nevando fuerte.
+Definitivamente hace un frío real. Mejor nos quedamos aquí.
 
-       Dwarves       (Together): Jotcha potchka lazzo lanni joopy
-hoopy qui me amat, amat et canem meam
+    Contessa: Realmente está caliente.
 
-       Adventurer: Ave, any ideas? I can't seem to work my
-magical items. And when the ale runs out ...
+    Aventurero: Nos mantendrá calientes, a salvo de la tormenta y de los
+gigantes, por un día más o menos si podemos aguantar el olor. Toma,
+¿quieres un poco de pan?
 
-       Contessa: Your ebony material is useless against them.
-Dwarves fashion the ebony, so I guess they can suppress it or
-something. Don't worry - just think, these dwarves have been
-asleep or something for hundreds of years. And Minnie has a
-huge stock of ale. Not many customers  come this way, and she
-knows how to salt the ale just right to keep from spoiling
-for decades.
+(La Contessa cae víctima de las náuseas)
 
- Adventurer Oh, that's why my tongue always looks like a chunk
-of leather after a pint or two.
+(Entra Prólogo)
 
-       Contessa Dwarves apparently love ale. I expect them
-all to pass out in an hour or so. 
+    Prólogo: Para esta, la última escena de la obra, perdónennos, pero
+necesitamos cambiar el decorado. Quiten los "cadáveres de gigantes" y demás.
+Por favor, tengan paciencia mientras nuestro bardo interpreta el clásico de
+siempre, "¿A dónde vas tú?"
 
- (Dwarves fall into comas)
+(El bardo toca "¿A dónde vas tú?" Si los escenaristas tardan
+demasiado, también toca "Para más consideración".)
 
-       Contessa: If not sooner. Come on, Adventurer. Grab a
-sack and start collecting! When the dwarves wake up,
-they'll finish the ale, and then us. 
+Prólogo: Ah, aquí estamos, de vuelta en la Posada del Daedra Muerto. La
+Contessa y el Aventurero lo lograron, después de todo. Tuvieron que pagar el
+triple de la tarifa normal, porque estaban muy sucios y apestosos. Ahora el
+pobre Prólogo se despedirá de ustedes, gente buena.
 
- (The Wanton Contessa and Adventurer pillage the dwarves)
+Escena 6
 
-       Adventurer: South, as fast as our horses will take us in
-this weather.
+    Contessa: ¡Gracias a los Dioses por el agua caliente y el jabón!
+Pensé que olería a gigante para siempre.
 
-       Contessa: If we make enough distance before they wake up,
-we'll be all right - I don't think that they will leave their
-precious mountains. I hope not.
+    Aventurero: Yo también. ¿A dónde fuiste mientras yo me bañaba? ¿Y
+por qué no hay magos, sacerdotes, armeros o comerciantes fuera pidiendo
+nuestra sangre?
 
- (Enter Prologue)
+    Contessa: Hice un viaje rápido al Palacio. He arreglado las cosas para
+que algunos primos les digan a los armeros y comerciantes que no tenemos
+cargamentos de Ébano de los Tontos.
 
-       Prologue: The wailing wintery wind whirls wickedly,
-wafts whipping, wading waist-high, oh never mind. The
-Adventurer and the Contessa get lost in the snow storm.
-Several days later, we find them desperate for warmth and
-exhausted.
+    Aventurero: Una lástima que eso sea verdad.
 
- (Exit Prologue)
+    Contessa: Pero al menos ya nadie está interesado en nosotros. Parece
+que algunos sacerdotes aparecieron muertos en un viejo templo, en la Montaña
+de Edward. Los encontraron con una chica, todos muertos por un "polvo verde
+malo" o algo así. Y unos viejos magos llamados Shub han desaparecido...
 
-       Adventurer: The horses have had it. They can't go another
-step and its going to snow again. No ale left, and just one
-loaf.           Contessa: It will have to do.
+    Aventurero: Ahora bien, ¿qué metiste en esos sacos que es tan
+importante?
 
- (Suddenly, a party of giants leaps on our hero and
-heroine. But after some quick work with Bracers of Firestorm,
-really dead giants lie around in heaps)
+    Contessa: Toma, vacíalos, echa un vistazo.
 
-       Adventurer: Anything left, Ave?
+    Aventurero: ¡Por los Dioses, solo mira eso!
 
-       Contessa: No, no more fire anything - just my daggers
+    Contessa: Sí, esos enanos estaban cargados de ébano. Mira. Anillos,
+torques, brazales, cinturones, yelmos. Todo de ébano sólido y antiguo.
 
-       Adventurer: Same here, just a common shortsword. Curse
-Sheogorath for those dwarves!  Those oafs chewed up our
-horses! Do you think the Major made it out?               
-Contessa: If anyone can, it's him.  Guess we'll find out in
-town. Interesting thought just occured to me. Don't giants
-hunt in several groups? Is that more I hear?
+    Aventurero: Y esto se siente cargado de magia. Vaya, apuesto a que
+solo este anillo tiene mil usos... sea lo que sea que haga.
 
- (sound of grumbling and gargling offstage)
+    Contessa: ¡Ooh! ¡Mira! ¡Brazales de Aguante Extremo y un Cinturón de
+Fuerza! ¡Póntelos, Aventurero, vamos a celebrar!
 
-       Adventurer: Yes, there are more giants out there. Quick,
-Ave. Help me with this one.
+    Aventurero (Aparte) ¡Ayuda!
+Entra Epílogo
 
- (The Adventurer starts to disembowel a giant's body)
+    Epílogo: Como me temía, todos los cabos sueltos de la obra terminaron
+en una matanza generalizada. Seguirán más aventuras del Aventurero, a menos,
+por supuesto, que no sea así. Les agradecemos su templada paciencia. No
+olviden dar propina a sus dignas mozas al salir esta noche, y disfruten de
+la interpretación de nuestro bardo del clásico khajiita, "Es una cuestión de
+suerte". Buenas noches.
 
-       Contessa: What on Tamriel are you doing? This is not the
-time for studying anatomy!
+(Fanfarria)
 
-       Adventurer: Don't argue, climb inside!
+(Salen todos)
 
-       Contessa: Poppydash and Baldercock! Inside that smelly
-dead giant? My dear Adventurer, I'm a Lady.
-
-       Adventurer: It's our only hope! The giant smell will
-hide our scent, and live giants never touch dead ones.
-Quick!
-
- (The Adventurer and the Contessa climb inside the steaming
-giant's body)
-
-       Adventurer: Here, help me pull the skin shut - and try not
-to throw up. Don't make a sound.
-
- (Enter Prologue)
-
-       Prologue: A few hour pass.
-
- (Exit Prologue) (The Adventurer and the Wanton Contessa
-poke their heads out of the giant's belly.) 
-
-       Adventurer: They've all left, but it's snowing hard.
-Definitely getting real cold. We better stay here.
-
-       Contessa: It indeed is warm.
-
-       Adventurer: It will keep us warm, safe from the storm
-and giants, for a day or soif we can stand the smell. Here,
-want some bread?
-
- (The Contessa falls victim to nausea)
-
- (Enter Prologue)
-
-       Prologue: For this, the last scene of the play, please
-forgive us, but we need to change the set. Remove the "giant
-corpses" and whatnot. Please be patient while our bard
-performs the timeless classic "Whither Goest Thou?"
-
- (Bard plays "Whither Goest Thou?" If the scenarists take too
-long, he also plays "For Further Consideration.")
-
- Prologue: Ah, here we are, back at the Dead Daedra Inn. The
-Contessa and the Adventurer made it, after all. They had to
-pay three times the normal rate, for they were very dirty and
-stinky. Now poor Prologue will bid you farewell, goodly
-people.
-
- Scene 6
-
-       Contessa: Thank the Gods for hot water and soap! I
-thought I would smell like a giant forever.
-
-       Adventurer: Me too. Where did you go while I was
-bathing? And why no mages, priests, armorers, or merchants
-outside yelling for our blood?
-
-       Contessa: I took a quick trip to the Palace. I've fixed it
-so some cousins have told the armorers and merchants that we
-don't have cartloads of the Fools' Ebony.
-
-       Adventurer: Pity that that's actually true.
-
-       Contessa: But at least no one's interested in us
-anymore. Seems that some priests turned up dead in an old 
-temple, up on Edward's Mountain. They were found with some
-girl, all dead from 'bad green powder' or something. And
-some old mages named Shub have gone missing ...
-
-       Adventurer: Now then, what did you stuff in those sacks
-thats so important?
-
-       Contessa: Here, dump them out, take a look.
-
-       Adventurer: By the Gods, just look at that!
-
-       Contessa: Yes, those dwarves were just loaded with
-ebony. Look. Rings, torcs, bracers, belts, helms All solid
-old ebony.
-
-       Adventurer: And this stuff feels just loaded with
-magicka. Why, I bet that this ring alone has a thousand uses
-... whatever it does.
-
-       Contessa: Ooh! Look! Bracers of Extreme Endurance and a
-Belt of Strength! Put them on, Adventurer, let's
-celebrate!
-
-       Adventurer       (aside) Help!
-
- Enter Epilogue
-
-       Epilogue: As I feared, all the loose threads of the play
-were ended by wholesale slaughter. More of the adventures of
-the Adventurer will follow, unless, of course, they don't.
-We thank you for your tempered patience. Don't forget to tip
-your worthy wenches on your way out this evening, and enjoy
-our bard's rendition of the Khajiiti classic, "It's A Matter
-of Luck." Goodnight.
-
- (Flourish)
-
- (Exeunt Omnes)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 

@@ -1,147 +1,112 @@
-Title: Jokes
+Title: Chistes
 Author: Butha Sunhous
 IsNaughty: True
 Price: 667
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]Jokes
-
-
+[/center]Chistes
 
 [/font=4]
 
 [/center]
 
-[/center] "How is your wife," asked Zalither. "She's in bed with
-laryngitis," replied Harlyth. "Is that Argonian bastard
-back in town again?"
+[/center] "¿Cómo está tu esposa?", preguntó Zalither. "Está en cama con
+laringitis", respondió Harlyth. "¿Ese bastardo argoniano ha vuelto a
+la ciudad otra vez?".
 
+[/center] "Sigo viendo manchas ante mis ojos". "¿Has visto a un
+sanador?". "No, solo manchas".
 
+[/center] Un gran nórdico llamado Julgen fue asaltado por una banda de
+ladrones. Luchó contra ellos furiosamente, pero al final, le dieron
+una paliza hasta dejarlo casi inconsciente. Registraron sus bolsillos y
+descubrieron que solo llevaba tres piezas de oro.
 
-[/center] "I keep seeing spots before my eyes." "Have you seen a
-healer?" "No, just spots."
+"¿Quieres decirnos que luchaste contra nosotros como un lupe rabioso
+por tres miserables piezas de oro?", se mofó uno de los ladrones.
 
+"No", respondió Julgen. "Tenía miedo de que buscaran las cuatrocientas
+piezas de oro que llevo en mi bota".
 
+[/center] Durante la Guerra de Betony, los bretones en la Isla de
+Craghold estuvieron bajo asedio durante varios días. Tras la liberación
+de la isla, Lord Bridwell encontró las ruinas del castillo donde una
+multitud de supervivientes se escondía en la oscuridad. Iba a ser un
+trabajo difícil liberarlos, ya que parte del techo se había derrumbado
+atrapándolos a todos dentro. Bridwell asomó la cabeza por la única
+abertura y gritó a los bretones que estaban abajo: "¿Hay alguna mujer
+encinta ahí abajo?".
 
-[/center] A big Nord named Julgen was set on by a gang of thieves. He
-fought them furiously, but in the end, they beat him into
-semiconsciousness. They searched his pockets and discovered
-that he only had three gold pieces on him.
+"Es difícil de decir, Excelencia", dijo una mujer joven. "Solo llevamos
+aquí abajo unos pocos días".
 
- "Do you mean to tell us you fought us like a mad lupe for
-three lousy gold pieces?" sneered one of the thieves.
+[/center] Un anciano bretón se encontró con un contemporáneo suyo en una
+reunión del gremio. "Harryston, viejo amigo, quería expresarte mi
+pésame. He oído que enterraste a tu esposa la semana pasada".
 
- "No," answered Julgen. "I was afraid you were after the
-four hundred gold pieces in my boot."
+"Tuve que hacerlo, muchacho", replicó Harryston. "Estaba muerta, sabes".
 
+[/center] ¿Por qué el ejército de Sentinel fue tan inútil durante la
+Guerra de Betony? Porque los cañones pesaban tanto que las tres barcazas
+de basura se hundieron.
 
+[/center] ¿Qué es lo primero que aprende un nuevo recluta de Sentinel
+como técnica de combate? Cómo retirarse.
 
-[/center] During the War of Betony, the Bretons in the Isle of Craghold
-were under siege for several days. After the island was
-liberated, Lord Bridwell found the ruins of the castle where
-a crowd of survivors were hidden away in the dark. It was
-going to be a difficult job freeing them, as part of the
-roof had collapsed trapping them all within. Bridwell
-stuck his head in the only opening and shouted to the Bretons
-below: "Are there any expectant mothers down there?"
+[/center] ¿Cuál es el libro más fino del mundo? Héroes Guardias Rojos de
+la Guerra de Betony.
 
- "It's hard to say, your Lordship," said a young woman.
-"We've only been down here for a few days."
+[/center] Un elfo oscuro mató a su esposa tras pillarla haciendo el amor
+con otro hombre. Cuando el magistrado le preguntó por qué la mató a ella
+en lugar de a su amante, el hombre respondió: "Consideré mejor matar a
+una mujer que a un hombre diferente cada semana".
 
+[/center] A una mujer elfa oscura le estaban enseñando Daggerfall.
+Cuando le mostraron el magnífico Castillo Daggerfall, sonrió dulcemente
+a su gremio y susurró: "Me recuerda al sexo".
 
+"Eso es extraño", dijo su gremio. "¿Por qué nuestro Castillo
+Daggerfall te recuerda al sexo?".
 
-[/center] An elderly Breton met with an contemporary of his at a
-guild meeting. "Harryston, old man, I wanted to express my
-sympathy. I hear that you buried your wife last week."
+La elfa oscura suspiró: "Todo me lo recuerda".
 
- "Had to, old boy," replied Harryston. "Dead, you know."
+[/center] Yelithah le dijo a Vathysah que esa noche iba a cenar con un
+elfo oscuro llamado Morleth.
 
+"He oído que es un animal", dijo Vathysah. "Te arrancará el vestido
+en un santiamén".
 
+"Gracias por decírmelo", dijo Yelithah, "me aseguraré de llevar un
+vestido viejo".
 
-[/center] Why was the Sentinel army so useless during the War of
-Betony? The cannons were too heavy, so all three garbage
-scows sunk.
+[/center] ¿Cómo se separa a los marineros en la armada Khajiita? Con un
+martillo y unas tenazas.
 
+"Este huerto tiene un valor sentimental para mí", dijo Mojhad, el
+khajiita, a su amigo Hasillid. "Bajo ese árbol, por ejemplo, es donde
+hice el amor por primera vez. Y aquel árbol es donde estaba su madre,
+vigilándonos".
 
+"¿Os vigilaba mientras hacías el amor con su hija?", dijo Hasillid,
+claramente impresionado. "¿No dijo nada?".
 
-[/center] What does a new Sentinel private learn first as a combat
-technique? How to retreat.
+"Miau".
 
+[/center] ¿Cómo llamas a un elfo del bosque que no miente, ni engaña, ni
+roba?
 
+Un elfo del bosque muerto.
 
-[/center] What is the thinnest book in the world? Redguard Heroes of the
-War of Betony.
 
 
 
-[/center] A Dark Elf man killed his wife after catching her making love
-with another man. When the magistrate asked him why he killed
-her instead of her lover, the man replied, "I considered it
-better to kill one woman than a different man every week."
 
 
 
-[/center] A Dark Elf woman was being shown around Daggerfall. When she
-was shown the magnificent Castle Daggerfall, she smiled
-sweetly to her guild and whispered, "It reminds me of sex."
 
- "That's odd," said her guild. "Why does our Castle
-Daggerfall remind you of sex?"
 
- The Dark Elf sighed, "Everything does."
 
-
-
-[/center] Yelithah told Vathysah that she was having  dinner with a Dark
-Elf named Morleth that night.
-
- "I hear he's an animal," said Vathysah. "He'll rip your
-dress right off you."
-
- "Thank you for telling me," said Yelithah, "I'll be sure to
-wear an old dress."
-
-
-
-[/center] How do separate sailors in the Khajiiti navy? With a hammer
-and tongs.
-
-
-
- "This orchard has sentimental value to me," said Mojhad, the
-Khajiit, to his friend, Hasillid. "Under that tree, for
-example, is where I first made love. And that tree, is where
-her mother stood, watching us."
-
- "She watched you while you made love to her daughter?" said
-Hasillid, clearly impressed. "Didn't she say anything?"
-
- "Meow."
-
-
-
-[/center] What do you call a Wood Elf who doesn't lie or cheat or
-steal?
-
- A dead Wood Elf.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 

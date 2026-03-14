@@ -1,5 +1,5 @@
-Title: Ark'ay The God
-Author: Mymophonus the Scribe
+Title: Arkay, el Dios
+Author: Mymophonus el Escriba
 IsNaughty: False
 Price: 562
 IsUnique: False
@@ -9,81 +9,82 @@ Content:
 
 [/font=2]
 
-[/center]Arkay The God
+[/center]Arkay, el Dios
 
 
 
 [/font=4]
 
- So be it known that the gods were once as we.
+ Que se sepa pues, que los dioses fueron una vez como nosotros.
 
- Ark'ay, the god of death and birth, was an ordinary 
-shopkeeper whose only unusual characteristic was a passion
-for knowledge. To indulge his hobby he became an avid
-collector of books on almost any subject he could find in
-print. 
+ Ark'ay, el dios de la muerte y el nacimiento, era un tendero
+ordinario cuya única característica inusual era una pasión por
+el conocimiento. Para dar rienda suelta a su afición, se
+convirtió en un ávido coleccionista de libros sobre casi
+cualquier tema que pudiera encontrar impreso. 
 
- One day he stumbled across a tome which purported to tell
-the secrets of life, death, and the purpose of existence.
-After  months of studying the convoluted logic, written in
-opaque language, he thought that he was finally beginning to
-understand what the author was saying. 
+ Un día tropezó con un tomo que pretendía contar los secretos
+de la vida, la muerte y el propósito de la existencia. Tras
+meses de estudiar la enrevesada lógica, escrita en un lenguaje
+opaco, pensó que finalmente estaba empezando a comprender lo
+que el autor quería decir. 
 
- During this time he became so intent on understanding the book
-that he ignored everything else: his business started to slide
-towards bankruptcy, his few friends stopped visiting him, he
-ignored the plague which was ravaging the town, and his
-family were ready to leave him.
+ Durante este tiempo se concentró tanto en entender el libro
+que ignoró todo lo demás: su negocio empezó a deslizarse hacia
+la bancarrota, sus pocos amigos dejaron de visitarlo, ignoró
+la plaga que asolaba la ciudad y su familia estaba lista para
+abandonarlo.
 
- Just as he felt that the book was opening visions of new
-worlds, the plague brought him low. His family tended his
-illness out of a sense of duty, but he slowly sank towards
-death. So, as a last resort, he prayed to Mara the
-mother-goddess to allow him enough time to complete his
-studies of the book.
+ Justo cuando sentía que el libro le abría visiones de nuevos
+mundos, la plaga lo abatió. Su familia atendió su enfermedad por
+sentido del deber, pero él se hundía lentamente hacia la
+muerte. Así que, como último recurso, rezó a Mara, la diosa
+madre, para que le concediera tiempo suficiente para completar
+sus estudios del libro.
 
- "Why should I make an exception for you, Ark`ay?" asked
-Mara.
+ "¿Por qué debería hacer una excepción contigo, Ark'ay?",
+preguntó Mara.
 
- "Mother Mara, I am finally beginning to understand this
-book and the meaning of life and death" he answered, "and
-with a little more time to study and think, I should be able
-to teach others".
+ "Madre Mara, finalmente estoy empezando a comprender este
+libro y el significado de la vida y la muerte", respondió,
+"y con un poco más de tiempo para estudiar y pensar, debería
+ser capaz de enseñar a otros".
 
- "Hmmm, it sounds to me like that `teaching others' is an 
-afterthought to appeal to me", she replied. "What is the
-reason for death and birth?"
+ "Mmm, me suena a que eso de 'enseñar a otros' es una idea de
+último momento para atraerme", replicó ella. "¿Cuál es la
+razón del nacimiento y la muerte?".
 
- "There are far more souls in the Universe than there is room
-for in the physical world. But it is in the physical world
-that a soul has an opportunity to learn and progress.
-Without birth, souls would not be able to acquire that
-experience, and without death there would be no room for
-birth."
+ "Hay muchas más almas en el Universo que espacio en el mundo
+físico. Pero es en el mundo físico donde un alma tiene la
+oportunidad de aprender y progresar. Sin el nacimiento, las
+almas no podrían adquirir esa experiencia, y sin la muerte
+no habría lugar para el nacimiento".
 
- "Not a very good explanation, but it does have elements of
-truth. Maybe with more study you could improve it," she
-mused.  "I cannot give you `a little more time.' I can
-only condemn you to Eternal labor in the field you have
-chosen. How say you to that?"
+ "No es una explicación muy buena, pero tiene elementos de
+verdad. Tal vez con más estudio podrías mejorarla", reflexionó
+ella. "No puedo darte 'un poco más de tiempo'. Solo puedo
+condenarte a un trabajo Eterno en el campo que has elegido.
+¿Qué dices a eso?".
 
- "I do not understand, mother," said Ark'ay.
+ "No entiendo, madre", dijo Ark'ay.
 
- "Your choice is to either accept the death that is so close
-or to become a god with us. But a god is not an easy nor
-pleasant thing to be. As the god of death and birth you will
-spend eternity making sure that deaths and births stay in
-proper  balance in the physical world. And, in spite of what
-you  believe you understand, you will always agonize over 
-whether your decisions are truly correct. How do you
-decide?"
+ "Tu elección es aceptar la muerte que está tan cerca o
+convertirte en un dios con nosotros. Pero ser un dios no es
+algo fácil ni agradable. Como dios de la muerte y el
+nacimiento, pasarás la eternidad asegurándote de que las muertes
+y los nacimientos se mantengan en el equilibrio adecuado en
+el mundo físico. Y, a pesar de lo que crees entender, siempre
+te atormentarás pensando si tus decisiones son realmente
+correctas. ¿Qué decides?".
 
- Ark'ay spent what seemed to him as an eternity in thought
-before answering. "Mother, if my studies are not completely wrong, my only choice is to accept the burden and
-try to  transmit the reasons for death and birth to
-humanity."
+ Ark'ay pasó lo que le pareció una eternidad sumido en sus
+pensamientos antes de responder. "Madre, si mis estudios no
+están completamente equivocados, mi única opción es aceptar la
+carga e intentar transmitir las razones de la muerte y el
+nacimiento a la humanidad".
 
- "So be it, Arkay, God of Birth and Death."
+ "Que así sea, Arkay, Dios del Nacimiento y la Muerte".
+
 
 
 

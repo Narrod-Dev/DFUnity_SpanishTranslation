@@ -1,4 +1,4 @@
-Title: The Story of Lyrisius
+Title: La historia de Lirisio
 Author: Bresne Smythe
 IsNaughty: False
 Price: 580
@@ -9,11 +9,11 @@ Content:
 
 [/font=2]
 
-[/center]The Story
+[/center]La Historia
 
-[/center]of
+[/center]de
 
-[/center]Lysirius
+[/center]Lyrisius
 
 
 
@@ -23,11 +23,12 @@ Content:
 
 [/center]
 
-    In ancient times, there lived a hero named Lyrisius. He
-fought agains the Akaviri slavetraders and single-handedly
-slew hundreds. Despite his valor, Lyrisius' army was routed
-and scattered to the four winds. Lyrisius fled into the
-moors to escape the Akaviri chariots.
+    En tiempos antiguos, vivió un héroe llamado Lyrisius. Luchó
+contra los traficantes de esclavos de Akavir y, en solitario,
+mató a cientos de ellos. A pesar de su valor, el ejército de
+Lyrisius fue derrotado y dispersado a los cuatro vientos.
+Lyrisius huyó hacia los páramos para escapar de los carros de
+guerra akaviri.
 
     Far from the lands of men, Lyrisius entered the blasted
 lands. At the heart of this forsaken landscape, he met the
@@ -37,55 +38,64 @@ gift of the Daedra Boethiah, with a single blast of its fiery
 breath. Lyrisius, seeing that he could not defeat the
 creature by force of arms, surrendered.
 
-    The wyrm intended to devour Lyrisius when the hero offered
-to be its slave and manservant. Ever prideful, the wyrm
-agreed. Seeing that the wyrm was vulnerable to conceit,
-Lyrisius spoke, "Oh great wyrm. For my first service, I beg
-that you allow me to polish your one tarnished scale."
+    Lejos de las tierras de los hombres, Lyrisius entró en las
+tierras devastadas. En el corazón de este paisaje abandonado,
+se encontró con el wyrm. La gran bestia escamosa se burló de los
+poderosos golpes de la lanza encantada de Lyrisius. Derritió el
+escudo Impacto de Miedo (Fearstruck), regalo de la Daedra 
+Boethiah, con una sola ráfaga de su aliento ígneo. Lyrisius, 
+viendo que no podía derrotar a la criatura por la fuerza de las 
+armas, se rindió.
 
-    Indeed, centered between the great wings of the creature
-was a dull scale, clearly out of reach of its long neck.
-Its vanity was such that it immediately lowered one wing for
-Lyrisius to climb upon.
+    El wyrm pretendía devorar a Lyrisius cuando el héroe se ofreció
+a ser su esclavo y sirviente. Siempre orgulloso, el wyrm aceptó.
+Viendo que el wyrm era vulnerable a la vanidad, Lyrisius habló:
+"Oh, gran wyrm. Como mi primer servicio, te ruego que me
+permitas pulir tu única escama empañada".
 
-    Once astride the great lizard, Lyrisius slid his dagger
-underneath the scale and into the tender flesh of the beast.
-Though it spun and twisted in all directions, the wyrm
-could not get at the hero. Finally it took to the air.
-Lyrisius clung to the neck with all his strength as the wyrm
-banked, rolled, and dove.
+    En efecto, centrada entre las grandes alas de la criatura había
+una escama opaca, claramente fuera del alcance de su largo
+cuello. Su vanidad era tal que inmediatamente bajó un ala para
+que Lyrisius trepara por ella.
 
-    Seeing that Lyrisius could not be shaken free, the wyrm
-demanded that he remove the stinging blade. Lyrisius
-answered, "Fly straight on until you see a great army.
-Destroy that army and I will remove my blade."
+    Una vez a horcajadas sobre el gran lagarto, Lyrisius deslizó su
+daga bajo la escama y en la tierna carne de la bestia. Aunque
+giró y se retorció en todas direcciones, el wyrm no pudo
+alcanzar al héroe. Finalmente, emprendió el vuelo. Lyrisius se
+aferró al cuello con todas sus fuerzas mientras el wyrm se
+inclinaba, rodaba y se zambullía.
 
-    With a great roar, the scaled creature set off. The
-Akavari army had no chance against the fire-breathing beast.
-They have never plagued Tamriel since.
+    Viendo que no podía sacudirse a Lyrisius, el wyrm le exigió que
+retirara la hiriente hoja. Lyrisius respondió: "Vuela recto
+hasta que veas un gran ejército. Destruye a ese ejército y
+retiraré mi hoja".
 
-    "I have done as you bid. Now sheath your stinger," roared
-the wyrm.
+    Con un gran rugido, la criatura escamosa partió. El ejército
+akaviri no tuvo oportunidad contra la bestia que escupía fuego.
+Nunca más han vuelto a asolar Tamriel desde entonces.
 
-    Knowing that he would be devoured or worse, Lyrisius
-pulled the blade and then leapt from the back of the flying
-wyrm. Indeed, the foul monster had intended to slay the
-hero. The wyrm pursued the plummeting Lyrisius. Boethiah
-appeared beside the falling hero. Praising him for
-ultimately destroying the army of Akavir, she turned him into
-a raven. Lyrisius quickly lost the wyrm in the clouds.
+    "He hecho lo que me pediste. Ahora enfunda tu aguijón", rugió
+el wyrm.
 
-    Legend has it that the wyrm still lives, though this
-happened in the first era long, long ago. The dragon nurses
-a grudge against Lyrisius and all of his kind. It has vowed
-never again to trust two legged bearers of weapons.
+    Sabiendo que sería devorado o algo peor, Lyrisius retiró la hoja
+y luego saltó del lomo del wyrm volador. En efecto, el vil
+monstruo tenía la intención de matar al héroe. El wyrm persiguió
+al Lyrisius que caía en picado. Boethiah apareció junto al héroe
+que caía. Elogiándolo por destruir finalmente al ejército de
+Akavir, lo convirtió en un cuervo. Lyrisius perdió rápidamente
+al wyrm entre las nubes.
+
+    La leyenda cuenta que el wyrm todavía vive, aunque esto sucedió
+en la primera era, hace muchísimo tiempo. El dragón guarda un
+rencor contra Lyrisius y todos los de su clase. Ha jurado no
+volver a confiar nunca más en los portadores de armas de dos
+piernas.
 
 
 
-[/center]*   *   *
+[/center]* * *
 
- Scholar's Note: If this legend has a basis in fact, the
-artifact Fearstruck was utterly destroyed. No other
-reference to it has ever been found.
+    Nota del Erudito: Si esta leyenda tiene una base real, el
+artefacto Impacto de Miedo (Fearstruck) fue totalmente destruido.
+No se ha encontrado ninguna otra referencia al mismo.
 
- 

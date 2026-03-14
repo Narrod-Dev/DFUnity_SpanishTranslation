@@ -1,72 +1,69 @@
-Title: The Healer's Tale
-Author: Anonymous
+Title: El relato del sanador
+Author: Anónimo
 IsNaughty: True
 Price: 580
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]The Healer's
+[/center]El relato
 
-[/center]Tale
+[/center]del
 
-
+[/center]sanador
 
 [/font=4]
 
 [/center]
 
-    For over twenty years, I have been a healer at the Temple
-of Stendarr. As the reader is doubtless aware, we are the
-only temple in the Iliac Bay that offers wound healing and
-illness curing for both the faithful and the heathen alike, for
-Stendarr is the God of Mercy. I have faced people at their
-most miserable and their most terrified. I have seen brave
-knights weep and strong peasants scream. I like to think that
-I've watched the masks drop from faces, and seen people as
-they truly are.
+Durante más de veinte años, he sido sanador en el Templo de Stendarr.
+Como el lector sin duda sabe, somos el único templo en la Bahía de Iliac
+que ofrece curación de heridas y enfermedades tanto para los fieles como
+para los paganos por igual, pues Stendarr es el Dios de la Misericordia.
+Me he enfrentado a personas en su estado más miserable y aterrorizado.
+He visto a caballeros valientes llorar y a campesinos fuertes gritar.
+Me gusta pensar que he visto caer las máscaras de los rostros y he
+visto a las personas tal como son en realidad.
 
-    A healer's job, after all, is more than simply binding
-wounds and stopping the flows of poison and disease. We are
-counselors and comforters for those who have given up all
-hope. Sometimes, it seems like our kind words and sympathy do
-more for our patients than our spells.
+El trabajo de un sanador, después de todo, es algo más que simplemente
+vendar heridas y detener el flujo de veneno y enfermedad. Somos
+consejeros y consoladores para aquellos que han perdido toda esperanza.
+A veces, parece que nuestras palabras amables y nuestra simpatía hacen
+más por nuestros pacientes que nuestros hechizos.
 
-    I am reminded of a very sick young man who came to the
-temple, suffering from a variety of maladies. Once I had
-given him an examination, I told him the results, careful
-not to alarm him. I let him decide how he wanted to be told the
-news.
+Me viene a la mente un joven muy enfermo que acudió al templo,
+sufriendo de una variedad de dolencias. Una vez que le hube examinado,
+le comuniqué los resultados, con cuidado de no alarmarlo. Le dejé
+decidir cómo quería que le diera las noticias.
 
-    "I have some good news and some bad news, my child," I
-said.
+"Tengo algunas buenas noticias y algunas malas noticias, hijo mío",
+dije.
 
-    "I better hear the bad news first," he said.
+"Será mejor que escuche primero las malas noticias", dijo él.
 
-    "Well," I said, gripping his shoulder in case he should
-faint. "The bad news is that, unless I am wrong, you will
-sicken even more over the next day or two. And unless
-Stendarr choses to be merciful to you, you will pass from
-this existance. I am sorry, my child."
+"Bueno", dije, apretando su hombro en caso de que se desmayara. "La
+mala noticia es que, a menos que me equivoque, enfermarás aún más en los
+próximos uno o dos días. Y a menos que Stendarr elija ser misericordioso
+contigo, dejarás de existir en este plano. Lo siento, hijo mío".
 
-    As soft as the blow was, it stung nonetheless. The boy was,
-after all, very young. He thought he had his whole life ahead
-of him. Tears streaming down his face, he asked, "And what is
-the good news?"
+Por muy suave que fuera el golpe, no dejó de doler. El chico era,
+después de todo, muy joven. Pensaba que tenía toda la vida por delante.
+Con lágrimas corriendo por su rostro, preguntó: "¿Y cuál es la buena
+noticia?".
 
-    I smiled: "When you came in, did you notice our
-proselytizer? She was the enchanting, voluptuous blonde in
-the antechamber by the foyer?"
+Sonreí: "¿Cuando entraste, notaste a nuestra proselitista? ¿Era la
+encantadora y voluptuosa rubia en la antecámara junto al vestíbulo?".
 
-    Color returned to the young man's face. He had noticed her
-indeed. "Yes?"
+El color volvió al rostro del joven. De hecho, se había fijado en ella.
+"¿Sí?".
 
-    "I'm sleeping with her," I said.
+"Me estoy acostando con ella", dije.
 
-    If more of the healers of Tamriel would consider their
-patients' feelings, not just the quickest way to heal them up
-and get them out, we would have a far, far healthier
-society. I truly believe that. 
+Si más sanadores de Tamriel consideraran los sentimientos de sus
+pacientes, y no solo la forma más rápida de curarlos y echarlos,
+tendríamos una sociedad mucho, mucho más saludable. Realmente lo creo.
+
+
+

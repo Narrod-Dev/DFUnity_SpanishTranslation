@@ -1,4 +1,4 @@
-Title: The Pig Children
+Title: Los Hijos Cerdo
 Author: Tyston Bane
 IsNaughty: False
 Price: 580
@@ -9,45 +9,43 @@ Content:
 
 [/font=2]
 
-[/center]The Pig Children
+[/center]Los Hijos Cerdo
 
 
 
 [/font=4]
 
- No one, not the oldest Dark Elf of Mount Dagoth-Ur or the
-Ancient Sage of Solitude, no one can recall a time when the
-Orc did not ravage our fair Tamriel. Whatever foul and
-pestilent daedra of Oblivion conjured them could scarcely
-have created a more constant threat to the well-being of the
- civilized races of Tamriel.
+ Nadie, ni el elfo oscuro más anciano del Monte Dagoth-Ur ni el
+Antiguo Sabio de Soledad, nadie puede recordar un tiempo en el
+que el Orco no asolara nuestra hermosa Tamriel. Sea cual sea
+el inmundo y pestilente daedra de Oblivion que los conjuró,
+difícilmente podría haber creado una amenaza más constante
+para el bienestar de las razas civilizadas de Tamriel.
 
- Orcs are thankfully easy to recognize from other humanoids
-by their size, commonly forty pertans in height and fifteen
-thousand angaids in weight, their brutal pig-like features,
-and their stench. They are consistantly belligerant,
-morally grotesque, intellectually moronic, and unclean. By
-all rights, the civilized races of Tamriel should have been
-able to purge our land of their blight eras ago, but their
-ferocity, animal cunning, and curious tribal loyalty has
-made them inevitable as leeches in a stagnant pool.
+ Afortunadamente, los orcos son fáciles de reconocer entre otros
+humanoides por su tamaño, comúnmente de cuarenta pertans de
+altura y quince mil angaids de peso, sus brutales rasgos
+porcinos y su hedor. Son consistentemente beligerantes,
+moralmente grotescos, intelectualmente morónicos y sucios. Por
+todo derecho, las razas civilizadas de Tamriel deberían haber
+sido capaces de purgar nuestra tierra de su plaga hace eras,
+pero su ferocidad, astucia animal y curiosa lealtad tribal
+los han hecho tan inevitables como las sanguijuelas en un
+estanque estancado.
 
- Tales of orcish barbarity preceed written record. When
-Jastyaga wrote of the Order of Diagna joining the armies of
-Daggerfall and Sentinel "to hold the wicked orcs in their
-foul Orsinium tower ... and burn all" in 1E 950, she assumed
-that any reader would be aware of the savagery of the orcs.
-When the siege was completed thirty years later, after the
-death of many heroes including Gaiden Shinji, and the
-destruction of Orsinium scattered the orc survivors
-throughout the Wrothgarian Mountains, Jastyaga wrote, "the
-people rejoiced for their ancient enemy was dispersed."
-Obviously, the orcs had been terrorizing the region of the
-Iliac Bay at least since the early years of the first era.
-
-
-
-  
+ Los relatos de la barbarie orca preceden a los registros
+escritos. Cuando Jastyaga escribió sobre la Orden de Diagna
+uniéndose a los ejércitos de Salto de la Daga y Centinela "para
+retener a los malvados orcos en su inmunda torre de Orsinium...
+y quemarlo todo" en 1E 950, asumió que cualquier lector sería
+consciente del salvajismo de los orcos. Cuando el asedio se
+completó treinta años después, tras la muerte de muchos héroes,
+incluyendo a Gaiden Shinji, y la destrucción de Orsinium
+dispersó a los orcos supervivientes por las Montañas de
+Wrothgar, Jastyaga escribió: "el pueblo se regocijó porque su
+antiguo enemigo fue dispersado". Obviamente, los orcos habían
+estado aterrorizando la región de la Bahía de Iliac al menos
+desde los primeros años de la primera era.
 
 
 
@@ -55,6 +53,3 @@ Iliac Bay at least since the early years of the first era.
 
 
 
-
-
- 

@@ -1,5 +1,5 @@
-Title: Legal Basics
-Author: Anchivius, M.Z.F. 
+Title: Fundamentos Legales
+Author: Anchivius, M.Z.F.
 IsNaughty: False
 Price: 636
 IsUnique: False
@@ -9,140 +9,137 @@ Content:
 
 [/font=2]
 
-[/center]Legal Basics
+[/center]Fundamentos Legales
 
 
 
 [/font=4]
 
-[/center]
+ El desconocimiento de la ley no es excusa. Quede advertido de
+que las siguientes son solo las leyes y regulaciones más
+universales de Tamriel. Su propia provincia o principado local
+puede tener leyes únicas propias. Como ciudadano del Imperio,
+es su derecho y responsabilidad conocer y cumplir estas leyes
+de la tierra.
 
-[/center]    Ignorance of the law is no defense. Be forewarned that the
-following are but the most universal of Tamrielan laws and
-regulations. Your own local province or principality may
-have unique laws of its own. As a citizen of Empire, it is
-your right and responsibility to know and follow these laws
-of the land.
+ Allanamiento de Morada: Se refiere a cualquier acto que
+incluya, pero no se limite a, abrir, romper, incinerar,
+transportar mágicamente, o causar de cualquier manera que una
+puerta, ventana u otro portal que haya sido bloqueado mágica
+o mundanamente, o que una persona razonable asumiría que está
+así restringido, sea transitable; y el acto (aunque el acto no
+sea obligatorio para la definición) de entrar en la casa,
+negocio o lugar público a través de dicho portal definido.
+El castigo por este delito puede incluir una multa o el
+encarcelamiento, o una multa y el encarcelamiento. La multa y
+el encarcelamiento, o ambos, o ninguno, pueden ser menores en
+un delito de Intento de Allanamiento. Un delito de Intento de
+Allanamiento se define como cualquier acto que una persona
+razonable percibiría como la preparación para un intento
+(sea exitoso o no, o se perciba como posiblemente exitoso o no)
+de lograr la apertura, rotura, incineración, transporte mágico
+o causar de cualquier manera que una puerta, ventana u otro
+portal que haya sido bloqueado mágica o mundanamente, o que
+una persona razonable asumiría que está así restringido, sea
+transitable; y el acto (aunque el acto no sea obligatorio para
+la definición) de preparar o intentar (sea exitoso o no,
+se perciba como posiblemente exitoso o no) entrar en la casa,
+negocio o lugar público a través de dicho portal definido.
 
-    Breaking and Entering:    This refers to any act including,
-but not limited to opening, breaking, incinerating,
-magically transporting, or in any way causing a door,
-window, or other portal that has been magically or
-mundanely locked or which a reasonable person would assume
-to be so restricted to be passable, and the act (though the
-act is not required for the definition) of entering the house,
-business, or public location through said defined portal.
-The punishment for this crime may include a fine or
-incarceration, or a fine and incarceration.    The fine and
-incarceration, or both, or neither, may be less in a crime of
-Attempted Breaking and Entering. A crime of Attempted
-Breaking and Entering is defined as an any act that a
-reasonable person would perceive as the preparation for,
-an attempt (whether successful or not, or perceived to be
-possibly successful or not) to bring about the opening,
-breaking, incinerating, magically transporting, or in any
-way causing a door, window, or other portal that has been
-magically or mundanely locked or which a reasonable person
-would assume to be so restricted to be passable, and the act
-(though the act is not required for the definition) of
-preparing or attempting (whether successful or not,
-perceived to be possibly successful or not) entering the
-house, business, or public location through said defined
-portal.
+ Intrusión: Se refiere a caminar, volar, cabalgar, teletransportarse,
+flotar o, de cualquier manera, moverse o existir en una
+propiedad sin el permiso explícito por escrito o hablado
+(o el permiso que una persona razonable pudiera inferir) del
+propietario o cuidador de la propiedad. El castigo por este
+delito puede incluir una multa o el encarcelamiento, o una
+multa y el encarcelamiento.
 
-     Trespassing:     This refers to walking, flying, riding,
-teleporting, floating, or in any way moving or existing on
-a property without the explicit written or spoken
-permission (or permission a reasonable person might infer)
-of the owner or caretaker of the property. The punishment for
-this crime may include a fine or incarceration, or a fine
-and incarceration.
+ Agresión: Cualquier amenaza o intento (sea exitoso o no) de
+causar daño o lesión física, emocional, mental o mágica a otra
+persona, grupo de personas o entidad que una persona razonable
+pudiera asumir que es sentiente. El castigo por este delito
+puede incluir una multa o el encarcelamiento, o una multa y el
+encarcelamiento.
 
-     Assault     Any threat or attempt (whether successful or
-not) to do physical, emotional, mental, or magical harm or
-injury to another person, group of persons, or entity a
-reasonable person might assume to be sentient. The
-punishment for this crime may include a fine or
-incarceration, or a fine and incarceration.
+ Asesinato: Cualquier acto con propósito premeditado o malicioso,
+o premeditado y malicioso (o un acto que una persona razonable
+llamaría premeditado y malicioso, o premeditado o malicioso)
+o accidental pero con intención criminal (o lo que una persona
+razonable llamaría intención criminal) que resulte directamente
+en la muerte (o destrucción con muerte implícita) de una
+persona, grupo de personas o entidad que una persona razonable
+pudiera asumir que es sentiente. El castigo por este delito
+puede incluir una multa o el encarcelamiento, o una multa y el
+encarcelamiento.
 
-     Murder     Any act of premeditated or malicious or
-premeditated and malicious (or an act that a reasonable
-person would call premeditated and malicious or
-premeditated or malicious) or accidental but criminally
-intended (or what a reasonable person would call
-criminally intended) purpose that results directly in the
-death (or destruction with implied death) of a person,
-group of persons, or entity a reasonable person might
-assume to be sentient. The punishment for this crime may
-include a fine or incarceration, or a fine and
-incarceration.
+ Conspiración Criminal: Cualquier reunión, comunicación o
+encuentro con el propósito (o que una persona razonable pudiera
+asumir que tenía el propósito) de preparar o concertar un
+delito de cualquier tipo (o delitos de cualquier tipo) para
+ser cometido o causado para ser cometido. El castigo por este
+delito puede incluir una multa o el encarcelamiento, o una
+multa y el encarcelamiento.
 
-     Criminal Conspiracy     Any meeting, communication, or
-encounter with the purpose (or which a reasonable person
-might assume had the purpose) of preparing or arranging a
-crime of any kind (or crimes of any kind) to be commited or
-caused to be commited. The punishment for this crime may
-include a fine or incarceration, or a fine and
-incarceration.
+ Vagancia: Cualquier acto de ociosidad, desorden, mendicidad o
+conducta impropia de una persona con ocupación, oro o un hogar
+(u ocupación, oro y hogar; u ocupación o oro y hogar; u
+ocupación y oro o hogar; u ocupación y hogar o oro), o lo que
+una persona razonable consideraría ocioso, desordenado,
+mendicante o impropio. El castigo por este delito puede incluir
+una multa o el encarcelamiento, o una multa y el
+encarcelamiento.
 
-     Vagrancy     Any act of idleness, disorder, begging, or
-conduct unbecoming a person with occupation, gold, or a
-home, (or occupation, gold, and a home, or occupation or
-gold and home, or occupation and gold or home, or
-occupation and home or gold), or what a reasonable person
-would consider idle, disorderly, beggarly, or unbecoming.
-The punishment for this crime may include a fine or
-incarceration, or a fine and incarceration.
+ Contrabando: Cualquier acto de introducir, sacar,
+teletransportar o causar que se introduzca, saque o
+teletransporte un objeto considerado ilegal o que, de no ser
+ilegal, requiera un impuesto de importación o exportación que
+no haya sido pagado. El castigo por este delito puede incluir
+una multa o el encarcelamiento, o una multa y el
+encarcelamiento, e incluirá la confiscación del objeto ofensivo
+o ilegal. También puede incluir, pero no limitarse a, la
+ejecución o el destierro, o la ejecución y el destierro.
 
-     Smuggling     Any act of bringing in, taking out,
-teleporting, or causing to be brought in, taken out, or
-teleported an object considered illegal or, if not
-illegal, requiring an import or export tax which is not paid.
-The punishment for this crime may include a fine or
-incarceration, or a fine and incarceration, and will
-include confiscation of the offensive or illegal object. It
-may also include, but not be restricted to, execution or
-banishment, or execution and banishment.
+ Alta Traición: Cualquier acto en contra (ya sea directa o
+indirectamente, o cualquier inacción que resulte en
+circunstancias, directa o indirectamente, en contra) de un
+soberano al que se le debe lealtad o por parte de un vasallo
+hacia su señor, resultando (o lo que una persona razonable
+asumiría que resultaría) en daño o lesión física, emocional,
+mental o mágica en dicho soberano o señor. El castigo por este
+delito será la muerte.
 
-     High Treason     Any act against (whether directly or
-indirectly, or any nonaction which results in
-circumstances, directly or indirectly, against) a
-allegiated sovereign or by a vassal to a liege, resulting
-(or what a reasonable person would assume would result) in
-physical, emotional, mental, or magical harm or injury in
-said sovereign or liege. The punishment for this crime will
-be death.
+ Robo con Hurto (Pickpocketing): Cualquier acto de robar, tomar
+o, sin permiso explícito por escrito o verbal (o lo que una
+persona razonable inferiría como permiso implícito), un objeto
+o objetos que una persona, grupo de personas o entidad que una
+persona razonable pudiera asumir que es sentiente tenga sobre
+su propia persona. El castigo por este delito puede incluir una
+multa o el encarcelamiento, o una multa y el encarcelamiento.
 
-     Pickpocketing     Any act of stealing, taking, or, without
-explicit written or verbal permission (or what a
-reasonable person would infer as implied permission) an
-item or items a person, group of persons, or entity a
-reasonable person might assume to be sentient has on his,
-her, its, or their own person. The punishment for this crime
-may include a fine or incarceration, or a fine and
-incarceration.
+ Robo (Theft): (a veces llamado Latrocinio) Cualquier acto de
+robar, tomar o, sin permiso explícito por escrito o verbal
+(o lo que una persona razonable inferiría como permiso
+implícito), un objeto o objetos del lugar de residencia,
+negocio, persona u otra ubicación de una persona, grupo de
+personas o entidad que una persona razonable pudiera asumir que
+es sentiente, y que una persona razonable asumiría que está a
+salvo del saqueo. El castigo por este delito puede incluir una
+multa o el encarcelamiento, o una multa y el encarcelamiento.
 
-     Theft     (sometimes called Larceny)     Any act of
-stealing, taking, or, without explicit written or verbal
-permission (or what a reasonable person would infer as
-implied permission) an item or items from a person, group of
-persons, or entity a reasonable person might assume to be
-sentient's place of residence, business, person, or other
-location a reasonable person would assume is secured from
-looting. The punishment for this crime may include a fine or
-incarceration, or a fine and incarceration.
+ Estas son las definiciones habituales y cotidianas utilizadas
+por los expertos legales (como yo mismo), pero tanto las
+definiciones como los castigos pueden fluctuar enormemente
+según la ubicación y la situación. En la Ciudad Imperial, el
+asesoramiento legal está disponible a través de personas como
+yo, pero las provincias no tienen tal sistema implementado.
+Tal vez eso cambie con el tiempo. Todos podemos esperarlo.
 
-     These are the usual, day-to-day definitions used by legal
-experts (like myself), but both the definitions and
-punishments may fluctuate wildly according to location
-and situation. In the Imperial City, legal counsel is
-available by persons like myself, but the provinces have no
-such system in place. Perhaps that will change in time. We
-can all hope so.
+ Como nota final: el sistema legal de Tamriel tiene su base en
+el credo civilizado y razonable pronunciado por el profeta
+Marukh en la primera era: "Todos son culpables hasta que hayan
+demostrado ser inocentes". ¿Se han pronunciado alguna vez
+palabras más ciertas?
 
-     As a final note: the Tamriel legal system has its basis in
-the civilized, reasonable credo uttered by the prophet
-Marukh in the first era: "All are guilty until they have
-proven themselves innocent." Were truer word ever spoke?
 
- 
+
+

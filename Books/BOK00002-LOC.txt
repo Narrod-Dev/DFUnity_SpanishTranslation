@@ -1,4 +1,4 @@
-Title: Fragment: On Artaeum
+Title: Fragmento: Sobre Artaeum
 Author: Taurce Anselma
 IsNaughty: False
 Price: 676
@@ -9,92 +9,96 @@ Content:
 
 [/font=2]
 
-[/center]Fragment:
+[/center]Fragmento:
 
-[/center]On Artaeum
+[/center]Sobre Artaeum
 
 
 
 [/font=4]
 
- by Taurce il-Anselma, 3E 400
+ por Taurce il-Anselma, 3E 400
 
 
 
-[/center]The Isle of Artaeum (ar-TAY-um)
+[/center]La Isla de Artaeum (ar-TAY-um)
 
- Artaeum is the third largest island in the Sumurset
-archipelago, located south of the Moridunon village of Potansa and west of the mainland village of
-Runcibae. It is best known for being the home to the Psijic
-Order, perhaps the oldest monastic group in Tamriel.
+ Artaeum es la tercera isla más grande del archipiélago de
+Estivalia, situada al sur de la aldea de Potansa, en
+Moridunon, y al oeste de la aldea de Runcibae, en tierra
+firme. Es conocida principalmente por ser el hogar de la
+Orden Psijic, quizás el grupo monástico más antiguo de
+Tamriel.
 
- The earliest written record of Psijics is from the twentieth
-year of the first era and tells the tale of the author, the renowned Breton sage Voernet, travelling
-to the Isle of Artaeum to meet with the Rite Master of the
-Psijics, Iachesis. Even then, the Psijics were the counselors
-of kings and proponents of the "Elder Way," taught to them
-by the original people of Tamriel. The Elder Way is a
-philosophy of  meditation and study said to bind the forces
-of nature to the individual will. It differs from magicka in
-origin, but the effects are much the same.
+ El primer registro escrito de los Psijic data del año veinte
+de la primera era y cuenta la historia del autor, el
+renombrado sabio bretón Voernet, viajando a la Isla de
+Artaeum para reunirse con el Maestro del Rito de los
+Psijic, Iachesis. Ya entonces, los Psijic eran los consejeros
+de reyes y defensores del "Camino de los Antiguos",
+enseñado a ellos por los habitantes originales de Tamriel.
+El Camino de los Antiguos es una filosofía de meditación y
+estudio que, según se dice, vincula las fuerzas de la
+naturaleza a la voluntad individual. Difiere de la magia en
+su origen, pero los efectos son muy similares.
 
- That being said, it is perhaps more than coincidence that the
-Isle of Artaeum literally vanished from the shores of
-Sumurset at the beginning of the second era at about the time
-of the founding of the Mages Guild of Tamriel. Various
-historians and scholars have published theories about this,
-but perhaps none but Iachesis and his own could shed light on
-this.
+ Dicho esto, es quizás más que una coincidencia que la
+Isla de Artaeum literalmente desapareciera de las costas de
+Estivalia al comienzo de la segunda era, aproximadamente en
+la época de la fundación del Gremio de Magos de Tamriel.
+Varios historiadores y eruditos han publicado teorías sobre
+esto, pero quizás nadie excepto Iachesis y los suyos podrían
+arrojar luz sobre el asunto.
 
- Five hundred years passed and Artaeum returned. The Psijics
-on the Isle consisted of persons, mostly elves, who had
-disappeared and were presumed dead over the second
-era.
-They could not or would not offer an explanation for
-Artaeum's wherebouts during that time or the fate of Iachesis
-and the original council of Artaeum.
+ Pasaron quinientos años y Artaeum regresó. Los Psijic en la
+Isla consistían en personas, en su mayoría elfos, que habían
+desaparecido y se daban por muertos durante la segunda era.
+Ellos no pudieron o no quisieron ofrecer una explicación
+sobre el paradero de Artaeum durante ese tiempo o sobre el
+destino de Iachesis y el consejo original de Artaeum.
 
- Currently, the Psijics are led by the Lore Master Celarus
-who has presided over the Council of Artaeum for the last
-two hundred and fifty years. The Council's influence in
-world politics is tidal: the kings of Sumurset,
-particularly those of Moridunon, have often sought the
-Psijics' opinion; Uriel V was much influenced by the Council
-in the early, most glorious part of his reign, before his
-disasterous attack on Akavir; it has even been suggested that
-the fleet of King Orghum of Pyandonea was destroyed by a
-joint effort of Emperor Antiochus and the Psijic Order. The
-last four emperors, Uriel VI, Morihatha, Pelagius IV, and
-Uriel VII, have been suspicious of the Psijics, even enough
-to refuse ambassadors for the Isle of Artaeum in the
-Imperial City.
+ Actualmente, los Psijic están liderados por el Maestro del
+Saber Celarus, quien ha presidido el Consejo de Artaeum
+durante los últimos doscientos cincuenta años. La influencia
+del Consejo en la política mundial es cíclica: los reyes de
+Estivalia, particularmente los de Moridunon, a menudo han
+buscado la opinión de los Psijic; Uriel V estuvo muy influido
+por el Consejo en la primera y más gloriosa parte de su
+reinado, antes de su desastroso ataque a Akavir; incluso se
+ha sugerido que la flota del Rey Orghum de Pyandonea fue
+destruida por un esfuerzo conjunto del Emperador Antioco y
+la Orden Psijic. Los últimos cuatro emperadores, Uriel VI,
+Morihatha, Pelagio IV y Uriel VII, han sospechado de los
+Psijic, llegando incluso a rechazar embajadores de la Isla
+de Artaeum en la Ciudad Imperial.
 
- The Isle of Artaeum is difficult to chart geographically.
-It is said that parts of it exist simultaneously in multiple
-dimensions and continuously shift either at random or by
-decree of Council. Visitors to the island are so rare to be
-almost unheard of. Anyone desirous of a meeting with a Psijic
-may find contacts in Potansa and Runcibae as well as many
-of the kingdoms of Sumurset.
+ La Isla de Artaeum es difícil de cartografiar
+geográficamente. Se dice que partes de ella existen
+simultáneamente en múltiples dimensiones y cambian
+continuamente, ya sea al azar o por decreto del Consejo.
+Los visitantes de la isla son tan raros que casi no se oye
+hablar de ellos. Cualquiera que desee una reunión con un
+Psijic puede encontrar contactos en Potansa y Runcibae, así
+como en muchos de los reinos de Estivalia.
 
- Were it more accessible, Artaeum would be a favored
-destination for travellers. I have been to the Isle once
-and still dream of the idylic orchards and pastures, the
-still and silent lagoons, the misty woodlands, and the
-unique Psijic architecture that seems to be as natural but
-wondrous as the surroundings. The Ceporah Tower in
-particular I would study, for it is a ruin from a
-civilization that predates the High Elves by several hundred
-years and is still used in certain rites by the Psijics.
+ Si fuera más accesible, Artaeum sería un destino favorito
+para los viajeros. He estado en la Isla una vez y todavía
+sueño con los idílicos huertos y pastos, las lagunas quietas
+y silenciosas, los bosques brumosos y la arquitectura única
+de los Psijic, que parece tan natural pero maravillosa como
+el entorno. Me gustaría estudiar la Torre Ceporah en
+particular, pues es una ruina de una civilización que
+precede a los Altos Elfos por varios cientos de años y
+todavía es utilizada en ciertos ritos por los Psijic.
 
- Perhaps one day I might return.
+ Quizás algún día pueda volver.
 
- Note: The author is currently on the Isle of Artaeum by
-gracious consent of Master Sargenius of the Council of
-Artaeum. 
-
-
+ Nota: El autor se encuentra actualmente en la Isla de
+Artaeum por gracioso consentimiento del Maestro Sargenius
+del Consejo de Artaeum.
 
 
 
- 
+
+
+

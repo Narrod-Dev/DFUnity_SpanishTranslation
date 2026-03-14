@@ -1,271 +1,241 @@
-Title: The Real Barenziah, Part V
-Author: Anonymous
+Title: La Verdadera Barenziah, Parte V
+Author: Anónimo
 IsNaughty: False
 Price: 580
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]The Real
+[/center]La Verdadera
 
 [/center]Barenziah
 
-[/center]Part V
+[/center]
 
-
+[/center]Parte V
 
 [/font=4]
 
-
-
 [/center]
 
- Barenziah felt the weight of sorrow for several days, but
-by the third day out her spirits had begun to rise a bit. She
-found that she enjoyed being on the road again, although she
-missed Straw's companionship more than she would have
-thought. They were escorted by a troop of Redguard knights,
-with whom she felt comfortable, although these were much more
-disciplined than the guards of the merchant caravans. They
-were cordial but respectful towards her despite her
-attempts to flirt with the men.
+Barenziah sintió el peso de la tristeza durante varios días, pero
+al tercer día de viaje su ánimo empezó a levantarse un poco. Descubrió
+que disfrutaba estar de nuevo en el camino, aunque echaba de menos la
+compañía de Straw más de lo que habría pensado. Iban escoltados por una
+tropa de caballeros guardiasrojas, con quienes se sentía cómoda, aunque
+estos eran mucho más disciplinados que los guardias de las caravanas de
+mercaderes. Eran cordiales pero respetuosos con ella a pesar de sus
+intentos de coquetear con los hombres.
 
- Symmachus scolded her privately, saying a queen must
-maintain a royal dignity at all times.
+Symmachus la reprendió en privado, diciendo que una reina debe
+mantener la dignidad real en todo momento.
 
- "You mean I'm never to have any fun?"
+"¿Quieres decir que nunca podré divertirme?"
 
- "Not with such as these. They are beneath you. Graciousness is
-to be desired in those in authority. Familiarity is not. You
-will remain chaste and modest while you are in Imperial
-City."
+"No con gente como esta. Están por debajo de ti. La amabilidad es
+deseable en quienes tienen autoridad. La familiaridad no lo es. Te
+mantendrás casta y modesta mientras estés en la Ciudad Imperial".
 
- Barenziah screwed up her face. "I might as well be back in
-Black Moor. Elves are promiscuous by nature. Everyone says
-so."
+Barenziah puso una mueca. "Para eso preferiría estar de vuelta en
+Páramo Negro. Los elfos somos promiscuos por naturaleza. Todo el mundo
+lo dice".
 
- "'Everyone' is wrong, then. Some are, some aren't. The
-emperor -- and I -- expect you to show both discrimination
-and discretion. Let me remind you that you will hold the
-throne of Mournhold not by right of blood but solely at the
-pleasure of Tiber Septim. If he judges you unsuitable your
-reign will end ere it begins. He requires intelligence,
-obedience, discretion and total loyalty in all his
-appointees, and he favors chastity and modesty in women. I
-suggest you model your deportment after Drelliane."
+"'Todo el mundo' se equivoca, entonces. Algunos lo son, otros no. El
+Emperador —y yo— esperamos que muestres tanto discernimiento como
+discreción. Permíteme recordarte que ocuparás el trono de Mournhold no
+por derecho de sangre, sino únicamente por el beneplácito de Tiber Septim.
+Si él juzga que no eres apta, tu reinado terminará antes de empezar. Él
+requiere inteligencia, obediencia, discreción y lealtad total en todos sus
+nombramientos, y favorece la castidad y la modestia en las mujeres. Te
+sugiero que tomes como modelo de comportamiento a Drelliane".
 
- "I'd liefer be back in Black Moor," Barenziah said
-indignantly.
+"Preferiría estar de vuelta en Páramo Negro", dijo Barenziah
+indignada.
 
- "That is not an option. If you are of no use to Tiber
-Septim he will see to it that you are of no use to his enemies
-either," Symmachus said coldly. "If you would keep your
-head upon your shoulders take warning. Let me add that
-power offers pleasures other than those of carnality and
-low company." He spoke of art, literature, drama, music,
-and grand balls. Barenziah listened with interest spurred
-by his threats, but after asked if she might continue her study
-of spellcasting while in Imperial City. Symmachus seemed
-pleased and promised to arrange it. Pleased with this she then
-said that she noted that three of their knights were women, and
-asked if she might train a little in combat with them, just
-for the sake of exercise. Symmachus looked less than pleased,
-but agreed she might, although only with the women.
+"Esa no es una opción. Si no eres de utilidad para Tiber Septim, él se
+asegurará de que tampoco seas de utilidad para sus enemigos", dijo
+Symmachus fríamente. "Si quieres conservar la cabeza sobre los hombros,
+date por advertida. Permíteme añadir que el poder ofrece placeres distintos
+a los de la carnalidad y las malas compañías". Le habló de arte,
+literatura, teatro, música y grandes bailes. Barenziah escuchó con un
+interés espoleado por sus amenazas, pero después preguntó si podría
+continuar su estudio de lanzamiento de hechizos mientras estuviera en la
+Ciudad Imperial. Symmachus pareció complacido y prometió organizarlo. Satisfecha
+con esto, ella mencionó que había notado que tres de sus caballeros eran
+mujeres, y preguntó si podría entrenar un poco en combate con ellas, solo
+por hacer ejercicio. Symmachus no pareció muy contento, pero aceptó que
+podía hacerlo, aunque solo con las mujeres.
 
- The late winter weather held fair but cold for their
-journey, so that they travelled quickly over firm roads. On
-the last day, spring seemed to come at last for there was a
-thaw, and the road grew sloppy underfoot, and everywhere
-one could faintly hear the sound of water trickling and
-dripping. 
+El clima de finales de invierno se mantuvo despejado pero frío durante
+su viaje, por lo que viajaron rápidamente por caminos firmes. El
+último día, la primavera pareció llegar por fin, pues hubo un deshielo,
+y el camino se volvió lodoso bajo los pies, y por todas partes se podía
+oír el tenue sonido del agua goteando y fluyendo.
 
- They came to the great bridge that crossed into Imperial
-City at sunset. The rosy glow turned all the stark white
-marble buildings a delicate pink. It all looked very new
-and grand and immaculate. A broad avenue led straight
-north to the Palace. There was a crowd of people of all
-sorts in the streets. Lights winked out in the shops and on in
-the inns as dusk fell and the stars came out one by one. Even
-the side streets were broad and brightly lit. Near the
-palace the towers of a grand Mage Guild reared to the east
-while westward the stained glass windows of a great temple
-glittered. 
+Llegaron al gran puente que cruza hacia la Ciudad Imperial al atardecer.
+El resplandor rojizo volvía todos los edificios de mármol blanco de un
+delicado color rosa. Todo parecía muy nuevo, grandioso e inmaculado. Una
+amplia avenida conducía directamente al norte, hacia el Palacio. Había una
+multitud de gente de todo tipo en las calles. Las luces parpadeaban en las
+tiendas y en las posadas al caer la noche, y las estrellas aparecían una
+a una. Incluso las calles laterales eran anchas y estaban bien iluminadas.
+Cerca del palacio, las torres de un gran Gremio de Magos se alzaban al este,
+mientras que al oeste brillaban las vidrieras de un gran templo.
 
- Symmachus had an apartment in a great house two blocks from
-the palace, past the Temple, the Temple of the One, he said,
-as they passed it, an ancient Nordic cult which Tiber Septim
-had revived. He said that Barenziah would be expected to
-become a member, should she prove acceptable to the
-Emperor. 
+Symmachus tenía un apartamento en una gran casa a dos manzanas del
+palacio, pasada la iglesia, el Templo del Único, dijo él mientras pasaban,
+un antiguo culto nórdico que Tiber Septim había revivido. Dijo que se
+esperaba que Barenziah se convirtiera en miembro, si resultaba aceptable para
+el Emperador.
 
- Symmachus' apartment was very grand, although little to
-Barenziah's liking. The walls and furnishings were stark
-white, relieved only by touches of bright gold, the floors
-of gleaming black marble. Barenziah's eyes ached for color
-and shadow.
+El apartamento de Symmachus era muy grandioso, aunque poco del agrado de
+Barenziah. Las paredes y el mobiliario eran de un blanco absoluto, aliviado
+solo por toques de oro brillante; los suelos eran de mármol negro reluciente.
+A los ojos de Barenziah les faltaba color y sombras.
 
- In the morning Symmachus and Drelliane escorted her to the
-Imperial Palace. Barenziah noted that everyone they met
-greeted Symmachus with a deferential respect which in some
-cases bordered on obsequiousness. He took it quite for
-granted. She and Symmachus were ushered directly into the
-Imperial presence.
+Por la mañana, Symmachus y Drelliane la escoltaron al Palacio Imperial.
+Barenziah notó que todos los que encontraban saludaban a Symmachus con un
+respeto deferente que, en algunos casos, rozaba el servilismo. Él lo daba por
+sentado. Ella y Symmachus fueron conducidos directamente a la presencia
+imperial.
 
- Morning sun flooded the small room through a large window
-with tiny panes, washing over the breakfast table and the
-single man who sat there, dark against the light. He leapt to
-his feet as they entered and hurried toward them, "Ah,
-Symmachus, my friend, I welcome thy return most gladly."
-His hands touched Symmachus shoulders briefly, fondly,
-interrupting the deep bow the elf had begun. Barenziah
-curtsied as Tiber Septim turned to her.
+El sol de la mañana inundaba la pequeña estancia a través de una gran ventana
+de cristales diminutos, bañando la mesa del desayuno y al único hombre que
+estaba sentado allí, oscuro contra la luz. Se puso de pie de un salto en
+cuanto entraron y se apresuró hacia ellos: "Ah, Symmachus, amigo mío, recibo
+tu regreso con sumo agrado". Sus manos tocaron los hombros de Symmachus breve
+y afectuosamente, interrumpiendo la profunda reverencia que el elfo había
+comenzado. Barenziah hizo una genuflexión mientras Tiber Septim se giraba
+hacia ella.
 
- "Barenziah, my naughty little runaway, how do you, child?
-Here, let me have a look at you. Why, Symmachus, she's
-charming, absolutely charming. Why have you hidden her from
-us all these years? Is the light too much? Shall I draw the
-hangings? Yes, of course." He waved aside Symmachus
-protests and drew the curtains himself, not troubling to
-summon a servant. "You will pardon me for this
-discourtesy to my guests. I've much to think of, but that's
-scant excuse for inhospitality -- ah, pray join me. There's
-some excellent fruit from the Black Marsh."
+"Barenziah, mi pequeña traviesa fugitiva, ¿cómo estás, niña? Ven, deja que
+te vea. Vaya, Symmachus, es encantadora, absolutamente encantadora. ¿Por qué
+nos la has ocultado todos estos años? ¿Es demasiada luz? ¿Debo cerrar las
+cortinas? Sí, por supuesto". Ignoró las protestas de Symmachus y cerró las
+cortinas él mismo, sin molestarse en llamar a un sirviente. "Perdonadme por
+esta descortesía hacia mis invitados. Tengo mucho en qué pensar, pero eso no
+es excusa para la falta de hospitalidad... ah, por favor, acompañadme. Hay
+unas frutas excelentes de Black Marsh".
 
- They settled themselves at the table. Barenziah was
-astonished. Tiber Septim was nothing like the grim grey
-giant warrior she'd pictured. He was only of middle height,
-half a head shorter than tall Symmachus, although he was
-well knit of figure and lithe in movement. He had a winning
-smile, bright, indeed piercing, blue eyes, and a full head
-of stark white hair above a lined and weathered face. He might
-have been of any age from forty to sixty.
+Se acomodaron a la mesa. Barenziah estaba asombrada. Tiber Septim no se
+parecía en nada al sombrío gigante guerrero de pelo gris que ella había
+imaginado. Solo era de mediana estatura, media cabeza más bajo que el alto
+Symmachus, aunque tenía una figura bien proporcionada y movimientos ágiles.
+Tenía una sonrisa ganadora, unos ojos azules brillantes, incluso penetrantes,
+y una melena de pelo blanco como la nieve sobre un rostro arrugado y curtido.
+Podía tener cualquier edad entre los cuarenta y los sesenta años.
 
- He pressed food and drink upon them, then repeated his
-question: why had she left her home? Had her guardians been
-unkind to her?
+Les ofreció comida y bebida, y luego repitió su pregunta: ¿por qué había
+dejado su hogar? ¿Habían sido sus tutores crueles con ella?
 
- "No, excellency," Barenziah replied, "in truth, no,
-although I fancied so at times." Symmachus had made up a lie
-for her and Barenziah told it, although with misgivings. The
-stableboy, Straw, had convinced her that her guardians,
-unable to find a suitable husband for her, meant to sell her
-as a concubine in Rihad, and when a Redguard had indeed come,
-she had panicked and fled with him. Tiber Septim seemed
-fascinated and listened raptly as she provided details of
-her life as a merchant caravan guard.
+"No, Excelencia", respondió Barenziah, "en verdad no, aunque a veces lo
+imaginara". Symmachus había inventado una mentira para ella y Barenziah la
+contó, aunque con recelo. El mozo de cuadra, Straw, la había convencido de
+que sus tutores, al no encontrarle un marido adecuado, pretendían venderla
+como concubina en Rihad, y cuando un guardia roja apareció realmente, ella se
+asustó y huyó con él. Tiber Septim parecía fascinado y escuchaba con
+atención mientras ella daba detalles de su vida como guardia de caravanas.
 
- "Why, 'tis like a ballad," he said. "By the One, I'll have
-the court bard set it to music. What a charming boy you must
-have made."
+"Vaya, es como una balada", dijo él. "Por el Único, haré que el bardo de la
+corte le ponga música. Qué muchacho tan encantador debes haber parecido".
 
- "Symmachus said--" Barenziah stopped in some confusion, "he
-said, well, that I no longer look much like a boy. I have
-grown in the past few months." She lowered her gaze in what
-she hoped looked like maiden modesty.
+"Symmachus dijo..." Barenziah se detuvo con cierta confusión, "dijo, bueno,
+que ya no me parezco mucho a un chico. He crecido en los últimos meses".
+Bajó la mirada en lo que esperaba que pareciera modestia virginal.
 
- "He's a very discerning fellow, is my friend Symmachus."
+"Es un tipo con mucho discernimiento, mi amigo Symmachus".
 
- "I know I've been a very foolish girl. I must crave thy
-pardon, and that of my kind guardians. I -- I realized that
-some time ago, but I was too ashamed to go home. And I do
-long for Morrowind. My soul pines for my own country."
+"Sé que he sido una chica muy tonta. Debo implorar vuestro perdón, y el de
+mis amables tutores. Yo... me di cuenta de eso hace tiempo, pero me
+avergonzaba demasiado volver a casa. Y anhelo Morrowind. Mi alma suspira por
+mi propio país".
 
- "My dear. You shall go home, I promise you, but I pray you
-remain with us a little longer, that you may prepare
-yourself for the stern task with which I shall charge you."
-Barenziah gazed at him earnestly, heart beating hard. It was
-all working just as Symmachus had said it would. She felt a
-warm flush of gratitude toward him, but was  careful to keep
-her attention focused on the Emperor. "I am honored,
-Excellency, and wish most earnestly to serve you and this
-great Empire you have forged in any way I can." It was the
-politic thing to say, but Barenziah really meant it. She was
-awed by the magnificence of the city and the discipline and
-order everywhere evident, and was excited at the prospect of
-being a part of it all. Plus she felt quite drawn to Tiber
-Septim.
+"Mi querida niña. Volverás a casa, te lo prometo, pero te ruego que te
+quedes con nosotros un poco más, para que puedas prepararte para la severa
+tarea de la que te encargaré". Barenziah lo miró fijamente, con el corazón
+latiendo con fuerza. Todo estaba funcionando tal como Symmachus había dicho.
+Sintió una cálida oleada de gratitud hacia él, pero tuvo cuidado de mantener
+su atención centrada en el Emperador. "Es un honor, Excelencia, y deseo con
+toda mi alma serviros a vos y a este gran Imperio que habéis forjado de
+cualquier manera que pueda". Era lo políticamente correcto, pero Barenziah lo
+decía en serio. Estaba maravillada por la magnificencia de la ciudad y la
+disciplina y el orden evidentes en todas partes, y le entusiasmaba la
+perspectiva de formar parte de ello. Además, se sentía bastante atraída por
+Tiber Septim.
 
- After a few days Symmachus left for Mournhold to take up his
-duties as governor until Barenziah was ready to assume the
-throne, after which he would become her Prime Minister.
-Barenziah, with Drelliane as chaperone, took up residence in
-a suite at the Palace. Several tutors were provided for
-her. During this time she became deeply interested in the
-magical arts, but she found the study of history and
-politics not at all to her taste.
+Al cabo de unos días, Symmachus partió hacia Mournhold para asumir sus
+deberes como gobernador hasta que Barenziah estuviera lista para asumir el
+trono, tras lo cual él se convertiría en su Primer Ministro. Barenziah, con
+Drelliane como acompañante, se instaló en una suite del Palacio. Se le
+asignaron varios tutores. Durante este tiempo se interesó profundamente en
+las artes mágicas, pero descubrió que el estudio de la historia y la política
+no era en absoluto de su agrado.
 
- On occasion she met Tiber Septim in the Palace gardens and he
-would unfailingly inquire politely as to her progress, and
-chide her, although with a smile, over her disinterest in
-matters of state. However, he was always happy to instruct
-her on fine points of magic, and he could make even history
-and politics seem interesting after all. "They're people,
-child, not dry facts in a dusty book," he said. As her
-understanding broadened their discussions became longer,
-deeper and more frequent. He spoke to her of his vision of a
-united Tamriel, each race separate and distinct but with
-shared ideals and goals, all contributing to the common
-weal.
+En ocasiones se encontraba con Tiber Septim en los jardines del Palacio y él,
+sin falta, le preguntaba educadamente por sus progresos y la reprendía, aunque
+con una sonrisa, por su desinterés en los asuntos de estado. Sin embargo,
+siempre estaba encantado de instruirla en los puntos sutiles de la magia, y
+podía hacer que incluso la historia y la política parecieran interesantes
+después de todo. "Son personas, niña, no datos secos en un libro polvoriento",
+decía él. A medida que su comprensión se ampliaba, sus discusiones se hacían
+más largas, profundas y frecuentes. Le hablaba de su visión de una Tamriel
+unida, con cada raza separada y distinta pero con ideales y metas compartidos,
+todos contribuyendo al bien común.
 
- "Some things are universal, shared by all sentient folk of
-good will," he said. "So the One teaches us. We must unite
-against the malicious and the brutish, the mis-created, the
-orcs, trolls, goblins and other worse creataures, not
-strive 'gainst one another."
+"Algunas cosas son universales, compartidas por todas las personas
+sentientes de buena voluntad", decía. "Así nos lo enseña el Único. Debemos
+unirnos contra lo malicioso y lo brutal, lo mal engendrado, los orcos, trolls,
+goblins y otras criaturas peores, no luchar unos contra otros".
 
- His blue eyes would light as he stared into his dream, and
-Barenziah was delighted just to sit and listen to him. If he
-drew close to her, the side of her body next to him would glow
-as if he were a fire. If their hands met she would tingle all
-over as if his body were charged with a small shock spell. One
-day, quite unexpectedly, he took her face in his hands and
-kissed her gently on the mouth. She drew back after a few
-moments, astonished by the violence of her feelings, and he
-apologized instantly. "I didn't mean to do that. It's just
--- you are so beautiful, my dear. So very beautiful." He
-was looking at her with a hopeless yearning in his face. She
-turned away, tears streaming down her face. "Are you angry
-with me? Talk to me."
+Sus ojos azules se iluminaban mientras contemplaba su sueño, y Barenziah se
+deleitaba con solo sentarse a escucharlo. Si él se acercaba a ella, el lado
+de su cuerpo junto a él brillaba como si él fuera un fuego. Si sus manos se
+encontraban, ella sentía un hormigueo por todo el cuerpo como si el cuerpo de
+él estuviera cargado con un pequeño hechizo de descarga. Un día, de forma
+inesperada, él tomó el rostro de ella entre sus manos y la besó suavemente en
+la boca. Ella se apartó tras unos instantes, asombrada por la violencia de sus
+sentimientos, y él se disculpó al instante. "No pretendía hacer eso. Es solo
+que... eres tan hermosa, querida mía. Tan hermosa". Él la miraba con un anhelo
+desesperado en el rostro. Ella se dio la vuelta, con lágrimas corriendo por
+sus mejillas. "¿Estás enfadada conmigo? Háblame".
 
- Barenziah shook her head. "I could never be angry with you. I
-love you. I know it's wrong, but I can't help it."
+Barenziah sacudió la cabeza. "Nunca podría enfadarme contigo. Te quiero. Sé
+que está mal, pero no puedo evitarlo".
 
- "I have a wife," he said. "She is a good and virtuous
-woman, and the mother of my children. I could never put her
-aside, yet there is nothing between us, no sharing of the
-spirit. She would have had me be other than what I am. I am the
-most powerful man in all Tamriel, and, Barenziah, I think I
-am the most lonely as well. Power!" he said with contempt.
-"I'd trade a goodly share of it for youth and love if the
-gods allowed it."
+"Tengo esposa", dijo él. "Es una mujer buena y virtuosa, y la madre de mis
+hijos. Nunca podría dejarla a un lado, y sin embargo no hay nada entre
+nosotros, nada de compartir el espíritu. Ella habría querido que yo fuera
+distinto de lo que soy. Soy el hombre más poderoso de toda Tamriel y,
+Barenziah, creo que también soy el más solitario. ¡El poder!", dijo con
+desprecio. "Cambiaría una buena parte de él por la juventud y el amor si los
+dioses lo permitieran".
 
- "But you are strong and vigorous and vital, more than any
-man I've ever known."
+"Pero eres fuerte, vigoroso y vital, más que cualquier hombre que haya
+conocido jamás".
 
- He shook his head. "Today, perhaps. Yet I am less than I was
-yesterday, last year, ten years ago. I feel the sting of my
-mortality and it is painful."
+Él sacudió la cabeza. "Hoy, tal vez. Sin embargo, soy menos de lo que era
+ayer, el año pasado, hace diez años. Siento el aguijón de mi mortalidad y es
+doloroso".
 
- "If I can ease thy pain, let me do so." Barenziah moved
-towards him, hands outstretched.
+"Si puedo aliviar tu dolor, déjame hacerlo". Barenziah se movió hacia él,
+con las manos extendidas.
 
- "I would not take thy innocence from thee."
+"No quisiera arrebatarte tu inocencia".
 
- "I'm not that innocent."
+"No soy tan inocente".
 
- "How so?" Tiber Septim's voice grated harshly, his brow
-knitted. Barenziah's mouth went dry. What had she done?
+"¿Cómo es eso?". La voz de Tiber Septim rascó con dureza, con el ceño
+fruncido. A Barenziah se le secó la boca. ¿Qué había hecho?
 
- "There was Straw," she faltered. "I -- I was lonely, too.
-Am lonely. And not so strong as you." She cast her eyes down
-in embarassment. "I'm not worthy--"
+"Estuvo Straw", vaciló ella. "Yo... yo también me sentía sola. Me siento
+sola. Y no soy tan fuerte como tú". Bajó los ojos avergonzada. "No soy
+digna...".
 
- "No, no, not so. Barenziah, it cannot last for long. You
-have a duty in Mournhold. I must tend my Empire. Shall we
-share what we may and pray the One forgives us our
-frailty?"
+"No, no, eso no es así. Barenziah, esto no puede durar mucho tiempo. Tienes
+un deber en Mournhold. Yo debo cuidar de mi Imperio. ¿Compartiremos lo que
+podamos y rezaremos para que el Único perdone nuestra debilidad?".
 
- Tiber Septim held out his arms and, wordlessly, Barenziah stepped into his embrace. 
+Tiber Septim extendió sus brazos y, sin palabras, Barenziah se entregó a su
+abrazo.

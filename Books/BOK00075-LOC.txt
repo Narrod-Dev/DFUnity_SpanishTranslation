@@ -1,688 +1,541 @@
-Title: Fools' Ebony, Part the Twoth
+Title: Ébano del tonto, segunda parte
 Author: Frincheps
 IsNaughty: True
 Price: 317
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]Fools' Ebony
+[/center]Ébano del tonto
 
-[/center]Part the
+[/center]Parte la
 
-[/center]Twoth
-
-
+[/center]Segundunda
 
 [/font=4]
 
+[/center] Reparto
 
+Prólogo El Aventurero, un Bribón Elfo Oscuro Komon, un Sacerdote
+de Akatosh Lheban, otro Sacerdote de Akatosh Epílogo Stete, un
+Sacerdote de Julianos Raic, otro Sacerdote de Julianos Shub, un
+Mago Shub, un Mago Diferente del Mismo Nombre Nephron, un
+Mercader algo Sórdido 5 Armeros Ortho Crunn, esposo de
+Millie Una Condesa Lúbrica Millie, Posadera y Filósofa
+Gurnsey, Moza Bovina Mozas variadas y canallas de las tabernas Soldados Enanos Gigantes
 
-[/center] Dramatis Personae
+Parte la Segundunda - Trata principalmente sobre el Ébano
+del Tonto y los Templos
 
- Prologue The Adventurer, A Dark Elf Rascal Komon, A Priest
-of Akatosh Lheban, Another Priest of Akatosh Epilogue Stete, A
-Priest of Julianos Raic, Another Priest of Julianos Shub, A
-Mage Shub, A Different Mage of the Same Name Nephron, A
-Somewhat Sleazy Merchant 5 Armorers Ortho Crunn, Husband of
-Millie A Lusty Contessa Millie, Innkeep and Philosopher
-Gurnsey, Bovine Wench Assorted Wenches and Cads of the Taverns Soldiers Dwarves Giants
+Mismo lugar, misma posada, una botella o dos después. Entran
+el Prólogo, el Aventurero y Lheban
 
+Prólogo: Poco ha ocurrido hasta ahora en nuestro
+drama cómico. El Aventurero, nuestro
 
+bribón Elfo Oscuro, ha invitado a copas
 
+a dos sacerdotes de Akatosh. Todos
 
+han bebido considerablemente. Uno de
 
- Part The Twoth - Bearing Mostly on Fools'                  Ebony
-and Temples
+los sacerdotes ha salido corriendo en
 
- Same place, same Inn, A bottle or two later. Enter
-Prologue, the Adventurer, and Lheben
+busca de su chica de la farola. Y,
 
- Prologue:   Little has occured so far in our             comedic
-drama. The Adventurer, our
+a menos que haya olvidado algo o
 
+algo haya pasado cuando estaba
 
-    Dark Elf rascal, has bought drinks
+prestando atención a otra cosa,
 
+esa es la sinopsis completa de la
 
-    for two priests of Akatosh. All
+Primera Parte. Ah, aquí vienen dos
 
+sacerdotes más. El humilde Prólogo debe
 
-    have drunk considerably. One of
+partir.
 
+(Entran Raic y Stete)
 
-    the priests has rushed off in
+Raic: ¡Buenas noches, Lheban! Buenas noches, extraño. Mi
+compañero sacerdote aquí es Stete, yo soy Raic.
 
+Tenemos el honor de servir a Julianos.
 
-    pursuit of his lamp girl. And,
+Aventurero: ¿Qué es esto, de todos modos? ¿Noche de juerga
+sacerdotal? Y... pensaba que sus
 
+Templos - Akatosh, Julianos, el resto
 
-    unless I've forgotten something or
+... pensaba que eran todos competidores
 
+despiadados. En teología y oro, si
 
-    something happened when I was
+perdonan mi franqueza. Sin embargo,
 
+parecen todos los mejores amigos ..?
 
-    paying attention to something else,
+Ahora que lo pienso, ¿no crucé
 
+palabras con Stete antes? ¿Usted dijo
 
-    that's a complete synopsis of Part
+que era del Templo de Stendarr?
 
+Raic: Un error común, amigo ...
 
-    the Oneth. Ah, here come two more
+Lheban: ... pero uno que nosotros ... fomentamos ...
 
+Raic: En realidad, todos trabajamos juntos de cerca,
+nos movemos entre los Templos según las
 
-    priests. Humble Prologue must
+necesidades lo dictan ...
 
+Lheban: ... intercambiamos información ... Raic: ... compartimos
+fondos ... Stete: ... intercambiamos a nuestras hermanas ...
 
-    depart.
+(Lheban patea a Stete) (Entra el Prólogo)
 
- (Enter Raic and Stete)
+Prólogo: Siento interrumpir la alegre payasada,
+pero olvidé mencionar antes que
 
- Raic:       Evening Lheban! Evening stranger. My            
-fellow priest here is Stete, I am Raic.
+la saga del Ébano del Tonto -- si esa es la
 
+palabra -- contiene referencias gratuitas
 
-    We are honored to serve Julianos.
+a fechorías sacerdotales y excesos sexuales.
 
- Adventurer: What is this, anyway - Priests night             out?
-And ... I thought that your
+Espero que aquellos de ustedes en el público de
 
+temperamento irritable, mojigato, huraño o
 
-    Temples - Akatosh, Julianos, the rest
+gruñón no se sientan ofendidos. Ahora
 
+pues, sigamos con el entretenimiento.
 
-    ... I thought them all cut-throat
+(Sale el Prólogo)
 
+Lheban: ... y todo eso ...
 
-    competitors. In theology and gold, if
+Raic: Pero ayuda en nuestro ... trabajo sagrado, si
+somos percibidos como separados y, eh,
 
+competitivos...
 
-    you will forgive my bluntness. Yet you
+Lheban: Eso sí, hay una o dos, er ...
+organizaciones religiosas ... bueno, algo
 
+así ... con las que no tenemos nada que
 
-    all seem the best of friends ..?              Come to think
-of it, didn't I have
+ver ...
 
+Raic: Nada en absoluto, nada en absoluto ...
+animales, simplemente animales ...
 
-    words with Stete earlier, you said
+Aventurero: ¿Como cuáles ..?
 
+Lheban: Buuueeeno -- la Hermandad Oscura para empezar
+... un grupo de matones desagradables ... y luego
 
-    you were of the Temple of Stendarr?
-
- Raic:       A common misconception, friend ...
-
- Lheban:     ... but one that we ... encourage ...
-
- Raic:       Really, we all work together closely,            
-move between the Temples as needs
-
-
-    dictate ...
-
- Lheban:     ... exchange information ... Raic:       ... share
-funds ... Stete:      ... swap our sisters ...
-
- (Lheben kicks Stete) (Enter Prologue)
-
- Prologue:   Sorry to interrupt the merry slapstick,            
-but I neglected to mention earlier that
-
-
-    the Fools' Gold saga -- if that is the
-
-
-    word -- contains gratuitous reference
-
-
-    to priestly misdeeds and sexual excess.
-
-
-    I hope those of you in the audience of
-
-
-    peevish, prudish, sullen, frumpy, or
-
-
-    grumpy demeanors are not offended. Now
-
-
-    then, on with the entertainment.
-
- (Exit Prologue)
-
- Lheban:     ... and all that ...
-
- Raic:       But it helps in our ... holy work, if             we
-are perceived as separate and, uh,
-
-
-    competitive...
-
- Lheban:     Mind you, there are one or two, er ...            
-religious organizations ... well, sort
-
-
-    of ... that we do not have anything to
-
-
-    do with ...
-
- Raic:       Nothing at all, nothing at all ...            
-animals, just animals ...
-
- Adventurer: Such as ..?
-
- Lheban:     Weeell -- the Dark Brotherhood for one             ...
-nasty bunch of thugs ... and then
-
-
-    there's the Afterdark Society ...             (aside to
+está la Sociedad Afterdark ... (aparte a
 Raic)
 
+Este tipo parece un buen sujeto ...
+parece saber algo sobre
 
-    This fellow, seems a decent sort of             chap ...
-seems to know something about             Mages and Fools'
-Ebony ...
+Magos y el Ébano del Tonto ...
 
- Raic:       (aside to Lheban)             Really now ... how
-interesting...
+Raic: (aparte a Lheban) De verdad ... qué
+interesante...
 
+(a todos) Oye amigo, toma otra botella --
 
-    (to all)             Hey fellow, have another bottle --
+esto bendecirá tu garganta. Vaya que sí,
 
+de verdad lo hará...
 
-    this will bless you throat. My, my, yes
+Aventurero: Gracias Raic, no me importa en absoluto ...
 
+Lheban: Pero déjenme continuar -- le estaba explicando
+sobre este Ébano del Tonto ...
 
-    indeed it will...
+Raic: Sí, el Ébano del Tonto ...
 
- Adventurer: Thanks Raic, don't mind a bit ...
+Lheban: Bueno. El Ébano del Tonto ahora. Bueno, usted sabe
+sobre el Ébano ordinario, cómo es raro,
 
- Lheban:     But let me continue -- I was explaining            
-about this Fools' Ebony to you ...
+solo algunos clanes enanos lo extraen y
 
- Raic:       Yes, Fools' Ebony ...
+venden. Y no demasiados en estos días y
 
- Lheban:     Well. Fools' Ebony now. Well, you know            
-about ordinary Ebony, how it's rare,
+tiempos ...
 
+Stete: ¿Cómo va esa canción popular ..? (cantando)
 
-    only some dwarven clans dig it and sell
+¿A dónde han ido todos los viejos Enanos?
 
+Hace mucho tiempo ...
 
-    it. And not too many, these days and
+(Lheban le lanza el Posadero a Stete) (Raic rompe una silla contra el Posadero
+y Stete) (El Posadero pierde el conocimiento)
 
+Lheban: Hay un montón de ébano real en las montañas
+Wrothgarian en algún lugar al norte, según oigo
 
-    times ... 
+decir. Ya sabe cómo ese ébano negro mate
 
- Stete:      How's that popular song go ..?             (singing)
+es trabajado por los Magos, por algunos
 
+armeros expertos, convertido en todo tipo
 
-    Where have all the Old Dwarves gone,
+de armas potentes, amuletos, cinturones
 
+y demás. Todo alcanza un precio enorme
 
-    Long time ago ...
+cuando se puede encontrar algo. Y cómo
 
- (Lheben throws Innkeep at Stete) (Raic breaks chair on Innkeep
-and Stete) (Innkeep loses consciousness)
+lo mejor se hizo hace mucho tiempo, por
 
- Lheban:     There's a pile of real ebony up in the            
-Wrothgarians somewhere north, I hear
+esos viejos enanos ...
 
+(Stete se pone en pie) (Lheban patea a Stete de nuevo al suelo) (El Aventurero se afloja
+la túnica)
 
-    tell. You know how that dullish black
+Lheban: ¡Oh, cielos! ¡Oh, mis disculpas, amigo, señor!
+Veo que tiene -- ¿qué es eso? ¡¿Un
 
+torque de ébano?! ¡Oh, cielos, y una katana de ébano!
 
-    ebony gets worked over by Mages, by
+¡Vaya, vaya! Así que, por supuesto, usted
 
+ya sabe todo eso, señor.
 
-    some skilled armorers, made into all
+Aventurero: Oh, está bien, no lo sabía.
+Tenga, tome otra botella ...
 
+Lheban: Muchas gracias, amable señor. Bueno, entonces usted
+sabe cómo cada aventurero, incluso los niños
 
-    kinds of potent weapons, amulets,
+mocosos, todos los exploradores de mazmorras,
 
+siempre están buscando artefactos de ébano,
 
-    belts, what have you. All fetch a huge
+armas y demás. Pero lo que tal vez no sepa
 
+es que algunos de los exploradores más
 
-    price, when you can find any. And how
+experimentados cazan vetas de ébano en bruto,
 
+montones, restos enanos. Ese material, el
 
-    the best was made long ago, by those
+ébano en bruto, es mucho más valioso. Aventurero: ¿El material bruto sin forma que
+proporciona trabajo ... y poder ... para tan pocos?
 
+¿Aparentemente cargado de magicka negativa?
 
-    old dwarves ...
+Raic: ¡Exacto, exacto!
 
- (Stete rises to his feet) (Lheban kicks Stete back down) (The Adventurer loosens
-his tunic)
+Lheban: ¡Sí, así es! ¡Tal cual! Bueno, el Ébano del
+Tonto ahora. Se ve casi igual que el material
 
- Lheban:     Oh my! Oh, my apologies, friend, Sir!             I
-see you have -- what's that? An
+real en bruto. Corre en vetas en las rocas
 
+profundas. Se siente igual, huele casi
 
-    ebony torc? Oh my, and an ebony katana!
+igual. Pero la gran diferencia: no es
 
+ébano real. No tiene poder alguno. Si
 
-    Oh My! Oh My, My! So, of course, you
+recoges un poco, te ensucia un poco las
 
+manos. También es más blando, según dicen.
 
-    know all that, sir.
+Pero también algo brillante. Pero ¿quién
 
- Adventurer: Oh, that's all right, you didn't know.            
-Here, have another bottle ...
+puede distinguir todo eso en lo profundo
 
- Lheban:     Many thanks, kind Sir.  Well, then you             know
-how every adventurer, even snotty
+de una vieja mina, quizá con un ghoul
 
+respirándote en el cuello? Así que es solo
 
-    kids, all the dungeon-delvers, are
+agarrar y correr, supongo, en esos
 
+agujeros asquerosos. Así que los tontos,
 
-    always looking for ebony artifacts,
+los niños, los exploradores locos, siempre
 
+están subiendo una bolsa, un saco, de
 
-    weapons, whatnot.             But what you may not know,
-some of the
+Ébano del Tonto. Y se ríen de ellos los
 
+mercaderes, tratantes, magos, nosotros ... de
 
-    more experienced delvers hunt for raw
+ahí lo de Tonto. El material simplemente se
 
+tira a la Bahía ...
 
-    ebony lodes, piles, dwarven leavings.             That
-stuff, the raw ebony, is far more
+Aventurero: Sí, eso es más o menos lo que ... er
+... escuché de algunos Magos. Pero escuché
 
+algo más, también ...
 
-    valuable.    Adventurer: The raw unshaped material that
-provides             work ... and power ... for so few?
+Lheban: ¿Y qué fue eso exactamente, amigo ... si
+quiere contárnoslo, por supuesto ... señor?
 
+Aventurero: ¡Oh, por supuesto! Creo que podemos llegar
+a ... er ... un acuerdo? Lheban y Raic (Juntos): ¡Ciertamente, oh sí!
 
-    Apparently just loaded with negative
+Aventurero: Así que, sí, estos magos -- Shub y Shub,
+siempre se llaman Shub, ¿no es así?
 
+-- de todos modos, estos viejos decían que
 
-    magicka?
+este Ébano del Tonto puede arder. No mágicamente,
 
- Raic:       Right, right! 
+sino como un trozo de madera ordinario. Pero
 
- Lheban:     Yes, right so! Quite so! Well, Fools'            
-Ebony now. Looks just about like the
+la llama dura mucho más tiempo, emite mucho
 
+más calor, casi no produce humo, ni
 
-    real raw stuff. Runs in veins in the
+ruido ... muy interesante ... Los Magos
 
+decían que los alquimistas lo quieren para
 
-    deep rocks.  Feels the same, smells
+calentar las retortas y frascos ... que el
 
+Gremio de Magos lo quiere para fabricar y
 
-    almost the same.  But the big
+vender ... er ... amuletos falsos y demás ...
 
+¡qué truco más ruin! Y especialmente los
 
-    difference: it's not real ebony. No
+Armeros, lo quieren desesperadamente para
 
+sus forjas, supongo. Y los Alquimistas, para
 
-    power at all. If you pick some up, it
+sus alambiques ...
 
+Lheban: ¡Precisamente mi información! Ahora... hace frío
+aquí arriba en el invierno, ¿verdad? Y
 
-    gets you hands a bit dirty. Softer
+todo el mundo está talando todos esos árboles,
 
+construyendo máquinas de asedio, barcos, ¡toda
 
-    too, by all accounts. But sort of
+esa malvada maquinaria de guerra! Toda esa
 
+realeza rica y los mercaderes tienen que
 
-    shiny too. But who can tell all that,
+calentar sus enormes montones de casas. Para
 
+que sus Condesas puedan corretear casi sin
 
-    deep in some old mine, maybe a ghoul
+nada encima, en lugar de usar pieles...
 
+Stete: ... justo como mi hermana ...
 
-    breathing down your neck! So it's just
+(Lheban muerde el brazo de Stete) (Stete grita y cae
+inconsciente)
 
+Aventurero: Todos esos armeros tienen que mantener sus
+hogares y hornos funcionando...
 
-    grab and run, I guess, down in those
+Lheban: ... Todos los Magos tienen que mantener a sus
+familiares calientes ...
 
+Raic: ... Toda esa realeza tiene que mantener a las
+condesas correteando ...
 
-    nasty holes. So the fools, the kids,
+Lheban: ... Todos esos campesinos tienen que mantener a sus
+animales calientes ...
 
+Aventurero: Y al cuerno con la esposa y los niños,
+¿verdad? ¡Ja! Y, supongo, es algo difícil
 
-    the crazy delvers, are always hauling             up a
-bag, a sack, of Fools' Ebony.
+para ustedes, los Sacerdotes, dar bendiciones
 
+y curas cuando tienen los dedos todos fríos y
 
-    And getting laughed at by the merchants,
+rígidos ..? ¿Hace que quitar los corchos sea
 
+un pelín difícil, por no decir nada de abrir
 
-    dealers, mages, us ... hence the Fools'             part.
-Stuff just gets thrown into the
+esos pequeños rollos de pergamino ..?
 
+Raic: ¡Dices la verdad, ciertamente!
 
-    Bay ...
+Lheban: ¡Un hombre sabio, ciertamente! ¡Sí!
 
- Adventurer: Yeah, that's sort of what I ... er             ...
-heard from some Mages. But I
+Aventurero: Entonces, ¿dónde encontramos este Ébano
+del Tonto -- en cantidad?
 
+Lheban: Ha puesto el dedo (tiene seis, noto
+-- oh, discúlpeme, señor) en el quid de la
 
-    heard something else, too ...
+cuestión. He oído rumores, solo rumores,
 
- Lheban:     And just what was that, friend ... if             you
-want to tell us, of course ... Sir.
+fíjese bien, de que hay vetas enormes y
 
- Adventurer: Oh, of course! I think that we can come            
-to ... er ... an arrangement?   Lheban and Raic (Together): Certainly, Oh Yes!
+gigantescas de este material, en un lugar de
 
- Adventurer: So, yeah, so these mages -- Shub and Shub,           
- they are always called Shub, aren't they?
+la superficie, muy arriba en las Wrothgarian.
 
+Un lugar muy, muy malo para ir. Pero, si puede
 
-    -- anyway, these old guys were saying how
+ir y volver, ¡traerá carros llenos del material!
 
+Aventurero: Eso es justo lo que escuché de esos
+Magos -- allá arriba en las Wrothgarian
 
-    this Fools' Ebony can burn. Not magically,
+-- orcos, dragonlings, daedra, solo Sheogorath
 
+sabe qué ... Esos Magos parecían conocer el
 
-    but like an ordinary piece of wood. But
+lugar, sin embargo. Los Magos querían que
 
+alguien ...
 
-    the flame lasts far longer, gives off
+Raic: Usted no ... habló ... con los Magos. Quiero
+decir, usted no ha ...
 
+Aventurero: Oh no. Ni siquiera sabían que yo estaba
+allí ...
 
-    lots more heat, makes no smoke to speak
+(aparte) No todavía, al menos...
 
+Lheban: Bien, bien - no se puede confiar en esos Magos,
+ya sabe ... ¡viejos fósiles que convertirían a
 
-    of, no noise ... very interesting ...
+sus propias madres en sapos de lodo solo por
 
+un poco de oro! ¡Locos por el oro, locos por el
 
-    Mages were saying as how the alchemists
+poder, locos de remate, toda esa ralea podrida!
 
+¡Pero claro, si ellos no tienen madres!
 
-    want it, to heat the retorts and flasks
+Raic: Excelente. Me parece, amigo -- o, ¿podemos
+llamarle socio? ¿Sí? Excelente. Me parece,
 
+socio, que mis hermanos sacerdotes y usted
 
-    ... How the Mages Guild wants it, to make
+deberían excavar y curiosear un poco -- ver
 
+si podemos llegar a esas vetas, a esos
 
-    and sell ... er ... fake amulets and the
+depósitos, ¡eh!
 
+Aventurero: ¡Sí, ciertamente, socios! Pero costaría
+una buena montaña de oro llegar hasta allí --
 
-    like ... rotten trick that! And especially
+armas, hechizos, mujeres, ropa, carros
 
+y caballos, mujeres, comida, pociones ...
 
-    the Armorers, they want it bad, for their
+Mejor ir bien preparado allá arriba.
 
+Lheban: No hay problema, socio. Nuestros Templos tienen ...
+ciertos recursos, tales que si se nos
 
-    forges, I guess. And the Alchemists, for
+garantizara ... acceso exclusivo, conocimiento único
 
+de la ubicación, entonces podríamos financiar
 
-    their alembics ...
+a alguien ... ¿alguien con las habilidades
 
- Lheban:     Precisely my information! Now... gets cold        
-    up here in the winter, doesn't it?  And
+necesarias, como usted mismo? Casualmente,
 
+soy el Guardián de los Libros ...
 
-    everyone is cutting down all those trees,            
-making siege engines, boats, all that evil
+¿ve la oportunidad?
 
+Aventurero: ¡Oh, sí! ¡Oh, sí! Bueno -- ¿compartamos una
+última botella y sellemos el acuerdo?
 
-    war machinery! All those rich royals and
+Lheban: ¡Claro que sí! Primero necesitamos información
+-- quién conoce el sitio allá arriba,
 
+dónde está, cómo llegar ... ¿Por qué no nos
 
-    merchants got to heat their great big piles
+reunimos aquí de nuevo en, digamos, una
 
+semana, a la misma hora? ¿Y vemos qué podemos
 
-    of homes. So their Contessas can run around
+aprender mientras tanto?
 
+Raic: Necesitamos encontrar a un mercader, también. Alguien
+que pueda manejarlo por nosotros ... almacenes,
 
-    in next to nothing, instead of furs...
+distribución ...
 
- Stete:      ... just like my sister ...
+Lheban: ¡Y que mantenga la boca cerrada!
 
- (Lheben bites Stete's arm) (Stete shreiks and falls
-unconscious)
+Aventurero: Haré algunas indagaciones sobre mercaderes
+... tengo un contacto o dos ... El problema es
 
- Adventurer: All those armorers got to keep their            
-hearths and furnaces running...
+-- bueno, ya saben cómo van estas cosas --
 
- Lheban:     ... All the Mages got to keep their            
-familiars warm ...
+unos oros aquí, otros allá, y antes de que te
 
- Raic:       ... All those royals got to keep the            
-contessas running ...
+des cuenta has sobornado a medio pueblo, o eso
 
- Lheban:     ... All those peasants got to keep their            
-animals warm ...
+parece. Ahora, por suerte, no tengo mucho --
 
- Adventurer: And To Sheogorath with the wife and kids,            
-right? Ha! And, I guess, its sort of hard
+fui estafado por un miserable Mago en algún
 
+pueblo al sur de aquí, y perdí la mayoría de
 
-    for you Priests to give blessings and
+mis pertenencias en un naufragio ...
 
+Lheban: ¡Ah, sí! Necesita algo de ... capital inicial,
+por así decirlo.
 
-    cures, when your fingers are all cold and
+Raic:
+    (A Lheban) Déjame quitarle la bolsa al viejo Stete,
+ganó mucho
 
+alquilando a su hermana la semana pasada ...
 
-    stiff ..? Makes getting corks out a tad
+Lheban: Gracias, Raic. Tenga, unas 100 piezas de oro
+-- ¿suficiente? Aventurero: Oh sí, más que suficiente para empezar,
+Caballeros. Bien, bien, bien ... ¿entonces
 
+tenemos un trato?
 
-    hard, to say nothing of opening those
+Aventurero: ¡Sí! Trato hecho. ¡En una semana!
 
+(Salen Lheban y Raic arrastrando a Stete) (Sale el Aventurero)
+(Entra el Epílogo)
 
-    little twists of parchment ..?
+Epílogo: Ah, las cosas están sucediendo ahora, no lo dudo.
+Patrocinadores, les pido que recuerden
 
- Raic:       You speak truly, indeed!
+que esta es una obra de ficción creada
 
- Lheban:     A man of wisdom, indeed! Yes!
+por uno de los mejores escritores del
 
- Adventurer: So, where do we find this Fools' Ebony             --
-in quantity?
+manicomio, Frincheps, Archipríncipe de todo
 
- Lheban:     You put your finger (you have six, I note            
--- oh, excuse me, Sir) on the crux of the
+Sumurset. No existe tal cosa como el Ébano
 
+del Tonto. Además, el Ébano no se extrae
 
-    matter. I have heard rumors, just rumors,
+como los sacerdotes han descrito el proceso.
 
+Entiendan eso, por favor. Si aún pueden
 
-    mind you, that there are huge enormous
+disfrutar de la obra como una tosca obra de
 
+ficción, quédense con nosotros para la
 
-    veins of this stuff, at one place on the
+Tercera Parte. Si no pueden, adiós. Y
 
+no olviden dejar propina a las mozas.
 
-    surface, far up in the Wrothgarians.              Bad, bad
-place to go. But, if you can get
+Y así termina la Segunda Parte
 
-
-    there and back, cartloads of the stuff!
-
- Adventurer: Thats just what I overheard from those            
-Mages -- far up there in the Wrothgarians
-
-
-    -- orcs, dragonlings, daedra, Sheogorath
-
-
-    only knows what ... Those Mages seemed to
-
-
-    know the spot, though.  Mages wanted
-
-
-    someone to ...
-
- Raic:       You didn't ... talk ... to the Mages. I            
-mean, you haven't ...
-
- Adventurer: Oh no. They didn't even know I was             there
-...
-
-
-    (aside)             Not yet, anyway...
-
- Lheban:     Good, good - can't trust those Mages,             you
-know ... old fossils would turn
-
-
-    their own mothers into sludge-toads, just
-
-
-    for a bit of gold! Gold-mad, power-mad,
-
-
-    Mad-mad, the whole rotten lot of them!
-
-
-    But then they don't have mothers! 
-
- Raic:       Excellent. Seems to me, friend -- or, can            
-we call you partner?               Yes? Excellent. Seems to
-me, partner,
-
-
-    that my brother priests and you should
-
-
-    do some digging and poking around -- see
-
-
-    if we can get to those veins, those
-
-
-    deposits, eh!
-
- Adventurer: Yes indeed, partners! But it would cost           
- a fair pile of gold to get up there --
-
-
-    weapons, spells, women, clothing, carts
-
-
-    and horses, women, food, potions ...             Best go
-well-prepared, up there.
-
- Lheban:     No problem, partner. Our Temples have ...         
-   certain resources, such that if we were
-
-
-    guaranteed ... sole access, sole knowledge             of
-the location, then we could finance
-
-
-    someone ... someone with the requisite
-
-
-    skills, such as yourself? Just by             happenstance,
-I am Keeper of the Books ...
-
-
-    you see the opportunity?
-
- Adventurer: Oh yes! Oh yes! Well -- lets split a             last
-bottle, and shake on an agreement?
-
- Lheban:     Indeed, let us!  We first need information           
- -- who knows about the site up there,
-
-
-    where it is, how to reach it ...             Why don't we meet
-back here in, say, a
-
-
-    week, to the hour. And see what we can
-
-
-    learn, meanwhile?
-
- Raic:       We need to find a merchant, too. Someone            
-who can handle it for us ... warehouses,
-
-
-    distribution ...
-
- Lheban:     And keep a shut mouth!
-
- Adventurer: I'll make some inquiries about merchants            
-... got a contact or two ... Trouble is
-
-
-    -- well, you know how these things go --
-
-
-    few golds here, few there, before you know             it
-you've bribed half the town, or so it
-
-
-    seems. Now, as luck would have it, I don't
-
-
-    have much -- got swindled by a wretched
-
-
-    Mage, some town south of here, and lost
-
-
-    most of my belongings in a shipwreck ...
-
- Lheban:     Ah Yes!  You need some ... seed money as             it
-were.
-
- Raic:
-    (To Lheban)             Let me lift old Stete's
-purse, he made a
-
-
-    lot renting out his sister last week ...
-
- Lheban:     Thank you, Raic.  Here, about 100 gold             --
-enough ?   Adventurer: Oh yes, more than enough for a start,    
-        Gentlemen. Good, good, good ... so we
-
-
-    have a deal?
-
- Adventurer: Yes! It's agreed. One week!
-
- (Exit Lheban, Raic dragging Stete) (Exit the Adventurer)
-(Enter Epilogue)
-
- Epilogue:   Ah, things are happening now, I doubt it            
-not. Patrons, I request that you recall
-
-
-    that this is a work of fiction created
-
-
-    by one of the finest writers of the
-
-
-    asylum, Frincheps, Archprince of All
-
-
-    Sumurset. There is no such thing as
-
-
-    Fools' Ebony. Furthermore, Ebony is not
-
-
-    mined as the priests have described the
-
-
-    process. Grasp that please. If you can
-
-
-    still enjoy the play as a rude work of
-
-
-    fiction, stay with us for Part the
-
-
-    Threeth. If you can't, farewell. And
-
-
-    don't forget to tip the wenches.
-
- And so endeth Part the Twoth
-
-                      ------------------------------- 
+-------------------------------

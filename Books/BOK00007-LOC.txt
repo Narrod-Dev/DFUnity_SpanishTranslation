@@ -1,4 +1,4 @@
-Title: Oelander's Hammer
+Title: El Martillo de Oelander
 Author: Krowle
 IsNaughty: False
 Price: 424
@@ -9,139 +9,139 @@ Content:
 
 [/font=2]
 
-[/center]Oelander's Hammer:
+[/center]El Martillo de Oelander:
 
 [/center]
 
-[/center]An Instructive Tale
+[/center]Un Cuento Instructivo
 
-[/center]For Children
+[/center]Para Niños
 
 
 
 [/font=4]
 
+ Los dos niños, Froedwig y su hermana menor Silvanda, habían
+estado explorando toda la mañana. El sol del mediodía estaba
+directamente sobre sus cabezas y todo era cálido y brillante.
+Habían dejado su aldea Guarda Roja, Granitsta, temprano esa
+mañana para pasar un día en la naturaleza, de picnic, y con
+una severa advertencia de su padre de estar en casa antes de
+que oscureciera. Cruzaron un enorme campo que estaba vacío
+salvo por un solo rosal justo en el medio.
 
+ La niña pequeña le preguntó a Froedwig sobre ello.
 
- The two children, Froedwig and his younger sister
-Silvanda, had been exploring all morning. The noon sun was
-directly overhead and everything was warm and bright. The
-had left their Redguard village, Granitsta, early that
-morning for a day in the wildnerness, a picnic, and with a
-stern warning from their father to be home before dark. They
-crossed a huge field that was bare save a single rose bush
-right in the middle.
+ "Bueno", dijo él, "según mi padre, en este lugar se libró una
+gran batalla hace muchos años. La batalla fue visitada por el
+Dios de todos los guerreros, Reymon Ebonarm, quien hizo que los
+líderes terminaran la batalla y regresaran a sus hogares. Se
+dice que el rosal crece donde él estuvo parado ese día".
 
- The little girl asked Froedwig about it.
+ "Oh, qué emocionante", rio Silvanda.
 
- "Well," he said, "according to father a great battle was
-fought in this place many years ago. The battle was visited
-by the God of all warriors, Reymon Ebonarm, who caused the
-leaders to end the battle and return to their homes. It is
-said that the rose bush grows where he stood that day."
+ Los niños continuaron su caminata acercándose a unos bosques.
+Al entrar en el bosque, el aire se volvió muy fresco y una
+profunda quietud pareció envolverlos.
 
- "Oh, how exciting," giggled Silvanda.
+ "¿Qué es eso?"
 
- The children continued their trek approaching some woods. As
-they entered the forest the air became very cool and a deep
-quiet seemed to envelope them. 
+ Silvanda señaló un gran agujero en el suelo del que sobresalía
+un poste largo y grueso. Alrededor del agujero, plantas
+espinosas habían crecido formando un muro impenetrable.
 
- "What is that?"
+ "No lo sé", dijo Froedwig, "pero veamos si podemos echar un
+vistazo más de cerca".
 
- Silvanda pointed to a large hole in the ground from which
-protruded a long, thick pole. Around the hole thorny
-plants had grown into an impenetrable wall.
+ "¡Deteneos!"
 
- "I don't know," said Froedwig, "but let's see if we can get
-a closer look."
+ Lo hicieron.
 
- "Stop!"
+ Mirando más allá del agujero, los niños vieron a un anciano
+Guarda Roja de muchos años. Su barba gris, su cabello desgreñado
+y sus hombros encorvados ciertamente no respaldaban la orden
+autoritaria que dio. Pero los niños se detuvieron de igual
+manera mientras él se acercaba.
 
- They did.
+ "¿Quién es usted?", tartamudeó Froedwig mientras Silvanda se
+escondía cuidadosamente detrás de la espalda de su hermano.
 
- Looking beyond the hole, the children saw an elderly
-Redguard of many years. His gray beard, scraggly hair and
-stooped shoulders certainly did not support the
-authoritarian command he gave. But the children stopped
-just the same as he approached.
+ "Mi nombre es Hoennig Groevinger, y vivo en estos bosques".
 
- "Who are you?" stammered Froedwig as Silvanda carefully
-tucked herself behind her brother's back.
+ "¿Por qué no podemos examinar aquel agujero, Maestro
+Groevinger?", preguntó Froedwig.
 
- "My name is Hoennig Groevinger, and I live in these woods."
+ "Porque, mis queridos niños, él y lo que contiene están
+malditos. Ahora, ¿qu-qu-qu-iénes sois vosotros?", tartamudeó
+él, imitando a Froedwig.
 
- "Why can't we examine yon hole, Master Groevinger?" asked
-Froedwig.
+ Finalmente recuperando la compostura, Froedwig dijo: "Soy
+Froedwig-aj-Murr de la aldea Granitsta. Esta es mi hermana
+Silvanda. Estamos de excursión. ¿Puede hablarnos de este
+misterioso agujero?".
 
- "Because, my dear children, it and what it holds are
-cursed. Now just wh-h-h-o are you?" he stuttered, mimicing
-Froedwig.
+ "Bueno", dijo el anciano mientras se sentaba lentamente en el
+suelo, "¿por qué no os sentáis aquí conmigo un rato y os hablaré
+del Martillo de Oelander? Ese es el mango del arma legendaria
+que sobresale de aquel abismo".
 
- Finally gaining his composure, Froedwig said, "I am
-Froedwig-aj- Murr of the village Granitsta. This is my sister
-Silvanda. We are on an outing. Can you tell us about this
-mysterious hole?"
+ Con esto, los niños también se sentaron frente al viejo
+rastreador Guarda Roja.
 
- "Well," said the old man as he slowly settled to the
-ground, "Why don't you sit here with me for a while and I
-will tell you about Oelander's Hammer. That's the handle of
-the fabled weapon sticking out from yonder chasm."
+ Groevinger comenzó: "Hace muchos años se libró una gran
+batalla en este mismo campo...".
 
- With this the children also settled into sitting positions
-in front of the old Redguard ranger.
+ "Oh, sí, lo sé", dijo Silvanda, interrumpiendo al anciano.
+"Fue terminada por el Dios Guerrero Reymon Ebonarm, y el rosal
+mágico crece donde él estuvo parado ese día...", continuó ella
+sin aliento.
 
- Groevinger began, "Many year's ago there was a huge battle
-fought in this very field ..."
+ El anciano se aclaró la garganta con severidad, haciendo que
+la niña se encogiera de nuevo detrás de su hermano.
 
- "Oh, yes, I know," said Silvanda, interrupting the old
-man. "It was ended by the Warrior God Reymon Ebonarm, and
-the magic rose bush grows where he stood that day..." she
-continued breathlessly.
+ "Ahora, si puedo continuar sin interrupciones... El día que
+terminó la batalla, un joven soldado Guarda Roja se detuvo en
+este lugar mientras se iba a su casa. Llevaba el equipo que
+había usado en el campo, el cual incluía un martillo de guerra
+maravillosamente fabricado que le había regalado su padre. El
+arma estaba hermosamente hecha y, sin que el joven guerrero
+lo supiera, portaba un encantamiento que lo había protegido
+durante la feroz batalla que acababa de terminar".
 
- The old man sternly cleared his throat causing the little
-girl to again shrink behind her brother.
+ "El joven, llamado Oelander, descansaba junto a este mismo
+árbol. De repente, fue confrontado por un mago vestido todo de
+negro de pies a cabeza. Sin mediar palabra ni saludo, el mago
+exigió que Oelander le entregara su martillo. Aún exaltado por
+la batalla, el joven simplemente miró al hombre oscuro y se
+rio. El mago, temblando de rabia, levantó sus manos para lanzar
+un hechizo horrible contra el soldado. Sin embargo, el joven
+fue más rápido. El enorme martillo de guerra silbó en el aire,
+asestando al mago un golpe mortal justo cuando el hechizo
+salía de sus dedos. Hubo una explosión ruidosa".
 
- "Now, if I may continue without interruption... On the day
-that battle ended, a young Redguard soldier stopped in this
-spot as he was leaving to go to his home. He carried the
-equipment he had used on the field which included a
-marvelously fashioned war hammer that had been given to him
-by his father. The weapon  was beautifully made and unknown
-to the young warrior carried an enchantment that had
-protected him through the vicious battle just ended."
+ Los niños miraron fijamente al anciano. Él reprimió una
+sonrisa y continuó.
 
- "The young man, Oelander by name, rested by this very tree.
-Suddenly he was confronted by a wizard dressed all in black
-from head to toe. Without so much as a how-do-you-do, the
-wizard demanded that Oelander give him his hammer. Still
-flushed from the battle, the young man just looked at the dark
-man and  laughed. The wizard shaking with rage raised his hands
-to cast a horrible spell against the soldier. However, the
-young man was quicker. The huge war hammer whistled through
-the air smiting the wizard a mortal blow just as the spell
-left his fingers. There was a loud explosion."
+ "Nubes de polvo y humo cubrieron el claro del bosque, y cuando
+el aire se asentó, aquel agujero estaba allí con el mango del
+martillo sobresaliendo de él. ¡Oelander y el mago habían
+desaparecido! Las enredaderas espinosas que veis crecieron
+inmediatamente alrededor del agujero, y hasta el día de hoy
+nadie ha podido acercarse lo suficiente como para retirar esa
+maravillosa arma. Muchos lo han intentado y todos han fallado.
+Se dice que solo alguien de tremendo mérito podrá tomarla".
 
- The children stared at the old man. He surpressed a grin and
-continued.
+ De repente, ambos niños se pusieron de pie al unísono y
+gritaron: "¡Oh, mira cómo ha pasado el día! Debemos irnos. Si
+llegamos tarde a casa, nuestro padre estará muy descontento con
+nosotros".
 
- "Clouds of dusk and smoke covered the forest clearing, and
-when the air settled, yon hole was there with the hammer's
-handle protruding from it. Oelander and the wizard had
-vanished! The thorny vines you see grew up immediately
-around the hole, and to this day no one has been able to
-approach it close enough to remove that marvelous weapon.
-Many have tried and all have failed. It is said that only
-someone of tremendous merit can take it."
+ Mientras se daban la vuelta para irse, Froedwig le dijo al
+anciano: "Gracias, Maestro Groevinger, por hablarnos del
+Martillo de Oelander. ¡Sabe, puede que algún día regrese e
+intente recuperarlo!".
 
- All of a sudden, both children in unison stood and shouted,
-"Oh, look how the day has gone. We must go. If we are late
-getting home, our father will be most unhappy with us."
+ Mientras desaparecían de su vista, el anciano se dijo a sí
+mismo: "Ah, sí, Maestro Froedwig-aj-Murr, es muy posible que
+lo hagas".
 
- As they turned to leave, Froedwig said to the old man,
-"Thank you, Master Groevinger, for telling us of
-Oelander's Hammer. You know, I may just come back one day and
-try to retrieve it!"
-
- As they disappeared from his view, the old man said to
-himself, "Ah, yes, Master Froedrig aj-Murr, you just  might
-do that."  

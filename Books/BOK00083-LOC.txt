@@ -1,120 +1,111 @@
-Title: The War of Betony
+Title: La Guerra de Betony
 Author: Fav'te
 IsNaughty: False
 Price: 580
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]The War of
+[/center]La Guerra de
 
 [/center]Betony
-
-
 
 [/font=4]
 
 [/center]
 
-    Could there be a better proof of the natural perversity
-of Bretons than their conduct before, during, and after what
-history will remember as the War of Betony? By the most
-depraved of motivations, the most despicable of tactics,
-and the most ungentlemanly of triumphs, the kingdom of
-Daggerfall changed the nature of warfare in the Iliac Bay
-and perhaps over all of Tamriel. In Sentinel, we call the
-recent carnage the Siege of Betony, but as the book of history
-is writ by the victors, let us speak instead of the War of
+¿Podría haber una prueba mejor de la perversidad natural
+de los Bretones que su conducta antes, durante y después de lo
+que la historia recordará como la Guerra de Betony? Mediante las
+motivaciones más depravadas, las tácticas más despreciables
+y los triunfos más indignos, el reino de
+Daggerfall cambió la naturaleza de la guerra en la Bahía de Ilíaca
+y quizás en todo Tamriel. En Sentinel, llamamos a la
+reciente carnicería el Asedio de Betony, pero como el libro de la historia
+es escrito por los vencedores, hablemos en su lugar de la Guerra de
 Betony.
 
-    Redguards by their nature are a modest and practical
-people. We are not phlegmatic like the High Elves, nor
-cowardly like the Wood Elves and Khajiiti. But what would
-infuriate and enrage the swaggering, vainglorious Nords and
-Bretons would not merit a shrug from a Redguard. Had any
-Breton kingdom possessed the little island of Betony, it
-would have been covetously guarded. Betony's trade would
-have been seriously restricted; its religion subjugated; its
-people bound by active and constant pledges and duties of
-vassalage. But Betony was not a Breton dominion. Betony was
-part of the Kingdom of Sentinel.
+Los Guardias Rojos somos, por naturaleza, un pueblo modesto y
+práctico. No somos flemáticos como los Altos Elfos, ni
+cobardes como los Elfos del Bosque y los Khajiitas. Pero lo que
+enfurecería y encolerizaría a los fanfarrones y vanagloriosos Nórdicos y
+Bretones no merecería ni un encogimiento de hombros de un Guardia Rojo.
+Si cualquier reino Bretón hubiera poseído la pequeña isla de Betony,
+habría sido custodiada con codicia. El comercio de Betony habría
+sido seriamente restringido; su religión subyugada; su
+gente obligada por activos y constantes juramentos y deberes de
+vasallaje. Pero Betony no era un dominio Bretón. Betony era
+parte del Reino de Sentinel.
 
-    King Lysandus -- may the Old Ones continue to torment his
-soul for his wickedness! -- saw the prosperous island which is
-closer to his land than to Sentinel, and his black heart
-turned to avarice. Through threats, lies, acts of piracy
-and, finally, invasion, Daggerfall illegally took
-possession of the Island of Betony. His court sorceress, the
-Lady Medora, his enchantress mother, and other experienced
-counselors were horrified by the brutality of his campaign
-and begged him to abandon his tyrannical act of war.
-Gradually, all dissentors were removed from court. None
-but the ignorant and the warmongers remained.
+El Rey Lysandus -- ¡que los Antiguos continúen atormentando su
+alma por su maldad! -- vio la próspera isla, que está
+más cerca de su tierra que de Sentinel, y su corazón negro
+se tornó hacia la avaricia. A través de amenazas, mentiras, actos de piratería
+y, finalmente, una invasión, Daggerfall tomó ilegalmente
+posesión de la Isla de Betony. Su hechicera de la corte,
+Lady Medora, su madre encantadora y otros experimentados
+consejeros quedaron horrorizados por la brutalidad de su campaña
+y le suplicaron que abandonara su tiránico acto de guerra.
+Gradualmente, todos los disidentes fueron retirados de la corte. No
+quedaron más que los ignorantes y los belicistas.
 
-    Our late king Camaron tried to employ civil diplomacy
-with Daggerfall, but in the end, he made the former
-declaration of war. Daggerfall and Sentinel have fought
-many times in their two thousand years of coexistance, and
-Camaron knew the black magic and espionage the Bretons
-considered honest warfare. Never debasing the Sentinel
-character by duplicating the Breton villainy, Camaron
-knew best how to combat Lysandus. King Lysandus' knavish
-battle tactics were even more perfidious than his ancestors',
-and the war continue to rage until it began to involve more
-than Sentinel and Daggerfall.
+Nuestro difunto rey Camaron intentó emplear la diplomacia civil
+con Daggerfall, pero al final, realizó la declaración formal
+de guerra. Daggerfall y Sentinel han luchado
+muchas veces en sus dos mil años de coexistencia, y
+Camaron conocía la magia negra y el espionaje que los Bretones
+consideraban una guerra honesta. Sin degradar nunca el carácter de
+Sentinel duplicando la villanía bretona, Camaron
+sabía mejor que nadie cómo combatir a Lysandus. Las canallescas
+tácticas de batalla del Rey Lysandus fueron incluso más pérfidas que las de sus antepasados,
+y la guerra continuó arreciando hasta que comenzó a involucrar a más
+que a Sentinel y Daggerfall.
 
-    Lord Graddock, ruler of Reich Gradkeep, acted as
-concilator between Sentinel and Daggerfall, and
-eventually convinced both monarchs to meet and make peace.
-The ill-fated Treaty of Gradkeep began civilly; the terms
-of peace were discussed, agreed on, and set to paper. The
-terms were excessively generous. Camaron had agreed to give
-up some of his rights to Betony in order to placate the
-madness of Lysandus and bring peace back to the Iliac Bay.
-It was not until King Camaron read the Treaty he was about
-to sign that he realized the outrageous perfidy of the
-Bretons: the Treaty had actually been purposefully
-miswritten by the Daggerfall scribe in a desparate and
-ignominious attempt to trick Camaron into signing a
-contract different from the one to which he had agreed. The
-castle of Reich Gradkeep erupted into bloodbath, and the war
-continued.
+Lord Graddock, gobernante de Reich Gradkeep, actuó como
+conciliador entre Sentinel y Daggerfall, y
+finalmente convenció a ambos monarcas de reunirse y hacer las paces.
+El fatídico Tratado de Gradkeep comenzó civilmente; los términos
+de la paz fueron discutidos, acordados y puestos por escrito. Los
+términos eran excesivamente generosos. Camaron había aceptado
+renunciar a algunos de sus derechos sobre Betony para aplacar la
+locura de Lysandus y devolver la paz a la Bahía de Ilíaca.
+No fue hasta que el Rey Camaron leyó el Tratado que estaba a
+punto de firmar cuando se dio cuenta de la indignante perfidia de los
+Bretones: el Tratado había sido, de hecho, escrito incorrectamente a propósito
+por el escriba de Daggerfall en un intento desesperado e
+ignominioso de engañar a Camaron para que firmara un
+contrato diferente al que había aceptado. El
+castillo de Reich Gradkeep estalló en un baño de sangre, y la guerra
+continuó.
 
-     The Battle of Cryngaine Field was the tragic ending of the
-senseless war of attrition. The Cryngaine Field is located
-in between the Yeorth Burrowland and the Ravennian Forest
-where the armies of Sentinel and Daggerfall respectively
-made camp after the massacre at Reich Gradkeep. As the
-battle began, Daggerfall proved that she had some foul
-daedric magical tricks left by blinding the Redguard army
-with a wall of mist. Lysandus did not have the opportunity
-to gloat over his cozenage for long, for the sure arm of a Sentinel archer struck him in the throat even through the
-thick, swirling fog. Lysandus' son, Gothryd, who had spent
-the battle in lugubrious relaxation, was crowned without
-ceremony, and thereupon demanded a duel with King Camaron.
-Camaron was many years Gothryd's senior, and though a
-superior warrior, was exhausted from the endless warfare the
-boy king had been spared. Nevertheless, as a point of honor,
-our king agreed to the duel. The new king of Daggerfall, by
-dirty trick and black magic, managed to backstab our king
-before the duel ever began. Thus, the victor of Cryngaine
-Field, and the War of Betony, was Daggerfall.
+ La Batalla del Campo de Cryngaine fue el trágico final de la
+insensata guerra de desgaste. El Campo de Cryngaine se encuentra
+entre las Tierras de Yeorth y el Bosque de Ravennia, donde los
+ejércitos de Sentinel y Daggerfall respectivamente
+acamparon tras la masacre en Reich Gradkeep. Al
+comenzar la batalla, Daggerfall demostró que aún le quedaban algunos trucos de sucia magia daédrica
+al cegar al ejército de los Guardias Rojos
+con una pared de niebla. Lysandus no tuvo la oportunidad
+de regodearse en su engaño por mucho tiempo, pues el brazo firme de un arquero de Sentinel le alcanzó en la garganta incluso a través de la
+espesa y arremolinada niebla. El hijo de Lysandus, Gothryd, que había pasado
+la batalla en una lúgubre relajación, fue coronado sin
+ceremonia, y acto seguido exigió un duelo con el Rey Camaron.
+Camaron era muchos años mayor que Gothryd, y aunque era un
+guerrero superior, estaba agotado por la guerra interminable de la que
+el rey niño se había librado. No obstante, como cuestión de honor,
+nuestro rey aceptó el duelo. El nuevo rey de Daggerfall, mediante
+trucos sucios y magia negra, logró apuñalar por la espalda a nuestro rey
+antes de que el duelo llegara a comenzar. Así, el vencedor del Campo de Cryngaine,
+y de la Guerra de Betony, fue Daggerfall.
 
-     Daggerfall's wickedness continued even after her
-inglorious victory. While the widow queen of Sentinel, Her
-Majesty Akorithi, mourned and tried to mend her shattered
-lands, Gothryd demanded the Princess of Sentinel as a
-hostage of war. To save her homeland, the Princess Aubk-i
-agreed to leave Sentinel and even marry the murderer of her
-father. But we true Redguards of Sentinel know where her love
-and honor lies. The Queen of Daggerfall is the Princess of
-Sentinel first and foremost. 
-
-
-
-
-
- 
+ La maldad de Daggerfall continuó incluso después de su
+ingloriosa victoria. Mientras la reina viuda de Sentinel, Su
+Majestad Akorithi, guardaba luto e intentaba recomponer sus tierras
+destrozadas, Gothryd exigió a la Princesa de Sentinel como
+rehén de guerra. Para salvar su patria, la Princesa Aubk-i
+aceptó dejar Sentinel e incluso casarse con el asesino de su
+padre. Pero los verdaderos Guardias Rojos de Sentinel sabemos dónde residen su amor
+y su honor. La Reina de Daggerfall es la Princesa de
+Sentinel ante todo.

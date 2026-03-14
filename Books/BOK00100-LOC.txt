@@ -1,266 +1,242 @@
-Title: King Edward, Part I
-Author: Anonymous
+Title: El Rey Edward, Parte I
+Author: Anónimo
 IsNaughty: False
 Price: 300
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]King Edward, Part I
-
-
+[/center]El Rey Edward, Parte I
 
 [/font=4]
 
+[/center]Capítulo uno:
+Partida de Daggerfall
 
+Hace mucho, mucho tiempo, cuando el mundo estaba en su primavera,
+antes de que llegaran los Guardias Rojos y se formara el glorioso
+Imperio Septim, pero después de que los goblins expulsaran a los
+enanos de Páramo del Martillo, nació un hijo, Edward, del Rey
+Corcyr I de Daggerfall y su Reina, Aliera de Wayrest.
 
+El joven muchacho yacía dormitando en el huerto del palacio, en lo
+alto de una colina ventosa que dominaba la bahía azul profundo de
+Daggerfall. La constante niebla otoñal de Daggerfall se había
+disipado por el momento y el cielo era de un azul profundo e
+infinito. Momentos como este eran raros para el joven príncipe
+Edward; esta tarde era el resultado de días de artimañas, pues ansiaba
+la soledad tanto como los otros nobles que conocía ansiaban la
+compañía. Ahora su tutor creía que estaba ocupado en prácticas
+extras de armas, el maestro de armas creía que estaba persiguiendo
+ciervos con el montero mayor, quien a su vez pensaba que estaba
+estudiando élfico. Su padre no tenía idea de dónde estaba y no le
+importaba, estando ocupado con su joven esposa y sus hijos y otros
+placeres de la vida noble...
 
+Ante el golpe de una manzana que por poco no le da en la cabeza,
+abrió sus ojos grises pálidos; había un olor dulce a podrido en su
+nariz. Suspiró y miró fijamente hacia el azul. ¿Por qué las cosas
+debían caer hacia abajo en lugar de hacia arriba? Si mirabas al cielo
+el tiempo suficiente, podías sentir como si estuvieras cayendo en él...
+sus ojos se vidriaron y sus pupilas se agrandaron mientras los iris de
+anillos oscuros se dilataban. Estaba ingrávido, a la deriva... otra
+manzana cayó, rozándole la oreja, y cayó pesadamente a tierra,
+gritando cuando primero golpeó su trasero y luego su cabeza. Sonó
+una risa plateada. Edward se incorporó bruscamente y miró a su
+alrededor, con la mandíbula caída.
 
-[/center]Chapter One:
+Dos hombres montados estaban a tres metros de distancia, quietos como
+si estuvieran tallados en piedra, observándolo intensamente. Los
+príncipes no se intimidan fácilmente, ni siquiera los de alma gentil,
+pero Edward nunca había visto ni imaginado nada como este par.
+Uno tenía piel y ojos dorados, vestía una tela blanca adornada con
+oro y montaba un (Edward parpadeó. Seguía allí) ¡un unicornio!
+Al lado del unicornio había un dragón dorado, con las alas
+pulcramente plegadas. Y sobre su lomo había un hombre vestido con
+malla de cadena oscura, con una espada larga a su lado. Iba con la
+cabeza descubierta; sus ojos brillaban rojos en su rostro oscuro...
+y sus orejas puntiagudas...
+"¡Sois elfos! ¡Qué—!"
 
-Departure from Daggerfall
+"Es un niño astuto". La voz del elfo oscuro era sardónica. Hablaba un
+brético perfecto, notó Edward, con su mente aún funcionando, aunque
+algo parecía haber ido mal con el resto de su cuerpo.
 
- Long, long ago, when the world was in its springtime,
-before the Redguards came and the glorious Septim Empire was
-formed, but after the goblins had driven the dwarves out of
-Hammerfell, a son,  Edward, was born to King Corcyr I of
-Daggerfall and his Queen, Aliera of Wayrest.
+"Eso parece. Hizo eso mayormente por sí mismo. Notable para un niño
+sin entrenamiento. Simplemente lo ayudé a... concentrarse". El alto
+elfo también hablaba brético, pero con vacilación y un ligero acento
+cantado. El tutor de Edward decía que los elfos eran incapaces del
+habla humana.
 
- The young boy lay drowsing in the palace orchard, high on a
-breezy hill overlooking the deep blue bay of Daggerfall.
-The constant autumn fog of Daggerfall had blown away for
-the nonce and the sky was a deep endless blue. Moments like this
-were rare for young Prince Edward; this afternoon was the
-result of days of scheming, for he craved solitude as the
-other nobles he knew craved companionship. Now his tutor
-believed him engaged in extra arms practice, the master of
-arms believed him to be chasing deer with the huntmaster, who
-thought he was studying Elvish. His father had no idea where he
-was and didn't care, being occupied with his young wife and
-their sons and other pleasures of noble life ... 
+La mirada de Edward se desplazaba rápidamente sobre los cuatro seres
+frente a él, incapaz de encontrar un lugar de descanso cómodo. Deseó
+brevemente, fervientemente, estar soñando. Su mente bullía con
+preguntas y demandas, y de repente su lengua se despegó. "¡Pero si no
+me estaba concentrando en absoluto! Todos mis maestros dicen que soy
+incapaz...". Edward apretó las mandíbulas con fuerza, dándose cuenta
+de repente de que podría ser imprudente discutir con seres como estos.
 
- At the plop of an apple barely missing his head, he opened his
-pale grey eyes; there was a sweet rotten smell in his
-nostrils. He sighed and stared up into the blue. Why should
-things fall down instead of up? If you stared at the sky
-long enough you could feel as if you were falling into it
-... his eyes glazed and the pupils grew huge as the dark-ringed
-irises dilated. He was weightless, drifting ... another
-apple fell, grazing his ear, and he thudded to earth, crying
-out as first his rump struck and then his head. A silvery
-laugh sounded. Edward sat up abruptly and stared around,
-jaw hanging slack.
+Pero el elfo dorado sonrió ampliamente, mostrando unos dientes blancos
+perfectos: "Exactamente". Irradiaba una aprobación tan cálida que Edward
+sintió un agradable hormigueo en la piel. Era un sentimiento que solo
+había conocido con su madre, desaparecida hace mucho tiempo. Pero el
+rostro del otro elfo carecía de expresión; los ojos rojos se clavaban en
+Edward como si quisieran atravesar su alma.
 
- Two mounted men stood ten feet away, still as if they were
-carved from stone, regarding him intently. Princes are not
-easily intimidated, not even the gentle souled kind, but
-Edward had never seen or imagined anything like this pair.
-One had golden skin and eyes, was clad in white cloth trimmed
-with gold and rode a (Edward blinked. It is was still there)
-a unicorn! Beside the unicorn was a golden dragon, wings
-neatly folded. And on his back was a man clad in dark chain
-mail, a long sword at his side. He was bareheaded; his eyes
-glowed red in his dark face ... and his pointed ears ...
-"You're elves! What--!"
+"¡Moraelyn! ¡Eres Moraelyn! ¡El rey brujo!". Se puso en pie de un salto
+y se enfrentó al elfo oscuro. "¡Robaste a mi madre! Mi padre te matará".
 
- "He's a clever child." The dark elf's voice was sardonic. He
-spoke perfect Bretic, Edward noticed, his mind still
-working, although something seemed to have gone wrong with the
-rest of him.
+"Lo soy. Lo hice. ¿Lo hará? ¿Lo llamamos y lo averiguamos?". El elfo
+oscuro se enderezó y sus ojos brillaron con más intensidad. Una pequeña
+bocanada de vapor escapó de las fosas nasales del dragón. Una aureola
+resplandeciente apareció alrededor de su compañero. Edward sabía que
+no iba a llamar a la guardia. ¿Por qué deberían ser masacrados? Estos
+dos parecían capaces de... cualquier cosa. De repente, ya no tuvo
+miedo. Si estuvieran aquí para hacerle daño, ya lo habrían hecho. Pero
+permanecía un sentimiento de rabia impotente. Se habían llevado a su
+madre. Y ahora—
 
- "So it would seem. He did that mostly of himself. Remarkable
-for an untrained child. I merely helped him to---
-concentrate." The high elf also spoke Bretic, but hesitantly
-and with a slight singing accent. Edward's tutor said that
-elves were incapable of human speech.
+"¿Por qué estáis aquí?", exigió.
 
- Edward's gaze shifted rapidly over the four beings in front
-of him, unable to find a comfortable resting place. He hoped
-briefly, fervently, that he was dreaming. His mind seethed
-with questions and demands, then quite suddenly his tongue
-came unstuck. "But I wasn't concentrating at all! My
-masters all say I'm incapable--." Edward clamped his jaw
-down hard, suddenly realizing that it might be unwise to
-argue with beings such as these.
+"Edward, ¿vendrás con nosotros?". El alto elfo habló. Escucharlo era
+como escuchar un arpa, fresco como una brisa, cálido como una hoguera...
 
- But the golden elf smiled broadly, showing perfect white
-teeth, "Exactly." He radiated such warm approval, that
-Edward felt his skin tingle pleasantly. It was a feeling
-that he'd only known with his long-gone mother. But the other
-elf's face was expressionless; the red eyes bored into Edward
-as if they would pierce his soul.
+El niño se quedó muy quieto. Deseaba mucho decir que sí, para su propia
+sorpresa. Quería preguntar si vería a su madre, pero en su lugar:
+"Mi padre...", graznó.
 
- "Moraelyn! You're Moraelyn! The witch-king!" He jumped to
-his feet and faced the dark elf. "You stole my mother! My
-father will kill you."
+"Te echará de menos, sin duda". La ironía volvía a estar en la voz de
+Moraelyn, una voz que hacía que Edward pensara en carámbanos
+centelleando y goteando bajo el sol de invierno. Pero había una especie
+de hambre en sus ojos brillantes, ¿un anhelo?
 
- "I am. I did. Will he? Shall we call him and find out?" The
-dark elf straightened and his eyes glowed deeper. A tiny puff
-of steam escaped the dragon's nostrils. A glowing aura
-appeared around his companion. Edward knew he wasn't going
-to call the guard. Why should they be slaughtered? These two
-looked capable of -- anything. Quite suddenly he was no
-longer afraid. If they were here to hurt him, they'd have done
-it by now. But a feeling of impotent rage remained. They'd
-taken his mother. And now--
+Su padre no lo echaría de menos y él lo sabía. La vergüenza recorrió
+al muchacho, pero miró al elfo de hombros anchos con desafío. "¿Eres tú
+mi padre?". Edward había pretendido que la pregunta igualara el
+sarcasmo del elfo, pero su mano se deslizó hacia su oreja como por sí
+sola. No se parecía en nada a su padre, pelirrojo, cordial y de mal
+genio... y Roane decía a menudo que tenía un aspecto élfico.
 
- "Why are you here?" he demanded.
+Hubo un silencio pesado y Edward intuyó que Moraelyn estaba tomando
+la pregunta de forma literal, pero que la verdad no tenía nada que ver
+con lo que Moraelyn diría a continuación. Daría la respuesta
+conveniente. Aun así...
 
- "Edward, will you come with us?" The high elf spoke. Hearing
-him was like hearing a harp, cool as a breeze, warm as a
-fireside...
+"No". La palabra salió con renuencia. Podría estar mintiendo, por
+supuesto, pero Edward sintió una profunda oleada de alivio.
 
- The boy stood very still. He wanted very much to say yes, to
-his own amazement. He wanted to ask if he would see his mother,
-but instead: "My father---" he croaked.
+"¿Tiene mi madre... otros hijos?". De repente, Edward supo que no los
+tenía y que la pregunta heriría al elfo oscuro. Y se alegró.
 
- "Will miss you no doubt." The irony was back in Moraelyn's
-voice, a voice that make Edward think of icicles sparkling
-and dripping in winter sun. But there was a sort of hunger
-in his glowing eyes, a longing?
+"Tu madre podría estar muerta, por lo que tú sabes. O te importa, según
+parece". Las estrechas fosas nasales del elfo oscuro se crisparon como
+si Edward apestara, y las líneas alrededor de su boca se profundizaron.
 
- His father wouldn't miss him and he knew it. Shame ran through
-the boy, but he looked up at the broad-shouldered elf
-defiantly. "Are you my father?" Edward had meant the
-question to match the elf's sarcasm, but his hand crept to his
-ear as if of itself. He wasn't anything like his short-
-tempered, hearty, red-haired father ... and Roane often said
-he had an elfin look.
+Ella no estaba muerta. Edward lo habría sabido. La amarga injusticia
+del desprecio de Moraelyn dolió. "¿Te envió ella a por mí?".
 
- There was a heavy silence and Edward sensed that Moraelyn
-was taking the question at face value but that truth had
-nothing to do with what Moraelyn would say next. He would
-give the expedient answer. Still--.
+"¿Me tomas por un recadero?", espetó, y habló a su compañero:
+"Llevémonoslo ahora y vámonos; podremos discutirlo con calma".
 
- "No." It came reluctantly. He might be lying, of course,
-but Edward felt a deep wave of relief.
+El elfo dorado levantó la mano: "Paciencia, primo mío", y a Edward:
+"Bien, jovencito, ¿vendrás?".
 
- "Does my mother have -- other sons?" Suddenly Edward knew she
-did not and that the question would hurt the dark elf. And
-was glad.
+Se contaban historias oscuras de niños humanos secuestrados por elfos,
+que ansiaban humanos jóvenes...
 
- "Your mother might be dead, for all you know. Or care, it
-seems." The dark elf's narrow nostrils twitched as if
-Edward stank, and the lines around his mouth deepened.
+"No sé tu nombre", contemporizó Edward.
 
- She was not dead. Edward would have known. The bitter
-injustice of Moraelyn's contempt stung. "Did she send you to
-me?"
+"¿Tanto amas tu vida aquí?".
 
- "Do you take me for an errand boy!" he snapped, and spoke to
-his companion: "Let us take him now and be gone; we may
-discuss it at leisure."
+Edward miró al palacio a lo lejos, los estandartes flotando
+perezosamente por encima... la ciudad abajo, la bahía centelleante, las
+montañas distantes. "Amo Daggerfall".
 
- The golden elf held up his hand, "Patience, my cousin." and,
-to Edward, "Well, youngling, will you come?"
+"Ah. Y regresarás para gobernarla, Príncipe Edward. Yo, I'ric Harad Egun
+el Archimagíster, te lo juro". Moraelyn se dio la vuelta, protestando
+bruscamente en élfico. El dragón escupió un poco de llama, pero el
+unicornio no se movió; sus ojos dorados observaban a Edward fijamente.
+"Los unicornios no toleran ninguna clase de falsedad". Las palabras
+flotaron por su mente con la voz de su madre.
 
- Dark tales were told of human children kidnapped by elves,
-who hungered for young humans ... 
+"I'ric Harad Egun el Archimagíster, iré con vosotros".
 
- "I don't know your name," Edward temporized.
+"Debes cabalgar con Moraelyn. El Señor Akatosh ha consentido esta...
+necesidad". El elfo hizo un gesto amplio hacia el dragón.
 
- "Do you love your life here so much?"
+No era digno de tocar a un unicornio, por supuesto. "Muy bien, entonces.
+Yo... supongo que no podría traer a mi perro?". ¿Dónde estaba? Shag
+siempre estaba con él. ¡Dormido en la hierba! ¿Shag, el siempre alerta?
+Edward se arrodilló para tocarlo. Siguió una acalorada discusión en
+élfico, durante la cual el dragón chamuscó la hierba. Moraelyn bajó de un
+salto y recogió a Shag con disgusto. "Muy bien, entonces, pero te
+advierto que Akatosh está al límite de su paciencia. Monta, pues".
 
- Edward looked at the palace in the distance, the banners
-floating lazily above ... the town below, the sparkling
-bay, the distant mountains. "I love Daggerfall."
+"Señor Akatosh, le estoy profundamente agradecido por su indulgencia. Si
+alguna vez puedo pagárselo...".
 
- "Ah. And you shall return to hold it, Prince Edward. I,
-I'ric Harad Egun the ArchMagister, swear it to you."
-Moraelyn swung about, protesting sharply in Elvish. The
-dragon spat a bit of flame, but the unicorn did not move;
-its golden eyes regarded Edward steadily. "Unicorns do not
-abide any sort of falsity." The words floated through his
-mind in his mother's voice.
+"Lo harás", interrumpió Moraelyn; agarró a Edward por el cinturón y lo
+lanzó sobre el dragón. Edward se acomodó entre el cuello y las alas del
+dragón y el Shag dormido fue colocado lánguidamente frente a él. "No hay
+espacio para—", comenzó Edward, y dio un respingo de asombro cuando el
+dragón se movió debajo de él y creció. Mucho, mucho, mucho más. Moraelyn
+saltó detrás con un prodigioso salto para alguien con armadura. El
+unicornio saltó el muro de tres metros, superándolo limpiamente. Las
+grandes alas del dragón se estiraron; se agachó y luego saltó al aire. Sus
+jinetes se balancearon violentamente. El elfo oscuro murmuró algo que
+Edward no pudo entender en élfico y se estabilizaron. Las alas batieron
+con fuerza y el dragón dio vueltas a baja altura sobre el Torreón, ganando
+altitud lentamente. La gente corría de un lado a otro ahora, gritando y
+señalando. Edward vio a su vieja niñera y saludó y gritó: "¡Adiós!
+¡Adiós! Volveré algún día...". Las flechas volaron por el aire mientras
+los arqueros disparaban, mientras la niñera gritaba y se agarraba a los
+brazos de los más cercanos. El Rey Corcyr corrió desnudo a las almenas,
+gritando y agitando los puños. "¡Hijo de un demonio, vuelve y te daré una
+paliza que no olvidarás! Moraelyn, baja y lucha, como el hombre que no
+eres".
 
- "I'ric Harad Egun the ArchMagister, I will come with you."
+La risa estrepitosa de Moraelyn sonó clara como campanas de templo,
+cayendo en cascada sobre el Torreón. Gritó: "¡Alégrate de que no lo haga,
+pequeño Rey de la Pija Corta!". El dragón dio vueltas casi perezosamente
+y soltó una enorme llamarada. Las flechas rebotaron inofensivamente en
+sus escamas doradas. "¡Me voy a ver a mi madre!", gritó Edward hacia
+abajo, notando los rostros vueltos hacia arriba de su madrastra y sus
+hijos pelirrojos. Roane tenía una túnica adornada con pieles apretada a
+su alrededor, pero su largo cabello flotaba salvajemente. Cuatro pares
+de ojos se fijaron en él, no en Moraelyn, brillando con furia y odio.
+Edward dejó de saludar y sujetó a Shag con fuerza con ambas manos. El
+brazo revestido de malla de Moraelyn estaba firmemente alrededor de su
+cintura. Edward se apoyó contra él, sintiéndose bastante seguro por
+primera vez en mucho tiempo. Los arqueros habían dejado de disparar; la
+mayoría de ellos miraban a la familia real. El rey bailaba de rabia.
+Las alas del gran dragón batieron con más fuerza ahora y se dirigieron
+hacia el sur, sobre el agua.
 
- "You must ride with Moraelyn. The Lord Akatosh has
-consented to this--necessity. The elf made a sweeping gesture
-toward the dragon."
+"¿No vamos a Ebonheart?", el niño se giró y miró a Moraelyn. "Tu madre
+te espera en Firsthold, en Sumurset, pequeño Príncipe".
 
- He wasn't fit to touch a unicorn, of course. "Very well,
-then. I--I don't suppose I could bring my dog?" Where was
-he? Shag was always with him. Asleep in the grass! Shag, the
-ever-alert? Edward knelt to touch him. A heated discussion in
-Elvish ensued, during which the dragon scorched the grass.
-Moraelyn swung down and picked Shag up with distaste. "Very
-well, then, but I warn you that Akatosh is at the limit of his
-patience. Mount, then."
+"¿Por qué esperasteis tanto para venir a buscarme?".
 
- "Lord Akatosh, I am most deeply obliged by your indulgence.
-If ever I may repay it--".
+"Niño quejumbroso, ¿crees que los dragones y los unicornios obedecen a
+elfos o hombres? Tu madre vino a mí de plena voluntad, pero no pudo
+traerte; estabas demasiado bien guardado por los hombres de tu padre.
+¿Habrías querido que asoláramos tu tierra para tomarte por la fuerza?
+Ella pensó que estarías a salvo y cuidado... y estaba desesperada. No,
+este fue el plan del dragón".
 
- "You will," Moraelyn interrupted; he seized Edward by the
-belt and tossed him up onto the dragon. Edward settled
-himself between the dragon's neck and wings and the sleeping
-Shag was draped limply in front of him. "There isn't room
-for --" Edward began, and jerked in astonishment as the
-dragon shifted beneath him and grew larger. Much, much, much
-larger. Moraelyn vaulted up behind with a prodigious leap
-for one in armor. The unicorn jumped the nine foot wall,
-clearing it neatly. The dragon's great wings stretched; he
-crouched, then leapt into the air. His riders swayed wildly.
-The dark elf muttered something Edward couldn't understand
-in elvish and they steadied. The wings beat strongly and the
-dragon circled low over the Keep, gaining altitude
-slowly. People were running about now, shouting and
-pointing. Edward saw his old nurse and waved and shouted,
-"Goodbye! Goodbye! I'll be back sometime..." Arrows flew
-through the air as bowmen shot, while the nurse screamed and
-clutched at the arms of those nearest. King Corcyr ran naked
-onto the battlements, screaming and waving his fists. "Child
-of a demon, come back and I'll thrash you within an inch of
-your worthless life. Moraelyn, come down and fight, like the
-man you aren't."
+De todos los asombrosos eventos de la tarde, este fue el más
+sorprendente: la noción de que un dragón se interesara por él, cuando ni
+siquiera su propia familia lo hacía. Pero, ¡de voluntad, dijo el elfo, de
+plena voluntad!
 
- Moraelyn's loud laughter rang clear as temple bells,
-cascading over the Keep. He shouted, "Be glad I don't,
-little King of the Small Cock!" The dragon circled almost
-lazily and let out a huge gout of flame. Arrows clinked
-harmlessly off his golden scales. "I'm off to see my
-mother!" Edward screamed down, noting the upturned faces
-of his stepmother and her red-haired sons. Roane had a fur-
-trimmed robe clutched round her, but her long hair floated
-wildly. Four pairs of eyes fastened on him, not Moraelyn,
-glittering with fury and hatred. Edward stopped waving and
-clutched Shag tightly with both hands. Moraelyn's mail
-clad arm was securely about his waist. Edward slumped
-against him, feeling quite safe for the first time in a very
-long while. The bowmen had stopped shooting; most of them
-were looking at the royal family. The king danced with rage.
-The great dragon's wings beat harder now and they headed due
-south out over the water.
+"Eres el foco de grandes eventos, jovencito. Tu tarea es prepararte para
+ser un rey, un rey como tu pueblo nunca ha conocido. Nuestra tarea es
+ayudarte. Duerme ahora".
 
- "Aren't we going to Ebonheart?" the boy twisted round and
-looked up at Moraelyn. "Your mother awaits you at
-Firsthold in Sumurset, little Prince."
+Oleadas de sueño asaltaron la mente de Edward, una tras otra. "Pero—",
+quiso preguntar a Moraelyn sobre su madre, pero la última ola fue
+demasiado grande; se estrelló sobre él y se deslizó en sueños oscuros
+surcados de fuego.
 
- "Why did you wait so long to fetch me?"
-
- "Querulous child, do you think dragons and unicorns do the
-bidding of elves or men? Your mother came to me full
-willing, but she could not bring you; you were too closely
-guarded by your father's men. Would you have had us lay
-waste your land to take you by force? She thought you would
-be safe and cared for ... and she was desperate. No, this was
-the dragon's plan."
-
- Of all the astonishing events of the afternoon, this was the
-most surprising: the notion that a dragon should take an
-interest in him, when not even his own family did. But,
-willing, the elf said, full willing!
-
- "You are the focus of large events, youngling. Your task
-is to prepare yourself to be a king--a king such as your
-people have never known. Our task is to aid you. Sleep now."
-
- Waves of sleep assaulted Edward's mind, one after another.
-"But--" he meant to ask Moraelyn about his mother, but the
-last wave was too big; it crashed right over him and he
-slipped into dark fire-shot dreams.
-
- 

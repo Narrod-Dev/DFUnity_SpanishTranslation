@@ -1,4 +1,4 @@
-Title: The Old Ways
+Title: Las Viejas Costumbres
 Author: Celarus
 IsNaughty: False
 Price: 580
@@ -9,92 +9,92 @@ Content:
 
 [/font=2]
 
-[/center]The Old Ways:
+[/center]Las Viejas Costumbres:
 
-[/center]The Customs and Philosophy
+[/center]Las Prácticas y Filosofía
 
-[/center]of Grave and Faithful
+[/center]del Grave y Fiel
 
-[/center]Council
+[/center]Consejo
 
 
 
 [/font=4]
 
+ Nosotros, los que conocemos las Viejas Costumbres, somos muy
+conscientes de la existencia de un mundo espiritual invisible
+para los no iluminados. Al igual que alguien que vive en un
+reino pero ignora las maquinaciones políticas puede ver un
+nuevo impuesto o los preparativos para una batalla como una
+fortuna caprichosa, muchos observan las inundaciones, las
+hambrunas y la locura con una impotente incomprensión. Esto es
+deplorable. Como gimió el gran Cuilean Darnizhaan: "El poder
+de la ignorancia puede realmente destrozar el mitril como si
+fuera cristal".
 
+ ¿Cuál es, después de todo, el origen de estas fuerzas
+espirituales que mueven los hilos invisibles de Mundus?
+Cualquier neófito de Artaeum sabe que los espíritus son
+nuestros ancestros y que, mientras vivían, ellos también se
+sentían desconcertados por los espíritus de sus ancestros,
+y así sucesivamente hasta los Acharyai originales. Los daedra
+y los dioses a los que recurre la gente común no son más que
+los espíritus de hombres y mujeres superiores cuyo poder y
+pasión les otorgaron una gran influencia en el mundo fantasma.
+Ciertamente, esta es nuestra verdad y nuestra religión, pero
+¿cómo nos ayuda en nuestro sagrado deber de seliffrnsae, o
+"proporcionar un consejo grave y fiel"?
 
- We who know the Old Ways are well aware of the
-existence of a spiritual world invisible to the
-unenlightened. Just as one living in a kingdom but
-unaware of the political machinations may see a new tax
-or battle preparation as capricious fortune, many
-observe floods, famines, and madness with helpless
-incomprehension. This is deplorable. As the great Cuilean
-Darnizhaan moaned, "The power of ignorance can truly
-shatter mithril like glass."
+ En primer lugar, podemos captar fácilmente la necesidad tanto
+de otorgar gran poder a los hombres buenos como de hacer que
+los hombres poderosos sean buenos. Reconocemos las múltiples
+amenazas que representa un tirano fuerte: engendra crueldad,
+que alimenta a la daedra Boethiah, y odio, que alimenta a la
+daedra Vaernima; si muriera realizando un acto particularmente
+malévolo, podría ir a gobernar en Oblivion; lo peor de todo es
+que inspira a otros villanos hacia el poder y a otros
+gobernantes hacia la villanía. Sabiendo esto, hemos desarrollado
+paciencia en nuestros tratos con tales déspotas. Deben ser
+lisiados, humillados, empobrecidos, encarcelados. Otros
+consejeros distintos a nosotros pueden abogar por el asesinato
+o la guerra, lo cual, aparte de su significado espiritual, es
+costoso, aleatorio y probable que cause al menos tanto dolor
+a los inocentes como el que el dictador brutal estaba
+infligiendo. No, nosotros somos recolectores de inteligencia,
+diplomáticos dignos, no revolucionarios.
 
- What, after all, is the origin of these spiritual forces
-that move the invisible strings of Mundus? Any neophyte
-of Artaeum knows that the spirits are our ancestors, and
-that, while living, they too were bewildered by the spirits
-of their ancestors, and so on to the original Acharyai.
-The daedra and gods the common people turn to are no
-more than the spirits of superior men and women whose
-power and passion granted them great influence in the
-phantom world. Certainly, this is our truth and our
-religion, but how does it help us in our sacred duty to
-seliffrnsae, or "provide grave and faithful counsel"?
+ ¿Cómo son, entonces, nuestros consejeros "fieles"? Somos fieles
+solo a las Viejas Costumbres; es esencial recordar siempre el
+mundo espiritual al observar nuestro mundo. Realizar los Ritos
+de Moawita el 2 de Fuego del Hogar y el Vigyld el 1 de Segunda
+Semilla son medios esenciales para fortalecer a los fantasmas
+saludables y debilitar a los espíritus impuros. ¿Cómo somos,
+entonces, fieles a aquellos a quienes aconsejamos y a la Isla
+de Artaeum?
 
- Firstly, we can easily grasp the necessity of both
-bringing good men great power and making powerful men
-good. We recognize the multiple threats that a strong
-tyrant represents -- he breeds cruelty which feeds the
-daedra Boethiah and hatred which feeds the daedra
-Vaernima; if he should he die performing a particularly
-malevolent act, he may go to rule in Oblivion; worst of
-all, he inspires other villians to power and other rulers to
-villiany. Knowing this, we have developed patience in our
-dealings with such despots. They should be crippled,
-humiliated, impoverished, imprisoned. Other counselors
-than we may advocate assassination or warfare, which,
-aside from its spiritual significance, is expensive,
-aleatric, and likely to cause at least as much pain to
-innocents as the brutish dictator was inflicting. No, we
-are intelligence gathers, dignified diplomats, not
-revolutionaries.
+ Quizás el sabio Taheritae lo dijo mejor: "En Mundus, el
+conflicto, la disparidad es lo que trae el cambio, y el cambio
+es la más sagrada de todas las once fuerzas. El cambio es la
+fuerza sin enfoque ni origen, y es deber del Psijic (el
+iluminado) disciplinado diluir el cambio donde trae codicia,
+gula, pereza, ignorancia, prejuicio, crueldad... (Taheritae
+enumera las 111 Prodigalidades)... y fomentar el cambio donde
+trae excelencia, belleza, felicidad e iluminación. Como tal,
+el consejero fiel no tiene más que un maestro: su mente. Si el
+hombre al que el Psijic aconseja actúa perversamente y trae
+oegnithr ("mal cambio") y no se deja aconsejar, es deber del
+Psijic contrarrestar el oegnithr por cualquier medio necesario".
 
- How, then, are our counselors "faithful"? We are faithful
-only to the Old Ways -- it is essential always to
-remember the spiritual world in watching our world.
-Performing the Rites of Moawita on the 2nd of Hearth
-Fire and the Vigyld on the 1st of Second Seed are
-essential means of empowering the salutary ghosts and
-debilitating the unclean spirits. How, then, are we faithful
-to those we counsel and to the Isle of Artaeum?
+ Un estudiante de las Viejas Costumbres puede, en efecto,
+convertirse en vasallo de un señor, pero es una relación
+arriesgada. Si el señor rechaza el sabio consejo y ordena al
+Psijic (por usar la palabra anticuada de Taheritae) realizar un
+acto contrario a las enseñanzas de las Viejas Costumbres, hay
+pocas opciones disponibles. El Psijic puede abandonar a su
+señor, lo que le traerá vergüenza a él y a la Isla de Artaeum,
+y por lo tanto nunca más se le permitirá volver a casa. El
+Psijic también puede quitarse la vida.
 
- Perhaps the sage Taheritae said it best: "In Mundus,
-conflict, disparity is what brings change, and change is
-most sacred of all the eleven forces. Change is the force
-without focus or origin, and it is the duty of the
-disciplined Psijic (enlightened one) to dilute change where
-it brings greed, gluttony, sloth, ignorance, prejudice,
-cruelty ... (Taheritae lists the 111 Prodigalities) ... and
-to encourage change where it brings excellence, beauty,
-happiness, and enlightenment. As such, the faithful
-counsel has but one master, his mind. If the man the
-Psijic counsels acts wickedly and brings oegnithr ("bad
-change") and will not be counselled, it is the Psijics duty
-to counterbalance the oegnithr by any means necessary."
-
- A student of the Old Ways may indeed vassal himself to
-a lord, but it is a risky relationship. Should the lord
-refuse wise counsel and order the Psijic (to use
-Taheritae's out-moded word) to perform an act contrary
-to the teachings of the Old Ways, there are few
-available options. The Psijic may abandon his lord, which
-will bring shame on him and the Isle of Artaeum, and so
-may never be allowed home again. The Psijic may also
-kill himself.
 
 
 

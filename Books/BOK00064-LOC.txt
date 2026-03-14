@@ -1,111 +1,100 @@
-Title: Wayrest, Jewel of the Bay
+Title: Wayrest, la joya de la Bahía
 Author: Sathyr Longleat
 IsNaughty: False
 Price: 348
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
 [/center]Wayrest,
 
-[/center]Jewel
+[/center]la joya
 
-[/center]of the
+[/center]de la
 
-[/center]Bay
-
-
+[/center]Bahía
 
 [/font=4]
 
 [/center]
 
-[/center]     Wayrest is one of the most glorious cities of western
-Tamriel: sparkling in her contemporary beauty, lustrous by
-her past. She is prized above all cities in High Rock -- no
-other city has contributed, and continues to contribute so
-much to the culture of the Bretons. The spirits of her genius
-children continue to haunt the streets; you can see them in
-the gabled roofs, grand boulevards, aromatic
-marketplaces. The people of Wayrest have an instictive
-appreciation of their past, but are not obsessed by it, as
-the people of Daggerfall seem to be. One feels that one is in
-a modern city when one visits Wayrest, but there is a magic
-in the air that could only come from thirty-two centuries of
-civilization.
+[/center] Wayrest es una de las ciudades más gloriosas del oeste de Tamriel:
+centelleante en su belleza contemporánea, ilustre por su pasado. Es
+valorada por encima de todas las ciudades de Roca Alta; ninguna otra
+ciudad ha contribuido, ni continúa contribuyendo tanto, a la cultura de
+los bretones. Los espíritus de sus hijos pródigos continúan frecuentando
+las calles; puedes verlos en los techos de doble vertiente, en los
+grandes bulevares y en los aromáticos mercados. La gente de Wayrest tiene
+un aprecio instintivo por su pasado, pero no está obsesionada con él,
+como parece estarlo la gente de Daggerfall. Uno siente que está en una
+ciudad moderna cuando visita Wayrest, pero hay una magia en el aire que
+solo podría provenir de treinta y dos siglos de civilización.
 
-     It is difficult for historians to declare a certain date
-for the foundation of Wayrest. A settlement of some variety
-had been existence where the Bjoulsae River feeds the Iliac
-Bay possibly since the 800th year of the First Era. The
-traders and fishermen of Wayrest were surrounded by hostile
-parties: the orc capitol Orsinium had grown like a poison
-weed to the north, and the Akaviri pirates and raiders
-crowded the islands to the west. There is no mystery to
-Wayrest's name. After the fighting most travellers had to
-endure passing through the eastern end of the Iliac Bay, the
-little fishing village on the Bjoulsae was a welcome rest.
+Resulta difícil para los historiadores declarar una fecha exacta para
+la fundación de Wayrest. Un asentamiento de alguna variedad había
+existido donde el río Bjoulsae desemboca en la Bahía de Iliac,
+posiblemente desde el año 800 de la Primera Era. Los comerciantes y
+pescadores de Wayrest estaban rodeados de facciones hostiles: la capital
+orca de Orsinium había crecido como una maleza venenosa al norte, y los
+piratas e incursores akaviri abarrotaban las islas al oeste. No hay
+misterio en el nombre de Wayrest. Después de los combates que la mayoría
+de los viajeros tenían que soportar al pasar por el extremo oriental de
+la Bahía de Iliac, la pequeña aldea de pescadores en el Bjoulsae era un
+descanso bienvenido.
 
-      Nowhere in the much vaunted censuses of the Skyrim
-Occupation is Wayrest mentioned. In the Annals of
-Daggerfall, King Joile's letter to Gaiden Shinji of the
-Order of Diagna contains the following reference: "The orcs
-have been much plaguing the Wayresters and impeding traffic
-to the heart of the land." The date given for the letter was
-1E 948.
+En ninguna parte de los tan jactanciosos censos de la Ocupación de
+Skyrim se menciona a Wayrest. En los Anales de Daggerfall, la carta del
+Rey Joile a Gaiden Shinji de la Orden de Diagna contiene la siguiente
+referencia: "Los orcos han estado acosando mucho a los habitantes de
+Wayrest e impidiendo el tráfico hacia el corazón de la tierra". La fecha
+dada para la carta fue el 1E 948.
 
-      Wayrest only truly bloomed after the razing of Orsinium
-in 1E 980. The hard-working traders and merchants were
-instrumental in forming the Masconian Trade Way and thus
-reducing the pirate activity on the Bay. At this time,
-Wayrest occupied both banks of the Bjoulsae. A successful
-mercantile family, the Gardners, built a walled palace on
-the High Rock side of the river and, over time, allowed banks
-and other businesses within its walls. It was a Gardner,
-Farangel, who was proclaimed king when Wayrest accepted
-ambassadors from the Camorian Empire, and was granted the
-right to call itself a kingdom in the 1100th year of the 1st
-Era.
+Wayrest solo floreció verdaderamente tras el arrasamiento de Orsinium en
+el 1E 980. Los laboriosos comerciantes y mercaderes fueron
+instrumentales en la formación de la Vía Comercial Masconiana y, por
+ende, en la reducción de la actividad pirata en la Bahía. En este
+momento, Wayrest ocupaba ambas orillas del Bjoulsae. Una exitosa familia
+mercantil, los Gardner, construyó un palacio amurallado en el lado de
+Roca Alta del río y, con el tiempo, permitió la entrada de bancos y
+otros negocios dentro de sus muros. Fue un Gardner, Farangel, quien fue
+proclamado rey cuando Wayrest aceptó embajadores del Imperio Camoriano, y
+se le concedió el derecho de llamarse a sí mismo reino en el año 1100 de
+la Primera Era.
 
-      Although Wayrest became a kingdom under the command of
-one family, the merchants continued to wield incredible
-power. Many economists have alleged that Wayrest's eternal
-wealth, despite all her hardships, comes from this rare
-relationship between the merchants and the crown. The Gardner
-Dynasty fell, followed by the Cumberland Dynasty, which was
-followed by the Horley Dynasty, and finally, in the Third
-Era, the Septim Dynasty. No citizen of another kingdom of
-comparable age can, with one hand, name all the families who
-have ever ruled. Never has a king of Wayrest been deposed by
-revolution or assassination. Except for those of the Septim
-family, every king of Wayrest can trace his line back to a
-merchant prince of Wayrest. The merchants and king respect
-one another, and this relationship strengthens both.
+Aunque Wayrest se convirtió en un reino bajo el mando de una familia,
+los mercaderes continuaron ejerciendo un poder increíble. Muchos
+economistas han alegado que la riqueza eterna de Wayrest, a pesar de
+todas sus dificultades, proviene de esta rara relación entre los
+mercaderes y la corona. La Dinastía Gardner cayó, seguida por la
+Dinastía Cumberland, que fue seguida por la Dinastía Horley y,
+finalmente, en la Tercera Era, la Dinastía Septim. Ningún ciudadano de
+otro reino de edad comparable puede nombrar con una sola mano a todas
+las familias que han gobernado alguna vez. Nunca un rey de Wayrest ha
+sido depuesto por una revolución o un asesinato. A excepción de los de
+la familia Septim, cada rey de Wayrest puede rastrear su linaje hasta un
+príncipe mercader de Wayrest. Los mercaderes y el rey se respetan
+mutuamente, y esta relación fortalece a ambos.
 
-      One need only walk down the great boulevard of Wayrest
-to see physical proof of this unique alliance. Going north
-to south, Wayrest Boulevard suddenly divides, one half
-going west and the other going east. Both halfs end in
-identical squares: one at Castle Wayrest, the original
-palace of Aphren Gardner, and the other at Cumberland
-Square, where the oldest and wealthiest marketplace in
-Wayrest. The message here is clear: the king and the merchants
-are joined and equal.
+Solo hace falta caminar por el gran bulevar de Wayrest para ver la
+prueba física de esta alianza única. Yendo de norte a sur, el Bulevar
+Wayrest se divide repentinamente: una mitad va hacia el oeste y la otra
+hacia el este. Ambas mitades terminan en plazas idénticas: una en el
+Castillo Wayrest, el palacio original de Aphren Gardner, y la otra en la
+Plaza Cumberland, donde se encuentra el mercado más antiguo y rico de
+Wayrest. El mensaje aquí es claro: el rey y los mercaderes están unidos
+y son iguales.
 
-      Wayrest has survived blights, droughts, plagues,
-piracy, invasions, and war with good humor and
-practicality. In 1E 2702, the entire population of the city
-was forced to move into the walled estate of the Gardners as
-protection against the pirates, Akaviri raiders, and
-Thrassian plague. A less resourceful community would have
-withered, but the Wayresters have survived to enrich Tamriel
-generation after generation.
+Wayrest ha sobrevivido a plagas, sequías, pestes, piratería, invasiones
+y guerras con buen humor y practicidad. En el 1E 2702, la población
+entera de la ciudad se vio obligada a trasladarse al recinto amurallado
+de los Gardner como protección contra los piratas, los incursores
+akaviri y la plaga thrassiana. Una comunidad menos ingeniosa se habría
+marchitado, pero los habitantes de Wayrest han sobrevivido para
+enriquecer a Tamriel generación tras generación.
 
 
 
 
 
- 

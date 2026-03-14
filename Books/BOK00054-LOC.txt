@@ -1,211 +1,170 @@
-Title: The Sage
+Title: El Sabio
 Author: Aegrothius Goth
 IsNaughty: False
 Price: 580
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]The Sage
-
-
+[/center]El Sabio
 
 [/font=4]
 
 [/center]
 
-[/center] Crackle, snap, hiss ... Flicker, bright, dim ... The fire in
-the hearth provides light and heat. Neither seem to affect the
-old man. His reclining figure stares into the flames and
-flames reflect back from his deep dark  eyes. Indigo blue
-robes reflect and yet absorb the firelight and highlights of
-golden threads twinkle as the flames flicker. His beard and
-hair are long and snowy white; in the firelight they almost
-appear to be ethereal like that of a godling. At his side is a
-tall pointed hat which is the same color as his robe and also
-twinkles with highlights of gold. The face is lined with age,
-yet almost appears youthful; wisdom and intellect exude
-from his personage. This is the Sage who is known in all of
-Tamriel as the champion and counselor to all users of
-magic. His thoughts wander, and he remembers ...
+[/center] Chasquido, estallido, siseo... Destello, brillo, penumbra... El fuego del
+hogar proporciona luz y calor. Ninguno parece afectar al anciano. Su figura
+reclinada observa las llamas, y las llamas se reflejan en sus ojos oscuros
+y profundos. Las túnicas de color azul índigo reflejan y, a la vez, absorben
+la luz del fuego, mientras los reflejos de hilos dorados centellean al compás
+de las llamas. Su barba y su cabello son largos y blancos como la nieve; bajo
+la luz del fuego, casi parecen etéreos, como los de un semidiós. A su lado
+reposa un sombrero alto y puntiagudo del mismo color que su túnica, que también
+centellea con reflejos dorados. El rostro está surcado por los años, pero casi
+parece juvenil; la sabiduría y el intelecto emanan de su persona. Este es el
+Sabio, conocido en todo Tamriel como el campeón y consejero de todos los usuarios
+de la magia. Sus pensamientos divagan, y recuerda...
 
- ...
+...
 
- Gyron Vardengroet was born to a poor and humble Breton
-family in the village of Moonguard. The only  child of
-Frieda and Horstle Vardengroet entered life during a rare
-eclipse of Tamriel's moons. It was soon  apparent that he
-was unusually gifted in the magical arts. He was found
-levitating the family dog when he was only a year old. Most
-Bretons have a great talent for magic, but as he grew Gyron
-displayed a talent  far greater than that of his peers. The
-village wizard began to take an interest in young Gyron and
-soon took  him under his wing. In spite of the young man's
-proclivities for being rowdy, the old Wizard Grungdingler 
-liked him and worked hard to teach him the magical arts to the
-extent of his own skills.
+Gyron Vardengroet nació en el seno de una familia bretona pobre y humilde en la
+aldea de Moonguard. El único hijo de Frieda y Horstle Vardengroet llegó al mundo
+durante un raro eclipse de las lunas de Tamriel. Pronto fue evidente que poseía
+un don inusual para las artes mágicas. Se le encontró levitando al perro de la
+familia cuando solo tenía un año de edad. La mayoría de los bretones tienen un
+gran talento para la magia, pero a medida que crecía, Gyron mostraba un talento
+mucho mayor que el de sus compañeros. El mago de la aldea comenzó a interesarse
+en el joven Gyron y pronto lo tomó bajo su protección. A pesar de la propensión
+del joven a ser revoltoso, al viejo mago Grungdingler le agradaba y trabajó duro
+para enseñarle las artes mágicas hasta el límite de sus propias habilidades.
 
- Finally the day came when Grungdingler could teach Gyron
-no more. The young mage had surpassed his  master, and he was
-somewhat unsettled with the apprentice mage's questions
-about life, death and immortality. Grundingler called
-Gyron to him and gave him a letter addressed to Morkledder,
-the Guildmagister of the Mages Guild in Shornhelm. The young
-mage told his parents of his fortune, packed his meager
-belongings, and set out for the journey to Shornhelm. After
-many months of travel through the foothills of the
-Kurallian Mountains, Gyron arrived at the gates to the great
-City-State of Shornhelm high in the mountainous terrain of
-High Rock.
+Finalmente llegó el día en que Grungdingler no pudo enseñar nada más a Gyron. El
+joven mago había superado a su maestro, y este se sentía algo inquieto por las
+preguntas del aprendiz sobre la vida, la muerte y la inmortalidad. Grungdingler
+llamó a Gyron y le entregó una carta dirigida a Morkledder, el Maestro del Gremio
+de Magos en Shornhelm. El joven mago contó a sus padres su fortuna, empacó sus
+escasas pertenencias y emprendió el viaje hacia Shornhelm. Tras muchos meses de
+viaje por las faldas de las montañas Kurallianas, Gyron llegó a las puertas de la
+gran ciudad-estado de Shornhelm, en las alturas del terreno montañoso de Roca Alta.
 
- After the life of a quiet Breton village, Shornhelm was a
-wonder to Gyron. He explored the city from one end to the
-other, and eventually found the Mages Guild. Presenting
-Grungdingler's letter to Morkledder, Gyron was received
-warmly. Morkledder explained to Gyron that he would need
-to be tested before any commitment to further training
-could be made. After a night of rest and meditation, Gyron
-was shown into the main hall of the Mages Guild which was now
-filled with magic users of all kinds. It was very quiet. The
-young mage felt as if his heart was in his throat as he
-approached the Council of Three, the leaders of the mages in
-this City-State. Morkledder rose and explained to Gyron the
-various tests he would be subjected to to prove his worth as
-a mage. The youth then turned and left the Council Chamber,
-the eyes of the many mages on him, and went forth to complete
-the tasks that had been defined for him. 
+Después de la vida en una tranquila aldea bretona, Shornhelm fue una maravilla
+para Gyron. Exploró la ciudad de un extremo a otro y, finalmente, encontró el
+Gremio de Magos. Al presentar la carta de Grungdingler a Morkledder, Gyron fue
+recibido calurosamente. Morkledder le explicó que debería someterse a unas pruebas
+antes de comprometerse a cualquier entrenamiento posterior. Tras una noche de
+descanso y meditación, Gyron fue conducido al salón principal del Gremio de Magos,
+que ahora estaba lleno de usuarios de magia de todo tipo. Todo estaba muy silencioso.
+El joven mago sentía el corazón en la garganta mientras se acercaba al Consejo de
+los Tres, los líderes de los magos en esta ciudad-estado. Morkledder se levantó y
+explicó a Gyron las diversas pruebas a las que sería sometido para demostrar su
+valía como mago. El joven dio media vuelta y abandonó la cámara del consejo, bajo
+la mirada de los muchos magos presentes, y partió para completar las tareas que se
+le habían encomendado.
 
- Returning to Shornhelm several years later, Gyron was
-admitted to the Mages Guild and shown to the  Council Chamber
-where he was met by Morkledder. The ancient mage reviewed the
-journal entries, the  artifacts gathered, and most
-especially the spellbook entries presented to him by Gyron.
-An expression of  amazement spread across the old wizard's
-face; there had never been a novice to accomplish what Gyron
-had  during the testing. Morkledder then called a full
-session of the Guild presenting Gyron as a full Wizard. 
+Al regresar a Shornhelm varios años después, Gyron fue admitido en el Gremio de
+Magos y conducido a la cámara del consejo, donde se reunió con Morkledder. El
+anciano mago revisó las entradas del diario, los artefactos reunidos y, muy
+especialmente, los hechizos presentados por Gyron. Una expresión de asombro se
+dibujó en el rostro del viejo mago; nunca antes un novicio había logrado lo que
+Gyron durante las pruebas. Morkledder convocó entonces una sesión plenaria del
+Gremio y presentó a Gyron como un mago de pleno derecho.
 
- Gyron remained with Morkledder for several years and
-studied hard. In private session several years after the
-testing, Morkledder admitted to Gyron that the Guild at
-Shornhelm could teach him no more and that he should seek
-further enlightenment at the Crystal Tower on Sumurset
-Isle.
+Gyron permaneció con Morkledder varios años y estudió con ahínco. En una sesión
+privada años después de las pruebas, Morkledder admitió a Gyron que el gremio de
+Shornhelm no podía enseñarle nada más y que debía buscar mayor iluminación en la
+Torre de Cristal, en la Isla de Estivalia.
 
- After packing his possessions once again, Gyron set off on
-another long journey. He arrived at the Crystal Tower
-several years later after having traversed the province
-of Hammerfell where he had many adventures, met many other mages and shared his experiences and knowledge
-with them. He heard stories of wonderful plants that when
-combined with other elements could restore life to those
-dead, prolong life to those yet living, and in the proper
-combination bestow immortality on the user. Gyron was
-always quick to advise and guide mages who were less
-experienced than himself. He loved being able to help. He
-made many friends and stories began to spread across  the
-land about this exceptional user of magic.
+Tras empacar sus posesiones una vez más, Gyron emprendió otro largo viaje. Llegó a
+la Torre de Cristal varios años después, tras haber atravesado la provincia de
+Páramo del Martillo, donde vivió muchas aventuras, conoció a muchos otros magos y
+compartió con ellos sus experiencias y conocimientos. Escuchó historias de plantas
+maravillosas que, combinadas con otros elementos, podían devolver la vida a los
+muertos, prolongar la vida de los vivos y, en la combinación adecuada, otorgar la
+inmortalidad al usuario. Gyron siempre se prestaba a aconsejar y guiar a los magos
+con menos experiencia que él. Le encantaba poder ayudar. Hizo muchos amigos y las
+historias sobre este excepcional usuario de la magia comenzaron a extenderse por
+toda la tierra.
 
- When he entered the Crystal Tower, he was greeted by several
-mages all clamoring for his attention. His  reputation had
-preceded him. However, the crowd hushed and parted at the
-arrival of a very imposing figure dressed all in indigo
-blue robes trimmed in gold, wearing a high pointed hat and
-carrying the most beautifully carved staff Gyron had ever
-seen. The Elder of the Council of Wizards, Esthlainder,
-looked closely at the young wizard, nodded and turned to
-walk back into the tower. Without delay, Gyron followed him.
-The audience that followed stunned the young mage.
+Cuando entró en la Torre de Cristal, fue recibido por varios magos que clamaban
+por su atención. Su reputación le precedía. Sin embargo, la multitud enmudeció y se
+apartó ante la llegada de una figura imponente vestida con túnicas azul índigo con
+bordes dorados, un sombrero alto y puntiagudo y portando el bastón más bellamente
+tallado que Gyron hubiera visto jamás. El Anciano del Consejo de Magos, Esthlainder,
+miró de cerca al joven mago, asintió y se dio la vuelta para entrar de nuevo en la
+torre. Sin demora, Gyron lo siguió. La audiencia que siguió dejó atónito al joven
+mago.
 
- Esthlainder explained to him that Gyron's coming had been
-foretold for many years, and he had been expected. The mages
-had been told by the Gods that one of their own would come
-along to provide guidance, knowledge and aid. Gyron was
-that promised champion and leader. Gyron was confused and
-uncertain. How could he be such an extraordinary person?
-What must he do to fulfill his destiny? Many questions
-spilled from him to which Esthlainder could not provide the
-answers. The Elder suggested that Gyron stay with them in the
-Crystal Tower for a while and study. This he did.
+Esthlainder le explicó que la llegada de Gyron había sido profetizada durante muchos
+años y que se le esperaba. Los dioses habían dicho a los magos que uno de los suyos
+vendría para brindar guía, conocimiento y ayuda. Gyron era ese campeón y líder
+prometido. Gyron estaba confundido e inseguro. ¿Cómo podía ser él una persona tan
+extraordinaria? ¿Qué debía hacer para cumplir su destino? Le asaltaron muchas
+preguntas para las que Esthlainder no tenía respuestas. El Anciano sugirió que Gyron
+se quedara con ellos en la Torre de Cristal un tiempo para estudiar. Así lo hizo.
 
- The day finally came when The Elder admitted to Gyron that
-the Crystal Tower could no longer provide anything new and
-that he needed to travel the lands of Tamriel and seek the
-wisdom and knowledge. The Elder sighed and told Gyron how
-sad he was that the Crystal Tower was losing him, but that his
-destiny must be fulfilled. With this, the Elder presented
-Gyron with a package wrapped in the same beautiful indigo
-blue as the Elder's Robes. Gyron was told to take the package
-with him but open it only when he was at least a day's travel
-from the Crystal Tower.
+Finalmente llegó el día en que el Anciano admitió a Gyron que la Torre de Cristal ya
+no podía ofrecerle nada nuevo y que debía viajar por las tierras de Tamriel en busca
+de sabiduría y conocimiento. El Anciano suspiró y le dijo a Gyron cuánto lamentaba
+que la Torre de Cristal lo perdiera, pero que su destino debía cumplirse. Con esto,
+el Anciano entregó a Gyron un paquete envuelto en la misma hermosa tela azul índigo
+que sus propias túnicas. Se le dijo a Gyron que se llevara el paquete pero que solo
+lo abriera cuando estuviera al menos a un día de viaje de la Torre de Cristal.
 
- After a long day's walk, Gyron set up camp in a beautiful
-glade next to a brook of crystal clear water. Finally, he
-thought, I can open the Elder's package. As he untied the
-golden cord that had bound the package, he found that the
-wrapping was not wrapping at all but an exquisitely
-tailored robe identical to the one worn by the Elder. As he
-opened the robe, a high pointed wizard's hat popped out of
-the package, and with a "whoosh" and "pop," the same
-intricately carved staff that the Elder had carried
-appeared. A note from the Elder advised that the garments
-were indestructible and that the staff had many magical
-properties for Gyron to discover. It went on further to
-explain that from this day forward Gyron would be known as
-The Sage.
+Tras una larga jornada de caminata, Gyron acampó en un hermoso claro junto a un
+arroyo de aguas cristalinas. "Finalmente", pensó, "puedo abrir el paquete del
+Anciano". Al desatar el cordón dorado que ataba el paquete, descubrió que el
+envoltorio no era tal, sino una túnica exquisitamente confeccionada, idéntica a la que
+vestía el Anciano. Al desplegar la túnica, un sombrero de mago alto y puntiagudo salió
+del paquete y, con un silbido y un estallido, apareció el mismo bastón intrincadamente
+tallado que portaba el Anciano. Una nota del Anciano le informaba que las prendas eran
+indestructibles y que el bastón poseía muchas propiedades mágicas que Gyron debería
+descubrir. Explicaba además que, de ese día en adelante, Gyron sería conocido como
+el Sabio.
 
- Tired from his walking and with an inner glow of
-accomplishment, The Sage settled down for the first night
-of his long pilgrimage across the lands.
+Cansado de caminar y con un brillo interior de logro, el Sabio se dispuso a pasar la
+primera noche de su largo peregrinaje por las tierras.
 
- After many months of further travels and adventures, The 
-Sage returned to Moonguard and was warmly welcomed by the
-villagers and most especially by his parents, Frieda and
-Horstle. News of his coming had preceded him and the whole
-village had worked hard to build and furnish a cottage for the mage in the pleasant forest just outside the town.
-After a festive banquet that evening, Gyron retired to his
-new home.
+Tras muchos meses de más viajes y aventuras, el Sabio regresó a Moonguard y fue
+recibido calurosamente por los aldeanos y, muy especialmente, por sus padres, Frieda y
+Horstle. La noticia de su llegada le había precedido y toda la aldea había trabajado
+duro para construir y amueblar una cabaña para el mago en el agradable bosque justo a
+las afueras del pueblo. Tras un banquete festivo esa noche, Gyron se retiró a su
+nuevo hogar.
 
- The Sage settled into his life outside Moonguard. He received
-many visitors who have traveled from near and far to seek his
-guidance, help, and training. The years passed. It was not
-long before first Horstle and then Frieda died. The Sage was
-devastated by his loss. In his grief he swore to dedicate the
-rest of his life to defeating death so that grief like his
-could be avoided by others.
+El Sabio se estableció en su vida a las afueras de Moonguard. Recibió a muchos
+visitantes que viajaban de cerca y de lejos en busca de su guía, ayuda y entrenamiento.
+Pasaron los años. No pasó mucho tiempo antes de que primero Horstle y luego Frieda
+murieran. El Sabio quedó devastado por su pérdida. En su dolor, juró dedicar el resto
+de su vida a derrotar a la muerte para que otros pudieran evitar un sufrimiento como
+el suyo.
 
- He returned to the Great Library at the Crystal Tower and
-researched the many flowers, herbs and plants that he had
-heard about and seen during his travels. In his cottage, he
-labored tirelessly over the spellbooks, vials and
-collection of flora from all over the lands. He tested the
-potions on himself. The years went by, but The Sage seemed
-not to age anymore. At some point he had found the right
-combination in his experiments, but could not determine
-which combination it had been as the change had been most
-subtle. He had secured a life without end. And the years
-continued to pass. 
+Regresó a la Gran Biblioteca de la Torre de Cristal e investigó las muchas flores,
+hierbas y plantas de las que había oído hablar y visto durante sus viajes. En su
+cabaña, trabajó incansablemente sobre libros de hechizos, viales y colecciones de flora
+de todas las tierras. Probó las pociones en sí mismo. Pasaron los años, pero el Sabio
+parecía no envejecer más. En algún momento encontró la combinación correcta en sus
+experimentos, pero no pudo determinar cuál había sido, ya que el cambio fue sumamente
+sutil. Había conseguido una vida sin fin. Y los años siguieron pasando.
 
- Mages came to him for help which he freely gave. The Sage
-settled into his life of advising and guiding and  the years
-continued to pass. Unfortunately, his fame became so great
-that the call for his help was unmanageable. He reluctantly
-packed his possessions for the last time, and moved far into
-the Kurallian Mountains and built a magical fortress. Only
-the most worthy magic user could gain access and help from
-The Sage. 
+Los magos acudían a él en busca de ayuda, que él brindaba libremente. El Sabio se
+acomodó en su vida de asesorar y guiar, y los años continuaron pasando. Por desgracia,
+su fama llegó a ser tan grande que la demanda de su ayuda se volvió inmanejable. A
+regañadientes, empacó sus posesiones por última vez, se trasladó a lo más profundo de
+las montañas Kurallianas y construyó una fortaleza mágica. Solo el usuario de magia más
+digno podría obtener acceso y ayuda del Sabio.
 
- However, following his heart, even today The Sage often
-leaves his mountain abode and travels the land helping
-young mages gain experience and to grow.
+Sin embargo, siguiendo su corazón, incluso hoy en día el Sabio a menudo abandona su
+morada en la montaña y recorre las tierras ayudando a los jóvenes magos a ganar
+experiencia y a crecer.
 
- ...
+...
 
- Snap, crackle ... The firelight flickers... The old mage
-stirs as the memories fade and flicker like the firelight.
-Bang, bang, bang... echoes from the pounding knocker on the
-great oaken doors of the fortress... The Sage rises and heads
-for the doors knowing that yet another mage in need has found
-him and is worthy of help.  
+Chasquido, estallido... La luz del fuego parpadea... El viejo mago se agita mientras los
+recuerdos se desvanecen y parpadean como la luz del hogar. ¡Bang, bang, bang!... ecos de
+la aldaba golpeando las grandes puertas de roble de la fortaleza... El Sabio se levanta
+y se dirige a las puertas, sabiendo que otro mago necesitado le ha encontrado y es
+digno de ayuda.
+
+

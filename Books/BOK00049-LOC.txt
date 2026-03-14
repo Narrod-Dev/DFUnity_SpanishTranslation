@@ -1,191 +1,179 @@
-Title: The Real Barenziah, Part VII
-Author: Anonymous
+Title: La Verdadera Barenziah, Parte VII
+Author: Anónimo
 IsNaughty: False
 Price: 580
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]The Real
+[/center]La Verdadera
 
 [/center]Barenziah
 
-[/center]Part VII
+[/center]
 
-
+[/center]Parte VII
 
 [/font=4]
 
-
-
 [/center]
 
+"Todo lo que he amado, lo he perdido", pensó Barenziah, observando a los
+caballeros montados delante y detrás de ella, y a las doncellas cerca de
+ella en un carruaje, "y sin embargo, he ganado una medida de riqueza y
+poder, y la promesa de más por venir. Caro lo he pagado. Ahora comprendo
+mejor el amor que Tiber Septim le profesa, si es que a menudo ha pagado
+tales precios, pues seguramente el valor se mide por el precio que uno
+paga". Barenziah, por deseo propio, cabalgaba sobre una brillante yegua
+negra, vestida como una guerrera con una reluciente cota de malla de
+factura elfa oscura.
+
+A medida que pasaban los lentos días y su comitiva recorría un camino
+serpenteante hacia el este, hacia el sol poniente, a su alrededor se
+alzaban las escarpadas laderas de las montañas de Morrowind. El aire era
+fino y soplaba constantemente un gélido viento de finales de otoño, pero
+también era rico en el dulce aroma a especias de la rosa negra de
+floración tardía, que crecía en cada rincón y grieta sombría, encontrando
+alimento incluso en las laderas más pedregosas. En pequeños pueblos y
+ciudades, gente andrajosa de los elfos oscuros se reunía a lo largo del
+camino para gritar su nombre o simplemente mirar boquiabiertos. La mayor
+parte de su escolta de caballeros eran guardiasrojas, con algunos elfos
+oscuros, nórdicos y bretones dispersos entre ellos. A medida que se
+adentraban en el corazón de Morrowind, estos se sentían cada vez más
+incómodos y se mantenían unidos. Incluso los caballeros elfos oscuros
+parecían algo inquietos. Barenziah se sentía como en casa, sentía la
+bienvenida que le brindaba esta tierra.
+
+Symmachus se reunió con ella en las fronteras de Mournhold con una
+escolta de caballeros, de los cuales aproximadamente la mitad eran elfos
+oscuros con uniforme de batalla imperial, según notó ella. Hubo un gran
+desfile por la ciudad y discursos de bienvenida de los ancianos.
+
+"He hecho reformar la suite de la reina para ti", dijo él, "pero puedes
+cambiar cualquier cosa que no sea de tu gusto, por supuesto". Continuó
+con detalles sobre la ceremonia de coronación que se celebraría en una
+semana. Era el mismo hombre al mando de siempre, pero ella percibió algo
+más. Él estaba ansioso por obtener su aprobación sobre los preparativos.
+No le preguntó nada sobre su estancia en la Ciudad Imperial ni sobre
+Tiber Septim, aunque Barenziah estaba segura de que Drelliane se lo había
+contado todo con detalle.
+
+La ceremonia en sí, como tantas otras cosas, fue una mezcla de lo viejo
+y lo nuevo, con partes dictadas por el formato imperial, ya que juró
+servicio al Imperio y a Tiber Septim, así como a la tierra de Mournhold
+y a su gente. Luego aceptó el vasallaje del pueblo y del consejo. El
+consejo estaba compuesto por una mezcla de representantes imperiales, a
+los que llamaban asesores, y representantes nativos del pueblo. Estos
+últimos eran en su mayoría ancianos, de acuerdo con la costumbre élfica.
+Barenziah descubrió que gran parte de su tiempo lo ocupaba en intentar
+reconciliar estas dos fuerzas. Y se esperaba que los ancianos hicieran
+la mayor parte de la conciliación en nombre de las reformas introducidas
+por el Imperio, como la propiedad de la tierra y la agricultura de
+superficie, que iban totalmente en contra de la tradición elfa oscura,
+tal como la establecieron sus antiguos dioses y diosas. Ahora, Tiber
+Septim, en nombre del Único, había decretado una nueva tradición, y se
+esperaba que los propios dioses y diosas obedecieran.
+
+Barenziah se volcó en el trabajo y el estudio. Había terminado con el
+amor y los hombres por mucho, mucho tiempo, si no para siempre. Había
+otros placeres, descubrió, tal como Symmachus había prometido: los de la
+mente y los del poder. Desarrolló un amor por la historia y las leyendas
+de los elfos oscuros, un hambre por conocer al pueblo del que
+descendía, orgullosos guerreros y artesanos.
+
+Tiber Septim vivió otro medio siglo, durante el cual ella lo vio en
+pocas ocasiones, cuando era llamada a la Ciudad Imperial por una razón u
+otra. Él la saludaba con calidez en esas ocasiones y mantenían largas
+charlas sobre los acontecimientos. Parecía haber olvidado por completo
+que alguna vez hubiera habido algo más entre ellos. Él cambió poco con
+el paso de los años. El rumor decía que sus magos habían encontrado
+hechizos para prolongar su vitalidad, e incluso que el Único le había
+concedido la inmortalidad. Entonces, un día llegó un mensajero con la
+noticia de que había muerto, y su hijo era ahora el Emperador en su lugar.
+
+Recibieron la noticia en privado, ella y Symmachus. Él lo tomó con
+estoicismo, como lo tomaba todo.
+
+"No parece posible", dijo Barenziah.
+
+"Te lo dije. Es el camino de los humanos. Son una raza de vida corta.
+Realmente no importa. Su poder perdura, y ahora su hijo lo ejerce".
+
+"Lo llamabas tu amigo. ¿No sientes nada?".
+
+Él se encogió de hombros. "Hubo un tiempo en que tú lo llamabas algo
+más. ¿Qué sientes tú, Barenziah?".
+
+"Vacío. Soledad", dijo ella, y luego también se encogió de hombros.
+"Eso no es nuevo".
+
+"Lo sé", dijo él, tomándole la mano. "Barenziah, déjame intentar llenar
+ese lugar solitario". Le levantó el rostro y la besó. La llenó de
+asombro. No recordaba que él la hubiera tocado nunca antes. Jamás había
+pensado en él de esa manera y, sin embargo, innegablemente, un viejo y
+familiar calor se extendió por su cuerpo. Había olvidado lo bueno que
+era ese calor. No el calor abrasador que había sentido con Tiber Septim,
+sino el calor que asociaba con... ¡con Straw! Straw, el pobre Straw. No
+había pensado en él en tanto tiempo. Tendría mediana edad ahora, si aún
+viviera. Probablemente casado y con una docena de hijos, esperaba ella,
+y una esposa que pudiera hablar por los dos.
+
+"Cásate conmigo, Barenziah", estaba diciendo él, "he trabajado, me he
+esforzado y he esperado lo suficiente, ¿no es así?".
+
+Matrimonio. "Un campesino con sueños de campesino". Las palabras
+aparecieron en su mente, como si vinieran de hace mucho tiempo. Y sin
+embargo, ¿por qué no? Si no él, ¿quién? Las grandes familias nobles
+habían sido destruidas en la guerra y sus secuelas. El dominio elfo
+oscuro había sido restaurado, pero no la antigua nobleza. La mayoría de
+ellos eran advenedizos, como Symmachus, y no tan buenos como él. Él
+había luchado para mantener Mournhold íntegra y sana cuando sus llamados
+asesores habrían hurgado en sus huesos, succionándolos hasta dejarlos
+secos como Ebonheart había sido succionada. Había luchado por Mournhold,
+había luchado por ella, mientras ella y el reino crecían. Sintió una
+repentina oleada de gratitud e, innegablemente, afecto. Él era firme y
+fiable. La había servido bien. "¿Por qué no?", dijo ella, sonriendo.
+
+La unión fue buena, tanto en sus aspectos políticos como personales.
+Aunque el hijo de Tiber Septim la miraba con recelo, su confianza en el
+viejo amigo de su padre era absoluta. Symmachus, sin embargo, todavía
+era visto con sospecha por la gente testaruda de Morrowind, desconfiados
+de su ascendencia campesina y sus estrechos vínculos con el Imperio,
+mientras que ella era bastante popular. "La Señora es una de los
+nuestros en su corazón", se susurraba, "mantenida cautiva como nosotros
+lo estamos". Barenziah se sentía satisfecha. Había trabajo y placer, ¿y
+qué más se podía pedir a la vida? Los años pasaron velozmente, con
+crisis que afrontar, tormentas, hambrunas, fracasos, éxitos e intrigas
+que frustrar. Mournhold prosperó bastante bien. Su gente estaba segura y
+alimentada; sus minas y granjas eran productivas. Todo iba bien, salvo
+que el matrimonio no producía hijos. No había herederos.
+
+Ahora bien, los hijos de los elfos tardan en llegar y son de lo más
+exigentes con su bienvenida, los hijos nobles más que otros; por lo
+tanto, habían pasado muchas décadas antes de que empezaran a
+preocuparse.
+
+"La culpa es mía, esposo. Soy mercancía dañada", dijo Barenziah con
+amargura. "Si quieres tomar a otra...".
+
+"No quiero a ninguna otra", espetó Symmachus, "ni sé si la culpa es
+tuya. Quizá sea mía. Sea como sea, buscaremos una cura. Si hay daño,
+¿seguramente podrá ser reparado?".
+
+"¿Cómo? ¿Cuando no nos atrevemos a confiar a nadie mi verdadera
+historia? Los juramentos de los sanadores no siempre se mantienen".
+
+"No importará si cambiamos un poco el tiempo y las circunstancias.
+Digan lo que digan o dejen de decir, Jephre nunca descansa. Su mente
+inventiva y su lengua rápida siempre están ocupadas difundiendo chismes
+y rumores".
+
+Sacerdotes y sanadores iban y venían, pero todos sus rezos, pociones y
+otros esfuerzos no produjeron ni siquiera un periodo de floración, y
+mucho menos un solo fruto. Finalmente, lo sacaron de sus mentes y lo
+dejaron en manos de los dioses. Aún eran jóvenes, con siglos por delante.
+Había tiempo. Los elfos siempre tienen tiempo.
 
 
- "Everything I have ever loved I have lost," Barenziah
-thought, looking over the mounted knights behind and ahead,
-the tirewomen near her in a carriage, "yet have I gained a
-measure of wealth and power, and the promise of more to
-come. Dearly have I bought it. Now do I better understand
-Tiber Septim's love of it, if he has oft paid such prices,
-for surely worth is measured by the price one pays."
-Barenziah, by her wish, rode mounted on a shining black mare,
-clad as a warrior in shining chain mail of dark elf making.
-
- As the slow days slipped by and her train rode a winding
-road eastward into the setting sun, around her rose the
-steep-sided mountain slopes of Morrowind. The air was thin
-and a chill late autumn wind blew constantly, but it was
-also rich with the sweet spice smell of the late-blooming
-black rose, which grew in every shadowy nook and crevice,
-finding nourishment even in the stoniest slopes. In small
-villages and towns, ragged dark elf folk gathered along the
-road to cry her name or simply gape. Most of her knightly
-escort were Redguards with a few dark elves, Nords and
-Bretons scattered among them. As they wove their way into the
-heart of Morrowind, these grew increasingly uncomfortable
-and clung together. Even the dark elf knights seemed somewhat
-uneasy. Barenziah felt at home, felt the welcome extended to
-her by this land.
-
- Symmachus met her at the Mournhold borders with an escort of
-knights, about half of whom were dark elf in Imperial battle
-dress, she noted. There was a grand parade into the city and
-speeches of welcome from elders. 
-
- "I've had the queen's suite refurbished for you," he said,
-"but you can change anything not to your taste, of course."
-He went on about details of the coronation ceremony which was
-to be held in a week. He was his old commanding self, but she
-sensed something else as well. He was eager for her approval
-of the arrangements. He asked her nothing about her stay in
-Imperial City or Tiber Septim, although Barenziah was
-certain that Drelliane had told him everything in detail.
-
- The ceremony itself, like so much else, was a mixture of old
-and new, parts of it dictated by Imperial format, as she
-was sworn to service of the Empire and Tiber Septim, as
-well as to the land of Mournhold and its people. She then
-accepted fealty from the people and the council. The
-council was composed of a mixture of Imperial
-representatives, advisors they were called, and native
-representatives of the people. These latter were mostly
-elders, in accordance with elven custom. Barenziah found
-that much of her time was occupied in attempting to
-reconcile these two forces. And the elders were expected to
-do most of the conciliating in the name of the reforms
-introduced by  the Empire, such as land ownership and surface
-farming, which went clean against dark elven tradition, as
-laid down by their ancient gods and goddesses. Now, Tiber
-Septim, in the name of the One had decreed a new tradition,
-and the gods and goddesses themselves were expected to obey.
-
- Barenziah threw herself into work and study. She was through
-with love and men for a long, long time, if not forever.
-There were other pleasures, she discovered, as Symmachus had
-promised, those of the mind, of power. She developed a love
-for dark elf history and legend, a hunger to know the people
-from whom she sprang, proud warriors and craftsmen. 
-
- Tiber Septim lived another half century, during which she
-saw him on a few occasions, as she was bidden to Imperial
-City for one reason or another. He greeted her with warmth on
-these occasions and they had long talks together about
-events. He seemed to have quite forgotten that there had ever
-been anything more between them. He changed little over the
-years. Rumor said that his mages had found spells to extend
-his vitality, and even that the One had granted him
-immortality. Then one day a messenger came with the news that
-he was dead, and his son was now Emperor in his place.
-
- They'd heard the news in private, she and Symmachus. He took
-it stoically, as he took everything.
-
- "It doesn't seem possible," Barenziah said.
-
- "I told you. It's the way of humans. They are a short-lived
-race. It doesn't really matter. His power lives on, and his
-son now wields it."
-
- "You called him your friend. Do you feel nothing?"
-
- He shrugged. "There was a time when you called him somewhat
-more. What do you feel, Barenziah?" 
-
- "Emptiness. Loneliness," she said, then she too shrugged.
-"That's not new."
-
- "I know," he said, taking her hand. "Barenziah, let me try to
-fill that lonely place." He turned her face up and kissed
-her. It filled her with astonishment. She couldn't remember
-his ever touching her before. She'd never thought of him in
-that way, and yet, undeniably, an old familiar warmth
-spread through her. She'd forgotten how good it was, that
-warmth. Not the burning heat she'd felt with Tiber Septim,
-but the warmth she associated with, with Straw! Straw, poor
-Straw. She hadn't thought of him in so long. He'd be
-middle-aged now if he still lived. Probably married with a
-dozen children, she hoped, and a wife who could talk for two.
-
- "Marry me, Barenziah," he was saying, "I've worked and
-toiled and waited long enough, haven't I?"
-
- Marriage. "A peasant with peasant dreams." The words
-appeared in her mind, as if from long ago. And yet, why
-not? If not him, who? The great noble families had been
-destroyed in the war and its aftermath. Dark elf rule had
-been restored, but not the old nobility. Most of them were
-upstarts, like Symmachus and not as good as he was. He'd
-fought to keep Mournhold whole and healthy when their
-so-called advisors would have picked their bones, sucked them
-dry as Ebonheart had been sucked dry. He'd fought for
-Mournhold, fought for her, while she and it grew. She felt a
-sudden rush of gratitude, and, undeniably, affection. He
-was steady and reliable. He'd served her well. "Why not?"
-she said, smiling.
-
- The union was a good one, both in its political and
-personal aspects. While Tiber Septim's son viewed her with a
-jaundiced eye, his trust in his father's old friend was
-absolute. Symmachus, however, was still viewed with
-suspicion by Morrowind's stiff-necked folk, suspicious of his
-peasant ancestry, his close ties to the Empire, while she was
-quite popular. "The Lady's one of our own in her heart," it
-was whispered, "held captive as we are." Barenziah felt
-content. There was work and pleasure and what more could
-one ask of life? The years passed swiftly, with crises to be
-dealt with, storms and famines and failures and successes
-and plots to be foiled. Mournhold prospered well enough.
-Her people were secure and fed, her mines and farms
-productive. All was well save that the marriage produced no
-children. No heirs.
-
- Now elven children are slow to come, and most demanding of
-their welcome, noble children more so than others, thus many
-decades had passed before they grew concerned.
-
- "The fault lies with me, husband. I am damaged goods."
-Barenziah said bitterly. "If you want to take another..."
-
- "I want no other," Symmachus snapped, "nor do I know the
-fault to be thine. Perhaps it is mine. Whichever, we will seek
-a cure. If there is damage, surely it may be repaired?"
-
- "How so? When we dare not entrust anyone with my true story? Healer's oaths do not always hold."
-
- "It won't matter if we change the time and circumstances a
-bit. Whate'er we say or fail to say Jephre never rests. His
-inventive mind and quick tongue are ever busy spreading
-gossip and rumor."
-
- Priests and Healers came and went, but all their prayers,
-potions and other efforts produced not even a period of
-bloom, let alone a single fruit. Eventually, they put it
-from their minds and left it in the gods' hands. They were yet
-young, with centuries ahead of them. There was time. Elves
-always have time.
-
- 

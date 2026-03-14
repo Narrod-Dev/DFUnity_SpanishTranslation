@@ -1,340 +1,331 @@
-Title: Fools' Ebony, Part the Oneth
+Title: Ébano del tonto, primera parte
 Author: Frincheps
 IsNaughty: True
 Price: 317
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
-
 
 [/font=2]
 
-[/center]Fools' Ebony,
+[/center]Ébano del tonto,
 
-[/center]Part the
+[/center]Primera
 
-[/center]Oneth
-
-
+[/center]Parte
 
 [/font=4]
 
+[/center] Reparto
 
+Prólogo El Aventurero, un bribón Elfo Oscuro Komon, un Sacerdote
+de Akatosh Lheban, otro Sacerdote de Akatosh Epílogo Stete, un
+Sacerdote de Julianos Raic, otro Sacerdote de Julianos Shub, un
+Mago Shub, un Mago diferente con el mismo nombre Nephron, un
+Mercader algo sórdido 5 Armeros Ortho Crunn, esposo de
+Millie Una Condesa Lúbrica Millie, Posadera y Filósofa
+Gurnsey, Moza Bovina Mozas variadas y canallas de las
+tabernas Soldados Enanos Gigantes
 
-[/center] Dramatis Personae
+Daggerfall y alrededores en los días de calma de la 3ª Era
 
- Prologue The Adventurer, A Dark Elf Rascal Komon, A Priest
-of Akatosh Lheban, Another Priest of Akatosh Epilogue Stete, A
-Priest of Julianos Raic, Another Priest of Julianos Shub, A
-Mage Shub, A Different Mage of the Same Name Nephron, A
-Somewhat Sleazy Merchant 5 Armorers Ortho Crunn, Husband of
-Millie A Lusty Contessa Millie, Innkeep and Philosopher
-Gurnsey, Bovine Wench Assorted Wenches and Cads of the
-Taverns Soldiers Dwarves Giants
+Primera Parte - Relativo a Sacerdotes y Nackles       Tal como
+fue relatado extensamente por dos Sacerdotes de       Akatosh
+al Aventurero, quien en ese        momento no estaba teniendo una
+aventura, y       no tenía nada mejor que hacer. En la cual se arroja
+algo       (probablemente no deseada) de luz sobre       el Sacerdocio
+y sus miembros, y sobre       un viejo mito campesino de cierta
+significancia,       especialmente común en Roca Alta. Y en      
+la cual aparece el misterioso Ébano del Tonto,       ese extraño
+material que       podría traer un cambio cultural drástico
+para muchos, o simplemente grandes beneficios para unos       pocos,
+o la muerte para un grupo, o no tener       resultado alguno.
 
+Principios del mes de Helada. La posada del Daedra Muerto. Entra el
+Prólogo
 
+Prólogo: Nuestros pobres actores intentarán recordar sus
+frases y no tropezar con nuestro escaso decorado. Les ruego,
+público, que no interrumpan, acosen o lancen comida
+podrida. Solo harán que esta breve obra dure más tiempo.
+El Gremio de Dramaturgos, Actores y Teatristas desea que cualquiera
+de ustedes que sea sensible o alérgico a los diálogos divagantes,
+la actuación de madera, la exposición incomprensible o
+los finales insatisfactorios que dejan a uno confundido e infeliz
+abandone el teatro inmediatamente. Su oro, por desgracia, no será
+reembolsado. Como nota positiva, esta serie de viñetas
+contiene referencias gratuitas a todos los placeres de la
+carne. Pueden disfrutarlo. Ah, aquí viene nuestro héroe, el pícaro
+Elfo Oscuro llamado el Aventurero. Es hora de que el Prólogo se
+retire alegremente.
 
- Daggerfall and Environs in the Doldrums of the 3rd Era
+Sale el Prólogo Entra el Aventurero
 
- Part The Oneth - Concerning Priests and Nackles       As
-related at length by two Priests of       Akatosh to the
-Adventurer, who at the        time was not having an
-adventure, and       had nothing better to do. In which some     
- (probably unwanted) light is shed upon       the Priesthood
-and its members, and upon       an old peasant myth of some
-significance,       especially common in High Rock. And in      
-which the mysterious Fools' Ebony       appears, that strange
-material that       could bring either drastic cultural
-change       for the many, or just great profit for a       few,
-or death for a bunch, or have no       result whatsoever.
+Aventurero:  Qué conversación tan extraña acabo de escuchar
+entre esos dos magos. Es mejor no hablar de tales
+asuntos junto a los setos de la letrina.
 
- Early in the month of Frostfall. The Dead Daedra Inn. Enter
-Prologue
+Entran 2 Sacerdotes de Akatosh (Lheban, Komon)
 
-      Prologue: Our poor players will try and remember their
-lines and not trip over our meager set. I beg you, the
-audience, not to heckle, badger, or throw rotten
-foodstuffs. You will only make this short play last longer.
-The Guild of Playwrites, Actors, and Dramatists wish any of
-you who are sensitive or allergic to rambling dialogue,
-wooden acting, incomprehensible exposition, or
-unsatisfying endings that leave one confused and unhappy to
-exit the theatre immediately. Your gold will, alas, not be
-refunded. As a saving grace, this series of vignettes
-contains gratuitous references to all pleasures of the
-flesh. You may enjoy it. Ah, here comes our hero, the roguish
-Dark Elf called the Adventurer. It is time for Prologue to
-trip merrily away.
+Lheban: ¿Le importa si nos unimos a usted, amigo? ... Bien,
+necesitamos algo de compañía nosotros mismos. Me llamo Lheban,
+mi compañero sacerdote aquí presente es Komon. Ambos servimos
+a Akatosh, cada uno a su manera, por supuesto ...
 
+Aventurero: Siéntanse como en casa, no es mi banco.
+Pero pensaba que los sacerdotes ... no iban a ... er ...
+lugares como este, posadas. Quiero decir ... ¿a menos que estén
+de servicio?
 
-     Exit Prologue Enter the Adventurer
+Lheban: Oh, no estamos de servicio. Tenemos que regenerar
+nuestras energías vitales internas, para que podamos seguir
+bendiciendo y curando ...
 
-       Adventurer:  What an odd conversation I just heard
-between those two mages. It is best not to speak of such
-matters next to privy hedges.
+Komon: Venimos aquí a menudo, nos subimos las túnicas, soltamos
+las riendas, por así decirlo. Nos llenamos con un poco de energía
+embotellada ...
 
- Enter 2 Priests of Akatosh (Lheban, Komon)
+(Komon se ríe entre dientes)
 
-       Lheban: Mind if we join you, fellow? ... Good, need some
-company ourselves. I am named Lheban, my fellow priest
-here is Komon. We both serve Akatosh, all in our own ways,
-of course ...
+Lheban: Buscando a aquellos que necesitan consuelo y
+bendición, por supuesto ...
 
-       Adventurer: Make yourselves at home, it's not my bench.
-But I thought that priests ... didn't go to ... er ...
-places like this, Inns. I mean ... unless on duty?
+Komon: Oh, sí, oh sí ... como esa jovencita que estaba fuera la
+otra noche ...
 
-       Lheban: Oh, we're not on duty. Got to regenerate our
-internal vital energies, so we can go on blessing and curing
-...
+(Lheban patea a Komon)
 
-       Komon: We often come here, hike up our robes, kick up our
-heels, as it were. Fill up with some bottled energy ...
+Komon: ... y de todos modos nuestro Sumo Sacerdote nos dijo que
+nos perdiéramos...
 
- (Komon snickers)
+Lheban: Quiere decir que nos dijo que tomáramos aire. Hemos
+estado teniendo visiones, ya ve ...
 
-       Lheban: Looking for those in need of comfort and
-blessing, of course ...
+Komon: Sí, algo raras, la verdad ... y ni siquiera habíamos
+estado tomando nada de eso ...
 
-       Komon: Oh, yes, Oh yes ... like that young girl outside the
-other evening ...
+(Lheban patea a Komon)
 
- (Lheban kicks Komon)
+Lheban: Ambos hemos estado teniendo las mismas visiones -- muy
+extraño.
 
-       Komon: ... and anyway our High Priest told us to get
-lost...
+Aventurero: Cuéntenme, no voy a ninguna parte con prisas.
 
-       Lheban: He means told us to get some air. We've been
-having visions, you see ...
+Lheban: Bueno, ambos hemos estado escuchando algo así como ...
+palabras ... para empezar. Como "Sir Nich" o "Sain Nack" ...
 
-       Komon: Yes, sort of weird, really ... and we hadn't even
-been taking any of that ...
+Aventurero: ¿Dijo "Nick" o "Nack"? Espere un momento ...
+déjeme darle un trago a su botella, hermano ... ¡Ah! Eso está
+mejor - ¡qué cosas de alta clase beben ustedes! Sí, recuerdo -
+alguna historia o vieja leyenda sobre un elfo, de nombre Nuckle,
+creo -- ¿de Morrowind?
 
- (Lheban kicks Komon)
+Lheban: Sabe, tal vez haya dado en el clavo allí --
+hay una vieja leyenda por estos lares, viene de lo profundo de
+Roca Alta, creo ... hmmm ... ¡Nackles, eso es!
 
-       Lheban: Both of us been having the same visions -- real
-odd.
+Aventurero: ¡Nackles, eh! Parece que varios Elfos Oscuros
+usan ese nombre ... particularmente los ... más peculiares...
 
-       Adventurer: Do tell, I'm not going anywhere in a hurry.
+Komon: Sí, supongo que los malos están metidos en todo eso de
+la magia de armas ... tipos muy desagradables ...
 
-       Lheban: Well, we've both been hearing sort of ... words
-... for a start. Like 'Sir Nich' or 'Sain Nack' ...
+Lheban:     (a Komon) ¡Komon! Este tipo tiene orejas
+puntiagudas y ojos rojos ...
 
-       Adventurer: You said 'Nick' or 'Nack'? Just a minute ...
-let me have a swig from your bottle, Brother ... Ah! That's
-better - high-class stuff you fellows drink! Yes, I recall -
-some story or old legend about an elf, name of Nuckle, I
-think -- from Morrowind?
+Komon: Perdóname, amigo ... está un poco oscuro, y yo no
+... uh ...          Aventurero: Oh, no importa. Son tiempos extraños.
+Ya sabe, vive y deja vivir -- o morir -- según sea el caso. Ahora
+... ¿supongo que me contarán sobre ese mito de Nackles? Aquí,
+déjenme ayudarles con esa botella ... ¡Ah! Gracias.         
+Lheban: Er ... claro, si quiere ponerlo así ... ¡Tenga, dé otro
+trago! Claro, tenemos tiempo, y ahora lo recuerdo con claridad.   
+             Komon: Sí, tenemos un par de horas hasta que esa pequeña
+rubia aparezca en su farola ...
 
-       Lheban: You know, maybe you're on to something there --
-there is a old legend around these parts, comes from deep in
-High Rock I think ... hmmmm ... Nackles, that's it!
+(Lheban patea a Komon)
 
-       Adventurer: Nackles, eh! Seems that several Dark Elves
-use that name ... particularly the ... more peculiar
-ones...
+Lheban:      (a Komon) ¡Silencio! ¡Recuerda, tuvimos que decirle
+su dirección al Sumo Sacerdote, así que ella no estará por aquí en un
+buen rato!      (a todos) Muy bien, aquí está la historia, lo mejor
+que puedo recordarla. Este es un cuento que los campesinos de Roca Alta
+cuentan a sus hijos para asustarlos y que se porten bien un rato,
+supongo. Lo cuentan, déjenme ver ... o en el Relato de las Velas,
+¿o es en el Festival de las Brujas? -- justo antes de enviar a los
+niños a dormir al establo o a la pocilga.
 
-       Komon: Yes, I guess that the bad ones are into all that
-weapons magicka stuff ... very nasty fellows ...
+Komon: ¡Campesinos desagradables y crueles! Aunque yo los
+enviaría a todos al estercolero ...
 
-       Lheban:     (to Komon) Komon! This fellow's got pointy
-ears and red eyes ...
+Lheban: ¡De verdad, Komon! Recuerda, esas pobres almas necesitan
+nuestra compasión y bendición, ¡somos su salvación!
 
-       Komon: Pardon me, friend ... it's sort of dark, and I
-didn't ... uh ...          Adventurer: Oh, that's fine. These are
-strange times. You know, live and let live -- or die -- as the
-case may be.  Now ... suppose you tell me about this Nackles
-myth? Here, let me help you with that bottle ... Ah! Thanks.     
-    Lheban: Er ... sure, if you want to put it that way ...
-Here, have another swig! Sure, we've got the time, and I
-recall it clearly now.                Komon: Yes, we've a couple
-hours 'til that little blonde shows up at her lamp ...
+Komon: ¿Y quién está ahora en el estudio del Viejo Pez Gordo?
 
- (Lheban kicks Komon)
+Lheban: Er ... como sea. Va más o menos así. Si los niños
+han sido muy buenos durante el año -- si han robado lo suficiente
+en el mercado, limpiado los establos cada día, no han jugado
+con goblins, han dejado en paz a las ovejas, y demás. Si han
+sido muy buenos, no tienen de qué preocuparse. Pero si no
+lo han sido, entonces aparece este desagradable y horrible
+espíritu de Elfo Oscuro llamado Nackles. No se parece al típico
+Elfo Oscuro -- más delgado, más alto. Cara blanca y pálida, larga
+como un brazo. Camina como si sus rodillas y codos se doblaran
+al revés. Se ríe como cuando arrastras las uñas por una pizarra.
+Viste un traje negro ajustado (no como un Khajiita, más bien un
+traje formal con botones) pero demasiado apretado y pequeño. Visita
+a las niñas malas y --
 
-      Lheban:      (to Komon) Quiet! Remember, we had to tell the
-High Priest her address, so she won't be around for a while!    
- (to all) Very well, here's the story, best as I can recall
-it. This is a tale the peasants up in High Rock tell their kids
-to scare them into being good for a while, I guess. They tell
-it, let me see ... either on Tales and Tallows, or is it
-Witches' Festival? -- just before the kids are sent out to the
-barn or pigsty to sleep. 
-
-       Komon: Nasty cruel peasants!  But then, I'd send them
-all out to the midden ...
-
-       Lheban: Really, Komon! Remember, those poor souls need
-our compassion and blessing, we are their salvation!
-
-       Komon: Now who's in Old High Mucky-Mucks' study?
-
-       Lheban: Er ... anyway. It goes a bit like this.  If the kids
-have been real good during the  year -- filched enough in the
-market, mucked out the stables every day, not gone playing
-with goblins, left the sheep alone, and so on. If they have
-been real good, they've nothing to worry about. But if they
-haven't been real good then there is this nasty, horrid Dark
-Elf spirit called Nackles. Doesn't look like your typical
-Dark Elf -- thinner, taller. Pasty white face, long as your
-arm. Walks like his knees and elbows bend the wrong way.
-Snickers like when you drag your fingernails across slate.
-Wears a tight black suit (not Khajiit, more like a formal
-suit with buttons) but too tight and small. He visits the bad
-girls and --
-
-       Komon: Why are you talking about Old High Mucky again,
+Komon: ¿Por qué vuelves a hablar del Viejo Pez Gordo otra vez,
 Lheban?
 
- (Komon hiccoughs) (Lheban kicks Komon)
+(Komon hipa) (Lheban patea a Komon)
 
-       Lheban: You really must excuse Komon here: overwork, you
-know. Too many curings and conversions ... Anyway, Old
-Nasty Nackles is supposed to wander under our Tamriel, in
-dirty deep dark dwarven tunnels. Everywhere under the
-lands, if you can believe that! Rides in a rusty squeaky old
-mine cart, on old mine tracks ...
+Lheban: Realmente debe disculpar a Komon: exceso de trabajo, ya
+sabe. Demasiadas curaciones y conversiones ... En fin, se supone
+que el Viejo y Desagradable Nackles vaga por debajo de nuestro Tamriel,
+en sucios, profundos y oscuros túneles enanos. ¡Por todas partes bajo
+las tierras, si puede creerlo! Viaja en un viejo carro de mina
+oxidado y chirriante, sobre viejas vías ...
 
-       Adventurer: I saw some of those in Fang Lair once, down
-in Hammerfell a long long while ago ...
+Aventurero: Vi algunas de esas en la Guarida de Fang una vez,
+allá en Páramo del Martillo hace muchísimo tiempo ...
 
-       Komon:       (to Lheban) What the Sheogorath was he doing in
-Fang Lair!?             Lheban:       (to Komon) Hush! If he's who I
-think he is, you do not want to know!       (to all) Um, yes.
-Well, Nackles gets pulled all around these deep tunnels by
-goblins -- not your usual dirty yellow ones, but nasty
-black things. Anyway, they pull Nackles round and through
-these dark tunnels, and then, late at night, he stops below
-each and every bad child's hovel or house or castle -- makes
-no difference. Then he slides up the drainage pipes ...
+Komon:       (a Lheban) ¡¿Qué narices estaba haciendo él en la
+Guarida de Fang!?             Lheban:       (a Komon) ¡Calla! ¡Si es
+quien creo que es, no querrás saberlo!       (a todos) Um, sí.
+Bueno, a Nackles lo arrastran por todos esos túneles profundos
+unos goblins -- no los habituales de color amarillo sucio, sino
+unos seres negros y desagradables. En fin, arrastran a Nackles por
+esos túneles oscuros y luego, tarde en la noche, se detiene debajo
+de la choza, casa o castillo de cada niño malo -- no hay
+diferencia. Luego se desliza por las tuberías de drenaje ...
 
-       Komon: Creeps up cracks ... crawls through holes ...
+Komon: Se cuela por las grietas ... repta por los agujeros ...
 
-       Lheban: Oozes up oubliettes ...
+Lheban: Rezuma por las mazmorras ...
 
-       Komon: Climbs giggling up garderobes ...
+Komon: Trepa riendo por las letrinas ...
 
-       Lheban: Right into the kid's place! Then, if the kid's only
-been sort of bad, Nackles will just mess things up in
-general, so the kid gets blamed. Make greasy dirty marks
-everywhere (more than usual, anyway), break some things,
-steal some things, so on and so forth. Maybe take the sugar
-sweets, leave some lumps of fools' ebony instead ...
+Lheban: ¡Directo al lugar del niño! Entonces, si el niño solo ha
+sido algo malo, Nackles simplemente estropeará las cosas en
+general, para que culpen al niño. Dejará marcas sucias y grasientas
+por todas partes (más de lo habitual, al menos), romperá algunas
+cosas, robará otras, y así sucesivamente. Quizá se lleve los dulces
+de azúcar y deje algunos trozos de Ébano del Tonto en su lugar ...
 
-       Adventurer: Fools' Ebony - what's that?  Heard mention of
-that, oh, a few hours ago ... Some Mages ...
+Aventurero: Ébano del Tonto - ¿qué es eso? Oí mencionarlo hace
+unas horas ... a unos Magos ...
 
-       Lheban: You did now? Interesting ... Very ... Well,
-lets talk of that in a bit ... just let me finish this Nackles
-thing. Where was I -- Oh yes ... Now, if the little brat has
-been real bad --  then all the little brat's toys get taken.
-The copper dagger, the wooden sword, the little whip, and
-so on. All the usual favorite kids things.
+Lheban: ¿Ah, sí? Interesante ... Muy ... Bueno, hablemos de
+eso en un momento ... déjeme terminar esto de Nackles. ¿Por dónde
+iba? -- Oh, sí ... Ahora, si el pequeño mocoso ha sido realmente
+malo -- entonces le quitan todos sus juguetes. La daga de cobre,
+la espada de madera, el látigo pequeño, y demás. Todas las cosas
+favoritas de los niños.
 
-       Komon: Whips? I like those.
+Komon: ¿Látigos? Esos me gustan.
 
- (Komon hiccoughs) (Lheban kicks Komon)
+(Komon hipa) (Lheban patea a Komon)
 
-       Lheban: Now if that little brat has been very, very bad
-then Nackles grabs the brat. Pops him or her in his dirty
-great sack. Hauls the sack off down the holes and cracks, down
-to his rusty old mine cart!  And away they go!         Komon: Hope
-he leaves some bad little girls behind.
+Lheban: Ahora, si ese pequeño mocoso ha sido muy, muy malo,
+entonces Nackles agarra al mocoso. Lo mete en su gran saco sucio.
+¡Arrastra el saco por los agujeros y grietas, hasta su viejo y
+oxidado carro de mina! ¡Y se van!         Komon: Espero que deje atrás
+a algunas niñas malas.
 
- (Lheban kicks Komon)
+(Lheban patea a Komon)
 
-       Lheban: Er ... so we can save them, of course, friend ...
-Well. Sometimes, so I've heard tell, the brat never comes
-back. No great loss, I guess, peasants just breed another.
+Lheban: Er ... para que podamos salvarlas, por supuesto, amigo
+... Bueno. A veces, según he oído contar, el mocoso nunca regresa.
+No es una gran pérdida, supongo, los campesinos simplemente crían
+a otro.
 
-       Komon: Know 'bout that, I do, I do ...
+Komon: Sé de eso, lo sé, lo sé ...
 
- (Lheban pinches Komon's nose)
+(Lheban le aprieta la nariz a Komon)
 
-       Lheban: But, as the story goes round here anyway, often
-the brat is just put to work, digging out lumps of Fools'
-Ebony, shoveling dirt, bagging it. Extending the tunnels of
-the Nackles. After a while, Brat is pushed back up to where it
-came from. Seems that Brat might think it's spent a year down
-there, but only a day has passed up top ... Brat comes back
-real thin and dirty though, covered in black mess ... You
-know, come to think of it -- on the day past Witches'
-Festival, I've often seen some little brats, scrawny, real
-dirty black mess on them, looking terrified, too. Parents
-drag them into Temples to get blessed and cured, if they have
-the gold. By the Beard of Sheogorath, the wailing and noise!
-Enough to drive a priest to ... er ... well,  never mind ...
-that's our problem ...
+Lheban: Pero, según cuenta la historia por aquí, a menudo el
+mocoso simplemente lo ponen a trabajar, extrayendo trozos de Ébano
+del Tonto, paleando tierra, empaquetándola. Extendiendo los túneles
+de los Nackles. Después de un tiempo, el mocoso es devuelto a donde
+vino. Parece que el mocoso puede pensar que ha pasado un año allí
+abajo, pero arriba solo ha pasado un día ... Sin embargo, el mocoso
+vuelve muy delgado y sucio, cubierto de un mejunje negro ... Sabe,
+ahora que lo pienso -- el día después del Festival de las Brujas, a
+menudo he visto a algunos mocosos, esqueléticos, con un mejunje negro
+muy sucio encima, y con aspecto aterrorizado también. Los padres los
+arrastran a los Templos para que los bendigan y curen, si tienen el
+oro. ¡Por la barba de Sheogorath, qué lamentos y qué ruido! ¡Suficiente
+para volver loco a un sacerdote ... er ... bueno, no importa ...
+ese es nuestro problema ...
 
-       Komon: Nah ... it's a problem with our suppliers, I tell
-you ...
+Komon: Nah ... es un problema con nuestros proveedores, te lo
+digo yo ...
 
- (Lheben throws Komon through a screen)
+(Lheban lanza a Komon a través de un biombo)
 
-       Lheban: Anyway, that's the short of it, this Nackles
-legend up around here. I recall now, it's widespread all
-over Tamriel ...  and knowing the place, probably more
-than a grain of truth in the tale, much, much more ...        
-Adventurer: So, I guess some of the ... er, darker Dark Elves
-sort of identify with this Nackles. Take on the persona, so to
-say ...
+Lheban: En fin, esa es la síntesis de esta leyenda de Nackles
+por aquí. Recuerdo ahora que está extendida por todo Tamriel ... y
+conociendo este lugar, probablemente haya más de un gramo de verdad
+en el relato, mucho, mucho más ...        
+Aventurero: Así que supongo que algunos de los ... er, Elfos Oscuros
+más sombríos se identifican con este Nackles. Adoptan el personaje,
+por así decirlo ...
 
-       Lheban: Yeah, that sort of sums it up, I guess ... though
-we don't see those types hauling off brats in sacks, now do
-we?
+Lheban: Sí, eso resume la cuestión, supongo ... aunque no vemos
+a tipos de esos llevándose a mocosos en sacos, ¿verdad?
 
-       Komon: Nah, that's wot we does, girly brats anyway,
-isn't it not?
+Komon: Nah, eso es lo que hacemos nosotros, mocosas al menos,
+¿no es así?
 
- (Komon hiccoughs) (Lheben breaks a bottle over Komon's head)
-(Komon falls unconscious)
+(Komon hipa) (Lheban rompe una botella en la cabeza de Komon)
+(Komon cae inconsciente)
 
-       Adventurer: Thats a very interesting tale, gentlemen.
-Say, let me repay you with another bottle -- what's that
-you're drinking? Ah, thought so - Innkeep!  More holy wine for
-these holy men!
+Aventurero: Es una historia muy interesante, caballeros.
+Digan, permítanme pagarles con otra botella -- ¿qué están bebiendo?
+Ah, lo imaginaba - ¡Posadero! ¡Más vino sagrado para estos hombres
+santos!
 
-       Lheban: A blessing on you for that kind gesture, friend.   
-       Adventurer: I thank you, I sure could use one or three ...
-Anyway, this 'Fools' Ebony', I've heard mutters and murmurs
-about that of late -- mostly eavesdropping ... pardon me
-... listening ... to Mages and the like. What's with this
-stuff?  Here, have another swig ... good!
+Lheban: Una bendición sobre usted por ese amable gesto, amigo.   
+       Aventurero: Se lo agradezco, seguro que me vendrían bien una
+o tres ... En fin, esto del "Ébano del Tonto", he oído rumores sobre
+eso últimamente -- sobre todo escuchando a escondidas ... perdón ...
+escuchando ... a Magos y similares. ¿Qué pasa con esto? Tenga, dé
+otro trago ... ¡bien!
 
-       Lheban: Well, we're not supposed to tell outsiders ...
-but then, you seem to know something already. And if you have
-been hearing Mage gossip ... Why, maybe we can do some
-business. Profit all round! Well ... for the Akatosh
-Chantry, of course, and your fee, good Sir.
+Lheban: Bueno, se supone que no debemos contárselo a extraños
+... pero claro, usted parece saber algo ya. Y si ha estado escuchando
+chismes de magos ... bueno, quizá podamos hacer negocios. ¡Beneficios
+para todos! Bueno ... para la Capilla de Akatosh, por supuesto, y su
+comisión, buen señor.
 
-       Adventurer: More and more interesting -- tell on, I pray
-you.
+Aventurero: Cada vez más interesante -- cuénteme más, se lo
+ruego.
 
- (Komon staggers to feet) (Komon hiccoughs)
+(Komon se levanta tambaleándose) (Komon hipa)
 
-       Komon: Time for me to go convert that little lamppost
-girl ... no, no, no - not last nights one, but the blonde
-...
+Komon: Hora de que vaya a convertir a esa pequeña chica de la
+farola ... no, no, no - no la de anoche, sino la rubia ...
 
- (Exit Komon) (Female squeals from offstage)
+(Sale Komon) (Gritos femeninos desde fuera del escenario)
 
-       Lheban: Friend, you'll have to excuse Komon. He's a bit
-... you know strange ... Got these ...
+Lheban: Amigo, tendrá que disculpar a Komon. Es un poco ... ya
+sabe, extraño ... tiene estas ...
 
-       Adventurer: Oh, that's all right, we've all got our own
-...
+Aventurero: Oh, no importa, todos tenemos nuestras propias ...
 
- (Exeunt Lheben and the Adventurer) (Enter Epilogue)
+(Salen Lheban y el Aventurero) (Entra el Epílogo)
 
-       Epilogue: Our apologies for the quality of this drama so
-far. If those of you still present will wait for a few
-minutes while our bard plays "Silence Implies Consent," we
-will change the set for the next act, Part the Twoth. Please
-don't forget to tip your wench. Do you believe there's such a
-thing as Fools' Ebony? Maybe we'll find out in Part the
-Twoth. Or maybe not.
+Epilogue: Nuestras disculpas por la calidad de este drama hasta
+el momento. Si aquellos de ustedes que aún están presentes esperan unos
+minutos mientras nuestro bardo toca "El silencio implica consentimiento",
+cambiaremos el decorado para el siguiente acto, la segunda parte. Por
+favor, no olviden dejar propina a su moza. ¿Creen que existe tal cosa
+como el Ébano del Tonto? Tal vez lo averigüemos en la segunda parte.
+O tal vez no.
 
- (Flourish) (Exit Epilogue)
+(Fanfarria) (Sale el Epílogo)
 
- End of Part the Oneth, Being Mostly Concerned with The
-Legend of Nackles. 
+Fin de la Primera Parte, que trata principalmente sobre la Leyenda
+de Nackles.
