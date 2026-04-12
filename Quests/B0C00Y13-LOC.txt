@@ -1,0 +1,73 @@
+Quest: B0C00Y13
+DisplayName: La Casa Infestada
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        ¿Por qué debería confiar en ti,
+<ce>                          %pcn? Supongo que una
+<ce>                       pequeña prueba de combate está
+<ce>                      en orden. Desde luego no te
+<ce>                      daría nada importante,
+<ce>                        considerando que no eres
+<ce>                     miembro de esta orden de caballería.
+<ce>                        Poseo un edificio que está
+<ce>                        infestado de criaturas.
+<ce>                       Mátalas por mí y quizá
+<ce>                    hable bien de ti.
+
+RefuseQuest:  [1001]
+<ce>                     Supongo que tendré que hacerlo
+<ce>                      yo mismo. Eres incluso más
+<ce>                       inútil de lo que pensaba.
+
+AcceptQuest:  [1002]
+<ce>                      Solo te doy 1 día
+<ce>                      para limpiar _house_. Después
+<ce>                      de eso, lo haré yo mismo
+<ce>                    y le diré a todos qué cobarde
+<ce>                            eres en realidad.
+
+QuestComplete:  [1004]
+<ce>                        Bastante aceptable, %pcn.
+<ce>                      Hablaré bien de ti ante
+<ce>                      mi orden de caballería.
+
+RumorsDuringQuest:  [1005]
+Sonidos muy extraños salen de _house_.
+<--->
+La casa de _qgiver_ realmente se ha ido al Oblivion.
+
+RumorsPostfailure:  [1006]
+El pobre _qgiver_ tiene que contratar a un exterminador.
+<--->
+A _qgiver_ le va a costar limpiar esa casa.
+
+RumorsPostsuccess:  [1007]
+_house_ finalmente está en paz.
+<--->
+Esas alimañas por fin están fuera de _house_.
+
+QuestorPostsuccess:  [1008]
+Bueno, limpiaste mi casa. ¿Qué necesitas?
+
+QuestorPostfailure:  [1009]
+Ni siquiera puedes matar a unas cuantas alimañas. No pierdas mi tiempo.
+<--->
+No perdería el aliento hablando con un adulador.
+
+
+QuestLogEntry:  [1010]
+%qdt:
+ En ___qgiver_,
+ conocí a _qgiver_ de la orden de caballería.
+ Puedo ganarme el favor de los caballeros
+ si libero _house_ en __house_
+ de su infestación por %g2.
+
+Message:  1011
+<ce>                Has limpiado la casa de _qgiver_.
+
+Message:  1012
+<ce>  Escuchas ruidos de rasguños provenientes de las paredes.
+<ce>  Las criaturas reaccionarán con toda seguridad de forma hostil
+<ce>  ante tu intrusión en su territorio.

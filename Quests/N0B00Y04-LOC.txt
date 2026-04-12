@@ -1,0 +1,124 @@
+Quest: N0B00Y04
+DisplayName: Recuperar un Ingrediente
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Necesitamos que consigas un ingrediente
+<ce>                raro que se encuentra oculto en una
+<ce>                mazmorra cercana. Recibirás una tarifa
+<ce>                de buscador de _gold_ piezas de oro.
+<ce>                       ¿Te interesa el encargo?
+                                     <--->
+<ce>                Uno de nuestros estudiantes más brillantes
+<ce>                está absolutamente loco por algo llamado
+<ce>                _ingredient_, algo que no hemos tenido
+<ce>                necesidad de usar antes. ¿Podrías, si no
+<ce>                es mucha molestia, escabullirte hasta
+<ce>                este lugar y conseguir algo para nosotros?
+
+RefuseQuest:  [1001]
+<ce>                   Humph. Espero que el próximo miembro
+<ce>                   del gremio sea de más ayuda.
+
+AcceptQuest:  [1002]
+<ce>                         Una actitud excelente,
+<ce>                        %pcf. Estás buscando
+<ce>                        _ingredient_, que se puede
+<ce>                        encontrar en ___dungeon_.
+<ce>                        Tienes =traveltime_ días para
+<ce>                            traerlo de vuelta.
+
+QuestComplete:  [1004]
+<ce>                   Supongo que esto servirá. ¿No podías
+<ce>                   haber traído una muestra más fresca?
+<ce>                   La calidad de los miembros del gremio
+<ce>                   ya no es lo que solía ser. Bueno, aquí
+<ce>                   tienes tu tarifa de buscador, %pcf.
+
+RumorsDuringQuest:  [1005]
+Me salió un divieso el otro día... pero ya sanó.
+<--->
+Acabo de tener una conversación de tres horas sobre el clima.
+<--->
+El tiempo es bastante normal para esta época del año.
+<--->
+Parece un poco fresco en %cn para esta época del año.
+<--->
+Seguro que hoy hace mucho más calor que el año pasado por estas fechas.
+<--->
+Mi tía abuela va a ver a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos erigir una estatua de guerra por aquí.
+<--->
+Los chicos de hoy en día con su magia. %oth, no lo sé.
+<--->
+Tuve el sueño más extraño anoche.
+<--->
+He oído un chiste buenísimo. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Podrías explicármelo?
+<--->
+El sistema legal en %reg tiene puntos buenos y puntos malos.
+
+RumorsPostfailure:  [1006]
+_qgiver_ se ha estado quejando de la calidad de los miembros del Gremio de Magos.
+
+RumorsPostsuccess:  [1007]
+Me salió un divieso el otro día... pero ya sanó.
+<--->
+Acabo de tener una conversación de tres horas sobre el clima.
+<--->
+El tiempo es bastante normal para esta época del año.
+<--->
+Parece un poco fresco en %cn para esta época del año.
+<--->
+Seguro que hoy hace mucho más calor que el año pasado por estas fechas.
+<--->
+Mi tía abuela va a ver a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos erigir una estatua de guerra por aquí.
+<--->
+Los chicos de hoy en día con su magia. %oth, no lo sé.
+<--->
+Tuve el sueño más extraño anoche.
+<--->
+He oído un chiste buenísimo. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Podrías explicármelo?
+<--->
+El sistema legal en %reg tiene algunos puntos buenos y otros malos.
+
+QuestorPostsuccess:  [1008]
+Bueno, después de conseguir ese _ingredient_, ¿cómo no voy a alegrarme de verte?
+
+QuestorPostfailure:  [1009]
+<ce>                Realmente necesitábamos ese _ingredient_.
+<ce>                Supongo que ahora ya sabemos que no debemos
+<ce>                confiarte ninguna tarea importante.
+
+QuestLogEntry:  [1010]
+El %qdt:
+ Se me pidió encontrar una muestra de
+ _ingredient_ que supuestamente está
+ oculta en ___dungeon_.
+ _qgiver_ del Gremio de Magos de
+ ___qgiver_ me dio =traveltime_ días
+ para llevárselo a %g2.
+
+Message:  1040
+<ce>                Esto parece ser el _ingredient_ que
+<ce>                         _qgiver_ quería.
+
+QuestTimeLapse:  [1045]
+<ce>                   De repente recuerdas que _qgiver_
+<ce>                   te había pedido que le trajeras un
+<ce>                   _ingredient_ para hoy. %g sin duda
+<ce>                      se sentirá decepcionado.

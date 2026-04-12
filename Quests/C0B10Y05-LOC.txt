@@ -1,0 +1,78 @@
+Quest: C0B10Y05
+DisplayName: El Arma Maldita
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                            %pcn, tenemos una
+<ce>                  misión muy peligrosa para ti. El
+<ce>                  templo ha entrado en posesión
+<ce>                    de un arma mágica maligna, buscada
+<ce>                   desde hace tiempo por los orcos. El templo ya
+<ce>                   ha sido atacado dos veces por estas
+<ce>                   criaturas. Debe ser llevada a
+<ce>                   un lugar seguro. ¿Harás esto por
+<ce>                  nosotros? El templo pagará _gold_ monedas de oro.
+
+RefuseQuest:  [1001]
+<ce>                        Me entristece que tu
+<ce>                        lealtad al templo sea
+<ce>                        tan baja. Pero dado el
+<ce>                       peligro, te perdono.
+
+AcceptQuest:  [1002]
+<ce>                         Toma este/a _evilitem_.
+<ce>                            En ___dungeon_,
+<ce>                       encontrarás a _custodian_,
+<ce>                   un sirviente de este templo desde hace
+<ce>                   muchos años. %g protegerá el objeto
+<ce>                  y lo mantendrá fuera del alcance de los
+<ce>                  orcos. Lo hemos sellado con hechizos para
+<ce>                   protegerte de sus efectos malignos.
+<ce>                  Sin embargo, estos hechizos se desvanecerán
+<ce>                         en =traveltime_ días.
+
+QuestComplete:  [1004]
+<ce>                         Ah, este es el
+<ce>                        _evilitem_ maligno del que _qgiver_
+<ce>                       habló. Lo mantendré aquí,
+<ce>                       donde hay muchas defensas
+<ce>                       para mantenerlo a salvo.
+<ce>                          _qgiver_ dijo que debía
+<ce>                       pagarte _gold_ monedas de oro
+<ce>                       por la entrega segura.
+
+RumorsDuringQuest:  [1005]
+Los orcos han estado atacando las caravanas de __qgiver_.
+
+RumorsPostfailure:  [1006]
+Los orcos finalmente consiguieron ese/a _evilitem_.
+
+RumorsPostsuccess:  [1007]
+El/la _evilitem_ está a salvo de las manos de los orcos.
+
+QuestorPostsuccess:  [1008]
+Escuché que te deshiciste del/de la _evilitem_. Ahora, ¿en qué puedo ayudarte?
+
+QuestorPostfailure:  [1009]
+Confié en ti con el/la _evilitem_ y mira lo que pasó.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de __qgiver_,
+ en ___qgiver_, me dio un/a
+ _evilitem_ maligno/a para
+ entregarlo en ___dungeon_
+ para que los orcos no pudieran
+ obtenerlo. Tengo =traveltime_ días
+ para hacer la entrega.
+
+Message:  1011
+<ce>                       Debes ser el portador de
+<ce>                       Manshrieker, el arma sagrada
+<ce>                        de guerra de los orcos. ¡Maten al
+<ce>                        humano! ¡Debemos tener ese/a
+<ce>                              _evilitem_!
+
+Message:  1012
+<ce>            El/la _evilitem_ maligno/a chisporrotea y se desintegra.
+<ce>                      De repente te sientes muy enfermo/a.

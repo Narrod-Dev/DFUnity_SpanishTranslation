@@ -1,0 +1,94 @@
+Quest: O0B00Y12
+DisplayName: Entrega de Drogas
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 %pcf, tengo un trabajo para ti si
+<ce>                  te interesa. Hay un pequeño paquete
+<ce>                       que debe entregarse en
+<ce>                           ___contact1_.
+<ce>                        ¿Qué me dices?
+
+RefuseQuest:  [1001]
+<ce>                     No me hagas ningún favor, colega.
+
+AcceptQuest:  [1002]
+<ce>                Genial. Aquí tienes el paquete, unas
+<ce>                 _drugs_. Tienen que estar en
+<ce>                  ___contact1_ tan pronto como sea
+<ce>                posible. _contact1_ te esperará allí,
+<ce>                 en __contact1_. Ten cuidado. Si se
+<ce>                filtra algo sobre este cargamento,
+<ce>                 podríamos tener problemas con unos
+<ce>                contrabandistas por libre que creen
+<ce>                 que este negocio en %reg es suyo.
+
+QuestFail:  [1003]
+<ce>                  ¿No dije "tan pronto como fuera posible"?
+
+QuestComplete:  [1004]
+<ce>                 Me alegra que lo lograras. Esos
+<ce>                aficionados no tienen oportunidad contra
+<ce>                nuestra organización. Aquí tienes _gold_
+<ce>                 en oro por tus servicios. Buen trabajo.
+
+RumorsDuringQuest:  [1005]
+<ce>        He oído que el Gremio de Ladrones tiene problemas con una
+<ce>                         banda de contrabandistas novatos.
+
+RumorsPostfailure:  [1006]
+<ce>        Parece que el Gremio de Ladrones tendrá que renunciar a
+<ce>               su monopolio del contrabando en %reg.
+
+RumorsPostsuccess:  [1007]
+<ce>     El Gremio de Ladrones parece haber aplastado a esos rivales
+<ce>                que les estaban dando problemas.
+
+QuestorPostsuccess:  [1008]
+<ce>        Oye, el bueno de %pcn, te recuerdo. Mi mensajero de confianza.
+
+QuestorPostfailure:  [1009]
+<ce>Vaya, vuelve quien no pudo entregar la mercancía. ¿Qué quieres?
+
+Message:  1020
+%qdt:
+ Voy de camino a ___contact1_
+ con un cargamento de _drugs_
+ para _contact1_, que me
+ esperará en __contact1_.
+ Se me advirtió que vigilara
+ a los matones de una banda
+ de contrabando rival.
+
+Message:  1021
+%qdt:
+ Acabo de recibir una nota de
+ _contact1_ diciendo que no ha
+ podido reunirse conmigo en
+ ___contact1_. Me ha dicho que
+ vaya a ___contact2_ en su lugar,
+ y entregue el cargamento a
+ =contact2_ en __contact2_.
+
+Message:  1030
+%pcn --
+ 
+ Siento no haber podido verte en ___contact1_
+ como planeamos. El ambiente se puso demasiado
+ tenso como para esperar. He organizado una
+ entrega alternativa en ___contact2_. Busca a
+ =contact2_ que te espera en __contact2_.
+ 
+<ce>                             Vigila tu espalda,
+                                    
+<ce>                               _contact1_
+
+Message:  1031
+<ce>                 Un niño pequeño y sucio te tira de la manga.
+<ce>                  Te entrega un trozo de papel y luego sale
+<ce>                      corriendo por un callejón.
+
+Message:  1035
+<ce>                ¿Cuándo vais a aprender los matones del Gremio
+<ce>                 de Ladrones que nosotros controlamos el
+<ce>                    negocio de _drugs_ en %reg?

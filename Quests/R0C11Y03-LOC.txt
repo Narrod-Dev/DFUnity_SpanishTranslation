@@ -1,0 +1,120 @@
+Quest: R0C10Y21
+DisplayName: El Daedra sin corazón
+QRC:
+
+QuestorOffer:  [1000]
+<ce>             Tengo alguien de mi conocimiento, con gran
+<ce>                   talento en la alquimia, de nombre _chemist_.
+<ce>               Para completar un proyecto mío, %g necesita
+<ce>               un objeto bastante raro: el corazón de un
+<ce>               daedra. No te mentiré; los daedra quieren
+<ce>               recuperar este corazón, y podrías encontrar a
+<ce>               algunos en el camino. ¿Tienes disposición para
+<ce>                arriesgarte a cambio de una generosa suma?
+
+RefuseQuest:  [1001]
+<ce>               Me decepciona, pero no puedo decir que no lo
+<ce>               entienda. Ofrecerse para una tarea que involucre
+<ce>               a los daedra ciertamente requiere más valor y
+<ce>               valentía de lo que se suele ver en quienes se
+<ce>                         dedican a la aventura de raza %ra.
+
+AcceptQuest:  [1002]
+<ce>             ¿Lo harás? Pues buena suerte. Aquí tienes el
+<ce>             corazón de daedra. Si no está en las manos de
+<ce>               _chemist_ en =1stparton_ días, será demasiado
+<ce>               viejo para usarse. Tras entregarlo, vuelve
+<ce>               por tu recompensa. Buena suerte y que los
+<ce>                        dioses te guíen a ___chemist_.
+
+QuestFail:  [1003]
+<ce>             ¿Acaso crees que no sé que no has entregado
+<ce>                  el corazón de daedra a mi alquimista?
+<ce>               Espero que no esperes una recompensa por tu
+<ce>             obvio fracaso. Sin un corazón de daedra fresco,
+<ce>             el proyecto se retrasará de nuevo. ¡Que regrese
+<ce>                        todo a Oblivion!
+
+QuestComplete:  [1004]
+<ce>                Trabajo sobresaliente, %pcf. Sabía que esas
+<ce>           crías de daedra no te detendrían. Tu habilidad
+<ce>           superior ha sido debidamente anotada. Gracias y
+<ce>                    aquí tienes el oro =reward_ acordado.
+
+RumorsDuringQuest:  [1005]
+Se han leído presagios nefastos en el cielo. Las estrellas daédricas brillan con fuerza.
+<--->
+El Cónclave del Gremio de Magos dice que los daedra están activos esta noche.
+
+RumorsPostfailure:  [1006]
+Los daedra parecen estar saciados, según todos los signos astrológicos.
+<--->
+Casi podía oler el azufre en el aire, pero parece haber desaparecido ahora.
+
+RumorsPostsuccess:  [1007]
+Mucha actividad en la tienda de _chemist_. Dicen que hay un gran experimento en curso.
+<--->
+_questgiver_ está muy feliz con una persona de raza %ra que ha resultado ser muy fiable.
+
+QuestorPostsuccess:  [1008]
+¿Y qué puedo hacer por esta valiente figura de raza %ra?
+<--->
+Saludos, alguien de gran valor. Espero que no te preocupe que esos daedra guarden rencor.
+
+QuestorPostfailure:  [1009]
+<ce>                  Me decepcionó tu fracaso al no entregar
+<ce>                  ese corazón de daedra. Supuse que habrías
+<ce>                  pensado que lo había olvidado. Esa es la
+<ce>                  única explicación para tu decisión de
+<ce>                         regresar a la corte.
+
+QuestLogEntry:  [1010]
+<ce>             Oh, maravilloso. Una aorta de daedra excepcional,
+<ce>               con una descomposición mínima. Date prisa en
+<ce>                        volver con _questgiver_, %pcf.
+<ce>                 Hay mucho en la mente de %g3, y si no has
+<ce>                 vuelto en =2ndparton_ días, %g podría olvidar
+<ce>                         incluso que te marchaste.
+
+Message:  1011
+¿_chemist_? ¿Se parece a alguien que sirve de =chemist_? Creo que %g está %di de aquí.
+<--->
+Hay alguien dedicado a la alquimia de nombre _chemist_ que trabaja para _questgiver_ %di de aquí.
+
+Message:  1012
+¿_questgiver_? Vaya, %g ostenta la nobleza. Ha estado en actividades daédricas últimamente.
+<--->
+_questgiver_ pertenece a la nobleza, %di de aquí.
+<--->
+Como tantas otras figuras nobles, _questgiver_ tiene cerca de una docena de proyectos en marcha.
+<--->
+_questgiver_ tiene mucha fe en la alquimia, como suele ocurrir en la nobleza.
+
+Message:  1013
+Un corazón de daedra. Nunca se pudre, pero algunas recetas exigen que esté fresco.
+<--->
+El corazón de un daedra. No es el tipo de cosa que a los daedra les guste ver en manos mortales.
+
+Message:  1015
+%qdt:
+ _questgiver_ de
+ ___questgiver_ me pidió
+ llevar el corazón de un daedra a
+ su alquimista en __chemist_ de
+ ___chemist_. Alguien dedicado a la
+ alquimia de nombre _chemist_, y si
+ logro llegar hasta %g2 con todos los daedra
+ intentando detenerme, y llego en
+ =1stparton_ días, _questgiver_
+ me dará mi recompensa al volver
+ a __questgiver_.
+
+Message:  1020
+<ce>                        El daedra sisea: "%pcn,
+<ce>                      te entrometes en asuntos que
+<ce>                      escapan a tu comprensión. Sí, tu
+<ce>                      nombre ahora es conocido para nosotros.
+<ce>                      Y no descansaremos hasta que el corazón
+<ce>                      de nuestro hermano vuelva a nuestras manos.
+<ce>                      Prepárate para cumplir tu destino,
+<ce>                                mortal..."

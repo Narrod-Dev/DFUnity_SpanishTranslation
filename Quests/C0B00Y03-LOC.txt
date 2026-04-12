@@ -1,0 +1,90 @@
+Quest: C0B00Y03
+DisplayName: El Erudito Desaparecido
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       %pct, uno de nuestros clérigos,
+<ce>                            un/a =cleric_ llamado/a
+<ce>                     _cleric_, ha desaparecido mientras
+<ce>                     realizaba una excavación arqueológica.
+<ce>                         ¿Nos ayudarás a encontrarlo/la?
+                                     <--->
+<ce>                    Me temo que uno de nuestros más nobles
+<ce>                           eruditos, _cleric_,
+<ce>                  ha desaparecido mientras investigaba
+<ce>                     un antiguo templo en ruinas. ¿Nos
+<ce>                           ayudarás a encontrarlo/la?
+
+RefuseQuest:  [1001]
+<ce>                        Ese es un punto de vista
+<ce>                       bastante insensible, para ser
+<ce>                              franco/a, %pcf.
+
+AcceptQuest:  [1002]
+<ce>                     Bien, bien. Ahora,
+<ce>                            _cleric_ fue a
+<ce>                          ___mondung_ hace cerca de
+<ce>                      dos semanas para realizar una
+<ce>                     excavación. Es posible que todo esté
+<ce>                      bien, pero... Te daré
+<ce>                    =queston_ días para ir allí, encontrar
+<ce>                           a _cleric_ y regresar.
+<ce>                       Que %god camine contigo,
+<ce>                            %pct. Que te vaya bien.
+
+QuestComplete:  [1004]
+<ce>                           Ah, %pct y buen/a
+<ce>                          _cleric_, es bueno
+<ce>                     tenerlos de vuelta en __qgiver_.
+<ce>                        Temía lo peor, para ser
+<ce>                          sincero/a.
+
+RumorsDuringQuest:  [1005]
+_cleric_ fue un/a tonto/a al ir sin armas a ___mondung_.
+<--->
+___mondung_ no es lugar para un/a erudito/a como _cleric_.
+
+RumorsPostfailure:  [1006]
+Todos han perdido la esperanza de volver a ver a _cleric_.
+<--->
+__qgiver_ está de luto por la desaparición de _cleric_.
+
+RumorsPostsuccess:  [1007]
+Gracias a ese/a %ra, _cleric_ ha comenzado a trabajar en una historia de ___mondung_.
+<--->
+Rescatar a _cleric_ aumentó la estima de __qgiver_ hacia ti.
+
+QuestorPostsuccess:  [1008]
+Por lo que hiciste por _cleric_, por supuesto que te ayudaré, %pcf.
+
+QuestorPostfailure:  [1009]
+Aún recuerdo a _cleric_, %pcf. Déjame.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de __qgiver_
+ me ha enviado a ___mondung_
+ para rescatar a un/a clérigo llamado/a _cleric_
+ que desapareció allí. Tengo
+ =queston_ días para encontrar
+ al/a la =cleric_ y
+ regresar a ___qgiver_
+ y __qgiver_.
+
+Message:  1011
+<ce>                      Vaya, me has dado un buen
+<ce>                          susto, joven %ra.
+<ce>                    ¿De verdad he estado aquí abajo
+<ce>                      tanto tiempo? Cómo vuela el tiempo.
+<ce>                     Bueno, si fueras tan amable
+<ce>                  de escoltarme de vuelta al templo,
+<ce>                            mi buen/a %pcf...
+                                     <--->
+<ce>                         Gracias a %god que viniste.
+<ce>                      Llevo buscando la salida
+<ce>                      casi una semana.
+<ce>                  Te seguiré de vuelta al templo.
+
+Message:  1012
+<ce>                    "Ah, conozco el camino desde aquí,"
+<ce>                         _cleric_ se aleja tambaleándose.

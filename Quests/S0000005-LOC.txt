@@ -1,0 +1,112 @@
+Quest: S0000005
+DisplayName: Preocupación por Nulfaga
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Se rumorea que la pobre abuela de mi esposo,
+<ce>                 Nulfaga, tiene una salud muy frágil, y que
+<ce>                su mente, antaño brillante, está casi del todo
+<ce>                 destruida. Se ha encerrado en su castillo,
+<ce>                en las Montañas de Wrothgar, y experimenta
+<ce>                 con estudios mágicos sin ninguna estima por
+<ce>                su propia seguridad. Quisiera saber de su
+<ce>                 estado, pero pocos poseen la valentía para
+<ce>                enfrentar los horrores de su castillo y hablar
+<ce>                 con ella. Mi recompensa por un informe sobre
+<ce>                   su salud es un _magicitem_ mágico.
+<ce>                    ¿Serás quien me defienda en esto?
+
+RefuseQuest:  [1001]
+<ce>                  Una respuesta bastante común. Pero muy
+<ce>                      decepcionante a pesar de todo.
+
+AcceptQuest:  [1002]
+<ce>                    %oth, me alegra haber encontrado a
+<ce>                  alguien con dotes de adalid. El nombre de
+<ce>                  su castillo es Shedungent, y no debería
+<ce>                  tomarte más de =2shedungent_ días ir hasta
+<ce>                  allí y volver. Si ha perdido la razón,
+<ce>                  Shedungent puede ser un lugar muy peligroso.
+<ce>             Ten mucho cuidado. Que Kynareth y Mara te protejan.
+
+QuestFail:  [1003]
+<ce>                  Hasta que hayas hablado con Nulfaga,
+<ce>                  no tengo interés en conversar.
+
+QuestComplete:  [1004]
+<ce>                Confieso que dudaba si volvería a verte.
+<ce>                Saber que Nulfaga sigue entre los vivos
+<ce>                le hace mucho bien a mi corazón.
+<ce>                        Aquí tienes tu _magicitem_.
+
+RumorsDuringQuest:  [1005]
+¿Por qué la Reina ha desarrollado este repentino afecto por la loca de la vieja Nulfaga?
+<--->
+Nulfaga no es más que una bruja demente. ¿Por qué a la Reina Aubk-i le importa si muere?
+
+RumorsPostfailure:  [1006]
+La Reina ha enviado a otro mercenario después de que ese %ra fallara al buscar a Nulfaga.
+<--->
+La Reina Aubk-i no pudo esperar más a ese %ra. Envió a otro mercenario.
+
+RumorsPostsuccess:  [1007]
+Es agradable ver a la Reina Aubk-i feliz por fin. Tiene una sonrisa muy bonita.
+<--->
+La Reina Aubk-i parece más que feliz últimamente. Parece casi... aliviada.
+
+QuestorPostsuccess:  [1008]
+Gracias una vez más por emprender ese peligroso viaje a Shedungent para ver cómo estaba Nulfaga por mí.
+
+QuestorPostfailure:  [1009]
+Ah, %pcn. Quien ostenta la %ra que se negó a visitar a la abuela de mi esposo.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Aubk-i, la Reina de Daggerfall, me ha pedido
+ que compruebe el estado de su abuela política,
+ Nulfaga. Debo ir al castillo de Nulfaga,
+ Shedungent en Wrothgaria, y hablar con ella
+ para ver si se encuentra bien. Tengo
+ =2shedungent_ días para informar de su estado
+ a Aubk-i y obtener mi recompensa.
+
+Message:  1011
+<ce>                Pensamientos y consejos unidos, igual esperanza
+<ce>               y riesgo en la que una vez fue gloriosa empresa;
+<ce>               unidos a mí una vez, ¡ahora la miseria nos une
+<ce>                 en igual ruina! Eterna, eterna, eterna
+<ce>                ruina. Le digo a la puerta de mi alma que se
+<ce>                calle. Oh, hijo mío, ¿por qué no escuchaste?,
+<ce>                 tu oído, tu glorioso rostro mortal, tu
+<ce>                   garganta y la flecha. Oh, miseria.
+                                     <--->
+<ce>                Escogiendo unas pocas palabras, las más horribles,
+<ce>                ¡que nadie las lea! Versos, versos compongo
+<ce>                que, con otros hechizos igual de terribles,
+<ce>                ¡maldicen al Cielo! ¡Maldicen al Olvido! ¡Mi niño!
+<ce>                 Mi niño ha muerto y que Tamriel tiemble hasta
+<ce>                  que él y yo hallemos la paz que se nos niega.
+<ce>                Cerrad la puerta de su tumba y de mi hogar.
+                                     <--->
+<ce>             Dime, ¡qué extraño motivo, Diosa!, pudo obligar a
+<ce>               una flecha a atravesar la garganta de mi amado
+<ce>              Lysandus. ¿Murió allí llorado y bendecido o es
+<ce>              que mis pajarillos se han vuelto todos de alas
+<ce>              grises? Oh, puerta de mi corazón, ciérrate no sea
+<ce>              que te parta en dos. Busco en el más allá, en el
+<ce>              inframundo y en el mundo intermedio, y en ninguna
+<ce>               parte hallo la luz de mi hijo. ¡Oh, locura, a tu
+<ce>                         pecho me aferro cual lactante!
+                                     <--->
+<ce>                 Somos solo como muros muertos o tumbas
+<ce>                abovedadas que, arruinadas, no devuelven echo.
+<ce>                Oh, este mundo sombrío; en qué sombra o pozo
+<ce>                profundo de oscuridad vive la humanidad, de
+<ce>                forma débil y temerosa. ¿Cómo halló Lysandus
+<ce>                su muerte? En una niebla, no sé cómo.
+<ce>              ¿Aún no llega el Olvido? Cerrad mi puerta y dejad
+<ce>               fuera sus cielos grises. Lo acercaré con una
+<ce>               perspectiva o haré un cristal que prenda fuego
+<ce>                a todo el mundo en un instante. No puedo dormir;
+<ce>                 mi almohada está rellena con una camada de
+<ce>                           puercoespines.

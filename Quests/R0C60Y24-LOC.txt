@@ -1,0 +1,135 @@
+Quest: R0C60Y24
+DisplayName: Negocios con Vampiros
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  %pcf, siempre es un placer verte,
+<ce>             firme amistad, sobre todo cuando necesito ayuda.
+<ce>                    Debo hacer llegar este _item_ a mi
+<ce>                    contacto en ___contact_, pero me ha
+<ce>             llegado el aviso de que una tribu vampírica no
+<ce>             quiere que mi correo pase. Eres la única persona
+<ce>               en quien puedo pensar que sea capaz de lograr
+<ce>                         hacerlo llegar. ¿Lo intentarás?
+
+RefuseQuest:  [1001]
+<ce>              ¿En serio? Demasiada ocupación, quizás. Es una pena.
+
+AcceptQuest:  [1002]
+<ce>                    Ah, maravilloso. Aquí tienes el _item_.
+<ce>                     Ahora, _contact_ necesita tenerlo
+<ce>                    en __contact_ en =queston_ días.
+<ce>                    Busca a alguien de perfil =contact_. No
+<ce>             hay pérdida con %g2. Y no dejes que te maten en el
+<ce>                    proceso. Buena suerte y gracias.
+
+QuestFail:  [1003]
+<ce>                 %pcf, estás perdiendo un tiempo precioso.
+<ce>                    Ponte en camino hacia ___contact_
+<ce>                            de inmediato.
+
+QuestComplete:  [1004]
+<ce>                    Ah, me alegra verte %pcf. Y el
+<ce>              _item_ también. Excelente. Esos acechadores
+<ce>            nocturnos fueron sabios al intentar evitar esto.
+<ce>                 Aquí tienes algo de oro por las molestias.
+<ce>                         Cuídate mucho.
+
+RumorsDuringQuest:  [1005]
+He oído que están investigando asuntos vampíricos en __contact_.
+<--->
+_contact_, con gran reputación en la caza de vampiros, se ha unido a __contact_.
+
+RumorsPostfailure:  [1006]
+Alguien encontró un _item_ muy bonito por aquí hace poco.
+<--->
+He oído que _questgiver_ está que echa chispas con alguien de la aventurera %ra.
+
+RumorsPostsuccess:  [1007]
+He notado que parece más seguro caminar por las calles de %reg.
+<--->
+Es cierto que los ataques de vampiros son cada vez más raros. Pero aún no es momento de confiarse.
+
+QuestorPostsuccess:  [1008]
+Supongo que esos chupasangres aprendieron la lección, ¿eh, %pcf? ¿Qué puedo hacer por ti?
+<--->
+Tengo entendido que la entrega se realizó. Por supuesto, no me sorprende.
+
+QuestorPostfailure:  [1009]
+<ce>                  ¿Los vampiros fueron demasiado, %pcf?
+<ce>              No te sientas mal -- son seres muy poderosos.
+<ce>                    Ahora no es un buen momento para hablar.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _questgiver_ quiere
+ que entregue un _item_ concreto a
+ su contacto en ___contact_, alguien
+ de nombre _contact_ en __contact_.
+ Al parecer, los vampiros locales no quieren
+ que complete la entrega, pero debo llevar
+ el _item_ a ___contact_ en un plazo de =queston_
+ días o perderé mi recompensa.
+
+Message:  1011
+<ce>                   Así que tú debes de ser %pcn.
+<ce>                  Te doy la bienvenida a mi humilde morada.
+<ce>                  Cuando supe que el ataque de =vampleader_
+<ce>                  había fallado, me pregunté si vendrías a
+<ce>                verme. Permíteme presentarme: soy _vampire_
+<ce>                de ==vampire_, la más antigua y respetada de
+<ce>                las estirpes vampíricas. Ahora, soy consciente
+<ce>                  de que has aceptado entregar cierto _item_
+<ce>                  al verdugo de mala fama llamado _contact_.
+<ce>                  ==vampire_ preferiría enormemente que me
+<ce>                hicieras esa entrega a mí. Es solo una diferencia
+<ce>                semántica, ¿no crees? Especialmente porque
+<ce>                estamos bajo la disposición de pagarte
+<ce>                _vampreward_ monedas de oro más un _vampitem_
+<ce>                mágico de regalo. ¿Qué me dices a esta oferta
+<ce>                tan generosa?
+
+Message:  1012
+<ce>              Maravilloso. Quien ostenta el rango de %ra en la
+<ce>            aventura toma una sabia decisión de lealtad. A
+<ce>            _questgiver_ no le gustará, pero más le vale aprender
+<ce>            a amar la decepción. Ha sido un placer tratar contigo.
+<ce>            Quizás volvamos a vernos en una ocasión más...
+<ce>            ...íntima.
+
+Message:  1013
+<ce>                Tu lealtad hacia _questgiver_ es conmovedora,
+<ce>                  pero bastante desafortunada para ambos.
+<ce>                 Puedes marcharte, %pcf. Oh, por cierto,
+<ce>               no duermas con demasiada profundidad de noche.
+<ce>                 ==vampire_ siempre salda sus deudas.
+
+Message:  1015
+_contact_ ha estado liderando la cruzada para expulsar a los vampiros de %reg.
+<--->
+<ce>A veces me pregunto si toda la gente que _contact_ ha quemado en la
+<ce> hoguera eran realmente vampiros. Cuesta creer que haya tantos.
+
+Message:  1030
+<ce>                  El pergamino muestra la ubicación del
+<ce>                Aquelarre de Kykos en Dak'fron, sea lo que sea.
+<ce>                  Lo anotas rápidamente en tu mapa.
+
+Message:  1040
+=vampleader_,
+ 
+ Ese maldito _questgiver_ finalmente ha
+ conseguido el _item_ que buscaba, y
+ se lo va a enviar a _contact_.
+ Sabes tan bien como yo que ==vampire_
+ no puede permitir que llegue. _questgiver_
+ espera que intentemos detener a %g2, así que
+ busca a alguien de raza %ra con el nombre %pcn
+ para actuar de correo. No subestimes a este
+ sujeto -- %pcf tiene bastante reputación.
+ Tráeme el _item_ de inmediato; te esperaré
+ en _vamphouse_, en __vamphouse_.
+ 
+                             En la muerte,
+ 
+                             _vampire_

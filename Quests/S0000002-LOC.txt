@@ -1,0 +1,257 @@
+Quest: S0000002
+DisplayName: Chantajeando al Príncipe Helseth
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                    Necesito a alguien para la mensajería, %pcf,
+<ce>            pero no me sirve cualquier mercenariazgo común de brazos
+<ce>           débiles y cabeza hueca. Tengo una carta de suma importancia
+<ce>             que debe ser entregada a una alta dignidad que estará
+<ce>            defendida contra intrusiones no deseadas. A cambio de
+<ce>             esto, no solo te recompensaré con un _magicitem_, sino
+<ce>              que hablaré bien de ti ante los reyes de Wayrest, y
+<ce>            te daré información sobre el asunto de Daggerfall que
+<ce>              dudo que pudieras recibir en cualquier otro lugar.
+<ce>                    ¿Te parece un acuerdo aceptable?
+
+RefuseQuest:  [1001]
+<ce>                Pamplinas. ¿Por qué dejé que me hicieras perder el
+<ce>                         tiempo con alguien como tú?
+
+AcceptQuest:  [1002]
+<ce>            Excelente. Reúnete conmigo aquí mañana a esta misma hora
+<ce>              y te daré la carta, junto con el nombre y la
+<ce>                       ubicación de quien la recibe.
+
+QuestFail:  [1003]
+<ce>                 La carta debe ser entregada, %pcf.
+<ce>                         No me falles en esto.
+
+QuestComplete:  [1004]
+<ce>                    En fin, aquí tienes el _magicitem_ que
+<ce>              prometí. Que nunca se diga que el Príncipe
+<ce>                    Helseth no es una persona de palabra.
+<ce>                                     
+<ce>              Ah, sí, prometí contarte algo sobre la situación
+<ce>               en Daggerfall. Sospecho que mi familia tiene
+<ce>              más que ver de lo que se sabe comúnmente. Enviamos
+<ce>               consejeros para instar a los reyes Lysandus y
+<ce>              Camaron a arreglar sus diferencias en vísperas de
+<ce>                la Batalla del Campo de Cryngaine. Lysandus era
+<ce>               asquerosamente leal al emperador, mientras que
+<ce>              Camaron luchaba por más autonomía. Según el informe
+<ce>               del consejero, llegaron demasiado tarde porque fueron
+<ce>              emboscados por los orcos de Gortwog en el camino. Sin
+<ce>               embargo, he oído historias de que, al menos algunos
+<ce>              de nuestros consejeros, llegaron a la tienda de
+<ce>               Lysandus y hablaron brevemente con él. Por ahora,
+<ce>              no puedo decir más. Si recibo más información o si
+<ce>               la situación progresa, sin duda te avisaré.
+
+RumorsDuringQuest:  [1005]
+Lord Castellian no admite visitas mientras está de vacaciones en __castfort_.
+<--->
+La cuestión de la sucesión ha estado distrayendo terriblemente a Lord Castellian.
+
+RumorsPostfailure:  [1006]
+Lord Castellian parece favorecer a la Princesa Elysana en la sucesión.
+<--->
+El Consejo de Ancianos parece inclinado a mantener la venerable ley de sucesión.
+
+RumorsPostsuccess:  [1007]
+Lord Castellian está constantemente en compañía del Príncipe Helseth desde sus vacaciones.
+<--->
+El Consejo de Ancianos habla seriamente sobre eliminar la ley de sucesión.
+
+QuestorPostsuccess:  [1008]
+¿Sí, %pcf? Nuestras estrellas parecen estar ascendiendo en sintonía. ¿Qué necesitas?
+
+QuestorPostfailure:  [1009]
+<ce>                 Tenía un encargo importante para ti,
+<ce>                     %pcf, si mal no recuerdo. ¿Sobre
+<ce>                Lord Castellian? Bueno, ahora es tarde,
+<ce>                y no soy precisamente la persona más
+<ce>                paciente de Tamriel. Te ruego que me dejes
+<ce>                        antes de que me vuelva brusco.
+
+QuestLogEntry:  [1010]
+Mi querido Lord Castellian,
+ 
+      Lamento la necesidad de entregar esta carta mediante el
+ servicio más tosco posible, pero sería impensable acercarme
+ a vos en el castillo para un asunto tan delicado. Durante
+ mucho tiempo he admirado vuestra lealtad a la corona y vuestra
+ neutralidad en asuntos internos. Comprended que solo deseo
+ salvar vuestra dignidad de un escenario posiblemente bochornoso.
+      El problema reside en vuestra hermana, Lady Pasipha, quien,
+ aunque reside en el extranjero, todavía se comunica regularmente
+ con miembros de la corte. Entiendo y respeto la profundidad de
+ vuestro amor fraternal y el afecto que os profesáis; pues, en
+ respuesta a una curiosa indagación mía, Lady Pasipha me envió
+ varias cartas conmovedoras escritas de vuestro puño y letra.
+      "¿Has contemplado alguna vez con deleite una baya roja
+ medio ahogada en crema? Así soñé contigo, amor mío, vertiendo
+ mi alma en ti, pues por tu tacto, dulce, mi alma queda
+ totalmente perdida."
+      Aunque vos y yo conocemos la inocencia de vuestro afecto por
+ la dama, las mentes más lúbricas de la corte, como bien sabéis,
+ se inclinan hacia interpretaciones grotescas. Su marido, tengo
+ entendido, es famoso por sus ataques de celos. Me debato entre
+ varias ideas sobre cómo evitar mejor una posible reacción
+ negativa, y agradecería vuestra respuesta a la mayor brevedad.
+ Os esperaré en el Castillo Wayrest.
+ 
+<ce>                                Helseth,
+<ce>                          Príncipe de Wayrest
+
+Message:  1011
+<ce>                             Bien hecho, %pcn.
+<ce>           Tu incipiente reputación parece ser merecida.
+<ce>                Lord Castellian es bastante maleable ahora.
+
+Message:  1012
+<ce>              Es una verdadera lástima que no fueras un poco
+<ce>                   más veloz, %pcf. Mi hermana Elysana se
+<ce>             ha prometido. Sin su oposición, ya no era
+<ce>             realmente necesario entregar esa carta a Lord
+<ce>             Castellian. No obstante, seguro que podré sacar
+<ce>                        ventaja de esto de algún modo.
+
+Message:  1014
+<ce>                Vaya comadreja conspiradora y manipuladora.
+<ce>                 Has hecho bien en poner esto bajo mi
+<ce>                         atención, %pcf. Gracias.
+
+Message:  1017
+<ce>                Un paje con los colores y la rosa amarillo
+<ce>            pálido de Wayrest aparece en silencio a tu lado.
+<ce>               Te entrega una carta y desaparece con la
+<ce>                     misma discreción con la que llegó.
+
+Message:  1018
+<ce>               Alguien de la mensajería te entrega un saco
+<ce>            de cuero jadeando. Un examen cauteloso revela
+<ce>                        una carta y una suma de oro.
+
+Message:  1019
+%qdt:
+ El Príncipe Helseth quiere que me reúna
+ con él mañana en el castillo para los
+ detalles de una misión. Actuaré en la
+ mensajería.
+
+Message:  1020
+%qdt:
+ El Príncipe Helseth quiere que entregue una carta
+ a Lord Castellian, líder del consejo de ancianos
+ de Wayrest, en su mansión de vacaciones,
+ _castfort_ en __castfort_.
+ Tengo =1stparton_ días para entregar la carta y
+ volver.
+
+Message:  1024
+Príncipe Helseth,
+    Agradezco vuestra amabilidad, y me reuniré
+ con vos muy pronto cuando os sea conveniente."
+ 
+<ce>                             Lord Castellian
+
+Message:  1025
+<ce>                    Lord Castellian ha ordenado tu
+<ce>                    muerte. Me ha pedido que te diga
+<ce>                         que sabes demasiado.
+
+Message:  1026
+Mi querido Lord Castellian,
+ 
+      Perdonad esta tosca entrega, pero habría sido
+ impolítico acercarse a vos en el palacio con este
+ problema potencial. Desafortunadamente, vuestras
+ merecidas vacaciones tendrán que suspenderse
+ temporalmente hasta que se resuelva este asunto.
+ 
+      Me refiero a vuestra hermana, Lady Pasipha.
+ Durante años, ha sido una de las figuras más
+ glamurosas de la corte de Wayrest, la favorita
+ de todos los que aprecian la belleza y la gracia.
+ Recientemente, han circulado rumores de que el
+ oro gastado en sus vestidos y joyas no podría
+ provenir de su marido, quien se encuentra,
+ actualmente, sin fondos. Siguieron conjeturas
+ desagradables, ninguna de las cuales vale la
+ tinta que usaría para recitarlas.
+ 
+      Para ser francos, una persona, que debe
+ permanecer en el anonimato, me postuló que vos
+ estabais tomando prestados fondos del tesoro
+ real para sufragar la extravagancia de vuestra
+ hermana. Por supuesto, defendí vuestro honor,
+ pero se presentaron copias de los libros reales
+ que parecían respaldar la acusación. No estoy
+ seguro de cuál es el mejor procedimiento a seguir.
+ 
+      No dudéis, señor, de que estoy convencido de
+ vuestra integridad como miembro principal del
+ Círculo de Ancianos de Wayrest. Solo deseo que el
+ asunto de los registros financieros se aclare para
+ que, si llegan a oídos de Eadwyre, puedan ser
+ defendidos con confianza.
+ 
+      Por favor, enviad una respuesta con este servicio
+ de mensajería de confianza. Preferiría reunirme con
+ vos lo antes posible, por supuesto.
+ 
+<ce>                               Suyo afectuosamente,
+ 
+<ce>                                 Helseth
+
+Message:  1027
+<ce>                  Ah, hola de nuevo, %pcf. Aquí está la
+<ce>            carta. Debe entregarse a Lord Castellian, el
+<ce>            jefe del consejo de ancianos, que está ahora en
+<ce>                  su casa _castfort_ en __castfort_.
+<ce>            Necesito la entrega hecha y que estés de vuelta
+<ce>            en no más de =1stparton_ días; eso es esencial.
+<ce>            Como mencioné antes, Lord Castellian valora su
+<ce>             privacidad en exceso. Prepárate para encontrar
+<ce>               resistencia a tu llegada a _castfort_. Te
+<ce>            pido que no leas la carta, pues es correspondencia
+<ce>            privada. Si se filtra su contenido, te culparé.
+
+Message:  1028
+<ce>                Esperas mientras Lord Castellian lee la
+<ce>            carta. Su piel palidece y su mano comienza
+<ce>                           a temblar.
+<ce>                                     
+<ce>                    "Ya veo. Espera mientras escribo una
+<ce>                    respuesta para el Príncipe Helseth".
+<ce>                  Solo le toma un minuto escribir la
+<ce>                respuesta, que luego pone en tus manos.
+
+Message:  1030
+<ce>                       Esta carta ha sido abierta.
+<ce>                      Excedes los límites de quien
+<ce>                         hace la entrega, %pcn.
+
+Message:  1031
+<ce>                    Así que te gusta leer las misivas
+<ce>                    de tus superiores. No esperes que
+<ce>                    vuelva a confiar en ti pronto.
+
+Message:  1040
+Estimada persona,
+ 
+ Debido al reciente matrimonio de mi hermana Elysana,
+ ya no necesitaré tus servicios con respecto a la
+ entrega de la carta a Lord Castellian. Puesto que
+ has actuado en mi nombre con honor, he ordenado
+ que se te entreguen 100 piezas de oro por tu
+ tiempo y esfuerzo hasta ahora.
+ 
+<ce>                                Helseth
+<ce>                          Príncipe de Wayrest
+
+Message:  1050
+Lord Castellian es el más poderoso de los consejeros de Wayrest.
+<--->
+He oído que Lord Castellian tiene el respaldo para bloquear los planes de guerra del Príncipe Helseth.

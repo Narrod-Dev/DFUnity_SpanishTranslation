@@ -1,0 +1,115 @@
+Quest: M0B00Y16
+DisplayName: Caza de gigantes
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Buenas, %pcf. Si tienes unos días libres,
+<ce>            acaba de llegar un encargo para cazar gigantes, y
+<ce>                     pensé en ti. ¿Te interesa?
+
+RefuseQuest:  [1001]
+<ce>                  ¿Demasiada ocupación, eh? A tu edad,
+<ce>                  yo nunca estaba tan ocupado como para
+<ce>                  no liquidar a un gigante o dos. La
+<ce>                 juventud de ahora... te lo digo yo.
+
+AcceptQuest:  [1002]
+<ce>                Bien. Parece que hay un gigante que se mudó
+<ce>                   a ___mondung_ hace un tiempo y se lo
+<ce>                está pasando en grande dándose un festín con
+<ce>                las ovejas de _dummy_ en la zona. También se
+<ce>              comió a un par de lugareños, supongo, aunque
+<ce>                al viejo _dummy_ no parece importarle mucho
+<ce>              eso. En cualquier caso, %g quiere que se encarguen
+<ce>           de este gigante en =qtime_ días, y %g paga
+<ce>                 _gold_ oro por ello. Nos vemos luego.
+
+QuestFail:  [1003]
+<ce>                  ¿Qué, el gigante murió de empacho?
+<ce>                En marcha, %pcf. Tienes un trabajo que hacer.
+
+QuestComplete:  [1004]
+<ce>                 ¡Saludad a quien caza gigantes! Sabía
+<ce>                   que eras la persona indicada para esto.
+<ce>                         Aquí tienes los _gold_ oro.
+
+RumorsDuringQuest:  [1005]
+<ce> Un gigante en ___mondung_ aterroriza a la zona, pero a _dummy_ no parece
+<ce>                               importarle.
+                                     <--->
+<ce> Ese gigante de ___mondung_ se llevó a otro habitante el otro día.
+
+RumorsPostfailure:  [1006]
+<ce> Me alegra que ese gigante por fin se fuera de ___mondung_. Supongo que
+<ce>       se aburrió de su dieta de aldeanos noche tras noche.
+
+RumorsPostsuccess:  [1007]
+<ce>      Gracias a %god, _dummy_ envió a alguien a matar a ese gigante
+<ce>    en ___mondung_. Debió de haberse comido una de las ovejas de %g3.
+
+QuestorPostsuccess:  [1008]
+<ce>                 ¡Es mi vieja amistad, %pcf, matagigantes!
+
+QuestorPostfailure:  [1009]
+<ce>                 En mis tiempos, te echaban del Gremio de
+<ce>                Luchadores si no podías matar a un simple
+<ce>                 gigante. Los tiempos cambian, supongo.
+
+Message:  1020
+%qdt:
+ _questgiver_ del Gremio de Luchadores
+ de ___questgiver_ me ha contratado para
+ matar a un gigante en ___mondung_.
+ Debo informar antes de =qtime_ días
+ para recibir mi recompensa de _gold_ oro.
+
+Message:  1021
+%qdt:
+ He rescatado a alguien del comercio que
+ el gigante guardaba para merendar.
+ _villager_ me pidió que le lleve a
+ _store_ en __store_.
+
+Message:  1030
+<ce>                 El gigante ruge de dolor. Escuchas el
+<ce>                 sonido de pesados pasos acercándose
+<ce>                  hacia ti. Quizás el gigante invitó
+<ce>                 a unas cuantas amistades a cenar...
+
+Message:  1031
+<ce>  Has aniquilado al gigante que buscabas.
+
+Message:  1040
+<ce>                    ¡Gracias a %god que estás aquí! Iba
+<ce>                      camino al mercado ayer cuando el
+<ce>                   gigante me capturó junto con otras
+<ce>                    cuatro personas que viajaban conmigo.
+<ce>                  Ya se las comió; supongo que me estaba
+<ce>                 guardando para después. ¿Podrías ayudarme
+<ce>                a salir de este lugar? Por mi cuenta no lo
+<ce>                                lograré.
+
+Message:  1041
+<ce>              Eres un héroe de verdad. Permíteme presentarme:
+<ce>                       _villager_ de ___villager_.
+<ce>                      Iba de camino a _store_ en
+<ce>                    __store_. Si pudieras dejarme allí,
+<ce>                   te estaría eternamente en deuda.
+
+Message:  1042
+<ce>                  Agradezco tu ayuda, pero creo que
+<ce>                   puedo encontrar el camino desde aquí.
+
+Message:  1043
+<ce>                        Realmente no tienes corazón.
+
+Message:  1044
+<ce>                    He disfrutado tu compañía, %pcf.
+<ce>                Me salvaste la vida, y no lo olvidaré.
+
+Message:  1080
+<ce>                    Oye, aquí tienes un mapa de ___newdung_
+<ce>                    que alguien del gremio encontró el otro
+<ce>                    día. Si yo fuera unos cuantos años más
+<ce>                    joven, lo arrasaríamos juntos, igual
+<ce>                           que en los viejos tiempos.

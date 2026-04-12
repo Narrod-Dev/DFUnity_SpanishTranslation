@@ -1,0 +1,289 @@
+Quest: _TUTOR__
+DisplayName: Tutorial
+QRC:
+
+RumorsPostfailure:  [1006]
+Te daré una pista %ra. Si quieres tener éxito en la magia, únete al gremio de magos.
+                                     <--->
+Un pequeño consejo para ti. Guarda tu dinero en el banco de %reg. Haz que te den cartas de crédito. Apenas pesan nada.
+                                     <--->
+Las tiendas especializadas son el mejor lugar para encontrar objetos inusuales.
+                                     <---> 
+Acaban de aprobar una ley contra la vagancia. No puedes dormir en las calles. Los guardias incluso patrullan fuera de las murallas. Tienes que conseguir una habitación en una posada.
+                                     <--->
+Todo el mundo debería unirse a un templo. La única pregunta es ¿qué dios es el mejor para ti? Yo revisaría todos.
+                                    <--->
+Las cosas se están poniendo intensas en la ciudad de Daggerfall. Deberías ir allí si quieres aventura.
+                                     <--->
+He oído que la realeza de Wayrest está causando revuelo. Es una gran oportunidad para cualquiera con el valor de pedirle trabajo al rey o la reina.
+                                     <--->
+He oído que Sentinel es un buen lugar para ganar oro rápido y tener un poco de aventura. La familia real está contratando héroes para trabajos peligrosos.
+
+--los rumores previamente ubicados en "during quest" han sido movidos a "after quest." El tutorial era demasiado corto para que estos mensajes
+--aparecieran normalmente, así que tenerlos en el sistema de rumores durante 7 días después de que termine la misión es una ventana aceptable.
+--teóricamente se podría hacer que el tutorial se extienda mucho más en un estado invisible y mantener los rumores
+--presentes por mucho tiempo.
+
+QuestLogEntry:  [1010]
+<ce>             Daggerfall Unity tiene un tutorial actualizado.
+<ce>           Te enseñará los conceptos básicos del juego.
+<ce>          Asegúrate de tomar nota de la información que presenta.
+<ce>               ¿Quieres usar este tutorial?
+
+Message:  1012
+<ce>                           Página 1
+<ce>                                    
+<ce>           Lo primero que debes hacer es revisar
+<ce>           tus controles. Presiona Escape y haz clic en Controles.
+<ce>           Los más importantes por ahora son tu movimiento (WASD)
+<ce>           y tu Ataque (Mouse1 por defecto). Atacar
+<ce>           puede implicar mantener presionado el botón de ataque
+<ce>           y mover el ratón; O hacer clic en el botón de ataque,
+<ce>           O mantenerlo presionado. Esto se puede cambiar
+<ce>           en la sección Avanzado de la pantalla de Controles.
+<ce>           
+<ce>           Asegúrate de que tus controles sean adecuados,
+<ce>           y otro mensaje aparecerá en 10 segundos.
+
+Message:  1013
+<ce>                           Página 2
+<ce>                                    
+<ce>          Ahora presiona F6 para abrir tu inventario. Equipa cualquier armadura
+<ce>           disponible para ti, y la mejor arma que tengas.
+<ce>           "Mejor arma" se refiere a un arma en la que tu personaje tenga habilidad,
+<ce>           y/o que esté hecha de un material muy fuerte (ej: Élfico, Enano).
+<ce>           Sin esas dos ventajas, casi nunca golpearás a los enemigos.
+<ce>           
+<ce>           (Siguiente mensaje en 15 segundos. Presiona No para terminar el tutorial.)
+
+Message:  1015
+<ce>                           Página 3
+<ce>                                    
+<ce>        Equipar un arma requiere un breve retraso. Cuando esté lista,
+<ce>        presiona Z para desenfundarla. También puedes usar tus puños si tu
+<ce>        habilidad de combate sin armas es alta. Practica algunos ataques con el
+<ce>        botón de ataque.
+<ce>           
+<ce>           (Siguiente mensaje en 10 segundos. Presiona No para terminar el tutorial.)
+
+Message:  1020
+<ce>                           Página 4
+<ce>                                    
+<ce>          Presiona R para descansar cuando necesites recuperar salud, resistencia,
+<ce>        o magia. Esos indicadores están en la parte inferior izquierda de la pantalla.
+<ce>          No necesitas descansar ahora, pero recuérdalo para más tarde.
+<ce>           
+<ce>           (Siguiente mensaje en 5 segundos. Presiona No para terminar el tutorial.)
+
+Message:  1025
+<ce>                           Página 5
+<ce>                                    
+<ce>         Los personajes con acceso a magia también pueden intentar lanzar hechizos,
+<ce>         aunque los enemigos a menudo resistirán tus hechizos. Presiona Retroceso
+<ce>         para abrir tu libro de hechizos, si eres un lanzador de magia. Haz doble clic
+<ce>         en un hechizo para prepararlo.
+<ce>         
+<ce>         Algunos hechizos requieren un objetivo, y otros se lanzan automáticamente
+<ce>         sobre ti mismo. Si es un hechizo dirigido, usa clic izquierdo
+<ce>         para lanzarlo después de prepararlo. Usa Q para volver a preparar un hechizo que
+<ce>         hayas lanzado antes, para poder lanzarlos rápidamente según sea necesario.
+<ce>           
+<ce>           (Siguiente mensaje en 10 segundos. Presiona No para terminar el tutorial.)
+
+Message:  1030
+<ce>                           Página 6
+<ce>                                    
+<ce>         Si aún no has guardado la partida, hazlo ahora. Presiona Escape y
+<ce>         haz clic en Guardar partida. El botón de guardado rápido, definido en
+<ce>         Controles -> Avanzado (al final de la pantalla de Controles)
+<ce>         es algo que también puedes usar para guardar.
+<ce>           
+<ce>           (Siguiente mensaje en 10 segundos. Presiona No para terminar el tutorial.)
+
+Message:  1031
+<ce>                         Página 7
+<ce>           
+<ce>           Tu primer paso para salir de esta cueva es salir de esta habitación.
+<ce>           Ve por el pasillo opuesto a la fogata.
+<ce>           Después del giro, encontrarás una puerta que parece un muro de ladrillos.
+<ce>           Haz clic en la puerta para abrirla. Más allá, verás una pequeña habitación
+<ce>           con una rata y un montón de tesoro sobre un altar.
+<ce>           
+<ce>           Al hacer clic en el montón de tesoro se abrirá el inventario.
+<ce>           Verás el contenido del tesoro en el lado derecho
+<ce>           de la pantalla de inventario. Con la opción "retirar" seleccionada,
+<ce>           haz clic en los objetos para tomarlos.
+<ce>           
+<ce>           También puedes saquear los cadáveres de enemigos tras matarlos,
+<ce>            pero la rata no tendrá tesoro.
+<ce>           
+<ce>           (Siguiente mensaje en 45 segundos. Presiona No para terminar el tutorial.)
+
+Message:  1035
+<ce>                           Página 8
+<ce>                                    
+<ce>         Continúa a través de la mazmorra. Puedes elegir luchar
+<ce>        o escapar de los enemigos.
+<ce>                                    
+<ce>         Necesitarás armas hechas de materiales más fuertes para golpear
+<ce>         a algunos monstruos. El próximo monstruo, el diablillo, no puede ser dañado con
+<ce>         armas de hierro. Necesitas acero o mejor para dañarlo.
+<ce>         Tus puños también funcionarán, pero necesitas
+<ce>         una alta habilidad de combate sin armas para que funcione.
+<ce>           
+<ce>           (Siguiente mensaje en 5 segundos. Presiona No para terminar el tutorial.)
+
+Message:  1040
+<ce>                           Página 9
+<ce>                                    
+<ce>         Algunos monstruos son más fuertes que tú. Puedes escapar de ellos
+<ce>         sin consecuencias. Si un enemigo te causa muchos problemas,
+<ce>         huye y déjalo atrás. No obtienes experiencia por matar
+<ce>         enemigos, así que uno fuerte no da más recompensa que uno débil.
+<ce>           
+<ce>           (Siguiente mensaje en 5 segundos. Presiona No para terminar el tutorial.)
+
+Message:  1041
+<ce>                           Página 10
+<ce>         
+<ce>         Algunos objetos pueden ser activados. En la sala principal de esta
+<ce>        mazmorra, encontrarás un trono y una palanca junto a él.
+<ce>        Cuando veas la palanca, haz clic en ella para elevar el trono
+<ce>        como un ascensor. Otras mazmorras tendrán objetos
+<ce>         con más efectos, como ruedas e interruptores secretos.
+<ce>
+<ce>         Para salir de esta mazmorra, necesitas buscar un arco oscuro de piedra
+<ce>        incrustado en una pared, aproximadamente de tu altura.
+<ce>        Al hacer clic en él, saldrás de la mazmorra y entrarás
+<ce>        al exterior. El siguiente mensaje aparecerá en ese momento.
+<ce>           
+<ce>           (Siguiente mensaje cuando salgas de la mazmorra. Presiona No para terminar el tutorial.)
+
+Message:  1042
+<ce>                           Página 11
+<ce>                                    
+<ce>         El mundo de Daggerfall es inmenso
+<ce>         y generalmente no se puede recorrer en tiempo real.
+<ce>         
+<ce>         Abre el mapa de viaje (normalmente presionando V).
+<ce>        La región en la que estás está resaltada en rojo.
+<ce>         Haz clic en esa región y obtendrás un mapa enfocado.
+<ce>        Haz clic en BUSCAR y escribe DAGGERFALL.
+<ce>         
+<ce>           Por ahora, mantén las opciones de viaje en CAUTELÓSAMENTE y POSADAS.
+<ce>               Estas opciones asegurarán que llegues por la mañana.
+<ce>             No querrás llegar a la ciudad de Daggerfall por la noche.
+<ce>           
+<ce>           (Siguiente mensaje cuando viajes a una ciudad. Presiona No para terminar el tutorial.)
+
+Message:  1045
+<ce>                           Página 12
+<ce>    
+<ce>    Encuentra a un ciudadano cercano. Presiona F4 para cambiar tu modo
+<ce>        a Diálogo, y luego haz clic en la persona. Entrarás
+<ce>        en una ventana de conversación. Puedes usarla
+<ce>        para pedir direcciones a lugares. Si una persona es poco amigable o
+<ce>    no sabe, busca a otro campesino.
+<ce>    
+<ce>    Una vez que un campesino te diga en qué dirección está un edificio,
+<ce>        puedes seguir repitiendo la solicitud hasta que lo marquen
+<ce>        en tu mapa. Esto es muy importante para encontrar
+<ce>    ubicaciones fácilmente en una ciudad grande como esta.
+<ce>           
+<ce>           (Siguiente mensaje en 45 segundos. Presiona No para terminar el tutorial.)
+
+Message:  1047
+<ce>                          Página 13
+<ce>  
+<ce>    La ventana de conversación también tiene opciones para
+<ce>        encontrar personas y preguntar por noticias,
+<ce>    incluyendo misiones locales como "Trabajo." Mira en la esquina superior izquierda
+<ce>        de la ventana de conversación cuando esté abierta para ver
+<ce>        los diferentes temas sobre los que puedes preguntar.
+<ce>           
+<ce>           (Siguiente mensaje en 15 segundos. Presiona No para terminar el tutorial.)
+
+Message:  1048
+<ce>                          Página 14
+<ce>  
+<ce>       Si obtuviste tesoro en la mazmorra inicial,
+<ce>        querrás venderlo. Una casa de empeño es lo más útil
+<ce>        para esto, aunque las tiendas generales y armerías
+<ce>       también pueden comprar ciertos tipos de objetos. Encuentra una de estas tiendas
+<ce>        en la ciudad. Puedes preguntar a los campesinos por direcciones
+<ce>        o presionar F3 para cambiar a modo Información, y hacer clic
+<ce>        en los edificios para saber qué son a distancia.
+<ce>       
+<ce>       Las tiendas generales abren a las 6 AM. Las casas de empeño y armerías
+<ce>        abren más tarde. Consulta la hora actual en el juego (normalmente la tecla 'i').
+<ce>        Si las tiendas aún están cerradas, presiona el botón de Esperar
+<ce>        para pasar el tiempo (no descansar) hasta que abran.
+<ce>       
+<ce>       Ten en cuenta que si esperas ahora mismo,
+<ce>        el siguiente mensaje del tutorial aparecerá inmediatamente.
+<ce>       
+<ce>           (Siguiente mensaje en 10 segundos. Presiona No para terminar el tutorial.)
+
+Message:  1050
+<ce>                          Página 15
+<ce>                                    
+<ce>      La mayoría de los personajes quieren unirse al menos a un gremio.
+<ce>        A medida que subes de rango en un gremio, obtienes más beneficios.
+<ce>        Para subir de rango, debes mejorar las habilidades que el gremio
+<ce>        valora, y realizar misiones regularmente
+<ce>        para mejorar tu reputación con ellos.
+<ce>                                    
+<ce>        Todos los lanzadores de magia deberían unirse al Gremio de Magos. Los personajes
+<ce>        de combate pueden unirse al Gremio de Guerreros y a una orden de caballería.
+<ce>        También puedes elegir un templo al que unirte.
+<ce>        
+<ce>        Solo puedes ser miembro de un templo y una orden de caballería. 
+<ce>                                    
+<ce>         También hay otros gremios ocultos en el juego.
+<ce>           
+<ce>           (Siguiente mensaje en 10 segundos. Presiona No para terminar el tutorial.)
+
+Message:  1055
+<ce>                          Página 16
+<ce>                                    
+<ce>        La última tarea de todas es encontrar una misión.
+<ce>        Las misiones de Daggerfall son dinámicas, eligiendo ubicaciones
+<ce>        cercanas a ti como lugares donde ocurrirán cosas.
+<ce>  
+<ce>        Hacer misiones para gremios te ayudará a subir
+<ce>        de rango con ellos, por lo que pueden ser una prioridad para ti.
+<ce>        Después de unirte a un gremio, encuentra a alguien dentro del edificio
+<ce>        del gremio con el botón "Obtener misión."
+<ce>         Acepta o rechaza la misión que te den.
+<ce>        Rechazar una misión no tiene consecuencias.
+<ce>
+<ce>     (El siguiente mensaje aparecerá inmediatamente. Presiona No para terminar el tutorial.)
+
+--tuve que dividir la página 16 en una nueva página 17 porque era demasiado grande con la fuente monoespaciada
+
+Message:  1056
+<ce>             Página 17
+<ce>
+<ce>  Muchas misiones te enviarán a otras ciudades.
+<ce>        Si lo hacen, entra en tu diario (normalmente L) y haz clic
+<ce>  en la entrada de misión correspondiente.
+<ce>        Muchas veces, se planificará automáticamente
+<ce>  un viaje hacia el destino de la misión.
+<ce>        De lo contrario, puedes abrir la pantalla de viaje
+<ce>  y elegir la ubicación tú mismo.
+<ce>  
+<ce>  También puedes encontrar misiones entre ciudadanos al azar.
+<ce>        Haz clic en personas en tabernas, que suelen
+<ce>  tener misiones. También puedes obtenerlas de comerciantes
+<ce>        con el botón "Hablar".
+<ce>  Preguntar "¿Algún trabajo?" puede llevarte a posibles dadores de misiones.
+<ce>           
+<ce>           (Siguiente mensaje en 10 segundos. Presiona No para terminar el tutorial.)
+
+Message:  1057
+<ce>       Este es el final del tutorial. Daggerfall es un juego con muchas
+<ce>       mecánicas únicas y complejas, así que aprende de otros jugadores
+<ce>       sobre sus particularidades. También puedes añadir mods al juego
+<ce>       una vez entiendas las mecánicas básicas.
+<ce>       
+<ce>       Bienvenido a tu nueva obsesión...

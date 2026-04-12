@@ -1,0 +1,81 @@
+Quest: R0C10Y01
+DisplayName: Comercio de Contrabando
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  Si buscas trabajo, estoy buscando a
+<ce>                  alguien que lleve un _item_ especial a
+<ce>                  una de mis amistades. La recompensa
+<ce>                 será extremadamente generosa. ¿Te interesa?
+
+RefuseQuest:  [1001]
+<ce>               ¿En serio? Quizás demasiado orgullo. Es una pena.
+
+AcceptQuest:  [1002]
+<ce>                      Excelente. Aquí tienes el _item_.
+<ce>                    Ahora, _contact_ necesita tenerlo
+<ce>                   en ___contact_ en =queston_ días.
+<ce>               Eso debería ser tiempo suficiente, espero.
+<ce>                    Reconocerás a _contact_ --
+<ce>                  ve a un lugar llamado __contact_ y
+<ce>                        simplemente busca a un =contact_.
+<ce>                        Buena suerte y gracias.
+
+QuestFail:  [1003]
+<ce>             %pcf, será mejor que te pongas manos a la obra
+<ce>                               con nuestro pequeño acuerdo.
+
+QuestComplete:  [1004]
+<ce>                    Ah, me alegra verte, %pcf. Y el
+<ce>                 _item_ también. Excelente. Aquí tienes una
+<ce>                baratija por las molestias. Espero que te guste
+<ce>                    el rojo. Cuídate mucho.
+
+RumorsDuringQuest:  [1005]
+He oído que _questgiver_ sigue en el negocio del contrabando.
+<--->
+Ha habido un aumento extraordinario del contrabando últimamente.
+
+RumorsPostfailure:  [1006]
+Alguien encontró un _item_ muy bonito por aquí hace poco.
+<--->
+He oído que _questgiver_ tiene un cabreo monumental con alguien de la estirpe %ra.
+
+RumorsPostsuccess:  [1007]
+Alguien de clase =contact_ estuvo por aquí, presumiendo de un _item_.
+<--->
+He oído que una joyería ha denunciado el robo de un gran rubí.
+
+QuestorPostsuccess:  [1008]
+Ah, %pcf. Espero que mantengas ese rubí a salvo, camarada.
+<--->
+Hola de nuevo, joven camarada.
+
+QuestorPostfailure:  [1009]
+<ce>                   Supongo que vienes a pedir perdón
+<ce>                  por ese asunto de contrabando fallido.
+<ce>                        Disculpa no aceptada.
+                                     <--->
+<ce>                       Tú eres esa persona %ra que no pudo
+<ce>                    ni cumplir con una simple entrega,
+<ce>                     ¿eh? ¿Por qué iba a gastar mi aliento
+<ce>                                contigo?
+
+QuestLogEntry:  [1010]
+%qdt:
+_questgiver_
+ me pidió entregar un _item_ a un contacto
+ en ___contact_ llamado _contact_.
+ Necesito entregar el _item_ ante %g2 en
+ __contact_ en =queston_
+ días o perderé mi recompensa.
+
+Message:  1020
+<ce>                        Suelta la gema. Sé que
+<ce>                       la tienes. El gremio lo dice.
+<ce>                       Si no lo haces, tendré que
+<ce>                         matarte muy despacio.
+
+Message:  1021
+<ce>                       Qué bonita. Ahora lárgate antes
+<ce>                            de que cambie de opinión.

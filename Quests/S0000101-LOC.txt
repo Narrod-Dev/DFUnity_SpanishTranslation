@@ -1,0 +1,16 @@
+Quest: S0000101
+QRC:
+
+Message:  1015
+<ce>                El Rey Eadwyre nos envía para acabar con tu
+<ce>                 vida y entregarle el Tótem. Prepárate para
+<ce>                               morir, %pcn.
+                                     <--->
+<ce>                   Queremos el Tótem. Para ser precisos,
+<ce>                  la Reina Barenziah quiere el Tótem.
+<ce>                 Está dispuesta a pagarte con una muerte
+<ce>                   rápida en lugar de una lenta.
+                                     <--->
+<ce>                 Debes de haber tenido malos tratos con
+<ce>                 Wayrest. Nos enviaron para asesinarte
+<ce>                       y recuperar el Tótem.

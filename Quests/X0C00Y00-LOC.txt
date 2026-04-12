@@ -1,0 +1,95 @@
+Quest: X0C00Y00
+DisplayName: La misión de Hircine
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Si no os importara hacerme un pequeño
+<ce>                 favor, podría poneros en posesión de
+<ce>                 una recompensa excelente: _artifact_.
+<ce>                Tengo un vástago, aparentemente miserable
+<ce>                 pese a todas las bendiciones que le he
+<ce>                otorgado, que necesita... ¿cuál es el
+<ce>                eufemismo? ¿Que se le dé una lección? Una
+<ce>                lección muy seria. ¿Os parece que este
+<ce>                es un contrato aceptable, %pct?
+
+RefuseQuest:  [1001]
+<ce>                Me decepcionáis profundamente, %pct.
+                                     <--->
+<ce>                Rara vez se me convoca, y más raras son
+<ce>                 las ocasiones en las que estoy libre
+<ce>                para responder. Para ser perfectamente
+<ce>                franco, esto ha sido una pérdida de mi
+<ce>                       preciado tiempo.
+
+AcceptQuest:  [1002]
+<ce>                Ah, bien. Este vástago mío es un jabalí
+<ce>                hombre que ha hecho su madriguera en un
+<ce>                     lugar llamado ___mondung_.
+<ce>                No deberíais tener problemas para hallarlo.
+<ce>                Tras haberle liberado de su obvia miseria,
+<ce>                lo cual no debería llevaros más de
+<ce>                =1stparton_ días, id a un lugar llamado
+<ce>                __contact_ en ___contact_ y buscad a una
+<ce>                persona llamada _contact_. Si llegáis allí
+<ce>                en menos de =1stparton_ días con el jabalí
+<ce>                muerto, se os entregará _artifact_.
+<ce>                Un placer hacer negocios con vos, %pct.
+<ce>                      Buena suerte y adiós.
+
+QuestFail:  [1003]
+<ce>                        Escuchad, %pcf, ambos
+<ce>                       sabemos que ese jabalí hombre
+<ce>                       sigue respirando. Un contrato
+<ce>                        es un contrato.
+
+QuestComplete:  [1004]
+<ce>                        Hola, %pcf. Lo lograsteis.
+<ce>                       Hircine está impresionado con vos,
+<ce>                       lo cual no es un logro menor. Aquí
+<ce>                       tenéis _artifact_, tal como se os
+<ce>                           prometió. Cuidaos.
+
+RumorsDuringQuest:  [1005]
+Se oyen unos gruñidos y chillidos realmente desagradables en ___mondung_, al %di de aquí.
+<--->
+He oído que hay una especie de cosa loca, mitad hombre mitad cerdo, en ___mondung_, al %di.
+
+RumorsPostfailure:  [1006]
+Esa cosa-cerdo que estaba aquí huyó hacia el norte, como si algo la persiguiera.
+<--->
+Me pregunto qué podría asustar a un jabalí hombre para que saliera huyendo así.
+
+RumorsPostsuccess:  [1007]
+Todo está muy tranquilo por ___mondung_ últimamente.
+<--->
+Me pregunto qué habrá sido de esa cosa-cerdo que solía merodear por estos lares.
+
+Message:  1011
+El menor de los príncipes daedra. Es su Maestro de la Caza.
+<--->
+Se supone que Hircine es el creador de todos los licántropos.
+
+Message:  1012
+Cierto =contact_ de comportamiento extraño en __contact_, al %di de aquí.
+<--->
+Alguien de la clase =contact_ con ese nombre estuvo en __contact_, al %di de aquí, hace poco.
+
+Message:  1013
+<ce>                 No tengo ni idea de qué hace _artifact_.
+
+Message:  1020
+%qdt:
+ A cambio de _artifact_, el Príncipe
+ Daedra Hircine me ha pedido que mate a un
+ jabalí hombre en ___mondung_. El jabalí
+ debe estar muerto en =1stparton_ días, y
+ yo debo estar en __contact_, en ___contact_,
+ dentro de =1stparton_ días para reunirme con
+ _contact_, de la clase =contact_, para
+ recibir _artifact_.
+
+Message:  1030
+<ce>                       El jabalí hombre ha muerto,
+<ce>                      tal como prometisteis al Príncipe
+<ce>                            Daedra Hircine.

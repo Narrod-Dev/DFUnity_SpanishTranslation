@@ -1,0 +1,74 @@
+Quest: L0B60Y10
+DisplayName: El Veterano
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  Este podría ser un encargo difícil,
+<ce>                   incluso para ti, %pcf. Es de lo mejor
+<ce>                    en el combate de todo %reg. ¿Estás
+<ce>                     seguro de que quieres este trabajo?
+
+RefuseQuest:  [1001]
+<ce>                   No te culpo en absoluto. Esto podría
+<ce>                        ser un poco demasiado peligroso.
+
+AcceptQuest:  [1002]
+<ce>                 De algún modo pensé que intentarías ir a
+<ce>    por esta. Es tu funeral. Esta presa no es un gladiador de arena.
+<ce>                   Hablamos de alguien veterano de la
+<ce>                  guerra de Betony. Mató a 9 hombres, si
+<ce>                  las historias son ciertas. Ve a _mondung_
+<ce>                    en ___mondung_. Podrás identificar
+<ce>                  el objetivo fácilmente por su cojera.
+<ce>                   Una lanza en la rodilla durante la
+<ce>                  guerra la causó. Vuelve aquí dentro de
+<ce>                           =1stparton_ días.
+
+QuestFail:  [1003]
+<ce>                    No sé a quién crees que has
+<ce>                  matado, pero no era el objetivo.
+<ce>                   Vuelve a ___mondung_ y termina
+<ce>                  aquello por lo que se nos contrató.
+
+QuestComplete:  [1004]
+<ce>                    ¡Vaya batalla! Ya me han llegado
+<ce>                  noticias. Los chismes de la calle son
+<ce>                más rápidos que un caballo, ya sabes. Aquí
+<ce>                  tienes las _reward_ piezas de oro por
+<ce>                         el trabajo, %pcf.
+
+RumorsDuringQuest:  [1005]
+Es una pena lo que está pasando en Daggerfall.
+
+RumorsPostfailure:  [1006]
+He oído que la reina está embarazada. Al menos eso es lo que todos dicen.
+
+RumorsPostsuccess:  [1007]
+¿Te has enterado de lo de ese héroe de guerra? Murió en un duelo. Qué lástima.
+
+QuestorPostsuccess:  [1008]
+Tu batalla contra ese héroe de guerra todavía se cuenta, %pcn.
+
+QuestorPostfailure:  [1009]
+Fallaste en tu contrato para matar al héroe de guerra. La Hermandad nunca olvida un fracaso.
+
+Message:  1020
+%qdt:
+ Mi contrato para la Hermandad Oscura en
+ ___questgiver_ es un héroe de guerra en
+ _mondung_, en ___mondung_. La hazaña
+ debe estar cumplida en =1stparton_ días.
+
+Message:  1021
+<ce>                 "Has tenido éxito... donde todos... los
+<ce>                soldados en la... guerra de Betony fallaron".
+<ce>                                     
+<ce>                      El contrato se ha cumplido.
+
+Message:  1022
+<ce>                   "No me creas alguien lisiado solo
+<ce>                    porque cojee. ¡Aun así te arrancaré
+<ce>                         miembro por miembro!"
+
+Message:  1023
+<ce>                    ¡Esto no es un hombre! ¡Es un vampiro!

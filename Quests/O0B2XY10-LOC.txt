@@ -1,0 +1,58 @@
+Quest: O0B2XY10
+DisplayName: Una poción atesorada
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                             %pcn, mi nombre es
+<ce>                         _qgiver_. Le he echado
+<ce>                         el ojo a _potion_. Necesito
+<ce>                         a alguien que lo birle por
+<ce>                      mí. Te pagaré _gold_ de oro
+<ce>                        por hacerlo. ¿Qué me dices?
+
+RefuseQuest:  [1001]
+<ce>                        Avísame cuando quieras un
+<ce>                         trabajo de verdad, %pcn.
+
+AcceptQuest:  [1002]
+<ce>                          En _alchemyshop_, en
+<ce>                        __alchemyshop_, vas a
+<ce>                         encontrar _potion_.
+<ce>                        Tómalo y tráemelo en
+<ce>                      =traveltime_ días, y te
+<ce>                        pagaré. No es tan
+<ce>                            difícil, ¿verdad?
+
+QuestComplete:  [1004]
+<ce>                         Nada mal, %pcn. Aquí
+<ce>                           tienes tus _gold_ de oro.
+
+RumorsDuringQuest:  [1005]
+_alchemyshop_ tiene algunos de los mejores ingredientes de __alchemyshop_.
+<--->
+Si buscas casi cualquier cosa, ve a _alchemyshop_ en __alchemyshop_.
+
+RumorsPostfailure:  [1006]
+Había un ejemplar raro de _potion_ en _alchemyshop_, pero ahora está en un lugar más seguro.
+
+RumorsPostsuccess:  [1007]
+Alguien robó un frasco de _potion_ de la propia _alchemyshop_. ¡Qué desfachatez!
+
+QuestorPostsuccess:  [1008]
+Claro, te recuerdo, %pcf. Lo de _potion_, ¿verdad?
+
+QuestorPostfailure:  [1009]
+<ce>                  No me lo digas. Fuiste hasta
+<ce>                       _alchemyshop_, encontraste
+<ce>                        _potion_ y, por error,
+<ce>                    te lo bebiste, ¿no? %oth, cambia
+<ce>                        el ladrón, pero es la misma historia.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_, miembro del Gremio de Ladrones
+ en ___qgiver_, me ofreció un trabajo:
+ robar _potion_ en
+ _alchemyshop_, en
+ __alchemyshop_. Tengo
+ =traveltime_ días para entregárselo a %g2.

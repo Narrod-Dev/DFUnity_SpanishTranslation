@@ -1,0 +1,125 @@
+Quest: S0000003
+DisplayName: Liberando a Medora
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                   Saludos, %pcf. Soy Medora
+<ce>                Direnni, antigua hechicera de la corte de
+<ce>                Daggerfall. Tengo interés en prestarte
+<ce>                ayuda en tu propósito de exorcizar el
+<ce>                espíritu del Rey Lysandus, pero poco puedo
+<ce>                hacer en mis circunstancias actuales. Si
+<ce>                visitaras a cierta otra hechicera, podría
+<ce>                anular la maldición de la Torre Direnni.
+<ce>                       ¿Harás esto por mí, %pcf?
+
+RefuseQuest:  [1001]
+<ce>                 Rechazas a alguien con gran necesidad de
+<ce>                      tu ayuda, %pcf. Espero que tu
+<ce>                    conciencia te permita descansar.
+
+AcceptQuest:  [1002]
+<ce>                      Estaré en deuda contigo, %pcf.
+<ce>                    Nulfaga, la madre de mi antiguo
+<ce>                  señor Lysandus, es una mística de renombre,
+<ce>                  pero he oído susurros de que la pérdida
+<ce>                  de su hijo la ha vuelto loca de dolor.
+<ce>                  Si esto no es cierto, ella puede ayudarme
+<ce>                  y lo hará. Necesito un objeto raro, el
+<ce>                  cuerno de un Gran Unicornio, para romper la
+<ce>                  maldición de la Torre Direnni. Si Nulfaga
+<ce>                  está realmente loca, deberás registrar su
+<ce>                    castillo en busca del cuerno por tu
+<ce>                  cuenta y traérmelo. Te esperaré de vuelta
+<ce>                         en =2shedungent_ días.
+
+QuestFail:  [1003]
+<ce>                    Sin ese cuerno, no puedo ayudarte
+<ce>                             en absoluto, %pcf.
+
+QuestComplete:  [1004]
+<ce>                 Has tenido éxito en una empresa sumamente
+<ce>                      peligrosa, %pcf, pero te aguardan
+<ce>                muchas más pruebas como esta. Al traerme
+<ce>                el cuerno, me has ayudado a levantar la
+<ce>                maldición que la Reina Madre viuda impuso
+<ce>                  en mi torre. Espero poder contar contigo
+<ce>                  para futuras ayudas. Por ahora, toma este
+<ce>                    _magicitem_ como tu recompensa.
+
+RumorsDuringQuest:  [1005]
+Nadie se acerca a la Isla de Balfiera desde que llegó la Reina del Olvido.
+<--->
+Balfiera fue una vez un retiro exclusivo. Ahora es la tierra de los muertos.
+
+RumorsPostfailure:  [1006]
+Se dice que la dama feérica quedó atrapada allí por la maldad de su propia hechicería.
+<--->
+La maldición de %god pesa sobre la antigua bruja de Daggerfall, condenada para siempre en Balfiera.
+
+RumorsPostsuccess:  [1007]
+Quien porta el estandarte del heroísmo ha salvado a la pobre Dama de Balfiera de la maldición de una reina malvada.
+<--->
+Alguien de la %ra ha levantado la maldición de la Dama de Balfiera y restaurado la tierra.
+
+QuestorPostsuccess:  [1008]
+<ce>                Pensamientos y consejos unidos, igual esperanza
+<ce>               y riesgo en la que una vez fue gloriosa empresa.
+<ce>               Unidos a mí una vez, ¡ahora la miseria nos une
+<ce>                 en igual ruina! Eterna, eterna, eterna
+<ce>                ruina. Oh, hijo mío, ¿por qué no escuchaste?,
+<ce>                 tu oído, tu glorioso rostro mortal, tu
+<ce>                   garganta y la flecha. Oh, miseria.
+                                     <--->
+<ce>                Escogiendo unas pocas palabras, las más horribles,
+<ce>                ¡que nadie las lea! Versos, versos compongo
+<ce>                que, con otros hechizos igual de terribles,
+<ce>                ¡maldicen al Cielo! ¡Maldicen al Olvido! ¡Mi niño!
+<ce>                 Mi niño ha muerto y que Tamriel tiemble hasta
+<ce>                  que él y yo hallemos la paz que se nos niega.
+                                     <--->
+<ce>             Dime, ¡qué extraño motivo, Diosa!, pudo obligar a
+<ce>               una flecha a atravesar la garganta de mi amado
+<ce>              Lysandus. ¿Murió allí llorado y bendecido o es
+<ce>              que mis pajarillos se han vuelto todos de alas
+<ce>              grises? Busco en el más allá, en el inframundo y
+<ce>              en el mundo intermedio, y en ninguna parte hallo
+<ce>               la luz de mi hijo. ¡Oh, locura, a tu pecho me
+<ce>                         aferro cual lactante!
+                                     <--->
+<ce>                 Somos solo como muros muertos o tumbas
+<ce>                abovedadas que, arruinadas, no devuelven eco.
+<ce>                Oh, este mundo sombrío; en qué sombra o pozo
+<ce>                profundo de oscuridad vive la humanidad, de
+<ce>                forma débil y temerosa. ¿Cómo halló Lysandus
+<ce>                su muerte? En una niebla, no sé cómo. ¿Aún no
+<ce>                llega el Olvido? Lo acercaré con una perspectiva
+<ce>                o haré un cristal que prenda fuego a todo el
+<ce>                mundo en un instante. No puedo dormir; mi
+<ce>                 almohada está rellena con una camada de
+<ce>                           puercoespines.
+
+QuestorPostfailure:  [1009]
+<ce>                Por supuesto que le daré a Medora el cuerno
+<ce>                del Gran Unicornio. Al fin y al cabo, ella
+<ce>                 era la favorita de mi amado Lysandus.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Medora, la antigua hechicera de la corte de
+ Daggerfall, me ha enviado a Shedungent, en
+ las Montañas de Wrothgar. Shedungent es el
+ hogar de Nulfaga, madre de Lysandus.
+ Allí debo recuperar el cuerno del Gran
+ Unicornio. Si Nulfaga no puede ayudarme,
+ debo registrar su castillo Shedungent en
+ busca del cuerno por mi cuenta. Tengo
+ =2shedungent_ días para regresar a la Torre Direnni.
+
+Message:  1020
+<ce>                  El delicado cuerno espiralado se curva
+<ce>                  ligeramente antes de terminar en una
+<ce>                  punta afilada y mortal. Siempre habías
+<ce>                  oído que los cuernos de unicornio eran
+<ce>                  de puro marfil de alabastro. Este parece
+<ce>                        ser más bien de plata.

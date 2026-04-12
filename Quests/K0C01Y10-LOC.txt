@@ -1,0 +1,161 @@
+Quest: K0C01Y10
+DisplayName: Información de trasfondo
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                             Eres %pcn, ¿cierto?
+<ce>                       ¿Quien sufrió el naufragio?
+
+RefuseQuest:  [1001]
+<ce>                      Qué gracioso. Te pareces
+<ce>                         mucho a %pcn. En fin.
+
+AcceptQuest:  [1002]
+<ce>             Eso pensaba. Esa tormenta que destruyó tu
+<ce>            barco no fue un temporal de invierno natural,
+<ce>             pero supongo que ya sospechabas algo así.
+<ce>             Te diré con gusto lo que sé al respecto si
+<ce>             encuentras un pergamino raro específico para
+<ce>             mí. Este no es el tipo de trabajo que daría
+<ce>             al Gremio de Luchadores, pues el pergamino
+<ce>             está protegido por poderosos espíritus daedra
+<ce>             y tiene el poder de invocar criaturas del
+<ce>                    plano de Oblivion. Ve a ___mondung_,
+<ce>             encuentra el pergamino y tráemelo antes de
+<ce>             que pasen =queston_ días; entonces te diré
+<ce>             lo que sé sobre la tempestad que por poco
+<ce>                          acaba con tu vida.
+
+QuestComplete:  [1004]
+<ce>                  Ah, el Pergamino de Bothdorji. Muy bien.
+<ce>                  Ahora, déjame hablarte de la tormenta.
+<ce>                  Zarpaste en un barco sin distintivos desde
+<ce>                  la Ciudad Imperial, pero tu identidad, tu
+<ce>                  misión y tu patrón son conocidos para los
+<ce>                    perspicaces. Un agente desconocido
+<ce>                    convenció a la Bruja Loca de las
+<ce>                Montañas de Wrothgar, la abuela del actual
+<ce>                rey de Salto de la Daga, de que tu barco
+<ce>                 transportaba al asesino de su hijo, el
+<ce>                  difunto Rey Lysandus. Eso es todo lo
+<ce>                          que puedo decirte.
+
+RumorsDuringQuest:  [1005]
+Me salió un bulto el otro día... pero ya sanó.
+<--->
+Acabo de tener una conversación de tres horas sobre el clima.
+<--->
+El tiempo es bastante normal para esta época del año.
+<--->
+Parece un poco fresco en %cn para esta temporada.
+<--->
+Seguro que hoy hace mucho más calor que el año pasado por estas fechas.
+<--->
+Mi tía abuela va a ver a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos levantar una estatua de guerra por estos lados.
+<--->
+Los niños de hoy con su magia... %oth, no lo sé.
+<--->
+Tuve un sueño de lo más extraño anoche.
+<--->
+He oído un chiste buenísimo. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Podrías explicármelo?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y malos.
+
+RumorsPostfailure:  [1006]
+Me salió un bulto el otro día... pero ya sanó.
+<--->
+Acabo de tener una conversación de tres horas sobre el clima.
+<--->
+El tiempo es bastante normal para esta época del año.
+<--->
+Parece un poco fresco en %cn para esta temporada.
+<--->
+Seguro que hoy hace mucho más calor que el año pasado por estas fechas.
+<--->
+Mi tía abuela va a ver a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos levantar una estatua de guerra por estos lados.
+<--->
+Los niños de hoy con su magia... %oth, no lo sé.
+<--->
+Tuve un sueño de lo más extraño anoche.
+<--->
+He oído un chiste buenísimo. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Podrías explicármelo?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y malos.
+
+RumorsPostsuccess:  [1007]
+Las estrellas daédricas ardieron brillantes y frías anoche.
+<--->
+He visto funestos presagios de daedras en Mundus.
+
+QuestorPostsuccess:  [1008]
+Me trajiste el Pergamino de Bothdorji, %pcf. ¿Cómo podría olvidarte después de eso?
+
+QuestorPostfailure:  [1009]
+<ce>                    No veo por qué debería hablarte
+<ce>                         en absoluto, %pcf. No me
+<ce>                    trajiste el Pergamino de Bothdorji.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_
+ de __qgiver_, ___qgiver_,
+ se ha ofrecido a contarme la verdad sobre
+ la tormenta que me hizo naufragar cuando
+ llegué por primera vez a la Bahía de Iliac.
+ A cambio, quiere que encuentre un pergamino
+ oculto en ___mondung_ y lo traiga de
+ vuelta en =queston_ días o menos. Es muy
+ probable que el pergamino esté custodiado
+ por algún tipo de daedra.
+
+Message:  1011
+<ce>                        El Pergamino de Bothdorji
+                                    
+ Sopla humo candente sobre el velo de Oblivion
+ Y fuerza a que la línea se disipe
+ Despierta a los Príncipes inquietos que no duermen
+ Y ordena a sus sirvientes que se alcen
+ Es la noche en que la escarcha arderá
+ Cuando la llama congelará el lago iluminado
+ Cuando nubes de murciélagos devorarán nubes de aves
+ Cuando bultos y llagas afligirán a los ricos
+ Cuando un niño con alas maldecirá la tierra
+ Si las mentiras se pudren en mi lengua
+ Y tales momentos no son más que susurros nocturnos
+ Estas palabras forman una sentencia de muerte
+ Pero si el Día de Oblivion está de hecho cerca
+ Sirvientes de la Oscuridad, obedecedme.
+
+Message:  1012
+<ce>                      Has encontrado el pergamino que
+<ce>                          _qgiver_ desea.
+
+Message:  1013
+<ce>                    Hueles una breve bocanada de humo
+<ce>                    rancio y te das cuenta de que el
+<ce>                      pergamino que _qgiver_ quería
+<ce>                            ha desaparecido.
+
+Message:  1014
+<ce>                         Me has invocado, %pcf.
+<ce>                     ¿Y ahora rechazas mi abrazo?
+
+Message:  1015
+<ce>                 Un estallido de fuego vuela del pergamino,
+<ce>                      creando una criatura ardiente.

@@ -1,0 +1,108 @@
+Quest: R0C10Y09
+DisplayName: El Adquisidor
+QRC:
+
+QuestorOffer:  [1000]
+<ce>              Sí, tengo algo para alguien joven y capaz de
+<ce>                la estirpe %ra. No es nada especial, solo un
+<ce>             simple recado, pero significará un extra de _reward_
+<ce>                            oro para ti. ¿Interés?
+
+RefuseQuest:  [1001]
+<ce>                   %oth, supongo que querías que te
+<ce>             diera _reward_ oro por nada. ¿O tal vez tenías
+<ce>                  la esperanza de algo realmente
+<ce>                   interesante? Bueno, tendrás que
+<ce>                          esperar para eso, %pcf.
+
+AcceptQuest:  [1002]
+<ce>                Bien. Tengo... alguien que adquiere bienes a mi servicio.
+<ce>                        De aspecto distintivo, un =spy_
+<ce>                        que responde al nombre de _spy_.
+<ce>                      Bueno, _spy_ ha encontrado un _item_
+<ce>                        especial de interés para mí,
+<ce>                  pero los antiguos dueños le tienen bajo trampa
+<ce>                en algún lugar de __hidingplace_. Mis manos están
+<ce>                atadas oficialmente, pero podrías tener la amabilidad
+<ce>                  de ir a __hidingplace_, encontrar a _spy_,
+<ce>                        y traerme mi _item_. Por supuesto,
+<ce>                si no estás de vuelta en =1stparton_ días,
+<ce>                 tu recompensa de _reward_ oro será anulada.
+<ce>                Estoy bajo la certeza de que lo comprendes.
+<ce>                  Bueno, deberías ponerte en camino. Adiós.
+
+QuestFail:  [1003]
+<ce>                        %pcf, has vuelto, lo cual es
+<ce>                     agradable, pero sin mi _item_, lo cual
+<ce>                    no es tan agradable. ¿Es el encargo
+<ce>                    demasiado difícil de entender para ti?
+<ce>                        Ve a por mi _item_ y
+<ce>                               tráelo aquí.
+
+QuestComplete:  [1004]
+<ce>                        Ah, maravilloso. Mi _item_ ha
+<ce>                    regresado pronto y con el mínimo de
+<ce>                    incidentes. Muy bien. Aquí tienes tu
+<ce>                          recompensa de _reward_ oro.
+
+RumorsDuringQuest:  [1005]
+Están peinando __hidingplace_, buscando un raro _item_ robado.
+<--->
+Recientemente robaron un _item_ muy raro de una colección privada.
+
+RumorsPostfailure:  [1006]
+Recuperaron las joyas y la parte culpable fue ejecutada sumariamente.
+<--->
+Las joyas que estaban buscando aparecieron finalmente.
+
+RumorsPostsuccess:  [1007]
+Nunca encontraron las joyas. Los guardias se han rendido.
+<--->
+<ce>             Se suponía que había una especie de gema rara
+ oculta en esas joyas robadas.
+
+QuestorPostsuccess:  [1008]
+Ah, joven heroísmo. Veo que sigues en el negocio de los mercenarios. Eso es bueno.
+<--->
+¿Qué puedo hacer por ti, %pcf? No he olvidado lo que hiciste por mí.
+
+QuestorPostfailure:  [1009]
+No veo por qué debería hacer algo por alguien que me falló, pero continúa.
+<--->
+<ce>                    Es bastante valiente por tu parte volver
+<ce>                    tras fallar al recuperar mi propiedad.
+<ce>                             Detesto esa valentía.
+
+QuestLogEntry:  [1010]
+<ce>             ¿Te envía _questgiver_? %oth, cuando oí que te
+<ce>              acercabas, temí que finalmente me hubieran
+<ce>             rastreado. ¡Me alegra que me encontraras primero, %pcf!
+<ce>                        Aquí está el _item_. Llévalo
+<ce>                         de vuelta a _questgiver_
+<ce>                  de inmediato; %g lo necesita en apenas unos
+<ce>                 días. Y ten cuidado: los agentes del antiguo
+<ce>                dueño están poniendo __hidingplace_ patas arriba
+<ce>                    buscando esta pequeña belleza.
+
+Message:  1011
+Oigo que _spy_ (que es =spy_) está %di de aquí, por _hidingplace_.
+<--->
+¿Un =spy_ con nerviosismo? He visto a %g2 cerca de _hidingplace_.
+
+Message:  1015
+%qdt:
+_questgiver_ de
+ __questgiver_, ___questgiver_,
+ me ha enviado a buscar un _item_
+ especial de alguien llamado _spy_,
+ que se oculta en algún lugar de
+ __hidingplace_. Los dueños reales del _item_
+ podrían intentar detenerme, pero debo tener
+ el _item_ en manos de _questgiver_
+ en =1stparton_ días, o no recibiré mi
+ recompensa de _reward_ oro.
+
+Message:  1020
+<ce>                Gracias por tu ayuda, %ra. Sabíamos que nos
+<ce>                guiarías directo al _item_. Ahora aquí tienes
+<ce>                          tu pago: ¡la muerte!

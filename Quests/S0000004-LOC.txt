@@ -1,0 +1,144 @@
+Quest: S0000004
+DisplayName: La Boda de Morgiah
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Intentas localizar esa carta del
+<ce>                Emperador, ¿verdad? Hay muy pocos
+<ce>                escándalos en la Bahía de los que sea
+<ce>              totalmente ignorante. Podría darte información,
+<ce>               pero nada es gratuito, eso lo sé bien.
+<ce>                Necesito a alguien con dotes de adalid que
+<ce>                  no tema al fuego del Olvido. ¿Te interesa?
+
+RefuseQuest:  [1001]
+<ce>               Lástima. Encontraré a alguien más que me ayude.
+<ce>               Pero me pregunto quién te ayudará a ti.
+
+AcceptQuest:  [1002]
+<ce>                %oth, es un alivio. No hagas
+<ce>              preguntas; lleva esta carta a cierto hechicero
+<ce>                de alto nivel en la cripta de los necromantes,
+<ce>                Scourg Barrow, en las Montañas de la Cola
+<ce>                del Dragón. Evita la grieta. Si la ves,
+<ce>                        habrás ido demasiado lejos.
+<ce>                                     
+<ce>                  No estarán esperándote y no se detendrán
+<ce>                para presentaciones. Los necromantes sienten
+<ce>                que la muerte es una recompensa para los vivos,
+<ce>                no un castigo. Una vez entregada la carta,
+<ce>                no sentirán necesidad de garantizar tu
+<ce>                seguridad. Es su costumbre. Necesito la
+<ce>                carta entregada y una respuesta de _necs_
+<ce>                en mis manos en un mes como máximo. Los
+<ce>                riesgos son muy altos, %pcf, no falles.
+
+QuestFail:  [1003]
+<ce>                     Necesito una respuesta a mi carta
+<ce>                          de parte de _necs_, %pcf.
+
+QuestComplete:  [1004]
+<ce>                ¡Hecho está! ¡Seré reina de Firsthold!
+<ce>            Aunque estoy segura de que el compromiso será
+<ce>            bastante largo. Ahora, te prometí información
+<ce>                      sobre la carta del Emperador.
+<ce>                                     
+<ce>            La carta que buscas está en manos de Gortwog,
+<ce>            el Señor de la Guerra de los Orcos. Se la compró
+<ce>            al Gremio de Ladrones de Daggerfall después de
+<ce>                que uno de ellos se la robara a la Reina Aubk-i.
+<ce>                                     
+<ce>            Confieso que no sé por qué el Emperador se la
+<ce>            envió a Aubk-i. La chica es inocente hasta la
+<ce>            médula, y todos saben que Gothryd no es el lacayo
+<ce>            leal al Imperio que fue Lysandus. Por supuesto,
+<ce>            mi propia familia... bueno, basta de estos
+<ce>            aburridos cotilleos de la corte.
+<ce>                                     
+<ce>              Si de verdad quieres encontrar esa carta,
+<ce>              deberías ganarte el favor de Mynisera, la
+<ce>                antigua Reina de Daggerfall y Reina Madre
+<ce>              de Gothryd. No te acerques directamente a ella.
+<ce>                Empieza con alguien de menor rango.
+
+RumorsDuringQuest:  [1005]
+Si no fuera por la reputación de Morgiah, Wayrest acogería mejor a su hermano.
+<--->
+¿Cómo podríamos coronar al hermano de una bruja manipuladora como la Princesa Morgiah?
+
+RumorsPostfailure:  [1006]
+El humor de la Princesa Morgiah ha empeorado. Y nadie tiene tan mal genio como ella.
+<--->
+Supongo que ya es hora de que la Princesa Morgiah se case. ¿Pero quién la querría?
+
+RumorsPostsuccess:  [1007]
+La Princesa Morgiah se ha comprometido con el Rey de Firsthold. Un milagro de %god, sin duda.
+<--->
+¿Qué habrá poseído al Rey de Firsthold para proponerle matrimonio a Morgiah?
+<--->
+¡Morgiah tiene un compromiso de tres años! La realeza es gente extraña.
+
+QuestorPostfailure:  [1009]
+<ce>                  Me has fallado, %pcf. Requería una respuesta de _necs_ en un mes.
+<ce>                  ¿Y ahora te atreves a volver tan tarde? ¡Fuera de mi vista!
+
+QuestLogEntry:  [1010]
+_necs_,
+<ce>                                     
+<ce>                 Acepto vuestros términos. Os entregaré a
+<ce>               mi primogénito y vos ejerceréis vuestra
+<ce>               influencia sobre el Rey de Firsthold, en la
+<ce>               Isla de Estivalia. Solo vos podéis permitirle
+<ce>               hablar con su hijo fallecido. ¡Por eso, incluso
+<ce>               se casaría con Nulfaga!
+<ce>                                     
+<ce>                                   -- M
+
+Message:  1011
+Princesa,
+<ce>                                     
+ Hecho.
+<ce>                                     
+<ce>                                -- _necs_
+
+Message:  1012
+%qdt:
+ La Princesa Morgiah de Wayrest me ha
+ pedido entregar una carta al _necs_ de
+ los Necromantes en Scourg Barrow, en las
+ Montañas de la Cola del Dragón. Dijo que
+ evitara la grieta, sea lo que sea eso.
+ Si la veo, habré ido demasiado lejos.
+ Quiere una respuesta en un mes.
+
+Message:  1013
+La Princesa Morgiah ha dejado Wayrest rumbo a la Isla de Estivalia y el Rey de Firsthold.
+<--->
+Wayrest ha consolidado sus relaciones con los Altos Elfos de Firsthold mediante matrimonio.
+<--->
+Firsthold tiene una nueva reina, y Wayrest ha perdido una princesa.
+<--->
+Morgiah será feliz siendo la reina de Karoodil en Firsthold.
+<--->
+Morgiah será la primera reina de Firsthold que no es una Alta Elfa.
+
+Message:  1014
+<ce>                            El Rey Eadwyre y la
+<ce>                             Reina Barenziah,
+<ce>                        Soberanos del Reino de Wayrest,
+<ce>                    Se Orgullecen en Anunciar el Compromiso
+<ce>                      de Morgiah, Princesa de Wayrest,
+<ce>                               con Karoodil,
+<ce>                             Rey de Firsthold,
+<ce>                         en la Isla de Estivalia.
+
+Message:  1015
+<ce>            Un joven con la Rosa de Wayrest bordada en su
+<ce>            sobreveste aparece a tu lado, te entrega una
+<ce>                   tarjeta grabada y desaparece.
+
+Message:  1016
+<ce>                  Muy bien. Si los leales sirvientes del
+<ce>                    Túmulo no te han recompensado con la
+<ce>                    muerte, entrega esta nota a la Princesa
+<ce>                    Morgiah, por favor.

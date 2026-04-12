@@ -1,0 +1,88 @@
+Quest: I0B00Y00
+DisplayName: Una Planta Especial
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                    Nuestro sanador necesita una
+<ce>                   planta especial, llamada _item_,
+<ce>                     para sus pociones curativas.
+<ce>                     No puedo ofrecer mucho, pero
+<ce>                   puedo darte el símbolo sagrado
+<ce>                     del Templo de Stendarr si nos
+<ce>                    traes algo de _item_ para
+<ce>                        nuestra labor sagrada.
+
+RefuseQuest:  [1001]
+<ce>                    Por desgracia, esa es una
+<ce>                    respuesta común. No podemos
+<ce>                      ofrecer grandes cantidades
+<ce>                     de oro o joyas para atraer
+<ce>                     aventureros. Aun así, estoy
+<ce>                     especialmente decepcionado
+<ce>                        contigo, %pcf. Esperaba
+<ce>                           una respuesta más noble.
+
+AcceptQuest:  [1002]
+<ce>                  Tienes buen corazón, %pcf.
+<ce>                  El _item_ que necesitamos está en
+<ce>                     ___chemist_, en un lugar llamado
+<ce>                     __chemist_. Un =chemist_ llamado
+<ce>                         _chemist_ nos lo dará
+<ce>                   gratis si llegas en
+<ce>                    =1stparton_ días o menos.
+<ce>                    Por favor, date prisa, %pcf.
+<ce>                    Hay muchos inocentes heridos
+<ce>                    que necesitan ser atendidos.
+
+QuestFail:  [1003]
+<ce>                    Siempre es un placer hablar
+<ce>                         contigo, %pcf, pero no
+<ce>                       retrases la entrega de
+<ce>                              ese _item_.
+
+QuestComplete:  [1004]
+<ce>                    ¿Es ese el _item_, %pcf?
+<ce>                   Oh, gracias a Stendarr. Acepta
+<ce>                      esta humilde ofrenda:
+<ce>                          el símbolo de nuestra orden.
+
+RumorsDuringQuest:  [1005]
+El Templo de Stendarr es la única orden verdaderamente filantrópica que conozco.
+<--->
+Mi madre espera al sanador en el Templo de Stendarr. Su estado es grave.
+
+RumorsPostfailure:  [1006]
+Mi hermana murió esperando a ese sanador del Templo de Stendarr.
+<--->
+Dicen que el sanador del templo no consiguió las hierbas a tiempo.
+
+RumorsPostsuccess:  [1007]
+Hubo momentos difíciles en el templo. Más heridos de lo habitual.
+<--->
+El dios Stendarr velaba por su templo, eso seguro.
+
+QuestorPostsuccess:  [1008]
+Sería descortés no hablar con quien nos trajo el _item_, %pcf.
+
+QuestorPostfailure:  [1009]
+Contendré mi enojo, pero ¿olvidaste el _item_, %pcf?
+<--->
+Tal vez quieras hablar con quienes murieron porque no trajiste el _item_.
+
+QuestLogEntry:  [1010]
+<ce>                     Aquí está el _item_, %pcf.
+<ce>                    Ahora regresa al templo.
+<ce>                    Hay muchos esperando ser curados.
+
+Message:  1030
+%qdt:
+ El Templo de Stendarr en
+ ___questgiver_ me ha ofrecido
+ el símbolo de su orden si consigo
+ _item_ y se lo entrego
+ en =1stparton_ días.
+ Alguien llamado _chemist_ en
+ ___chemist_, en un lugar llamado
+ __chemist_, está dispuesto a darlo
+ si logro llegar a tiempo.
+ 

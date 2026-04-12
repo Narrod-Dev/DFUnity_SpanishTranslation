@@ -1,0 +1,83 @@
+Quest: L0B40Y04
+DisplayName: Preocupaciones de la Nobleza
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  Esta pequeña excursión no es para
+<ce>                 cualquiera, pero siento que disfrutarás
+<ce>                  el desafío de la experiencia. Tenemos
+<ce>                  una clientela que quiere ajustar las
+<ce>                  cuentas con alguien de la familia real
+<ce>                      de ___mondung_. En cuanto lo
+<ce>                 supe, pensé en ti. ¿Te interesa?
+
+RefuseQuest:  [1001]
+<ce>                   Oh, bueno. Probablemente sea sabio,
+<ce>                     pero esto huele un poco a...
+<ce>                       ¿me atrevo a decir, cobardía?
+
+AcceptQuest:  [1002]
+<ce>                 Sabía que no podrías resistirte a esta.
+<ce>                 Te advierto: tu objetivo, _knight_, no
+<ce>                  es un principito mimado. Quien nos
+<ce>                 contrata también pertenece a la familia
+<ce>                  real, y teme que _knight_ logre abrirse
+<ce>                 camino hasta el trono. Y por lo que he
+<ce>                 oído, tiene el poder para hacerlo. Se
+<ce>                 nos pide que su linaje se extinga en
+<ce>                 =1stparton_ días. Te daré ese tiempo
+<ce>                  para ajustar cuentas y regresar a
+<ce>                          informar.
+<ce>                  Que Mephala camine contigo, %pcf.
+
+QuestFail:  [1003]
+<ce>                    No sé a quién crees que has
+<ce>                  matado, pero no era a _knight_.
+<ce>                 Mueve el trasero al palacio y haz
+<ce>                  aquello por lo que se nos contrató.
+
+QuestComplete:  [1004]
+<ce>                    Hermoso, %pcf, de verdad. Se me
+<ce>                 saltan las lágrimas. Un ajuste de cuentas
+<ce>                  tan bello como pocos he visto. Me dan
+<ce>                 ganas de escribir un poema. ¿Por qué no
+<ce>                coges tus _reward_ piezas de oro y te
+<ce>                  largas de aquí para que pueda escribir
+<ce>                 una balada sobre ello? En serio, estoy
+<ce>                        muy orgulloso de ti, %pcf.
+
+RumorsDuringQuest:  [1005]
+Sé de lo que hablo. _knight_ va a ser nuestra próxima figura gobernante.
+<--->
+Algún día _knight_ nos gobernará. Entonces conoceremos la verdadera tiranía.
+
+RumorsPostfailure:  [1006]
+_knight_ dejó la corte por un tiempo, pero volverá. Eso es seguro.
+<--->
+Y la ópera real continúa. Me pregunto qué habrá hecho que _knight_ abandone la corte.
+
+RumorsPostsuccess:  [1007]
+Deberían declararlo día festivo en %reg. ¡El día de la muerte de _knight_! ¡Hurra!
+<--->
+No puedo evitar sospechar de la repentina muerte de _knight_. Demasiado conveniente.
+
+QuestorPostsuccess:  [1008]
+Sigo pensando en cómo ajustaste las cuentas de ese caballero. Fue verdaderamente sublime, %pcf.
+
+QuestorPostfailure:  [1009]
+<ce>                  Sé que era un encargo difícil. Casi
+<ce>                 imposible. Pero aun así, has fallado,
+<ce>                  y no tengo tolerancia para el fracaso.
+
+Message:  1020
+%qdt:
+ Mi último contrato para la Hermandad Oscura en
+ ___questgiver_ es alguien de la nobleza en
+ _mondung_, en ___mondung_, bajo el nombre de
+ _knight_. La hazaña debe estar cumplida en
+ =1stparton_ días.
+
+Message:  1021
+<ce>                      "Podría... haber sido... tu
+<ce>                    próximo... soberano", gime _knight_.
+<ce>                      El contrato se ha cumplido.

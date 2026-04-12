@@ -1,0 +1,71 @@
+Quest: M0B50Y09
+DisplayName: Caza de una Gárgola
+QRC:
+
+QuestorOffer:  [1000]
+<ce>              Cierto mercader necesita que se despache a
+<ce>                un monstruo, una gárgola para ser más
+<ce>               precisos. La paga es de unas modestas
+<ce>                _gold_ piezas de oro. ¿Puedo contar
+<ce>                    con tu ayuda en este asunto?
+
+RefuseQuest:  [1001]
+<ce>                       Hmmm. Supongo que no eres
+<ce>                       del tipo valiente y heroico.
+
+AcceptQuest:  [1002]
+<ce>               Parece que este mercader contrató a un mago
+<ce>               para construirle una gran mansión. Luego el
+<ce>               pobre necio intentó estafar al mago con su
+<ce>               salario. El mago se enfureció y dio vida a
+<ce>               una de las gárgolas de piedra de la nueva
+<ce>               mansión. Ha estado atacando al mercader sin
+<ce>               descanso. Ve a ___dungeon_ y acaba con esa
+<ce>               cosa. Tienes =2dung_ días para completar
+<ce>                          la tarea.
+
+QuestComplete:  [1004]
+<ce>                      ¡Salve al héroe, %pcn!
+<ce>                ¡Bien hecho! Esta insignificante suma de
+<ce>                _gold_ es apenas una recompensa digna
+<ce>                        por tal hazaña.
+
+RumorsDuringQuest:  [1005]
+<ce>                 El Gremio de Magos se ha negado a matar
+<ce>                a esa gárgola desbocada. Dicen que no es
+<ce>                 culpa suya. Bastardos perezosos.
+
+RumorsPostfailure:  [1006]
+<ce>                Un mercader fue asesinado hace poco. He
+<ce>                oído que se vio a una gárgola acechando
+<ce>                         sobre su cuerpo.
+
+RumorsPostsuccess:  [1007]
+<ce>                El Gremio de Guerreros eliminó a una gárgola.
+<ce>                 Es bueno tener a esos tipos cerca.
+
+QuestorPostsuccess:  [1008]
+<ce>                  Buen trabajo con la gárgola, %pcn.
+
+QuestorPostfailure:  [1009]
+<ce>                  Esa gárgola mató al mercader. Nunca
+<ce>                  deberías haber aceptado el trabajo.
+<ce>                  Ahora nos has dejado mal a ti y al
+<ce>                            gremio.
+
+QuestLogEntry:  [1010]
+El %qdt,
+ el Gremio de Guerreros de ___qgiver_
+ me encomendó el deber de destruir a una
+ gárgola que mora en ___dungeon_.
+ Tengo =2dung_ días para terminar la tarea.
+
+Message:  1011
+<ce>                       El _monster_ ha muerto.
+<ce>                     Con suerte, ese necio mercader
+<ce>                    habrá aprendido a no estafar nunca
+<ce>                            a un mago.
+
+Message:  1080
+<ce>                    Quizás este mapa de ___newdung_
+<ce>                   mejore un poco el trato.

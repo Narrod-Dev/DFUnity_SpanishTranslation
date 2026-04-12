@@ -1,0 +1,133 @@
+Quest: N0C00Y11
+DisplayName: Conseguir un ingrediente
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                             Soy _qgiver_.
+<ce>                   Como norma, solo se paga por trabajar
+<ce>                    a miembros del gremio. Sin embargo,
+<ce>                   tengo una pequeña tarea pendiente. Si
+<ce>                    la hicieras gratis, daría una buena
+<ce>                   recomendación sobre ti al gremio.
+<ce>                          ¿Tienes disposición?
+                                     <--->
+<ce>                             Soy _qgiver_. Trabajo
+<ce>                    del gremio solo para miembros. Pero
+<ce>                   tengo un pequeño encargo que nadie más
+<ce>                    quiere hacer. Alguien con rango de
+<ce>                   maestría, bastante excéntrica, insiste
+<ce>                    en que le consigamos una muestra de
+<ce>                      _ingredient_, y se nos agotó.
+<ce>                    Si me consigues un poco, te estaría
+<ce>                     muy profesionalmente en deuda. Tu
+<ce>                      reputación en el gremio mejoraría.
+
+RefuseQuest:  [1001]
+<ce>                      Debería haberlo sabido. Me he
+<ce>                        cansado de esta charla, %pcn.
+<ce>                                Buen día.
+
+AcceptQuest:  [1002]
+<ce>                       Excelente actitud, %pcf.
+<ce>                        Necesito _ingredient_.
+<ce>                      El único espécimen que conozco
+<ce>                       por ahora se encuentra en
+<ce>                          ___dungeon_. Tienes
+<ce>                  =traveltime_ días para traerlo de vuelta.
+
+QuestComplete:  [1004]
+<ce>                    He visto muestras mejores. ¿Te
+<ce>                   sentaste encima todo el camino? En
+<ce>                    cualquier caso, servirá. Me aseguraré
+<ce>                    de que se hable bien de ti en los
+<ce>                          salones del gremio.
+
+RumorsDuringQuest:  [1005]
+Ese mago loco del Gremio insiste en que ___dungeon_ tiene el mejor _ingredient_.
+
+RumorsPostfailure:  [1006]
+Me salió un bulto el otro día... pero ya sanó.
+<--->
+Acabo de tener una charla de tres horas sobre el clima.
+<--->
+El tiempo es bastante normal para esta época del año.
+<--->
+Parece que hace un poco de fresco en %cn para esta temporada.
+<--->
+Seguro que hoy hace mucho más calor que el año pasado por estas fechas.
+<--->
+Mi tía abuela va a ver a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos erigir una estatua de guerra por aquí.
+<--->
+La juventud de hoy con su magia. %oth, no lo sé.
+<--->
+Tuve un sueño rarísimo anoche.
+<--->
+Escuché un chiste buenísimo. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Podrías explicármelo?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y malos.
+
+RumorsPostsuccess:  [1007]
+Me salió un bulto el otro día... pero ya sanó.
+<--->
+Acabo de tener una charla de tres horas sobre el clima.
+<--->
+El tiempo es bastante normal para esta época del año.
+<--->
+Parece que hace un poco de fresco en %cn para esta temporada.
+<--->
+Seguro que hoy hace mucho más calor que el año pasado por estas fechas.
+<--->
+Mi tía abuela va a ver a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos erigir una estatua de guerra por aquí.
+<--->
+La juventud de hoy con su magia. %oth, no lo sé.
+<--->
+Tuve un sueño rarísimo anoche.
+<--->
+Escuché un chiste buenísimo. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Podrías explicármelo?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y malos.
+
+QuestorPostsuccess:  [1008]
+No te he olvidado, %pcf. Eres quien consiguió el _ingredient_.
+
+QuestorPostfailure:  [1009]
+<ce>               No era algo muy difícil lo que te pedí,
+<ce>                   %pcf. Solo conseguir _ingredient_.
+<ce>                  Y no pudiste hacerlo. ¿Por qué debería
+<ce>                    malgastar mi tiempo contigo?
+
+QuestLogEntry:  [1010]
+%qdt:
+ Se me pidió encontrar una muestra
+ de _ingredient_ que supuestamente
+ está oculta en ___dungeon_.
+ _qgiver_ del Gremio de Magos
+ de ___qgiver_ me dio =traveltime_
+ días para entregárselo.
+
+Message:  1040
+<ce>                      Este debe ser el _ingredient_
+<ce>                    que _qgiver_ te pidió encontrar.
+
+Message:  1080
+<ce>                    Como agradecimiento especial del
+<ce>                   Gremio de Magos, permíteme entregarte
+<ce>                    este mapa hacia ___newdung_. Tengo
+<ce>                    entendido que a la gente como tú se le
+<ce>                      hace la boca agua con estas cosas.

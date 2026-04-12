@@ -1,0 +1,96 @@
+Quest: E0B00Y00
+DisplayName: El Templo Profanado
+QRC:
+
+QuestorOffer:  [1000]
+<ce>             De hecho, sin duda nos vendría bien alguien
+<ce>             como tú. Hay un templo profanado cercano
+<ce>                     llamado ___mondung_. Puede que
+<ce>              hayas oído hablar de él. Desde hace tiempo,
+<ce>              ha sido un lugar de maldad, pero hemos ignorado
+<ce>               su influencia. Después de todo, sirve como
+<ce>              contrapeso a otras fuerzas. Ahora el equilibrio
+<ce>                se ha roto. Necesitamos a alguien que lo
+<ce>                  restablezca. ¿Te interesa ayudar?
+                                     <--->
+<ce>                    El equilibrio en ___mondung_ ha
+<ce>             sido alterado por una nueva intrusión que amenaza
+<ce>                nuestros esfuerzos por traer armonía a %reg.
+<ce>              Necesitamos a alguien capaz, alguien como tú,
+<ce>              para restaurar ___mondung_. ¿Lo harás?
+
+RefuseQuest:  [1001]
+<ce>                Qué decepción. Bueno, sin duda encontraremos
+<ce>                           a alguien más.
+
+AcceptQuest:  [1002]
+<ce>                       Excelente, %pcf. Lo que
+<ce>             necesitamos es que elimines a un poderoso licántropo
+<ce>              que ha establecido su guarida en ese impío
+<ce>                        ___mondung_. Está
+<ce>               amenazando la expansión de nuestra orden en
+<ce>               esa zona. Si no regresas después de
+<ce>               =1stparton_ días, actuaremos por nuestra cuenta
+<ce>             y perderás tu recompensa. Será mejor que partas
+<ce>                 de inmediato. Buena suerte.
+                                     <--->
+<ce>                     %oth, bien, %pcf. Solo podemos darte
+<ce>           =1stparton_ días para restaurar el equilibrio en
+<ce>                  ___mondung_. La forma más rápida y adecuada
+<ce>            que conocemos es que elimines al licántropo que ha
+<ce>                 hecho su repugnante guarida en las entrañas de
+<ce>                 ___mondung_. Date prisa, %pcf. Si no estás aquí
+<ce>              cuando hayan pasado =1stparton_ días, perderás
+<ce>                            tu recompensa.
+
+QuestFail:  [1003]
+<ce>                    Será mejor que te apresures, %pcf.
+<ce>                 No te queda mucho tiempo para
+<ce>                eliminar a esa bestia. =1stparton_ días
+<ce>                             exactamente.
+
+QuestComplete:  [1004]
+<ce>              Has prestado un gran servicio al Templo
+<ce>                     de Arkay, %pcf. Uno que no será
+<ce>               olvidado. Disfruta tus _reward_ piezas de oro,
+<ce>                      te las has ganado.
+
+RumorsDuringQuest:  [1005]
+He oído que hay algún tipo de hombre lobo suelto por aquí.
+<--->
+Dicen que un hombre jabalí ha encontrado guarida en un lugar llamado ___mondung_.
+<--->
+¿Oíste ese aullido anoche? ¿De lobo?
+
+RumorsPostfailure:  [1006]
+Supongo que esos licántropos son nómadas. Dicen que se fue hacia el sur.
+<--->
+Mi familiar dice que ese hombre jabalí fue visto más al sur.
+
+RumorsPostsuccess:  [1007]
+Dicen que ese hombre lobo era sacerdote durante el día.
+<--->
+Mucha gente se siente más segura sabiendo que ese hombre jabalí está muerto.
+<--->
+¿Supiste de esa criatura que un %ra cazó?
+
+QuestorPostsuccess:  [1008]
+¿Cómo puedo ayudar a quien restauró el equilibrio en ___mondung_?
+
+QuestorPostfailure:  [1009]
+No lograste eliminar a esa bestia, %pcf. Estoy profundamente disgustado.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _questgiver_ del
+ Templo de Arkay me ofreció
+ _reward_ piezas de oro por eliminar
+ una criatura licántropa que acecha en
+ ___mondung_, un antiguo
+ templo suyo. Tengo =1stparton_
+ días para hacerlo y regresar a
+ ___questgiver_.
+
+Message:  1020
+<ce>                    Has eliminado al licántropo
+<ce>                            de ___mondung_.

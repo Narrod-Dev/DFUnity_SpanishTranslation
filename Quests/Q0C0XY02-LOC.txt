@@ -1,0 +1,101 @@
+Quest: Q0C0XY02
+DisplayName: Un regalo traicionero
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                         ¿Ayudarías a ==qgiver_,
+<ce>                    %pcf? Muchos vienen a pedir ayuda,
+<ce>                   y nos dan la espalda una vez que sus
+<ce>                   deseos se cumplen; sus juramentos
+<ce>                    son maldiciones, sus promesas son
+<ce>                    abominaciones. Por la gratitud
+<ce>                         de ==qgiver_, ¿querrías
+<ce>                       castigar a quien transgrede
+<ce>                          contra la hermandad?
+
+RefuseQuest:  [1001]
+<ce>                     ¿Ni siquiera eso estarías dispuesto?
+<ce>                          %oth, por ==daedra_,
+<ce>                  supongo que es mejor no prometer lo que
+<ce>                  no se puede cumplir, pero aun así me
+<ce>                            siento en agravio.
+
+AcceptQuest:  [1002]
+<ce>                  ¿De verdad lo harás? Si es así, se
+<ce>                        fabricará un _mitem_
+<ce>                para ti. Ahora, viaja hasta la lejana
+<ce>                 __tavern_ y busca a quien nos ha
+<ce>                    traicionado, un vil ser que se
+<ce>                        hace llamar _man_.
+<ce>                Entrégale esta _jewelry_, dile que es un
+<ce>                regalo de su antigua llama, y entonces
+<ce>                vuelve con nosotros. Debes darte prisa,
+<ce>                 pues la _jewelry_ transformará su forma
+<ce>                 exterior a una semejanza de su belleza
+<ce>                        interna. ==qgiver_ te
+<ce>                 esperará en =queston_ días. Que
+<ce>                        ==daedra_ sonría ante tu
+<ce>                           sagrada misión.
+
+--needed to change %g on line 36 due to gender mismatches
+
+QuestComplete:  [1004]
+<ce>                        Noble %pcf, tu promesa a
+<ce>                       ==qgiver_ se ha cumplido.
+<ce>                         Aquí tienes el _mitem_ que
+<ce>                         prometí. Pobre _man_.
+<ce>                Espero que le dejen sufrir profundamente
+<ce>                      antes de que reciba la muerte.
+
+RumorsDuringQuest:  [1005]
+_man_ es un verdadero ejemplo de éxito por cuenta propia. Un prodigio digno de ver.
+<--->
+==qgiver_ puede ser extremadamente vengativo.
+
+RumorsPostfailure:  [1006]
+_man_ se ríe ante la idea de que le deba algo a ==qgiver_.
+<--->
+_man_ se ha marchado de __tavern_. Y se le echará de menos.
+
+RumorsPostsuccess:  [1007]
+_man_ se transformó en una bestia horrible ante los clientes de _tavern_.
+<--->
+_man_ debió de estar tratando con daedra. %oth, qué destino.
+
+QuestorPostsuccess:  [1008]
+De verdad, espero que estés disfrutando de tu _mitem_, %pcf.
+
+QuestorPostfailure:  [1009]
+<ce>                       ¡Nuestra venganza contra _man_
+<ce>                 no está completa! Lárgate de aquí, o
+<ce>                 tu merecido destino será el mismo que
+<ce>                            el de _man_, %pcf.
+
+Message:  1011
+<ce>                          _man_ te agradece por la
+<ce>                   _jewelry_. Se la prueba mientras le
+<ce>                dices quién la envía. Sus ojos se iluminan
+<ce>                  de miedo al oír el nombre de ==qgiver_,
+<ce>                       y luego el miedo se vuelve dolor.
+
+Message:  1012
+<ce>                      No debías matar a _man_,
+<ce>                    ¡solo entregarle la _jewelry_!
+<ce>                         ¡Inútil! ¡Asesino! _man_
+<ce>                debía sufrir profundamente por su insolencia,
+<ce>                       no morir sin sentir dolor.
+<ce>                             Que ==daedra_ te
+<ce>                               maldiga, %pcf.
+
+Message:  1020
+%qdt:
+ ==qgiver_ de
+ %reg me ha enviado a entregar
+ una _jewelry_ a alguien de nombre
+ _man_ en __tavern_.
+ Se me dijo que me diera prisa, pues la
+ _jewelry_ "transformaría su forma
+ exterior a una semejanza de su
+ belleza interna". Debo poner la
+ _jewelry_ en sus manos y volver con
+ ==qgiver_ en no más de =queston_ días.

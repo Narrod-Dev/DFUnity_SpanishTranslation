@@ -1,0 +1,85 @@
+Quest: S0000017
+DisplayName: El cuadro de Wayrest
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                      ¡%pcn! Te doy la bienvenida a Sentinel.
+<ce>                  Confío en que hayas tenido una estancia
+<ce>                  cómoda hasta ahora. Déjame ir directo al
+<ce>                  grano. Mi hijo, el príncipe Lhotun, dice
+<ce>                  que eres %ra de gran confianza y respeto.
+<ce>                  Necesito a alguien de tu calaña.
+<ce>                  Estoy dispuesta a pagarte _gold_ de oro
+<ce>                    por infiltrarte en el Castillo de Wayrest
+<ce>                    y recuperar para mí una reliquia del
+<ce>                    difunto rey Lysandus. ¿Lo harás?
+
+RefuseQuest:  [1001]
+<ce>                  Hmmm. Tendré que reconsiderar tu
+<ce>                        prestigio en esta corte.
+
+AcceptQuest:  [1002]
+<ce>                   ¡Qué generosidad! Hay un objeto, un
+<ce>                  cuadro, que está escondido en algún lugar
+<ce>                    del Castillo de Wayrest. Deseo este
+<ce>                  objeto por razones que no deben
+<ce>                    preocuparte. Tráemelo y te
+<ce>                      pagaré tus _gold_ de oro.
+
+QuestComplete:  [1004]
+<ce>                     Aquí tienes tus _gold_ de oro, %pcf.
+
+QuestLogEntry:  [1010]
+%qdt:
+ La reina Akorithi me ha encomendado infiltrarme
+ en el Castillo de Wayrest. En algún lugar de sus
+ mazmorras hay un cuadro que ella desea. Si logro
+ ponerlo en sus manos, me pagará _gold_ de oro.
+
+Message:  1011
+Estimado %pcn:
+ 
+ Se requiere tu presencia en nuestra corte
+ antes de que termine la próxima estación.
+ El príncipe Lhotun te ha recomendado con
+ grandes elogios. Espero tu llegada.
+ 
+<ce>                                Akorithi
+<ce>                          Reina de Sentinel
+
+Message:  1012
+<ce>                Una joven paje que porta el blasón de Sentinel
+<ce>                te entrega con rigidez un sobre impecablemente
+<ce>                planchado. Ignorando tus preguntas, se da la
+<ce>                            vuelta y se marcha.
+
+Message:  1013
+<ce>                Cuanto más miras, más parece moverse la imagen
+<ce>                  del cuadro. Apartas la vista antes de que
+<ce>                comience a suceder algo peor.
+
+Message:  1015
+<ce>                  La escena del cuadro cambia y se retuerce.
+<ce>                Puedes ver claramente el interior de una tienda.
+<ce>                Varios hombres con la librea de Wayrest debaten
+<ce>                  intensamente con un hombre que porta el escudo
+<ce>                de armas de Salto de la Daga. Uno de los hombres
+<ce>                de Wayrest se desliza tras el de Salto de la Daga,
+<ce>                  saca una daga y se la clava casualmente entre
+<ce>                las costillas. La imagen se desvanece a medida
+<ce>                  que la vida se escapa de su cuerpo.
+
+Message:  1020
+<ce>                  ¿Intentaste usar el cuadro?
+
+Message:  1021
+<ce>                      Excelente. Sus propiedades no son
+<ce>                  apropiadas para quienes no poseen sangre
+<ce>                  real. Has demostrado ser no solo leal,
+<ce>                  sino también obediente.
+
+Message:  1022
+<ce>                         Presumes demasiado, %pcn.
+<ce>                  Lo que viste no es para los ojos curiosos
+<ce>                    de las masas. Concierne a asuntos de la
+<ce>                  realeza y será tratado por la realeza.

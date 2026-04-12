@@ -10,6 +10,7 @@ Este proyecto busca traducir todo el juego para que se pueda disfrutar de la exp
 
 Actualmente, el proyecto cubre los siguientes archivos de la carpeta `/Text`:
 
+- **Carpeta /Quests**: Todas las misiones del juego.
 - **Carpeta /Books**: Todos los libros que contienen el lore de Daggerfall
 - **GameSettings.txt**: Opciones de juego, interfaz, vídeo y accesibilidad.
 - **Internal_Strings.csv**: Información interna.

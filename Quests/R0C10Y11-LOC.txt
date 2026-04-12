@@ -1,0 +1,87 @@
+Quest: R0C10Y11
+DisplayName: Mercancía de Contrabando
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                   ¿No estarás de casualidad libre para
+<ce>                    hacerme un pequeño recado? Es muy
+<ce>                   simple, lo haría yo mismo o mandaría
+<ce>                    a uno de mis mensajeros, pero todos
+<ce>                    estamos sumamente ocupados. Te daría
+<ce>                   un extra de _reward_ piezas de oro.
+<ce>                    No está nada mal. ¿Estás disponible?
+
+RefuseQuest:  [1001]
+<ce>                          ¿No? %god me libre de las
+<ce>                           manos ociosas de la estirpe %ra.
+
+AcceptQuest:  [1002]
+<ce>                   Qué suerte. Ahora, toma este _item_
+<ce>                          y ve a ___qgfriend_,
+<ce>                    a un lugar llamado __qgfriend_.
+<ce>                      Allí hay alguien de clase =qgfriend_
+<ce>                        con el nombre de _qgfriend_.
+<ce>                     Entrégale el _item_ y %g te dará
+<ce>                    el oro de la recompensa (_reward_).
+<ce>                    Ah, y tienes que estar allí en
+<ce>                   =queston_ días, pero eso no debería
+<ce>                   ser un problema. Tienes piernas jóvenes
+<ce>                        y robustas. En marcha, ¡vamos!
+
+QuestFail:  [1003]
+<ce>                          Te pareces a %pcf,
+<ce>                       pero no puede ser. %pcn
+<ce>                    está de camino a ___qgfriend_.
+
+QuestComplete:  [1004]
+<ce>                  ¿Te ha contratado _questgiver_ como correo?
+<ce>                   Ah, el _item_ que he estado esperando.
+<ce>                  Muy bien. Aquí tienes tu oro. Gracias.
+
+RumorsDuringQuest:  [1005]
+He oído que _questgiver_ sigue en el negocio del contrabando.
+<--->
+Ha habido un aumento extraordinario del contrabando últimamente.
+
+RumorsPostfailure:  [1006]
+He oído que alguien se topó con un _item_ en medio de la nada.
+<--->
+_questgiver_ tiene un cabreo monumental con cierto correo incompetente de la estirpe %ra.
+
+RumorsPostsuccess:  [1007]
+Alguien de clase =qgfriend_ estuvo aquí hace poco, presumiendo de un _item_.
+<--->
+<ce>              Supongo que _questgiver_ no robó ese _item_
+<ce>                     después de todo, o si no %g se lo comió.
+
+QuestorPostsuccess:  [1008]
+Reconozco esas piernas jóvenes y robustas. ¿Cómo estás, camarada?
+<--->
+Has vuelto a visitar a quien te dio empleo, ¿verdad, %pcf?
+
+QuestorPostfailure:  [1009]
+<ce>                        Te recuerdo. Eres de la
+<ce>                        estirpe %ra que falló en aquel
+<ce>                       simple encargo de entrega. %oth,
+<ce>                          no tengo tiempo para ti.
+
+Message:  1011
+%g es alguien con un gobierno respetable, pero con tendencias cleptómanas.
+<--->
+Alguien dedicado al contrabando de joyas a gran escala, por lo que he oído.
+
+Message:  1012
+Es de quienes le compran mercancía robada a _questgiver_. _qgfriend_ prácticamente vive en __qgfriend_.
+<--->
+¿Esa persona de clase =qgfriend_? _qgfriend_ es un receptáculo para una guarida de contrabandistas en __qgfriend_.
+
+Message:  1015
+%qdt:
+_questgiver_ de
+ __questgiver_ me ha pedido
+ que entregue un cierto _item_ a
+ una amistad llamada _qgfriend_.
+ El escondite actual de _qgfriend_ es
+ __qgfriend_ en ___qgfriend_,
+ un viaje de unos =queston_ días.
+ Ese es el tiempo que tengo, al menos.

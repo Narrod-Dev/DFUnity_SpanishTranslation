@@ -1,0 +1,124 @@
+Quest: Q0C00Y04
+DisplayName: Una Mezcla Especial
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  El gremio de magos ha contactado
+<ce>                   con ==qgiver_ para pedirle una
+<ce>                  poción especial; una fórmula sagrada
+<ce>                       muy codiciada en %reg.
+<ce>                  Estarían dispuestos a pagar _gold_
+<ce>                  piezas de oro por ella, que serían
+<ce>                  para ti. Solo queremos el favor del
+<ce>                   Gremio de Magos. El viaje no será
+<ce>                       nada sencillo. ¿Te interesa?
+
+RefuseQuest:  [1001]
+<ce>                            Comprendo. Siento
+<ce>                           decepción, pero lo
+<ce>                               comprendo.
+
+AcceptQuest:  [1002]
+<ce>                  Muy bien, %pcf. Aquí tienes la
+<ce>                 poción. No deberías sufrir peligro de
+<ce>                día, pues quienes la buscan solo viajan
+<ce>                  de noche. Esperan recibir la poción
+<ce>                   en el Gremio de Magos de ___mguild_
+<ce>                      en =queston_ días o menos, así
+<ce>                   que no te demores. Pregunta por alguien
+<ce>                            del gremio con el nombre
+<ce>                                    de _mage_.
+
+QuestComplete:  [1004]
+<ce>                      Ah, una fórmula de lo más
+<ce>                    rara y prodigiosa. Aquí tienes tus
+<ce>                    _gold_ piezas de oro. Un precio de
+<ce>                           ganga por esta poción.
+
+RumorsDuringQuest:  [1005]
+La paz entre el Gremio de Magos y ==qgiver_ es sorprendente.
+<--->
+Esta paz entre magos y brujas no durará mucho.
+
+RumorsPostfailure:  [1006]
+==qgiver_ rompió un acuerdo con el Gremio de Magos.
+<--->
+El Gremio de Magos está cortando relaciones con ==qgiver_.
+
+RumorsPostsuccess:  [1007]
+¡La poción que ==qgiver_ dio al Gremio de Magos cura el vampirismo!
+<--->
+¡La poción que ==qgiver_ dio al Gremio de Magos cura la licantropía!
+
+QuestorPostsuccess:  [1008]
+Desde el Gremio de Magos nos informan que la transacción se realizó. Gracias, %pcf.
+
+QuestorPostfailure:  [1009]
+<ce>                  Hemos trabajado para fortalecer las
+<ce>                  relaciones con el Gremio de Magos,
+<ce>                   pero lo has arruinado todo al no
+<ce>                    entregar esa poción, %pcf.
+<ce>                   Lárgate de mi vista. No puedo ni
+<ce>                         siquiera mirarte.
+
+QuestLogEntry:  [1010]
+%qdt:
+ ==qgiver_ me ha
+ enviado al Gremio de Magos de
+ ___mguild_ con una
+ poción misteriosa. Debo tener
+ cuidado por las noches con quienes
+ busquen la poción. El nombre de quien 
+ me entregará las _gold_ piezas de oro 
+ por la poción es _mage_. Tengo
+ =queston_ días para completar esta
+ entrega.
+
+Message:  1012
+<ce>                     Una voz áspera con la suciedad
+<ce>                    de la tumba sisea: "¡Tú! ¡Esa
+<ce>                         poción nos pertenece!"
+                                     <--->
+<ce>                    "Dame la poción", gruñe alguien.
+<ce>                      "¡Eso no te pertenece a ti!"
+                                     <--->
+<ce>                        Escuchas un aullido, un
+<ce>                    salvaje y antinatural grito de deseo.
+<ce>                        "¡La poción! ¡La poción!"
+
+Message:  1013
+<ce>                               El aullido de
+<ce>                             un lobo resuena.
+                                     <--->
+<ce>                          Escuchas un gruñido,
+<ce>                          un grito lastimero
+<ce>                              de anhelo.
+                                     <--->
+<ce>                       El grito de un lobo desgarra
+<ce>                      la noche. No es un aullido de
+<ce>                       hambre, sino de pura ansia.
+
+Message:  1014
+<ce>                                El agudo
+<ce>                               chillido de un
+<ce>                             jabalí rasga la noche.
+                                     <--->
+<ce>                          Escuchas el gruñido
+<ce>                       gutural de un jabalí, con un
+<ce>                        tono que tiembla de desesperación.
+                                     <--->
+<ce>                        La calma de la noche se
+<ce>                       rompe de repente con el agudo
+<ce>                        gruñido de un jabalí enfadado.
+
+Message:  1015
+<ce>                            Sientes algo extraño.
+
+Message:  1016
+Error: Questtext 1016 Called.
+
+Message:  1017
+<ce>                  ¿Qué es esto? ¡La fórmula ha sido
+<ce>                   profanada! Me decepciona que no
+<ce>                    hayas podido cumplir con este
+<ce>                         simple encargo.

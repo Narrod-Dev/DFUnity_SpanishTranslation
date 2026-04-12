@@ -1,0 +1,91 @@
+Quest: C0B3XY09
+DisplayName: El Gran Mal
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                           %pcn, mi nombre es
+<ce>                          _qgiver_. %god ha
+<ce>                        profetizado un gran mal
+<ce>                        creciendo en el corazón de
+<ce>                         una mazmorra cercana. Necesitamos
+<ce>                        que vayas a destruir
+<ce>                         esta cosa. ¿Lo harás?
+
+RefuseQuest:  [1001]
+<ce>                       No tengo tiempo que perder.
+<ce>                        Debo encontrar a alguien que
+<ce>                          acepte esta misión.
+
+AcceptQuest:  [1002]
+<ce>                      No hay tiempo que perder.
+<ce>                      Viaja a ___dungeon_.
+<ce>                        Allí encontrarás el/la
+<ce>                        _evilfocus_. Destrúyelo/la
+<ce>                   en =traveltime_ días y todo
+<ce>                         volverá a la normalidad. Una
+<ce>                        señal aparecerá en el
+<ce>                       templo cuando esto se haya hecho.
+<ce>                        Regresa conmigo y te
+<ce>                             recompensaré bien.
+
+QuestComplete:  [1004]
+<ce>                          %pcn, tienes el
+<ce>                       agradecimiento de todo nuestro clero.
+<ce>                             El mal ha
+<ce>                         sido destruido. Como
+<ce>                     prometí, aquí tienes _gold_ piezas
+<ce>                        de oro como recompensa.
+
+RumorsDuringQuest:  [1005]
+__qgiver_ están repentinamente muy interesados en ___dungeon_.
+
+RumorsPostfailure:  [1006]
+El Mal aún permanece en ___dungeon_, pero ha cambiado de forma.
+
+RumorsPostsuccess:  [1007]
+__qgiver_ destruyeron un Mal en ___dungeon_ que pocos sabían que existía.
+
+QuestorPostsuccess:  [1008]
+Eres quien destruyó el/la _evilfocus_, por supuesto que te recuerdo.
+
+QuestorPostfailure:  [1009]
+El/la _evilfocus_ aún prospera. No tengo nada para ti salvo desprecio.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Un miembro de __qgiver_
+ en ___qgiver_ llamado
+ _qgiver_ me encomendó
+ la tarea de destruir
+ el/la _evilfocus_ maligno/a en
+ ___dungeon_. Debe hacerse en =traveltime_
+ días o el mal será
+ desatado sobre un mundo
+ inocente. O mayormente inocente.
+
+Message:  1011
+<ce>                   Cuando te acercas al/a la _evilfocus_,
+<ce>                 se transforma en una hermosa mujer.
+<ce>                                    
+<ce>                      "¡Qué apetitoso joven mortal!
+<ce>                       Veo que viniste a destruir
+<ce>                        el/la _evilfocus_. Tengo
+<ce>                       una mejor idea. Si te doy
+<ce>                      este/a _magicitem_ mágico/a,
+<ce>                       vuelves al templo
+<ce>                        y les dices que no
+<ce>                    pudiste encontrar el/la _evilfocus_.
+<ce>                      Difícilmente podrán culparte,
+<ce>                        y podrás quedarte con el/la
+<ce>                             _magicitem_."
+
+Message:  1012
+<ce>                        "¡Entonces muere como el
+<ce>                            piadoso mortal que eres!"
+
+Message:  1013
+<ce>  La maldición ha sido levantada. Deberías informar a _qgiver_.
+
+Message:  1014
+<ce>  La ira de __qgiver_ no será
+<ce>  fácil de apaciguar por esta traición.

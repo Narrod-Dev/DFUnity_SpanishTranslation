@@ -1,0 +1,106 @@
+Quest: L0A01L00
+DisplayName: La prueba de aceptación
+QRC:
+
+QuestComplete:  [1004]
+<ce>                             Bien hecho, %pcn.
+<ce>                      _npc_ sufrió un repentino fallo
+<ce>              cardíaco. Pobre diablo. Has demostrado que
+<ce>              puedes matar con discreción y no solo con una
+<ce>              hoja desnuda. Ahora eres un miembro de pleno
+<ce>              derecho de la Hermandad Oscura. Siempre que
+<ce>              entres en una ciudad, sabrás si hay algún
+<ce>              edificio del gremio allí. Es costumbre que el
+<ce>              novicio reciba el pago de una sola moneda de
+<ce>              oro por su primera muerte autorizada.
+<ce>                             Aquí tienes la tuya.
+
+RumorsDuringQuest:  [1005]
+_npc_ debería vigilar por dónde pisa. Tiene bastantes enemigos.
+
+RumorsPostfailure:  [1006]
+No es sabio ignorar a la Hermandad Oscura. Es poco sabio y fatal.
+
+RumorsPostsuccess:  [1007]
+Pobre _npc_. Supongo que hizo demasiados enemigos. Uno de más.
+<--->
+El vino en la jarra de _npc_ debió de ponerse malo. El vino hace esas cosas.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Tuve una reunión secreta con
+ _apothecary_, un miembro de la
+ Hermandad Oscura, el gremio de asesinos,
+ en ___apothecary_. Me entregó un vial
+ de _poison_ para verterlo en secreto
+ en el vino de _npc_ de _mansion_,
+ en __mansion_. Según _apothecary_, si
+ luego voy a ver a _darkbmember_ en
+ ___darkbmember_, me convertiré en miembro
+ de la Hermandad Oscura. Tengo =traveltime_
+ días para llegar hasta él, o la Hermandad
+ asumirá que he fracasado en mi misión.
+
+Message:  1011
+<ce>                       Un joven pilluelo callejero te
+<ce>                      pone una carta en la mano. Cuando
+<ce>                       intentas interrogarle, resulta
+<ce>                       obvio que es sordo y mudo. Con
+<ce>                        un gesto de frustración, dejas
+<ce>                               que se marche.
+                                     <--->
+<ce>                      Sientes que una carta se desliza
+<ce>                      en tu mano y oyes el sonido de
+<ce>                       unos pasos alejándose a toda
+<ce>                       prisa. No hay ningún otro rastro
+<ce>                        del misterioso mensajero.
+
+Message:  1012
+%qdt:
+ Un pilluelo callejero me ha entregado
+ una carta misteriosa. No me atrevo a
+ copiar su contenido en este diario.
+
+Message:  1014
+<ce>                        Has fracasado, %pcn.
+<ce>                           _npc_ aún vive.
+<ce>                        Es una regla del gremio que
+<ce>                        alguien debe morir una vez que
+<ce>                        se acepta un contrato. Tú
+<ce>                        debes tomar el lugar de _npc_.
+
+Message:  1015
+<ce>                           Ah, tú debes ser %pcn.
+<ce>              La Hermandad Oscura te ha estado observando.
+<ce>              Has demostrado que puedes matar con una hoja.
+<ce>              La Hermandad no tolera a los asesinos por
+<ce>              cuenta propia. O te unes a nosotros, o serás
+<ce>              marcado para la muerte. La Hermandad te
+<ce>              iniciará como miembro de pleno derecho si tomas
+<ce>              este _poison_ y lo viertes en la jarra de vino
+<ce>              de _npc_ en _mansion_ de __mansion_.
+<ce>              Tienes =traveltime_ días para hacerlo e
+<ce>              informar a _darkbmember_ en ___darkbmember_.
+<ce>               Que las bendiciones de Mephala caigan
+<ce>                        sobre ti, %pcn.
+
+Message:  1019
+<ce>                        El _poison_ enturbia el vino
+<ce>                        solo brevemente. En pocos
+<ce>                        segundos la bebida vuelve a
+<ce>                        parecer normal. Ahora todo lo
+<ce>                        que tienes que hacer es dejarla
+<ce>                        en su sitio.
+
+Message:  1020
+%pcn
+ 
+    La Hermandad Oscura te ha estado observando.
+ Has matado sin autorización varias veces.
+ Ahora debes unirte a nosotros, o serás contado
+ como nuestro enemigo. Viaja a ___apo_
+ en ____apo_ y busca a _apothecary_,
+ quien te dará más instrucciones.
+ Te damos =S.01_ días.
+ 
+<ce>                                Un Hermano

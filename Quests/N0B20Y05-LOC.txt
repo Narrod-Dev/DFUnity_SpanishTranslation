@@ -1,0 +1,86 @@
+Quest: N0B20Y05
+DisplayName: Un mago peligroso
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Sin duda habrás oído hablar del delirante
+<ce>                        mago _wizard_. Dado el
+<ce>                   enorme poder que %g tiene bajo su mando,
+<ce>                    %rt %rn ha estado retrasando cualquier
+<ce>                 movimiento ofensivo contra _wizard_, pero
+<ce>                   esa estrategia ha llegado a su fin. %t nos
+<ce>                 ha pedido enviar a alguien para destruir a ese
+<ce>                mago psicópata. A cambio de una recompensa mágica
+<ce>                  _reward_, ¿estarías de acuerdo en hacerlo?
+                                     <--->
+<ce>                       La gente de %reg ha estado
+<ce>                 exigiendo que el Gremio de Magos tome cartas
+<ce>                contra el mago loco que lleva aterrorizando la
+<ce>                 región desde hace tiempo. Ahora, por orden del
+<ce>                propio Archimagistrado, vamos a hacer justamente
+<ce>                 eso. Sé que no es el tipo de tarea que una
+<ce>                institución académica suele asignar, pero ¿tienes
+<ce>                 voluntad y capacidad para visitar al mago loco
+<ce>                         y hacerlo pedazos?
+
+RefuseQuest:  [1001]
+<ce>                  Maldición. Esperaba que pudiéramos contar
+<ce>                         contigo para este asunto.
+
+AcceptQuest:  [1002]
+<ce>               Excelente. Sabía que no nos fallarías, %pcf.
+<ce>                 Ahora bien, _wizard_ estará en su laboratorio,
+<ce>                 ___mondung_, por un máximo de =1stparton_ días
+<ce>                  antes de mudarse a una nueva ubicación. %t
+<ce>                 quiere noticias de que el mago ha muerto en
+<ce>                =1stparton_ días, así que no te demores tras cumplir
+<ce>                  el cometido. Nos vemos en =1stparton_ días.
+<ce>                     Gracias y buena suerte, %pcf.
+
+QuestFail:  [1003]
+<ce>                Creo que deberías ir avanzando con ese asunto
+<ce>                   del que hablamos, ¿no te parece?
+
+QuestComplete:  [1004]
+<ce>                  Una vez más, me asombras con tu destreza
+<ce>                        y eficiencia, %pcf.
+<ce>                   Un trabajo excelente; %t estará con
+<ce>                  tanta satisfacción como yo. Aquí tienes
+<ce>                    la recompensa _reward_ prometida.
+<ce>                               Disfrútala.
+
+RumorsDuringQuest:  [1005]
+El Gremio de Magos ha enviado a alguien para encargarse de ese mago loco en ___mondung_.
+<--->
+Todo el mundo está conteniendo el aliento, esperando el próximo movimiento de ese mago.
+
+RumorsPostfailure:  [1006]
+Ni siquiera el Gremio de Magos pudo hacer nada contra ese hechicero demente.
+<--->
+Nadie sabe dónde está _wizard_, pero ningún lugar es seguro hasta que %g1 desaparezca.
+
+RumorsPostsuccess:  [1007]
+Con suerte, será lo último que sepamos del mago loco de ___mondung_.
+<--->
+Parece que todo está tranquilo ahora que no hay que preocuparse por un mago loco.
+
+QuestorPostsuccess:  [1008]
+Hola, %pcf. Espero que ese mago loco no te hiciera demasiado daño.
+
+QuestorPostfailure:  [1009]
+<ce>                        Así que has vuelto, pero no
+<ce>                      has acabado con el Mago Loco de
+<ce>                        ___mondung_, ¿verdad?
+<ce>                          No hay esperanza, %pcf,
+<ce>                             no hay esperanza.
+
+Message:  1030
+%qdt:
+ El Gremio de Magos de ___questgiver_ me ha
+ pedido acabar con el Mago de ___mondung_.
+ Debo cumplir el cometido en =1stparton_ días
+ para poder cobrar mi recompensa.
+
+Message:  1040
+<ce>                        Has acabado con _wizard_,
+<ce>                      el Mago Loco de ___mondung_.

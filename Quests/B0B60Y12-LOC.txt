@@ -1,0 +1,90 @@
+Quest: B0B60Y12
+DisplayName: Descanso Eterno
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                    Tengo una buena para ti.
+<ce>                        Parece que _nobleman_ acaba
+<ce>                      de leer sobre una antigua maldición
+<ce>                      familiar. Ahora %g está muerto
+<ce>                     de miedo. %g quiere que alguien
+<ce>                    vaya a destruir a su tatarabuela,
+<ce>                       a quien %g teme que camina por
+<ce>                      la tierra como una monstruosidad
+<ce>                      no muerta. ¿Te interesa,
+<ce>                           %pct?
+                                     <--->
+<ce>                 Esto podría no ser más que una simple
+<ce>                   exploración de una tumba,
+<ce>                      pero _nobleman_ nos ha pedido
+<ce>                    investigar el lugar de descanso
+<ce>                    de su tatarabuela. Al parecer,
+<ce>                   %g tuvo un sueño en el que ella
+<ce>                    había vuelto a la vida y escaparía
+<ce>                    del túmulo familiar en =2dung_ días.
+<ce>                   Puede que todo sea una tontería, pero
+<ce>                   puede que no. ¿Investigarás,
+<ce>                                 %pct?
+
+RefuseQuest:  [1001]
+<ce>                   Si te cruzas con algún caballero que
+<ce>                     acepte este trabajo, envíalo
+<ce>                                 conmigo.
+
+AcceptQuest:  [1002]
+<ce>                     La antigua antepasada de _nobleman_
+<ce>                    está enterrada en un mausoleo llamado
+<ce>                          ___dungeon_ que fue
+<ce>                   diseñado para evitar saqueos de tumbas.
+<ce>                     No hay pruebas de que esté siquiera
+<ce>                     no muerta. Lo más probable es que sea
+<ce>                    solo un cadáver. Si es así, quema el cuerpo
+<ce>                    en una pira funeraria adecuada. Regresa
+<ce>                   en =2dung_ días, o _nobleman_ dice que
+<ce>                   la maldición se activará.
+
+QuestComplete:  [1004]
+<ce>                     Vaya. No pensé que la antepasada de
+<ce>                       _nobleman_ fuera realmente una
+<ce>                    de los no muertos.
+<ce>                    Has salvado a la gente local de
+<ce>                       mucho sufrimiento.
+
+RumorsDuringQuest:  [1005]
+_nobleman_ es un tonto supersticioso, pero su tatarabuela era peculiar.
+<--->
+_nobleman_ proviene de una familia extraña. Tal vez su tatarabuela sea un zombi.
+
+RumorsPostfailure:  [1006]
+El %kno investigó la historia de _nobleman_ y, supongo, decidió que era un engaño.
+
+RumorsPostsuccess:  [1007]
+¡La tatarabuela de _nobleman_ sí era no muerta después de todo! ¿Quién lo diría?
+
+QuestorPostsuccess:  [1008]
+Después de salvar a %reg de una amenaza no muerta que no sabíamos que existía, ¿qué puedo hacer?
+
+QuestorPostfailure:  [1009]
+De hecho, sé que la historia de _nobleman_ no era un engaño, ¡holgazán!
+<--->
+Sé que había un verdadero monstruo en ___dungeon_, ¡perezoso!
+<--->
+Fallaste al %kno cuando fallaste a _nobleman_, %pcf.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de
+ ==qgiver_ en ___qgiver_
+ me encargó la tarea de
+ incinerar el cadáver de la
+ antigua antepasada de
+ _nobleman_ en ___dungeon_. Existe
+ la posibilidad de que sea un
+ horror no muerto, que deberá
+ ser puesto a descansar. Tengo =2dung_
+ días para completar la misión.
+
+Message:  1011
+<ce>                    El _monster_ ha sido puesto
+<ce>                       a descansar. _nobleman_ ya no
+<ce>                         debe preocuparse por esa maldición.

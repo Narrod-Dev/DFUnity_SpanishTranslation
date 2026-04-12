@@ -1,0 +1,105 @@
+Quest: O0B00Y01
+DisplayName: Suministro de Armas
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Muy bien, %pcf, este es un encargo
+<ce>               sencillo. Uno con el que no deberías
+<ce>                tener problemas. Todo lo que tienes
+<ce>               que hacer es llevar estas _weapons_ a
+<ce>                nuestro contacto en ___contact_, recibir
+<ce>                 el pago y traerlo de vuelta. ¿Crees
+<ce>                   que puedes manejarlo, %pcf?
+
+RefuseQuest:  [1001]
+<ce>                ¿No? ¿Qué tan simple quieres que sea
+<ce>                tu encargo? ¿Que te quedes ahí mientras
+<ce>                te abofeteo con anguilas? ¡Y puede que
+<ce>                 esa no sea tan mala idea! Por %oth,
+<ce>                         qué desperdicio.
+
+AcceptQuest:  [1002]
+<ce>                Bien, tu contacto es alguien con el
+<ce>                  perfil de =contact_, justo lo que
+<ce>                esperarías. Debería estar por un rincón
+<ce>                 que llaman __contact_ en ___contact_.
+<ce>                Ahora, _contact_ ha conseguido un botín
+<ce>                allá en ___contact_ y quiere que nos lo
+<ce>                traigas. Si crees que puedes con todo,
+<ce>                 te esperamos en =1stparton_ días sin
+<ce>                    excusas. Muy bien. En marcha.
+
+QuestFail:  [1003]
+<ce>                 Sí, has vuelto, ¿pero dónde está el
+<ce>                         botín de _contact_?
+<ce>                No estarás intentando pasarte de listo
+<ce>                 con nosotros, ¿verdad, %pcf? Porque
+<ce>                 si es así, piénsalo dos veces.
+
+QuestComplete:  [1004]
+<ce>                 Oh, son unas _gems_ preciosas.
+<ce>                 ¿_contact_ te ha dado esto? Por
+<ce>                %oth, parece que a %g le va bastante
+<ce>                 bien en ___contact_. Buen trabajo,
+<ce>               %pcf. Aquí tienes _reward_ de oro por
+<ce>                         las molestias.
+
+RumorsDuringQuest:  [1005]
+La guardia de la ciudad vigila como halcones a cualquiera que lleve armas estos días.
+<--->
+Parece que %t tiene miedo de que le asesinen. La guardia ha salido con todo.
+
+RumorsPostfailure:  [1006]
+Arrestaron a alguien de perfil =contact_. Al parecer, %g traficaba con armas.
+<--->
+El Gremio de Ladrones no es para tanto. Arrestaron a un miembro en __contact_.
+
+RumorsPostsuccess:  [1007]
+He oído que están contrabandeando _weapons_s. Eso requiere mucho valor.
+<--->
+%t tenía paranoia con el contrabando del Gremio de Ladrones, pero a %g ya se le pasó.
+
+QuestorPostsuccess:  [1008]
+Sí, ¿qué quieres, %pcf? ¿Que te devuelva las _gems_, tal vez?
+
+QuestorPostfailure:  [1009]
+<ce>                Si no traes nada de parte de _contact_,
+<ce>                no me interesa hablar contigo, %pcf.
+
+QuestLogEntry:  [1010]
+<ce>                 Bien hecho, %pcf. No habría podido
+<ce>                llegar aquí tan fácilmente cargando
+<ce>                 con esas _weapons_. Aquí tienes una
+<ce>               muestra de lo que he robado... unas _gems_.
+<ce>                Llévaselas a _questgiver_ y dile a %g2
+<ce>                 que estoy bien. Gracias de nuevo,
+<ce>                     %pcf. Nos vemos luego.
+
+Message:  1020
+<ce>                   ¡Alto en nombre de %nrn!
+<ce>                  Sé que estás contrabandeando
+<ce>                  armas. Ríndete o atente a las
+<ce>                        consecuencias.
+
+Message:  1021
+<ce>                  He oído que contrabandeas _weapons_s
+<ce>                   para el Gremio de Ladrones.
+<ce>                    Dámelas y te perdonaré la vida.
+
+Message:  1022
+<ce>                    Queremos esas _weapons_s.
+<ce>                     Entrégalas y no te daremos
+<ce>                      una paliza demasiado dura.
+
+Message:  1023
+<ce>                    Ahora lárgate de aquí antes
+<ce>                        de que salgas mal.
+
+Message:  1030
+%qdt:
+ _questgiver_ del Gremio de Ladrones
+ en ___questgiver_ me ha pedido que
+ entregue estas _weapons_ a _contact_
+ en __contact_, en ___contact_,
+ quien me dará un botín para traer de vuelta.
+ Tengo =1stparton_ días para completar la tarea.

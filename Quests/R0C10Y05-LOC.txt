@@ -1,0 +1,109 @@
+Quest: R0C10Y05
+DisplayName: Diplomacia Mortal
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Quizás sepas que estoy
+<ce>                        formando una alianza con
+<ce>                       _qgfriend_. Para cimentar
+<ce>                       nuestra amistad, he accedido
+<ce>                        a organizar la muerte de
+<ce>                        una amenaza constante para
+<ce>                         %g2 -- una especie de
+<ce>                      monstruo. Este vil parásito
+<ce>                        vive en un viejo y decrépito
+<ce>                        lugar llamado ___mondung_.
+<ce>                         %g ha accedido a pagar
+<ce>                    a quien asesine a la criatura _reward_
+<ce>                        oro a cambio. Nada mal,
+<ce>                      estoy bajo la certeza de que aceptarás.
+<ce>                        Dime, ¿suena esto como
+<ce>                       tu tipo de aventura,
+<ce>                                  %pcn?
+
+RefuseQuest:  [1001]
+<ce>            ¿En serio? Qué desconsideración por tu parte dejarme en
+<ce>                          la estacada de esta manera.
+
+AcceptQuest:  [1002]
+<ce>                      Reconoces un buen trato en cuanto
+<ce>                        lo oyes, ¿eh? Le dije a
+<ce>                      _qgfriend_ que el monstruo
+<ce>                    estaría muerto en =1stparton_ días
+<ce>                      o %g podría salir y contratar
+<ce>                        a alguien más. Así que mata a la
+<ce>                        criatura y dirígete a
+<ce>                         ___qgfriend_ para encontrar a
+<ce>                       %g2 antes de que el tiempo se agote.
+
+QuestFail:  [1003]
+<ce>                      Será mejor que te pongas en marcha, %pcf.
+<ce>                               El tiempo apremia.
+
+QuestComplete:  [1004]
+<ce>                  Sí, ya me han llegado noticias de que nuestra
+<ce>                 pestilencia (=giant_) ha llegado a su fin. No
+<ce>                      sé dónde te encontró _questgiver_,
+<ce>              pero me alegra que %g lo hiciera. Aquí tienes tu
+<ce>               recompensa de _reward_ piezas de oro. Gracias por
+<ce>                               tus servicios, %pcf.
+
+RumorsDuringQuest:  [1005]
+Hay un monstruo en ___mondung_ que ha estado molestando a _qgfriend_.
+<--->
+Ese monstruo en ___mondung_ tiene una horda de murciélagos y ratas, al parecer.
+
+RumorsPostfailure:  [1006]
+Ahora que el monstruo (=giant_) sabe que su guarida es conocida, se ha marchado.
+<--->
+<ce>           El monstruo (=giant_) se ha ido de ___mondung_,
+<ce>                       pero sigue acosando a _qgfriend_.
+
+RumorsPostsuccess:  [1007]
+La maldición de =giant_ finalmente ha sido borrada de %reg.
+<--->
+Alguien de la estirpe %ra con dotes de guerrero ha destruido a =giant_, la plaga de nuestra tierra.
+
+QuestorPostsuccess:  [1008]
+¡Ah, camarada, némesis de =giant_! ¿Qué puedo hacer por ti?
+<--->
+<ce>            Me has ayudado a formar mis alianzas, %pcf.
+<ce>                        ¿Con qué puedo ayudarte?
+
+QuestorPostfailure:  [1009]
+<ce>                    Tu fracaso al matar a ese monstruo
+<ce>                   complicó las cosas. No tengo tiempo
+<ce>                            para gente como tú.
+
+Message:  1011
+<ce>                    =qgfriend_, ¿cierto? Una posible alianza
+<ce>                      de _questgiver_ con un problema
+<ce>                    con esa cosa en ___mondung_.
+                                     <--->
+_qgfriend_ es el enemigo de sangre de =giant_.
+
+Message:  1012
+Has matado a =giant_.
+
+Message:  1015
+%qdt:
+_questgiver_ de
+ ___questgiver_ me contrató en nombre
+ de una alianza, _qgfriend_ de
+ ___qgfriend_, para matar a un
+ monstruo conocido como =giant_, que
+ ha estado aterrorizando las tierras de
+ ___mondung_. Si el monstruo muere
+ y llego ante _qgfriend_ en =1stparton_
+ días, ganaré mi recompensa.
+
+Message:  1021
+<ce>                    Oh, casi lo olvido. No sé qué
+<ce>                 clase de monstruo habita en ___mondung_,
+<ce>                  pero se rumorea que el nombre =giant_
+<ce>                     es la fuente del terror.
+
+Message:  1030
+<ce>                ¿Quién osa molestar a =giant_ el Terrible en
+<ce>                la guarida de %g3? ¡Tu cráneo colgará pronto en mi
+<ce>                            pared como un trofeo!

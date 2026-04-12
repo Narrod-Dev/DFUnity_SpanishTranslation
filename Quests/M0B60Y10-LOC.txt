@@ -1,0 +1,78 @@
+Quest: M0B60Y10
+DisplayName: Caza de un Atronach
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Tenemos un nuevo cliente que busca a
+<ce>               alguien para cazar a un atronach, una
+<ce>               especie de gólem elemental. La paga es
+<ce>               de _gold_ de oro. ¿Te interesa?
+
+RefuseQuest:  [1001]
+<ce>                 Debes de preferir los trabajos de
+<ce>                 bajo riesgo, como cazar ratas.
+
+AcceptQuest:  [1002]
+<ce>               Un joven dandi al que he jurado no
+<ce>               nombrar, estuvo tonteando con la magia
+<ce>               de forma ilegal. Como un cabeza hueca,
+<ce>               va y conjura un atronach. Hay que
+<ce>               destruir a esa cosa antes de que los
+<ce>               tipos del Gremio de Magos se enteren.
+<ce>               La cosa huyó a las profundidades de
+<ce>               ___dungeon_. Si puedes hacer esta
+<ce>               misión en =2dung_ días, cobrarás.
+
+QuestComplete:  [1004]
+<ce>                  Un trabajo de primera, %pct.
+<ce>                Esos bobos del Gremio de Magos no
+<ce>                saben nada de las travesuras de nuestro
+<ce>                cliente. Estará encantado de soltar
+<ce>                    las _gold_ piezas de oro.
+
+RumorsDuringQuest:  [1005]
+<ce>                El hijo del Vizconde no ha sido el mismo
+<ce>                últimamente. Eso es lo que le pasa por
+<ce>                intentar aprender magia. Debería ceñirse
+<ce>                        a lo que mejor sabe hacer.
+
+RumorsPostfailure:  [1006]
+<ce>                 El Gremio de Magos ha solicitado que
+<ce>                        %t %rn les otorgue el
+<ce>                derecho de castigar al hijo del Vizconde.
+<ce>                Parece ser que invocó a un atronach
+<ce>                       que se volvió hostil.
+
+RumorsPostsuccess:  [1007]
+<ce>                 El hijo del Vizconde se unió al Gremio
+<ce>                de Magos hace poco. Me pregunto por qué
+<ce>                habrá cambiado de opinión sobre ellos.
+
+QuestorPostsuccess:  [1008]
+<ce>                       Atronachs cero, %pcf uno.
+<ce>              Llegarás lejos en el gremio a este ritmo.
+
+QuestorPostfailure:  [1009]
+<ce>               No deberías haber aceptado el trabajo de
+<ce>               matar al atronach si no podías con él.
+<ce>     Ahora el hijo del Vizconde enfrenta cargos por brujería ilegal.
+
+QuestLogEntry:  [1010]
+El %qdt,
+ el Gremio de Guerreros de ___qgiver_
+ me contrató para liquidar discretamente a un
+ atronach que un mago ajeno al gremio invocó.
+ Está oculto en __dungeon_.
+ Tengo =2dung_ días para terminar la tarea.
+
+Message:  1011
+<ce>                       El atronach ha muerto.
+<ce>                    Con suerte, el Gremio de Magos
+<ce>                      no se enterará de nada.
+
+Message:  1080
+<ce>                    Y, como te has portado tan bien
+<ce>                   con esto, aquí tienes un mapa de
+<ce>                   un lugar llamado ___newdung_ que
+<ce>                   se supone que está a reventar de
+<ce>                   botín. Disfruta al máximo, %pcf.

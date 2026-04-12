@@ -1,0 +1,78 @@
+Quest: L0B10Y01
+DisplayName: Una canción fatídica
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Aquí tienes un ajuste de cuentas bastante
+<ce>                divertido que podría atraer a tu mórbido
+<ce>                sentido del humor. Parece que hay un bardo
+<ce>                sin talento con una inclinación por las
+<ce>                rimas groseras sobre sus antiguos mecenas.
+<ce>                Resulta que su conocimiento de genealogía
+<ce>                era escaso, y cantó una canción sobre un duque
+<ce>                incestuoso a su nueva patrona, la hija del
+<ce>                duque. ¿Te interesa ajustar las cuentas de
+<ce>                este artista inculto por _reward_ piezas de oro?
+
+RefuseQuest:  [1001]
+<ce>                  ¿Te he entendido mal, o realmente has
+<ce>                  dicho que no? ¿Cómo esperas apreciar el
+<ce>                  rico tapiz de la humanidad si no tienes
+<ce>                  tiempo para descuartizar a un músico mediocre?
+
+AcceptQuest:  [1002]
+<ce>                Imaginé que te atraería. Al parecer, el bardo
+<ce>                está al tanto de nuestro contrato y se oculta
+<ce>                en un agujero lúgubre llamado ___mondung_.
+<ce>                No debería ser más que una escaramuza menor,
+<ce>                pero no bajes la guardia. Un cantante
+<ce>                desesperado puede ser un adversario impredecible.
+<ce>                Vuelve en =1stparton_ días para cobrar tu
+<ce>                tarifa por el ajuste de cuentas. Buena suerte.
+
+QuestFail:  [1003]
+<ce>                  Estoy dispuesto a apostar que ese bardo
+<ce>                  aún no ha sido lanzado al Oblivion. Pero
+<ce>                  tú estás aquí. Eso me parece extraño.
+<ce>                  ¿A ti también te lo parece?
+
+QuestComplete:  [1004]
+<ce>                  Ah, ¿te quedaste a escuchar la nota final
+<ce>                  de ese grosero instrumentista? Aquí tienes
+<ce>                  tu parte por ser el instrumento del réquiem
+<ce>                  del bardo: _reward_ piezas de oro. Disfrútalas.
+
+RumorsDuringQuest:  [1005]
+Me pregunto si ese duque realmente cometió incesto con su hija.
+<--->
+Ese pobre _monster_ ni siquiera sabía entonar una melodía de todos modos.
+
+RumorsPostfailure:  [1006]
+Bueno, puede que =monster_ se haya marchado, pero siempre recordaremos sus canciones.
+<--->
+He oído que esa duquesa está más furiosa que un magíster por la huida del bardo.
+
+RumorsPostsuccess:  [1007]
+Dicen que todavía se puede oír la canción burlona de =monster_ en la brisa nocturna.
+<--->
+Yo, por mi parte, me alegro de que =monster_ esté muerto; era un aburrimiento espantoso.
+
+QuestorPostsuccess:  [1008]
+Ah, hola, %pcf. Es música para mis ojos volver a verte.
+
+QuestorPostfailure:  [1009]
+<ce>                       ¿Cómo puedo saludarte, %pcf?
+<ce>                Has fallado al ejecutar al bardo. Una nota
+<ce>                muy desafinada en tu expediente, sin duda.
+
+QuestLogEntry:  [1010]
+<ce>                        Has ejecutado a =monster_.
+
+Message:  1020
+%qdt:
+ La Hermandad Oscura me ha enviado a asesinar
+ a un bardo llamado =monster_ y a estar de
+ vuelta con _questgiver_ de ___questgiver_
+ en =1stparton_ días. Este bardo aparentemente
+ está escondido en una mazmorra llamada
+ ___mondung_.

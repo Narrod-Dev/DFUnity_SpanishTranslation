@@ -1,0 +1,131 @@
+Quest: N0C00Y10
+DisplayName: El libro perdido
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Mi nombre es _giver_. ¿Buscas
+<ce>               trabajo pero no eres miembro del Gremio de
+<ce>              Magos? Imagino que entiendes que solo damos
+<ce>               trabajo de calidad a nuestros miembros.
+<ce>                Sin embargo, tengo un pequeño recado que
+<ce>                 debe hacerse. Uno de nuestros libros ha
+<ce>               desaparecido. Si lo encontraras y lo traes,
+<ce>                lo consideraría un favor personal, uno
+<ce>                 que te daría buena reputación ante el
+<ce>                           gremio entero.
+
+RefuseQuest:  [1001]
+<ce>                  Es evidente que no tienes interés en
+<ce>                llevarte bien con el Gremio de Magos.
+
+AcceptQuest:  [1002]
+<ce>                No tenemos pistas por ahora. El nombre
+<ce>                   del libro es _book_. Tendrás que
+<ce>                indagar y preguntar a la gente si saben
+<ce>                algo. Tráeme el libro de vuelta si es
+<ce>                         que lo encuentras.
+
+QuestFail:  [1003]
+%qdt:
+ He aceptado encontrar el libro _book_
+ para el Gremio de Magos de ___giver_.
+ Si lo hallo, debo llevárselo a
+ _giver_ y se me dará una
+ recomendación ante el gremio.
+
+QuestComplete:  [1004]
+<ce>                               Ah, _book_.
+<ce>                            Bien hecho, %pcf.
+<ce>                       El Gremio ciertamente tiene
+<ce>                         una opinión mucho más
+<ce>                          favorable de ti.
+
+RumorsDuringQuest:  [1005]
+El Gremio de Magos tiene una edición muy rara de _book_. O al menos, la tenían.
+<--->
+_book_ es un libro raro, pero la edición del Gremio de Magos era aún más inusual.
+
+RumorsPostfailure:  [1006]
+Es una gran pérdida para el Gremio; esa edición especial de _book_.
+<--->
+La biblioteca del Gremio ya no es lo que era desde que _book_ desapareció.
+
+RumorsPostsuccess:  [1007]
+La biblioteca del Gremio se ha enriquecido ahora que _book_ volvió a los estantes.
+
+QuestorPostsuccess:  [1008]
+¿Llegaste a leer _book_ mientras lo tuviste? Es bastante fascinante.
+
+QuestorPostfailure:  [1009]
+<ce>                        Te di una oportunidad, %pcf.
+<ce>                 ¿Recuerdas? Si hubieras hallado _book_,
+<ce>                   me encantaría hablar contigo. Pero
+<ce>                    tal como están las cosas, bueno,
+<ce>                          puedes marcharte ya.
+
+QuestLogEntry:  [1010]
+<ce>                          Podrías preguntar a
+<ce>                     _informant_ en _informant1_.
+<ce>                       Parece que esa persona sabe
+<ce>                        todo lo que sucede por
+<ce>                         todo __informant1_.
+                                     <--->
+<ce>                        Deberías preguntar en las
+<ce>                        tabernas locales. Están
+<ce>                         llenas de cotilleos.
+                                     <--->
+<ce>                            Deberías probar en
+<ce>                _informant1_. Siempre se habla allí.
+                                     <--->
+<ce>                         Fue robado a _giver_.
+                                     <--->
+<ce>                _giver_ ha estado preguntando por ello.
+                                     <--->
+<ce>                  Disfruté mucho cuando lo leí.
+                                     <--->
+<ce>                   Probablemente deberías ir a una biblioteca.
+
+Message:  1011
+<ce>         Este debe ser el libro que le robaron a __giver_.
+
+Message:  1025
+<ce>                    Hola, %pcn. Dicen que has estado
+<ce>                  preguntando por mí. Debería saberlo;
+<ce>                   todas las noticias de __informant1_
+<ce>                         pasan por mis oídos.
+<ce>               Basta de hablar de mí. Oí algo sobre las
+<ce>                desgracias de _giver_. Si buscas a
+<ce>                 quien robó el objeto, _thief_, lleva
+<ce>                 tiempo tras una primera edición de _book_.
+<ce>                Y es del tipo de gente que toma cosas
+<ce>                  sin pedir permiso, si sabes a qué me refiero.
+
+Message:  1027
+_thief_ vive en _house_, en __house_.
+<--->
+_thief_ vive en _house_.
+<--->
+_thief_ pasa sus noches en _house_.
+<--->
+Deberías intentar encontrar a _thief_ en casa; vive en _house_.
+<--->
+_thief_ comercia mucho en _store_.
+<--->
+Quizás quieras empezar a comprar en _store_, _thief_ lo hace.
+<--->
+_store_ es un lugar popular para cambiar bienes robados, y _thief_ tiene muchos.
+<--->
+Se ha visto a _thief_ en _store_.
+<--->
+_inn_ es un nido de ladrones.
+<--->
+A _thief_ le gusta beber en _inn_.
+<--->
+La taberna favorita de _thief_ es _inn_.
+<--->
+Las comidas favoritas de _thief_ se sirven en _inn_.
+
+Message:  1040
+<ce>                 He oído que has estado buscando a _thief_.
+<ce>              Bueno, me has encontrado. Ahora lárgate antes
+<ce>                  de que realmente quiera hacerte daño.

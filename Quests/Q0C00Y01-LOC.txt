@@ -1,0 +1,94 @@
+Quest: Q0C00Y01
+DisplayName: La difamación
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                         Querríamos usarte para hallar
+<ce>                  un documento pérfido que circula por
+<ce>                  nuestra contra en un esfuerzo por suprimir
+<ce>                 nuestro aquelarre. Sé dónde se ha puesto
+<ce>                  este paquete de mentiras impresas, pero
+<ce>                    necesitamos a alguien como tú para luchar
+<ce>                    contra quien lo custodia y traérnoslo. ¿Vas
+<ce>                      a asistir a ==qgiver_ de esta forma?
+
+RefuseQuest:  [1001]
+<ce>                         ¿Acaso no lo harás? %oth,
+<ce>                      entonces no pidas ningún favor de
+                                 ==qgiver_.
+
+AcceptQuest:  [1002]
+<ce>                    ¿Lo harás? Entonces tendrás nuestra
+<ce>                más irrefutable gratitud. El documento
+<ce>                    yace en un templo, aquí en %reg,
+<ce>                      en un pueblo llamado __temple_.
+<ce>                      _temple_ lo guarda en algún lugar,
+<ce>                quizás tras puertas cerradas, custodiado por
+<ce>                 un _guardian_ de incuestionable poder.
+<ce>                Si traes el documento aquí, ante mí,
+<ce>                  te daré un _mitem_ manufacturado por
+<ce>                el aquelarre. Regresa en no más de =queston_ días.
+
+QuestComplete:  [1004]
+<ce>                  Ah, el documento maldito. Es de recibo
+<ce>                 elogiarte por tu servicio a nuestra
+<ce>                      hermandad, %pct. Aquí tienes el
+<ce>                        _mitem_ que te prometí.
+<ce>                 La gratitud de ==qgiver_ no necesita ser
+<ce>                      física para que se pueda sentir.
+
+RumorsDuringQuest:  [1005]
+¿Has leído la próxima Historia de ==qgiver_? ¡Es escandaloso!
+
+RumorsPostfailure:  [1006]
+La Historia de ==qgiver_ se está reproduciendo en la Ciudad Imperial.
+
+RumorsPostsuccess:  [1007]
+Hay quienes han leído la Historia de ==qgiver_, pero la única copia desapareció.
+
+QuestorPostsuccess:  [1008]
+¿Te complace tu _mitem_, %pcf? Sin duda te lo has ganado.
+
+QuestorPostfailure:  [1009]
+<ce>                       El documento maldito ha partido
+<ce>                    hacia la Ciudad Imperial para ser
+<ce>                      reproducido para las masas ignorantes,
+<ce>                            %pcf. Le has fallado a
+<ce>                                 ==qgiver_.
+<ce>                                Vete de aquí.
+
+QuestLogEntry:  [1010]
+%qdt:
+ He aceptado recuperar un documento
+ sobre ==qgiver_ en _temple_, situado
+ en __temple_, y volver con él en
+ =queston_ días o menos. Es probable
+ que el documento esté bajo la
+ custodia de un _guardian_.
+
+Message:  1011
+<ce>                     Este es aparentemente el documento
+<ce>                          que ==qgiver_ deseaba.
+
+Message:  1012
+Entre las prácticas más diabólicas de
+ ==qgiver_ se encuentra el rito que
+ realizan en honor a ==daedra_.
+ La carne de un recién nacido se hierve sobre
+ las llamas de azufre ardiendo durante tres
+ días y medio hasta que se vuelve dura y correosa.
+ La fibra resultante se cose sobre la cabeza de
+ un gato negro, que se mantiene en una jaula hasta
+ que ha atravesado la envoltura a mordiscos o ha
+ muerto por asfixia. Si el gato muere, las brujas
+ saben que ==daedra_ no responderá a sus súplicas,
+ pero si el gato vive, ==qgiver_ puede pedir a
+ ==daedra_ cualquier cosa: la muerte o mutilación
+ de príncipes, catástrofes económicas, hambruna,
+ peste, guerra...
+
+Message:  1013
+<ce>                      ¡Peón de los demonios! ¡Esclavo de
+<ce>                            ==qgiver_! ¡La mano
+<ce>                          justiciera de %god va a
+<ce>                               aplastarte!

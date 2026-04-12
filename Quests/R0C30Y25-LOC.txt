@@ -1,0 +1,125 @@
+Quest: R0C30Y25
+DisplayName: La Banda de Ladrones
+QRC:
+
+QuestorOffer:  [1000]
+<ce>              Necesito a alguien para llevar cierto objeto a
+<ce>                    un contacto mío en ___contact_.
+<ce>              Recibirás otro objeto a cambio. Si me traes
+<ce>              ese objeto de vuelta, me complacerá darte
+<ce>                  una recompensa de _reward_ piezas de oro.
+<ce>                               ¿Aceptas?
+
+RefuseQuest:  [1001]
+<ce>                 ¿No? Qué pena. Estaba bajo la disposición
+<ce>                            de ser muy generoso.
+
+AcceptQuest:  [1002]
+<ce>                    Muy bien. Toma este lingote de oro
+<ce>                  y llévalo a alguien de mi confianza,
+<ce>                  alguien de nombre _contact_ en un sitio
+<ce>                  llamado __contact_ en ___contact_.
+<ce>                    Tendrás que moverte con rapidez.
+<ce>                  _contact_ no tiene por costumbre esperar
+<ce>                  a quienes se demoran en la mensajería.
+<ce>                  Muy bien, buena suerte, %pcf.
+<ce>              Espero tu regreso en =1stparton_ días.
+
+QuestFail:  [1003]
+<ce>                 Por favor, no me molestes más a menos que
+<ce>                tengas el objeto que te envié a recoger.
+
+QuestComplete:  [1004]
+<ce>                    Excelente, %pcf, has vuelto con mi
+<ce>            _item2_ encantado como prometiste. Me han dicho
+<ce>              que tuviste problemas en el camino, y estaba
+<ce>              empezando a temer que te hubiéramos perdido.
+<ce>              Como muestra de mi gratitud por un trabajo
+<ce>           bien hecho, añado un _item3_ mágico al oro de
+<ce>            la _reward_ que te prometí originalmente.
+<ce>              Seguro que volveremos a usar tus servicios
+<ce>                  en un futuro cercano. Gracias.
+
+RumorsDuringQuest:  [1005]
+Alguien de perfil =contact_ estuvo aquí hace poco preguntando si había visto a alguien de raza %ra.
+<--->
+Alguien de perfil =contact_ buscaba a alguien de raza %ra con un _item1_ hace un tiempo.
+
+RumorsPostfailure:  [1006]
+Bueno, he oído que _questgiver_ está furioso con alguien de la mercenaria %ra.
+<--->
+_questgiver_ sigue confiando en mercenarios y he oído que le han estafado.
+
+RumorsPostsuccess:  [1007]
+He oído que _questgiver_ finalmente obtuvo el _item2_ que necesitaba.
+<--->
+_questgiver_ ha estado cantando las alabanzas de alguien de la mercenaria %ra.
+
+QuestorPostsuccess:  [1008]
+¿Y qué puedo hacer por ti, joven y valiente compinche?
+<--->
+Me encantaría ayudar a mi mensajería favorita en lo que pueda.
+
+QuestorPostfailure:  [1009]
+<ce>               La entrega fue obviamente demasiado... compleja,
+<ce>                  ¿eh? Ah, la vacuidad de la juventud %ra.
+<ce>                          Déjame ahora, %pcf.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _questgiver_ de
+ ___questgiver_ me ha enviado a
+ ver a un contacto suyo, _contact_
+ de __contact_, ___contact_,
+ con un lingote de oro. Debo poner el
+ oro en manos de _contact_ y
+ estar de vuelta en __questgiver_ en
+ =1stparton_ días para obtener mi recompensa
+ de piezas de oro de
+ _questgiver_.
+
+Message:  1011
+<ce>                      Maravilloso, %pcf. Adoro
+<ce>             el oro, ¿y tú? Bueno, recibirás tu parte
+<ce>             una vez que hayas devuelto este _item2_
+<ce>                       especial a _questgiver_.
+<ce>                  Espero que recuerdes el camino de
+<ce>                            vuelta a ___questgiver_.
+
+Message:  1015
+_qgenemy_... creo que %g es de __thievesguild_.
+<--->
+¿_qgenemy_? Pregunta por __thievesguild_. Alguien debería conocer a %g2.
+
+Message:  1016
+<ce>   _qgenemy_ está en casi todos los asuntos turbios de __thievesguild_.
+<ce>    Prueba en _thievesguild_ -- ahí es donde %g pasa la mayor parte del tiempo.
+
+Message:  1020
+<ce>          Mientras te defiendes de tu asaltante, sientes que algo
+<ce>              te roza por detrás. Vislumbras a una figura
+<ce>            huyendo antes de que tu atención se vea forzada
+<ce>              a centrarse de nuevo en mantenerte con vida.
+
+Message:  1021
+=thief_,
+ 
+ El objetivo es alguien de raza %ra de nombre %pcn,
+ que recogerá un _item2_ en
+ __contact_. Tráeme el _item2_.
+ El mensajero no tiene importancia,
+ ya sea vivo o muerto.
+ 
+<ce>                                _qgenemy_
+
+Message:  1030
+<ce>             ¡%oth, ¿quién eres y cómo has entrado aquí?!
+<ce>          ¡Debes de ser ese maldito correo de _questgiver_!
+<ce>          Sabía que debía haber dejado que =thief_ te matara.
+<ce>          Mi buen corazón, siempre metiéndome en líos... ¡Guardias!
+<ce>                        ¡Matad a este intruso!
+
+Message:  1035
+<ce>                  El pergamino describe la ubicación
+<ce>                  del Aquelarre de la Marea en Myrkwasa,
+<ce>                           sea lo que sea eso.

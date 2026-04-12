@@ -1,0 +1,103 @@
+Quest: O0B10Y00
+DisplayName: Una gema robada
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Escucha, %pcf, alguien de
+<ce>                       nuestra familia está en apuros.
+<ce>                        ¿Tienes un par de días para
+<ce>                         ayudar a uno de los nuestros?
+
+RefuseQuest:  [1001]
+<ce>                        Está bien. Supongo que cuentas
+<ce>                       con no verte nunca en un aprieto
+<ce>                            tú también algún día.
+
+AcceptQuest:  [1002]
+<ce>                        Buen %ra. Alguien de nuestros
+<ce>                      mejores ladrones en ___contact_
+<ce>                    está en un nido de ratas llamado
+<ce>                      __contact_. Tiene encima una
+<ce>                    piedra preciosa que %g birló del
+<ce>                    palacio. Dicen que alguien vio
+<ce>                    el objeto en manos de %g2, y la
+<ce>                    guardia vigila el lugar. Por respeto
+<ce>                     a quien posee __contact_, van a
+<ce>                    esperar =1stparton_ días antes de
+<ce>                     entrar. Ve a __contact_ y dale
+<ce>                        a _contact_ este trozo de
+<ce>                  _metal_ a cambio de _gems_, y luego
+<ce>                   tráelo de vuelta aquí. ¿Entendido?
+<ce>                  Bien. Ahora date prisa, no hay tiempo.
+
+QuestFail:  [1003]
+<ce>                         Me alegra verte, %pcf,
+<ce>                      pero se supone que no deberías
+<ce>                       venir con las manos vacías.
+<ce>                       Debías traer _gems_, ¿recuerdas?
+
+QuestComplete:  [1004]
+<ce>                       Buen trabajo, %pcf. Me han dicho
+<ce>                          que _contact_ enseñó a los
+<ce>                guardias el trozo de _metal_ que creían
+<ce>                  que era _gems_, y hasta invitaron a %g2
+<ce>                  a una copa para disculparse. Te lo digo,
+<ce>                  no hay vida como la de un canalla.
+<ce>                  Aquí tienes tu parte por _gems_:
+<ce>                  _reward_ piezas de oro. Te lo has
+<ce>                           ganado, %pcf.
+
+RumorsDuringQuest:  [1005]
+Bueno, todo el mundo sabe que _contact_ robó esa joya. ¿Por qué no van a por %g2?
+<--->
+Hay mucha gente importante en __contact_. No quieren guardias por allí.
+
+RumorsPostfailure:  [1006]
+La guardia finalmente atrapó a _contact_. Supongo que %g no pudo evitarlos para siempre.
+<--->
+Sí, encontraron _gems_ de %t y arrestaron a =contact_.
+
+RumorsPostsuccess:  [1007]
+Tuvieron que dejar libre a _contact_ después de todo. Resulta que %g era inocente.
+<--->
+¿Pero cómo se puede confundir _metal_ con _gems_? Ambos son piedras, ¡pero vamos!
+
+QuestorPostsuccess:  [1008]
+¿Qué pasa, %pcf? ¿Quieres recuperar _gems_? ¡Seguro que sí!
+
+QuestorPostfailure:  [1009]
+<ce>                       ¿No recuerdas que debías
+<ce>                  traer _gems_ de parte de _contact_
+<ce>                    y entregarle el trozo de _metal_
+<ce>                      que te di? ¡%oth! Cualquiera
+<ce>                     diría que es ciencia complicada.
+
+QuestLogEntry:  [1010]
+<ce>                    %oth, %pcf, me has salvado la vida.
+<ce>                     Resulta que alguien me vio con
+<ce>                _gems_ y pensó que era la gema robada.
+<ce>                    Este trozo de _metal_ será mi
+<ce>                  billete de salida. Recuérdame que te
+<ce>                  invite a una copa algún día. Ahora
+<ce>                      vuelve con _questgiver_.
+<ce>                  Sospecharán mucho si no regresas
+<ce>                        en =1stparton_ días.
+
+Message:  1015
+%qdt:
+ _questgiver_ de
+ el Gremio de Ladrones en ___questgiver_
+ me ha enviado a ___contact_,
+ a un tugurio llamado __contact_.
+ Llevo un trozo de _metal_ que
+ debo entregar a _contact_
+ a cambio de la piedra robada con la que
+ vieron a %g. Tengo =1stparton_
+ días para cumplirlo.
+
+Message:  1020
+<ce>                        Tengo buena información de
+<ce>                         que posees el ejemplar de
+<ce>                        _gems_ que robó _contact_.
+<ce>                        Entrégamelo y dejaré que
+<ce>                          te marches sin daños.

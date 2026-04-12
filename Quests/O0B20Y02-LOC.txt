@@ -1,0 +1,57 @@
+Quest: O0B20Y02
+DisplayName: Un objeto preciado
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Baja la voz. Mi nombre es...
+<ce>                       bueno, llámame simplemente
+<ce>                        _qgiver_. Tengo un encargo
+<ce>                        del gremio. Paga estándar.
+<ce>                        ¿Te interesa de momento?
+
+RefuseQuest:  [1001]
+<ce>                        Me alegra no haberte dado
+<ce>                       detalles. Ahora lárgate de aquí.
+
+AcceptQuest:  [1002]
+<ce>                        Tienes que robar el objeto
+<ce>                       _magicitem_ de _mansion_, en
+<ce>                        __mansion_. Tienes un plazo
+<ce>                      de =traveltime_ días o el trato
+<ce>                        se anula. ¿He mencionado que
+<ce>                        el lugar está vigilado? Podría
+<ce>                       jurar que lo había dicho.
+
+QuestComplete:  [1004]
+<ce>                     ¿Tienes la mercancía? ¡Ah! Bien hecho.
+<ce>                      La paga estándar por esto es de
+<ce>                    _gold_ piezas de oro. No te lo gastes
+<ce>                          todo en un mismo sitio.
+
+RumorsDuringQuest:  [1005]
+_mansion_, en __mansion_, tiene una amplia colección de exóticas piezas mágicas.
+
+RumorsPostfailure:  [1006]
+Han sacado el objeto _magicitem_ de _mansion_ por motivos de seguridad.
+
+RumorsPostsuccess:  [1007]
+Ese objeto _magicitem_ fue robado de _mansion_. Es un auténtico escándalo.
+
+QuestorPostsuccess:  [1008]
+¿Te sorprende verme, %pcf? ¿Pensabas que me habría escapado con _magicitem_, tal vez?
+
+QuestorPostfailure:  [1009]
+<ce>                  Ya han sacado el objeto _magicitem_
+<ce>                       de _mansion_, %pcf. En otras
+<ce>                  palabras, has fallado en tu misión.
+<ce>                            Ahora, vete de aquí.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ (o como %g haya decidido
+ llamarse) del gremio me contrató para
+ robar el objeto _magicitem_ de
+ _mansion_ en __mansion_.
+ Tengo =traveltime_ días para
+ llevárselo a %g2 en __qgiver_,
+ en ___qgiver_.

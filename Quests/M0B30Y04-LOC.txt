@@ -1,0 +1,90 @@
+Quest: M0B30Y04
+DisplayName: Lich de los Guerreros
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 Escucha, %pcf, si no
+<ce>          hubieses hecho ya un montón de trabajos
+<ce>            para nosotros, ni siquiera te
+<ce>            sugeriría esto, pero hay un encargo
+<ce>             del que ni siquiera quiero hablarte.
+<ce>            Suena a pedirle peras al olmo, y es
+<ce>          más peligroso. Se trata de liquidar a
+<ce>          un lich en ___mondung_. Y solo se paga
+<ce>          _reward_ de oro. No te interesa,
+<ce>                         ¿verdad?
+
+RefuseQuest:  [1001]
+<ce>                   Gracias a %god que te queda
+<ce>                 algo de sensatez. Dejaremos que
+<ce>                 ese lich haga lo que sea que el
+<ce>                  infierno quiera que haga. Por
+<ce>                     mí está bien.
+
+AcceptQuest:  [1002]
+<ce>          Ay, sabía que no debí haberlo mencionado.
+<ce>          Escucha, si realmente vas a hacer esto,
+<ce>          consigue el mejor equipo que puedas,
+<ce>          objetos mágicos, hojas de ébano, lo que
+<ce>          sea. Este lich debe cruzar a Oblivion en
+<ce>          =1stparton_ días, y debes estar de vuelta
+<ce>          en ese tiempo para recibir tu recompensa.
+<ce>          Eres increíble, %pcf. Buena suerte. La
+<ce>                     vas a necesitar.
+
+QuestFail:  [1003]
+<ce>                 ¿Tomando un pequeño descanso
+<ce>                antes de la caza del lich, %pcf?
+<ce>                   Solo no esperes demasiado.
+
+QuestComplete:  [1004]
+<ce>                No esperaba volver a verte, %pcf,
+<ce>               va en serio. %god debe de estar
+<ce>              cuidando de tu vida. Aquí tienes tu
+<ce>               _reward_ de oro. Disfrútalo.
+
+RumorsDuringQuest:  [1005]
+He oído que alguien de la estirpe %ra va a enfrentarse al lich en ___mondung_.
+<--->
+Todo el mundo está apostando por quien sea de la estirpe %ra que va tras ese lich en ___mondung_.
+
+RumorsPostfailure:  [1006]
+Ese lich todavía está ahí fuera en alguna parte, y no está nada feliz con nosotros.
+<--->
+Ojalá hubieran dejado a ese lich en paz. Solo han logrado enfurecerlo.
+
+RumorsPostsuccess:  [1007]
+¡Alguien ha matado a ese lich de verdad! Pensé que los liches eran inmortales.
+<--->
+Perdí dinero apostando contra quien sea de la estirpe %ra que fue a matar a ese lich.
+
+QuestorPostsuccess:  [1008]
+<ce>              ¡Quien dio caza al lich ha vuelto!
+<ce>              ¿Qué será ahora? ¿Dragones? ¿Daedras?
+
+QuestorPostfailure:  [1009]
+<ce>              Yo no habría aceptado un trabajo para
+<ce>               enfrentar a un lich. Nunca entendí
+<ce>              por qué lo hiciste. Ahora tu reputación
+<ce>              sufre por no haber podido matarlo.
+
+Message:  1020
+<ce>                     ¡Insignificante mortal!
+<ce>                    No debiste intentar interferir
+<ce>                   en los asuntos de los no-muertos.
+<ce>                     Ahora te añadiré a mi
+<ce>                     colección de mercenarios
+<ce>                       %ra aniquilados.
+
+Message:  1030
+%qdt:
+ El Gremio de Guerreros
+ de ___questgiver_ me ha contratado para
+ aniquilar a un lich en =1stparton_ días o menos.
+ La guarida del lich es un lugar llamado
+ ___mondung_.
+
+Message:  1080
+<ce>               Toma, lleva este mapa a ___newdung_.
+<ce>             Debería ser justo el tipo de cosa que alguien
+<ce>            que caza liches hace antes del desayuno.

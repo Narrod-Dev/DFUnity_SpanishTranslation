@@ -1,0 +1,64 @@
+Quest: M0C00Y13
+DisplayName: Caza de Bárbaros
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                             Soy _qgiver_.
+<ce>               El Gremio de Guerreros no se dedica a la
+<ce>               beneficencia. Si no estuviéramos cortos
+<ce>               de combatientes ahora mismo, te habría
+<ce>               echado de aquí, %pcn. Pero necesito a
+<ce>               alguien que ahuyente a un bárbaro que
+<ce>               anda desbocado. Hazlo por mí y me
+<ce>               aseguraré de que todos sepan que eres
+<ce>               de la estirpe %ra de fiar. ¿Trato?
+
+RefuseQuest:  [1001]
+<ce>                    Acabas de cometer un gran error,
+<ce>                    %pcn. No vengas a buscar trabajo
+<ce>                      aquí por un buen tiempo.
+
+AcceptQuest:  [1002]
+<ce>                    Lleva tus huesos hasta _house_.
+<ce>                   Ahuyenta al bárbaro para estas
+<ce>                   horas mañana y todo irá bien.
+
+QuestComplete:  [1004]
+<ce>                      ¿Te han dado muchos tajos?
+<ce>                   Un par de trabajos más como este
+<ce>                   y tendrás tu entrada asegurada al
+<ce>                        Gremio de Guerreros.
+
+RumorsDuringQuest:  [1005]
+<ce>                Los bárbaros están saqueando las granjas
+<ce>                            de nuevo.
+
+RumorsPostfailure:  [1006]
+<ce>                Los bárbaros saquearon cuatro granjas
+<ce>                antes de que el Gremio de Guerreros
+<ce>                        tomara cartas en el asunto.
+
+RumorsPostsuccess:  [1007]
+<ce>               ¿No eres quien pertenece a la estirpe %ra
+<ce>                     que ahuyentó al bárbaro?
+
+QuestorPostsuccess:  [1008]
+<ce>                Te las arreglaste bastante bien con ese
+<ce>                   bárbaro, %pcf. Nada mal, de verdad.
+
+QuestorPostfailure:  [1009]
+<ce>                Confié en ti para encargarte de ese
+<ce>                bárbaro. Fallaste, así que tuve que
+<ce>                 enviar a alguien más para hacerlo.
+
+QuestLogEntry:  [1010]
+El %qdt:
+ El Gremio de Guerreros de
+ ___qgiver_ me ha
+ ofrecido la oportunidad de
+ encargarme de un bárbaro que
+ merodea por _house_.
+ Tengo un día completo.
+
+Message:  1011
+<ce>                       El _monster_ ha muerto.

@@ -1,0 +1,109 @@
+Quest: P0B10L10
+DisplayName: El acompañante
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 Called.
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called.
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called.
+
+QuestComplete:  [1004]
+<ce>                  No es tarea fácil para alguien de
+<ce>                   nuestra clase viajar. Con la carga
+<ce>                        adicional de _vamp_,
+<ce>                  puedo imaginar tu tribulación.
+<ce>                 Añade a eso el terror de ese veneno de
+<ce>                          =mage_, y entiendo
+<ce>                        por qué en %vam hablan tan
+<ce>                            bien de ti, camarada.
+
+RumorsDuringQuest:  [1005]
+=mage_ es la única persona decente que queda en %reg en la caza de vampiros, según dicen.
+<--->
+=mage_ podría dar a la mayoría de los vampiros una pelea digna.
+
+RumorsPostfailure:  [1006]
+Alguien de la estirpe =vamp2_ en __vamp2_ buscaba a un %ra con el nombre de %pcn.
+
+RumorsPostsuccess:  [1007]
+Parece que =mage_ no tiene tanto talento para la caza de vampiros como afirma %g.
+<--->
+Se suponía que =mage_ era una eminencia en la caza de vampiros. Se ve que no era para tanto.
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called.
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called.
+
+QuestLogEntry:  [1010]
+                    __vamp_
+                     ___vamp_
+ 
+ Estimable %pcn,
+ 
+      %vam te necesita.
+ Ven de inmediato.
+ 
+ 
+                    Tuyo en la muerte,
+ 
+                    _vamp_
+
+Message:  1011
+%qdt:
+ He recibido
+ una carta de _vamp_,
+ de la estirpe %vam, solicitando
+ mi presencia urgente en
+ ___vamp_, en un
+ lugar llamado __vamp_.
+
+Message:  1012
+<ce>                 Gracias por venir tan pronto. Hay
+<ce>               alguien hostil para nuestra tribu aquí en
+<ce>                      %reg, bajo el nombre de =mage_.
+<ce>                 Yo mismo tuve un encuentro desafortunado
+<ce>                con %g2. Es imperativo que hable
+<ce>                          con _vamp2_ en
+<ce>                      ___vamp2_ sobre este asunto,
+<ce>                       pero sé que =mage_ me está
+<ce>               buscando. Estoy con demasiada debilidad
+<ce>               para el viaje. Debes escoltarme hasta
+<ce>                          __vamp2_ en ___vamp2_,
+<ce>                 y debemos darnos prisa antes de que
+<ce>                ese demonio de mago traiga más aliados.
+<ce>                =queston_ noches, %pcf. No es mucho,
+<ce>                            pero hay que intentarlo.
+
+Message:  1013
+<ce>                      Un chupasangre al que aún le queda
+<ce>                    algo de aguijón. ¡Esto debería hacer
+<ce>                           las cosas más interesantes!
+
+Message:  1014
+%qdt:
+ Estoy escoltando a _vamp_
+ hacia _vamp2_ en ___vamp2_.
+ Debo llegar a __vamp2_
+ antes de que el mago que nos acecha
+ tenga la oportunidad de llamar refuerzos.
+
+Message:  1015
+<ce>                         "¡%pcf!", dice _vamp_,
+<ce>                        "¡Has acabado con =mage_,
+<ce>                         el azote de %vam!"
+
+Message:  1016
+<ce>                          "Te estás demorando
+<ce>                          demasiado", dice _vamp_,
+<ce>                        alejándose por su cuenta por %g3.
+
+Message:  1017
+<ce>                         Un muchacho pálido y de mirada
+<ce>                      feroz te entrega una carta y luego
+<ce>                       desaparece entre las sombras.

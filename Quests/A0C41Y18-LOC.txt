@@ -1,0 +1,150 @@
+Quest: A0C41Y18
+DisplayName: El Dedo de la Momia
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  Necesito a alguien que entregue algo
+<ce>                  por mí, y estoy dispuesto a pagar muy
+<ce>              generosamente. _gold1_ de oro por adelantado, _gold2_
+<ce>                       más cuando el trabajo esté hecho.
+<ce>                         ¿Me ayudarás?
+
+RefuseQuest:  [1001]
+<ce>                    %oth, ¡nunca me libraré de esta
+<ce>                    cosa! ¿Por qué nadie quiere ayudarme?
+
+AcceptQuest:  [1002]
+<ce>                 ¡Gracias a %god! No sabes cuánto
+<ce>                  significa esto para mí. Aquí tienes tu oro.
+<ce>                Ahora, lleva esto a _dummy_ en ___dummy_.
+<ce>                 %g te pagará el resto. Realmente debo
+<ce>                   irme ahora. ¡Muchas gracias!
+
+QuestComplete:   [1004]
+<ce>                  _giver_ te entrega una carta envuelta
+<ce>                alrededor de un pequeño objeto y se marcha apresuradamente.
+
+RumorsDuringQuest:  [1005]
+<ce>                  Los piratas han estado particularmente
+<ce>                           activos este año.
+
+RumorsPostfailure:  [1006]
+<ce>                 ¿Has oído la historia de la maldición
+<ce>                  del dedo de la momia? Oh... lo siento. No
+<ce>                           me había dado cuenta...
+
+RumorsPostsuccess:  [1007]
+<ce>                 Algún valiente %ra entró en ___dungeon_.
+<ce>                               Pobre idiota.
+
+QuestorPostsuccess:  [1008]
+<ce>                Los locos regresarán temprano este año.
+
+QuestorPostfailure:  [1009]
+<ce>                  ¿Crees que estoy gordo? Todos dicen
+<ce>                      que sí, pero yo no lo creo.
+
+QuestLogEntry:  [1010]
+%qdt:
+ He sido contratado para hacer una entrega
+ a _dummy_ de ___dummy_.
+ Mi misterioso empleador me pagó _gold1_
+ de oro y prometió _gold2_ más cuando
+ complete mi encargo. No se especificó
+ un límite de tiempo, pero mi empleador parecía
+ muy ansioso de que me pusiera en camino.
+
+Message:  1011
+%qdt:
+ He sido engañado. La supuesta
+ entrega a _dummy_ era en realidad
+ un dedo de momia maldito.
+
+Message:  1012
+%qdt:
+ He descubierto que la momia cuya
+ maldición sufro está enterrada en ___dungeon_.
+ Debo destruir su forma real o su
+ espíritu continuará atormentándome durante
+ 1001 noches.
+
+Message:  1013
+<ce> ¿Paquete? ¿De _giver_? No, %g1
+<ce> me lo habría dicho antes. Debes
+<ce> estar equivocado. ¿Por qué no lees el
+<ce> contenido para ver a quién está dirigido?
+
+Message:  1015
+<ce>     No sabría nada sobre eso. Intenta preguntar en un templo.
+                                     <--->
+<ce>              _sage_ sabe de esas cosas. Ve a preguntarle.
+                                     <--->
+<ce>         ¿Has intentado preguntar en __sage_ en ___sage_?
+                                     <--->
+<ce>     He oído que alguien en ___sage_ podría saber de eso.
+                                     <--->
+<ce>      Dicen que _sage_ es el mayor experto en estas cosas.
+                                     <--->
+<ce>                   Tal vez ese sabio en __sage_ lo sepa.
+
+Message:  1016
+<ce>                  ¡Quien robó mi _finger_ debe morir!
+                                     <--->
+<ce>                        Vengo por mi _finger_.
+                                     <--->
+<ce>                Acepta tu destino. Baja tu arma.
+                                     <--->
+<ce>                       Mi _finger_, mi _finger_.
+                                     <--->
+<ce>            Tienes mi _finger_. Sin él, no puedo descansar.
+                                     <--->
+<ce>          Puede que me destruyas esta noche, pero volveré.
+                                     <--->
+<ce>              Me alzaré de nuevo para recuperar mi _finger_.
+
+Message:  1020
+<ce>              ¡Todos los que profanen mi tumba deben ser destruidos!
+
+Message:  1025
+<ce>                    Déjame ver el _finger_. Ah...
+<ce>                Sí, lleva la maldición de =realmummy_.
+<ce>                  Cada noche, durante 1001 noches, a la
+<ce>                    medianoche, el espíritu de
+<ce>                    =realmummy_ visitará al portador
+<ce>                   de este _finger_. La única forma de
+<ce>                   romper la maldición es destruir a la
+<ce>                    verdadera =realmummy_ en su tumba en
+<ce>                              ___dungeon_.
+
+Message:  1026
+<ce>                Lo que describes suena como una clásica
+<ce>                maldición de momia, pero sin el _finger_
+<ce>               en sí, no puedo decirte más que eso.
+<ce>             Tráemelo y tal vez pueda determinar
+<ce>                          de dónde proviene.
+
+Message:  1030
+<ce>               Con =realmummy_ muerto, sabes que te has
+<ce>                   librado de su maldición para siempre.
+
+Message:  1040
+Estimado desconocido,
+ 
+ Espero que puedas perdonarme por lo que he
+ hecho, pero no tenía elección. La momia me ha
+ atormentado cada noche desde que encontré este
+ dedo maldito. Intenté deshacerme de él,
+ pero no sirvió de nada. Un sabio erudito me aconsejó
+ que solo encontrando la tumba de la momia o entregando
+ el dedo podría librarme de su odiosa
+ maldición. No soy un guerrero, ¿y quién aceptaría
+ voluntariamente esta carga por mí? Parecías lo suficientemente
+ valiente para soportar la maldición y quizás resolverla.
+ Por favor, entiende que no quise hacerte daño, pero
+ de lo contrario habría muerto o perdido la cordura.
+
+Message:  1050
+<ce>                 _sage_ es un sabio reconocido de ___sage_.
+                                     <--->
+<ce>                     Encontrarás a _sage_ en __sage_
+<ce>                              en ___sage_.

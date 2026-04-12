@@ -1,0 +1,122 @@
+Quest: L0B50Y11
+DisplayName: Enfrentando al Gremio de Ladrones
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  Tenemos un trabajo interesante
+<ce>                   disponible contra alguien de
+<ce>                  alto rango del Gremio de Ladrones.
+<ce>                   Este será difícil. ¿Lo quieres?
+
+RefuseQuest:  [1001]
+<ce>                    No es para los débiles de corazón.
+                                     <--->
+<ce>                  Entendido. Vuelve cuando tengas
+<ce>                       interés en trabajo real.
+
+AcceptQuest:  [1002]
+<ce>                    Eres alguien perspicaz. El nombre
+<ce>                     del objetivo es _marknpc_, aquí
+<ce>                       en ___questgiver_. Se mueve
+<ce>                     mucho y suele estar bajo la
+<ce>                  protección de guardaespaldas. Ten cuidado.
+<ce>                  Tienes siete días. Cuando esté hecho,
+<ce>                  vuelve aquí y te pagaré _gold_ piezas
+<ce>                    de oro. Pregunta por _questgiver_.
+
+QuestComplete:  [1004]
+<ce>                         Excelente trabajo, %pcn.
+<ce>                  Espero que no haya sido muy duro para ti.
+<ce>                       Aquí tienes tu pago del gremio.
+
+RumorsDuringQuest:  [1005]
+_marknpc_ podría encontrar problemas después de todos los enemigos que ha hecho.
+<--->
+_marknpc_ tendrá un final sangriento, recuerda mis palabras.
+
+RumorsPostfailure:  [1006]
+_marknpc_ se ha marchado de %reg, pero volverá.
+
+RumorsPostsuccess:  [1007]
+_marknpc_ cometió demasiados errores; su destino estaba sellado hace tiempo.
+<--->
+A nadie le sorprende la muerte de _marknpc_; solo traía problemas.
+
+QuestorPostsuccess:  [1008]
+No he olvidado lo que le hiciste a _marknpc_, %pcf. No te preocupes por eso.
+
+QuestorPostfailure:  [1009]
+<ce>                      _marknpc_ todavía vive, %pcf.
+<ce>                 No es una situación honorable en absoluto,
+<ce>                  y no me hace ni la más mínima gracia.
+
+QuestLogEntry:  [1010]
+%qdt:
+ He aceptado un trabajo para asesinar a
+ _marknpc_ de ___questgiver_ para la
+ Hermandad Oscura. Quien me contactó,
+ _questgiver_, me dijo que se mueve
+ mucho. Tengo siete días para terminar
+ el trabajo.
+
+Message:  1015
+<ce>                        _marknpc_ sigue con vida.
+<ce>                        No juegues conmigo, %pcn.
+<ce>                  La Hermandad Oscura no tiene sentido
+<ce>                   del humor. Me acaban de informar de
+<ce>                   que _fakeplace_ es una dirección falsa.
+<ce>                   No te molestes en ir allí. Mira si
+<ce>                   puedes encontrar otras pistas sobre
+<ce>                       dónde pasa su tiempo.
+
+Message:  1020
+<ce>                     _marknpc_ disfruta de encuentros
+<ce>                ocasionales conmigo. Nunca se queda mucho.
+<ce>                    Solo me usa para su propio placer.
+<ce>                Por 50 de oro, te diré dónde encontrarle.
+
+Message:  1021
+<ce>                        ¡Ayuda! ¡_marknpc_! ¡Hay
+<ce>                       un asesino en la casa!
+
+Message:  1022
+<ce>                      ¡Has matado a _marknpc_! Solo
+<ce>                    déjame vivir y juro que no diré
+<ce>                         a nadie quién lo hizo.
+
+Message:  1023
+<ce>                      _marknpc_ viene aquí cada día
+<ce>                    alrededor de las 6. Envía lejos a
+<ce>                    sus guardaespaldas. Solo se queda
+<ce>                         una hora más o menos.
+
+Message:  1030
+<ce>                 _marknpc_ es un ladrón y un canalla.
+                                     <--->
+<ce>  Todo el mundo cree que _marknpc_ para en _fakeplace_, pero no es así.
+                                     <--->
+<ce>            _marknpc_ suele pasar las noches en _inn_.
+                                     <--->
+<ce>            _marknpc_ pasa las mañanas durmiendo en casa.
+                                     <--->
+<ce>   _marknpc_ vive en _house_, pero no pasa mucho tiempo allí.
+                                     <--->
+<ce>       Por las tardes, se puede encontrar a _marknpc_ en _guildhall_.
+                                     <--->
+<ce>  He oído que _guildhall_ es un nido del Gremio de Ladrones. Prueba allí.
+                                     <--->
+<ce>                        _marknpc_ tiene un amante.
+                                     <--->
+<ce>               Su amante vive en _mistresshome_.
+                                     <--->
+<ce>                  _marknpc_ tiene muchos guardaespaldas.
+                                     <--->
+<ce>   Cuando _marknpc_ visita a su amante, retira a su guardia.
+                                     <--->
+<ce>            Yo no me metería con la guardia de _marknpc_.
+                                     <--->
+<ce>              Dicen que _marknpc_ se protege con hechizos.
+
+Message:  1031
+<ce>                  _marknpc_ cae al suelo, sin vida.
+<ce>                     La Hermandad estará orgullosa.

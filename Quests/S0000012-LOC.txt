@@ -1,0 +1,138 @@
+Quest: S0000012
+DisplayName: El mensajero del Emperador
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Hola, %pcn. He oído
+<ce>                mucho sobre ti. Ahora vienes a mí con
+<ce>                una historia de engaño muy interesante. Así
+<ce>                que Cyndassa, la sirvienta, dice que Aubk-i
+<ce>                abrió una carta del emperador dirigida a mí.
+<ce>                  Puedo decirte, %pcf, que ella nunca
+<ce>                    me entregó tal carta.
+<ce>                                     
+<ce>                Me gustaría que investigaras esto más
+<ce>                    a fondo, %pcn. Podría ser
+<ce>                peligroso hurgar en los asuntos de Aubk-i
+<ce>                sin enfurecer al rey Gothryd, aunque sea
+<ce>                      mi propio hijo. ¿Estás de acuerdo?
+
+RefuseQuest:  [1001]
+<ce>                Aubk-i debe de tenerte bajo su control,
+<ce>                        %pcn. Espero que
+<ce>              sobrevivas para beneficiarte de su patronazgo.
+
+AcceptQuest:  [1002]
+<ce>                Bien. He tenido mis sospechas durante mucho
+<ce>                tiempo sobre la lealtad de Aubk-i hacia el
+<ce>                emperador. Ella es hija del difunto rey Camaron,
+<ce>                quien gobernó Hammerfell desde su ciudadela
+<ce>                en Sentinel.
+<ce>                                     
+<ce>                Mi esposo el rey Lysandus, %god lo tenga
+<ce>              en su gloria, murió en Cryngaine, al igual que
+<ce>              el rey Camaron. El cuerpo de Lysandus no fue
+<ce>              recuperado, así que tiene un monumento allí en
+<ce>              lugar de una tumba real. Ah... mi mente divaga.
+<ce>                                     
+<ce>                El emperador utiliza a _messenger_ como su
+<ce>              mensajero en Salto de la Daga. %g podría estar
+<ce>              en cualquier parte de la región entregando
+<ce>              misivas. Sin embargo, _messenger_ es miembro
+<ce>              de los Caballeros del Dragón. Ve a _location_,
+<ce>              en __location_, y pregunta por _dispatcher_.
+<ce>                %g sabrá dónde encontrar a _messenger_.
+<ce>                Intenta averiguar por qué una carta dirigida
+<ce>                  a mí le fue entregada a Aubk-i.
+
+QuestComplete:  [1004]
+<ce>            ¡Ah! Ahora tiene sentido. Uriel Septim dirigió
+<ce>            el mensaje a la Reina de Salto de la Daga. Cuando
+<ce>            lo envió, yo era la reina. Para cuando llegó, mi
+<ce>            querido Lysandus había muerto y Aubk-i era la reina.
+<ce>            Debemos averiguar qué había en esa carta. Nunca
+<ce>                        he confiado en Aubk-i.
+<ce>                                     
+<ce>              Ayer recibí una carta de la princesa Morgiah de
+<ce>              Wayrest afirmando saber algo de la carta del
+<ce>              emperador. He ahí una familia que hierve bajo
+<ce>              el mandato del Emperador. Regresa a mí si
+<ce>                averiguas quién tiene la carta imperial.
+<ce>                                     
+<ce>                Por ahora, me has demostrado tu valía,
+<ce>                %pcn. Quédate con la joya _jewelry_ como
+<ce>                muestra de mi gratitud. No deseo poseer
+<ce>                    nada que pertenezca a Aubk-i.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Mynisera, Reina Madre de Gothryd, me ha pedido
+ que investigue por qué una carta del emperador
+ dirigida a ella terminó en manos de la reina
+ Aubk-i. Al mensajero del emperador, _messenger_,
+ solo se le puede localizar a través de
+ _dispatcher_ de __location_. Ambos son miembros
+ de los Caballeros del Dragón. Ella me ha dado
+ un anillo de sello para demostrarles que soy
+ de confianza.
+
+Message:  1011
+%qdt:
+ El anillo de sello de Mynisera me granjeó la confianza
+ de _dispatcher_. %g me dijo que _messenger_
+ estaría en __palace_, en _palace_, dentro de
+ =2palace_ días.
+
+Message:  1015
+<ce>              ¿La carta del Emperador? En realidad, %pcf,
+<ce>              esto es bastante vergonzoso. Me robaron la
+<ce>              carta el mismo día que la recibí. Nunca llegué
+<ce>              a leerla. He estado esperando que la carta
+<ce>              apareciera, o que el Emperador enviara otra. Si
+<ce>              encuentras la carta, te agradecería mucho que me
+<ce>                permitieras entregársela personalmente a Mynisera.
+
+Message:  1016
+<ce>              Nunca debiste intentar investigar la carta
+<ce>                    del Emperador, %pcn. Ahora
+<ce>              tendrás que pagarlo con tu vida.
+
+Message:  1017
+Matad a %ra. Una emboscada de camino
+ a __location_ es vuestra mejor
+ oportunidad. %g tiene intención de interrogar a
+ _dispatcher_ allí.
+<ce>                                     
+<ce>                                 --- A.
+
+Message:  1019
+Un anillo de sello con el blasón de Salto de la Daga y el blasón personal de Lysandus.
+
+Message:  1020
+<ce>                          Soy _dispatcher_.
+<ce>              Normalmente no le diría a nadie que no fuera un
+<ce>            Caballero del Dragón dónde encontrar a _messenger_.
+<ce>              Sin embargo, soy leal a la reina Mynisera. También
+<ce>                    sé que _messenger_ destripó a la
+<ce>              última persona que intentó emboscarle. En
+<ce>              =2palace_ días, %g debería estar en _palace_,
+<ce>                        en __palace_. Búscale allí.
+
+Message:  1021
+<ce>              ¡Alto! Te advierto que soy un Caballero del
+<ce>              Dragón al servicio del mismísimo Emperador.
+<ce>              Si esto es una artimaña para emboscarme, te
+<ce>                aseguro que no vivirás para lamentarlo.
+<ce>                                     
+<ce>                  Hmmm. Sí, soy _messenger_. Este anillo
+<ce>              de sello demuestra que estás al servicio de
+<ce>              Mynisera. Hace algún tiempo entregué una carta
+<ce>              del Emperador dirigida a la Reina de Salto de la
+<ce>              Daga. Si no me equivoco, Aubk-i es la Reina de
+<ce>              Salto de la Daga, no Mynisera. Dile a Mynisera
+<ce>              que me tomo mis deberes muy en serio. Jamás
+<ce>              entregaría a sabiendas una misiva a la persona
+<ce>              equivocada. La reina Aubk-i me dio esta joya
+<ce>              _jewelry_ en gratitud. Muéstrasela a Mynisera
+<ce>              para que sepa que soy un servidor leal y fiel
+<ce>                    a mi Orden.

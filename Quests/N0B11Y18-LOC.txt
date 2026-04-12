@@ -1,0 +1,148 @@
+Quest: N0B11Y18
+DisplayName: Antiguo Estudiante Parte I
+QRC:
+
+QuestorOffer:  [1000]
+<ce>               Eres alguien que muestra lealtad al Gremio
+<ce>                 de Magos, ¿no es así, %pct? Tengo un
+<ce>                 asunto oficial de la mayor importancia
+<ce>                       que me gustaría que manejaras.
+
+RefuseQuest:  [1001]
+<ce>               Quizás no hay tanta lealtad como pensaba.
+
+AcceptQuest:  [1002]
+<ce>                Muy bien. Hay alguien que practica la magia
+<ce>                 rebelde y necesitamos eliminar, de nombre _rebel_.
+<ce>                Bajo mi tutela mostró promesa, pero carecía de
+<ce>               lealtad a los principios antiguos del Gremio,
+<ce>                tan vitales para nuestra supervivencia. Hemos
+<ce>               sabido que %g realiza investigaciones no
+<ce>                autorizadas en ___rebelhouse_, aparentemente
+<ce>               sin percatarse del peligro. Tienes =qtime_ días
+<ce>               para eliminar esta amenaza e informarme.
+
+QuestFail:  [1003]
+<ce>                             Vete de aquí, %pcn.
+
+QuestComplete:  [1004]
+<ce>                    He creado este _reward_ personalmente
+<ce>                   como muestra de mi agradecimiento por
+<ce>                      tu servicio al Gremio de Magos.
+
+Message:  1020
+%qdt:
+ He aceptado encontrar y eliminar a quien
+ practica la magia rebelde y que reside en
+ ___rebelhouse_. Una vez me haya deshecho de
+ _rebel_, debo informar a _questgiver_ en el
+ Gremio de Magos de ___questgiver_.
+ Tengo =qtime_ días.
+
+Message:  1021
+%qdt:
+ He accedido a perdonar la vida a _rebel_.
+ Dijo que simplemente debería decir a _questgiver_
+ que no encontré ni rastro de _rebel_ en
+ ___rebelhouse_, salvo por una carta que
+ me ha entregado.
+
+Message:  1030
+<ce>                    Así que _questgiver_ ha enviado a otra
+<ce>                   de sus marionetas para hacerme claudicar.
+<ce>                  Las viejas que dirigen el Gremio de Magos
+<ce>                 no tienen espíritu aventurero, no se arriesgan,
+<ce>                no se atreven a nada y no aprenden nada. Jamás
+<ce>                 he levantado un dedo contra ellas, salvo para
+<ce>                repudiar su control. ¡Y aun así, solo porque
+<ce>                 me niego a acatar sus reglas, el Gremio de
+<ce>                Magos quiere matarme! ¿Por qué les profesas
+<ce>                obediencia ciega, matando por encargo como
+<ce>                 si fueras un asesino? ¡Únete a mí y les
+<ce>                           desafiaremos a todos!
+
+Message:  1031
+<ce>                 ¡Maravilloso! Solo dile al viejo _questgiver_
+<ce>                que yo no estaba aquí, pero que dejé esta carta
+<ce>                 para %g2. Debo partir, pero me pondré en
+<ce>                  contacto contigo en cuanto pueda preparar
+<ce>                   una aventura de las de verdad. ¡Chao!
+
+Message:  1032
+<ce>                 Bien, entonces tendré que convencerte por las
+<ce>                  malas. ¡Defiéndete, aprendiz de magia!
+
+Message:  1040
+Estimado _questgiver_:
+ 
+   Siento mucho que no coincidiéramos. Me encantaría
+ ponerme al día contigo sobre los viejos tiempos. ¿Recuerdas
+ los días en que aprendía obedientemente a tu lado, como si
+ tuvieras algo más que enseñarme que la rancia repetición de
+ una grandeza pasada?
+ =mage1_, el Archimagistrado =mage3_...
+ en su época, el Gremio de Magos era una institución
+ digna de respeto. Ya no. No puedo ofrecer mi lealtad a un
+ Gremio cuyo único propósito es aplastar todo pensamiento
+ original.
+ 
+   Si envías a más de tus ejecutores contra mí, me veré en
+ la obligación de defenderme. Considérate bajo aviso.
+ 
+<ce>                            Tu humilde estudiante,
+<ce>                                     
+<ce>                                   _rebel_
+
+Message:  1041
+<ce>                      ¡Pero qué... insolencia! ¡Me he
+<ce>                       quedado sin palabras! Ahora ves
+<ce>                       por qué hay que detener a _rebel_
+<ce>                     a toda costa, antes de que socave
+<ce>                      todo lo que el Gremio representa.
+<ce>                     Es una lástima que no encontraras a
+<ce>                    esa miserable sabandija, pero no dudo
+<ce>                       que pronto daremos con su rastro
+<ce>                                de nuevo.
+
+Message:  1042
+<ce>                    Muy bien, %pct. El Gremio de Magos
+<ce>                   no puede sobrevivir si no aplicamos
+<ce>                  nuestras propias reglas, por muy duras
+<ce>                        que puedan parecer.
+
+Message:  1050
+<ce>                     ¡Detén este ataque sin sentido y
+<ce>                           únete a mí en su lugar!
+
+Message:  1051
+<ce>                    Seguro que ya estás en posición de
+<ce>                  darme la razón. ¡Podríamos divertirnos
+<ce>                           tanto en equipo!
+
+Message:  1052
+<ce>                _questgiver_ te ha enseñado persistencia,
+<ce>                 al menos. ¿Pero por qué seguir bajo la
+<ce>                esclavitud de las reglas y normas de los
+<ce>                retrógrados? ¡Únete a mi alegre banda de
+<ce>                      desafiantes del Gremio!
+
+Message:  1053
+<ce>                  Estás empezando a agotar mi paciencia,
+<ce>                  pero te daré una última oportunidad.
+<ce>                   Cesa tu ataque y dejaré que lo pasado,
+<ce>                           pasado sea.
+
+Message:  1060
+<ce>                 Tal vez deberíamos llevar esto fuera.
+
+Message:  1061
+<ce>                         ¡Yoo-hoo, por aquí!
+
+Message:  1062
+<ce>                ¿Olvidó _questgiver_ mencionarte mi gran
+<ce>                 habilidad con la magia mientras predicaba
+<ce>                 sobre mi deslealtad e insubordinación?
+
+Message:  1063
+<ce>          Me has vuelto a fallar, marioneta del Gremio. ¿Por
+<ce>           qué tus maestres no te han enseñado estos trucos?

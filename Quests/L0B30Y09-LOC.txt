@@ -1,0 +1,68 @@
+Quest: L0B30Y09
+DisplayName: Un Trabajo Anónimo
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  Tenemos un trabajo anónimo para ti.
+<ce>                 Ocurre de vez en cuando que alguien
+<ce>                  nos paga por eliminar a alguien,
+<ce>                  pero nunca revela el porqué, o incluso
+<ce>                   puede que use un intermediario para
+<ce>                   mantener su identidad en secreto.
+<ce>                  Sea como sea, el trabajo es tuyo
+<ce>                            si lo quieres.
+
+RefuseQuest:  [1001]
+<ce>                   No puedo culparte por no querer
+<ce>                        mezclarte en este asunto.
+
+AcceptQuest:  [1002]
+<ce>                     Ve a _mondung_ de ___mondung_.
+<ce>                  Tu objetivo tiene una cicatriz en la
+<ce>                   mejilla izquierda. Eso es todo lo
+<ce>                  que sabemos. Vuelve en =1stparton_
+<ce>                  días para cobrar tu pago. Que Mephala
+<ce>                       bendiga tu hoja, %pcn.
+
+QuestFail:  [1003]
+<ce>                    No sé a quién crees que has
+<ce>                 matado, pero no era el objetivo correcto.
+<ce>                  Mueve el trasero a _mondung_ y haz
+<ce>                  aquello por lo que se nos contrató.
+
+QuestComplete:  [1004]
+<ce>                    Hermoso, %pcf, de verdad. Se me
+<ce>                 saltan las lágrimas. Un ajuste de cuentas
+<ce>                  tan bello como pocos he visto. Me dan
+<ce>                 ganas de escribir un poema. ¿Por qué no
+<ce>                coges tus _reward_ piezas de oro y te
+<ce>                  largas de aquí para que pueda escribir
+<ce>                 una balada sobre ello? En serio, estoy
+<ce>                        muy orgulloso de ti, %pcf.
+
+RumorsDuringQuest:  [1005]
+Hace un tiempo encantador.
+
+RumorsPostfailure:  [1006]
+Dicen que el rey tiene una aventura.
+
+RumorsPostsuccess:  [1007]
+Si me preguntas, nuestros impuestos son demasiado altos.
+
+QuestorPostsuccess:  [1008]
+Buen trabajo con ese encargo anónimo.
+
+QuestorPostfailure:  [1009]
+Es una pena que no pudieras completar ese trabajo anónimo. Definitivamente es una mancha en tu expediente.
+
+Message:  1020
+%qdt:
+ Mi nuevo contrato para la Hermandad Oscura
+ en ___questgiver_ es un objetivo anónimo
+ en _mondung_, en ___mondung_. Solo podré
+ reconocer a mi blanco por una cicatriz en la
+ mejilla izquierda. La hazaña debe estar cumplida
+ en =1stparton_ días.
+
+Message:  1021
+<ce>           Una cicatriz reciente marca la mejilla izquierda del objetivo.

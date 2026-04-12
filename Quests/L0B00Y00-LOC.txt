@@ -1,0 +1,67 @@
+Quest: L0B00Y00
+DisplayName: Un miembro renegado
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Hay un traidor en la Hermandad.
+<ce>                Realizarás el ajuste de cuentas necesario
+<ce>                   sobre esta carga, ¿no es así?
+                                     <--->
+<ce>                 De vez en cuando, la Hermandad se ve
+<ce>                 obligada a cuadrar sus propios libros.
+<ce>                 Se ha hallado a un traidor en nuestra
+<ce>                 orden que debe ser liquidado. Has sido
+<ce>                    el elegido para hacer los honores.
+
+RefuseQuest:  [1001]
+<ce>                 Una respuesta innoble. Esperaba algo mejor.
+
+AcceptQuest:  [1002]
+<ce>                    Muy bien. El traidor se ha refugiado
+<ce>                          en ___mondun_, hacia el
+<ce>                 %di. Si no has regresado en =queston_ días,
+<ce>                 tu honor quedará anulado y otro tomará tu
+<ce>                 lugar. No nos falles en esto, %pcf.
+
+QuestFail:  [1003]
+<ce>                  El traidor no ha muerto. No intentes
+<ce>                        convencerme de lo contrario.
+
+QuestComplete:  [1004]
+<ce>                 Bien hecho. Tienes motivos para el orgullo.
+
+RumorsDuringQuest:  [1005]
+Ese asesino huyó hacia ___mondun_ como si los sabuesos del infierno le pisaran los talones.
+<--->
+_qgiver_ no puede dejar que ese traidor se escape después de lo que le hizo a la Hermandad.
+
+RumorsPostfailure:  [1006]
+Ese traidor es aparentemente más duro de lo que _qgiver_ pensaba. Vaya escapatoria.
+<--->
+<ce>              He oído que el hoja de la noche se ha movido
+ al norte, pero su recuerdo aún plaga a la Hermandad.
+
+RumorsPostsuccess:  [1007]
+La historia del traidor solo lo demuestra. No se juega con la Hermandad Oscura.
+<--->
+Nunca pensé que la Hermandad sería misericordiosa con un necio como ese asesino traidor.
+
+QuestorPostsuccess:  [1008]
+¿Qué necesitas, oh verdugo del traidor?
+
+QuestorPostfailure:  [1009]
+<ce>                  No me siento cómodo hablando contigo.
+<ce>                  Después de todo, confié en ti para ajustar
+<ce>                        las cuentas de ese traidor, ¿no?
+
+QuestLogEntry:  [1010]
+%qdt:
+ La Hermandad Oscura en ___qgiver_ me ha
+ enviado a buscar y ejecutar a un traidor del gremio.
+ El asesino renegado se oculta en ___mondun_.
+ Tengo =queston_ días para cumplir este encargo.
+
+Message:  1021
+<ce>                        "No soy... el traidor que...
+<ce>                       crees que soy. El... verdadero
+<ce>                traidor es..." El contrato ha sido cumplido.

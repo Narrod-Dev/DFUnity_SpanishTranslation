@@ -1,0 +1,129 @@
+Quest: U0C00Y00
+DisplayName: La misión de Boethiah
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                ¡Poder, ja! ¿Acaso alguien que repta por
+<ce>               Mundus sabría qué hacer con el auténtico poder?
+<ce>               Lo que queréis es poder intimidar a otros
+<ce>               mortales, ¿no es así? Bueno, eso se puede
+<ce>               arreglar. Quiero que me demostréis que tenéis el
+<ce>               temple necesario para usar lo que os doy.
+<ce>                     ¿Asesinaríais a alguien a cambio?
+
+RefuseQuest:  [1001]
+<ce>                   Bah, me dais asco. No volváis a
+<ce>                   convocarme, %pcf, a menos que maduréis
+<ce>                       o estéis buscando pelea.
+
+AcceptQuest:  [1002]
+<ce>             Bueno, al menos es un comienzo en la dirección
+<ce>             adecuada. La hoja conjurada que tengo en mente
+<ce>             que descuarticéis por poder es =monster_, un
+<ce>             imbécil encantador y caritativo que lleva años
+<ce>             fastidiándome sobremanera. Encontraréis a esa
+<ce>             persona en su fortaleza, un lugar llamado
+<ce>                   ___mondung_. Ahora, no penséis que
+<ce>                   solo porque =monster_ sea de la alta
+<ce>             sociedad, no sabe cómo luchar. Quiero que os
+<ce>             esforcéis un poco por este regalo. Tras el
+<ce>             asesinato, id a ver a _qgfriend_, mi agente
+<ce>             en ___qgfriend_. Buscad a alguien de su clase
+<ce>             frecuentando __qgfriend_. Y no hagáis esperar
+<ce>             a mi contacto. Le diré que estaréis allí en
+<ce>             =1stparton_ días. Debería ser tiempo de sobra.
+<ce>                         Estaré observando.
+
+QuestFail:  [1003]
+<ce>                         Seguid vuestro camino, %ra.
+<ce>                       No tenemos nada de qué hablar.
+
+QuestComplete:  [1004]
+<ce>                         Así que vos sois %pcn. Mmm, no
+<ce>                      parecéis alguien tan insignificante como
+<ce>                      sugirió Boethiah. Tomadlo como un cumplido.
+<ce>                      Además, tomad esto. Boethiah forjó este
+<ce>                      _artifact_. Cree que os ayudará en vuestra
+<ce>                      búsqueda de poder. Está claro que tiene
+<ce>                      interés en vos. Lo supe por su sonrisa
+<ce>                      cuando pronunció la palabra "insignificante".
+
+RumorsDuringQuest:  [1005]
+La próxima vez que haya votación para la alcaldía, votaré por =monster_.
+<--->
+Qué persona tan dulce, amable y generosa es =monster_. Es un orgullo para %reg.
+
+RumorsPostfailure:  [1006]
+¿Quién en Tamriel querría asesinar a =monster_? Gracias a %god que está bien.
+<--->
+=monster_ tuvo un encontronazo con un asesino. Por suerte, el asesino era un incompetente.
+
+RumorsPostsuccess:  [1007]
+Es una tragedia para todo %reg. ¿Qué monstruo habría matado a =monster_?
+<--->
+¡Por %oth!, no puedo creer que =monster_ haya muerto. Qué pérdida tan trágica y horrible.
+
+Message:  1011
+_qgfriend_ es el nombre de esa persona de habla ruda que está en __qgfriend_.
+<--->
+Ese es el nombre del matón de __qgfriend_, allá por el %di.
+
+Message:  1012
+_qgfriend_ es uno de los agentes de la Princesa Daedra Boethiah en Tamriel.
+<--->
+_qgfriend_ es alguien despreciable que trabaja para la Princesa Daedra Boethiah.
+
+Message:  1013
+Boethiah es la Princesa Daedra de la Crueldad y la Tortura. No es alguien agradable.
+<--->
+Es una de las Regentes Daédricas de Oblivion, y una auténtica asesina.
+
+Message:  1014
+_artifact_ protege a quien lo porta de muchos tipos de daño. El fuego y el drenaje de vida son los dos más conocidos.
+
+QuestLogEntry:  [1010]
+%qdt:
+ He hecho un contrato con Boethiah para
+ asesinar a una hoja conjurada llamada =monster_,
+ que vive en la fortaleza de ___mondung_, a
+ cambio del artefacto llamado _artifact_.
+ Debo acabar con su vida y reunirme con el
+ contacto de Boethiah, _qgfriend_ en
+ __qgfriend_ de ___qgfriend_ en =1stparton_ días.
+
+Message:  1030
+<ce>                Habéis cumplido vuestra parte del trato
+<ce>                 con Boethiah: =monster_ ha muerto.
+
+Message:  1040
+=monster_:
+ 
+ ¡Sal de ___mondung_ inmediatamente! Me
+ he enterado de que Boethiah ha planeado
+ tu muerte. Podemos discutir tu conducta
+ imprudente en otro momento, pero por
+ ahora debes ir a nuestro lugar de reunión
+ habitual. Cuando haya terminado los
+ preparativos para sacarte de %reg, iré a
+ buscarte personalmente.
+ 
+<ce>                             Cuida tus espaldas,
+<ce>                                     
+<ce>                                 _mfriend_
+<ce>                                ___mfriend_
+
+Message:  1041
+<ce>                    Cómo has entrado aquí... ¡por %oth!
+<ce>                         Sabía que =monster_ haría
+<ce>                    que me mataran algún día. Escucha,
+<ce>                    ya que no valora mi vida lo suficiente
+<ce>                    como para no dejar mi carta por ahí
+<ce>                    tirada, ya no merece que le proteja.
+<ce>                    Encontrarás a esa persona en ___hideout_.
+<ce>                    Al fin me lavo las manos de este asunto.
+
+Message:  1042
+%qdt:
+ =monster_ logró eludirme en ___mondung_,
+ pero he averiguado que se oculta ahora
+ en ___hideout_. No escapará una segunda vez.

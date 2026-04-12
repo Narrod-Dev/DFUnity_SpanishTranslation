@@ -1,0 +1,112 @@
+Quest: S0000500
+DisplayName: Misión de Lord K'avar Parte II
+QRC:
+
+QuestComplete:  [1004]
+<ce>                %pcf, salvaste mi vida cuando la mayoría
+<ce>                 de mis supuestos amigos me abandonaron.
+<ce>                 Tengo una deuda contigo. Mis recursos no
+<ce>                son lo que eran, pero acepta esta cantidad
+<ce>               de _gold_ oro como pequeña muestra de gratitud.
+
+RumorsDuringQuest:  [1005]
+<ce>   Uno de los altos lores de la _queen_ fue arrestado por traición.
+<ce>   Sus amistades piden clemencia, pero la Reina ya ha fijado la
+<ce>                            fecha de su ejecución.
+
+RumorsPostsuccess:  [1007]
+<ce> Dicen que el _traitor_ escapó de las mazmorras del Castillo de Sentinel,
+<ce> justo ante las narices de la guardia de la _queen_. ¡Debe de estar furiosa!
+
+Message:  1020
+%qdt:
+ He recibido una carta de alguien bajo el
+ nombre de _contact1_, pidiéndome una cita
+ con %g2 en la taberna _tavern_ de
+ __tavern_, ____tavern_, sobre un asunto
+ relacionado con el _traitor_ de Sentinel.
+
+Message:  1021
+%qdt:
+ Me reuní con _contact1_, quien me dijo que
+ el _traitor_ se consume en las mazmorras
+ de Sentinel, con su ejecución programada
+ en =executiondelay_ días. _contact1_ me
+ suplicó rescatar al _traitor_ antes de
+ que fuera demasiado tarde.
+
+Message:  1022
+%qdt:
+ He rescatado al _traitor_ de la mazmorra
+ del Castillo de Sentinel, y lo llevo a
+ _safehouse_ en __safehouse_, ____safehouse_,
+ donde nos reuniremos con una alianza bajo
+ el nombre de _contact2_.
+
+Message:  1030
+Estimado %pcn:
+ 
+ Si tienes amistad con el _traitor_, por favor,
+ reúnete conmigo en _tavern_, en __tavern_,
+ ____tavern_, tan pronto como sea posible.
+ ¡Es un asunto de vida o muerte!
+ ¡Encuéntrame antes de =firsttimer_ días!
+ 
+<ce>                                 _contact1_
+
+Message:  1040
+<ce>                     ¿%pcn? ¡Eras mi última esperanza!
+<ce>                    Las amistades y aliados del _traitor_
+<ce>                    han demostrado su deslealtad después
+<ce>                     de que la tirana _queen_ lo arrestara
+<ce>                     bajo cargos falsos de traición. Ahora
+<ce>                     está encerrado en las mazmorras del
+<ce>                      Castillo de Sentinel, aguardando su
+<ce>                     ejecución. Por favor, si tienes aprecio
+<ce>                  por este hombre, rescátalo de una muerte
+<ce>                  segura. Solía hablar de tu destreza y tu
+<ce>                 valentía. Sé que nos ayudarás. ¡Solo tiene
+<ce>                  =executiondelay_ días de vida! ¡Date prisa!
+
+Message:  1041
+<ce>                     %oth, me alegra verte. Debemos
+<ce>                    salir de aquí antes de que den la
+<ce>                  alarma. Estaba planeando mi fuga cuando
+<ce>                  has llegado, pero ya no hará falta, ¿eh?
+<ce>                  Quien me brinda apoyo incondicional, así
+<ce>                   es como siempre te he llamado. Prometo
+<ce>                  que cuando sea Rey de Sentinel, estarás
+<ce>                  a mi lado, con la mayor riqueza de todo
+<ce>                   el reino. Suena bien, ¿eh? En cuanto nos
+<ce>                  libremos de la persecución, llévame a
+<ce>                   __safehouse_, en ____safehouse_.
+<ce>                       Tengo un contacto allí en
+<ce>                     _safehouse_ que me ayudará a
+<ce>                 organizar la conquista de Sentinel de nuevo.
+<ce>                    ¡Guíame, %pcn, marchemos de aquí!
+<ce>                    Tenemos solo =escapetime_ días para llegar.
+
+Message:  1050
+<ce>                       ¡Dad la alarma! ¡El _traitor_
+<ce>                  está escapando! ¡=guards_, venid rápido!
+
+Message:  1051
+<ce>                      El _traitor_ estrecha tu mano
+<ce>                         y dice con total seriedad:
+                                     
+<ce>                "Agradezco tu ayuda para rescatarme de
+<ce>                este pozo de desesperación, pero tendré
+<ce>                que separarme de tu compañía en este punto."
+
+Message:  1060
+<ce>   ¿Has oído que el _traitor_ de Sentinel fue ejecutado por traición?
+<ce> Al parecer fue todo un espectáculo; lo colgaron en la plaza pública,
+<ce>                     frente al Castillo de la _queen_.
+                                     <--->
+<ce>   El _traitor_ de Sentinel fue colgado por traición. Dicen que suplicó
+<ce>             por su vida de forma vergonzosa antes de morir.
+
+Message:  1070
+<ce>                    Un mensajero te grita que esperes.
+<ce>                        "¿%pcn, verdad? Esta carta
+<ce>                         es para ti. Debo irme."

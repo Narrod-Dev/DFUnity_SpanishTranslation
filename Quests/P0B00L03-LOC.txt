@@ -1,0 +1,127 @@
+Quest: P0B00L03
+DisplayName: Batallas territoriales
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        ¿Podría interesarte un encargo
+<ce>                        peligroso para la mayor gloria
+<ce>                                de %vam?
+
+RefuseQuest:  [1001]
+<ce>                  ¿Quieres dejárselo a otro de %vam y
+<ce>                    perderte el honor? Muy bien, pero
+<ce>                     admito que me decepciona tu
+<ce>                              docilidad.
+
+AcceptQuest:  [1002]
+<ce>                       Eres maravillosamente obediente,
+<ce>                        %pcf. Un vampiro rival se ha
+<ce>                       trasladado a mi territorio. Vas
+<ce>                      a matarlo. Debes tener cuidado,
+<ce>                      %pcf. Un vampiro anciano, incluso
+<ce>                     uno de una tribu inferior a %vam,
+<ce>                     no es un adversario débil. No vayas
+<ce>                     a la batalla sin preparación. Este
+<ce>                      se llama _vampname_, y su nuevo
+<ce>                       santuario se llama ___mondung_.
+<ce>                       Es conocido por estar demasiado
+<ce>                      orgulloso de su _vampproof_, hecho
+<ce>                     con la piel de sus víctimas. Tráelo
+<ce>                      contigo. Te esperaré de vuelta aquí
+<ce>                      en =1stparton_ noches. No dejes
+<ce>                             que te maten, %pcf.
+
+QuestFail:  [1003]
+<ce>                        ¿Quizá esperabas que _vampname_
+<ce>                         se suicidara? Poco probable.
+<ce>                          Tú debes ser el agente de
+<ce>                                su muerte.
+
+QuestComplete:  [1004]
+<ce>                      Bienvenido de nuevo, %pcf, hijo mío.
+<ce>                    Cosa curiosa: de hecho, estaba bastante
+<ce>                      preocupado por tu bienestar. ¡Qué
+<ce>                    absurdo; sentimentalismo en un vampiro
+<ce>                    de %vam! Te traigo las felicitaciones
+<ce>                     de los ancianos de %vam, que me
+<ce>                     ordenaron entregarte este _reward_.
+<ce>                      No pienses en ello como algo tan
+<ce>                     vulgar como un pago. Es simplemente
+<ce>                        un regalo de tu familia.
+
+RumorsDuringQuest:  [1005]
+Ha habido mucha actividad en ___mondung_, pero ha estado abandonado durante años.
+<--->
+Ese _vampname_ es un aristócrata. Dice que va a limpiar ___mondung_ y %reg.
+
+RumorsPostfailure:  [1006]
+He oído que _vampname_ finalmente se mudó de ___mondung_. No es lugar para un aristócrata.
+<--->
+Ahora que _vampname_ se mudó de ___mondung_, se le ve mucho por el palacio.
+
+RumorsPostsuccess:  [1007]
+¡Resulta que el amable _vampname_ era un vampiro! ¡No tenía ni idea!
+<--->
+Gracias a %god que ese maravilloso mercenario %ra mató al vampiro de ___mondung_.
+
+QuestorPostsuccess:  [1008]
+Saludos, %pcf. Espero que estés disfrutando de tu nuevo _reward_.
+
+QuestorPostfailure:  [1009]
+<ce>                         _vampname_ aún camina por
+<ce>                          la noche, %pcf. Este encargo
+<ce>                         se manejó de una manera
+<ce>                        inaceptable. Todo %vam está...
+<ce>                          decepcionado contigo.
+
+Message:  1020
+Querido %pcn:
+
+    Temo que %vam tiene un problema
+ potencial. Ven a verme a
+ ___vampire_ lo antes posible.
+
+ En la muerte,
+<ce>                                _vampire_
+
+Message:  1011
+%g es un =vampire_ muy agradable e inteligente en __vampire_.
+<--->
+_vampire_ es ese amable =vampire_ que encontrarás en __vampire_, al %di de aquí.
+
+Message:  1012
+_vampire_ es un vampiro del linaje %vam.
+<--->
+_vampire_ es un joven vampiro de %vam que instruye a vampiros aún más jóvenes.
+
+Message:  1013
+El _vampproof_ de _vampname_ está hecho de un curioso cuero pálido.
+
+Message:  1015
+Error -- 1015 is being displayed
+
+Message:  1021
+Has recibido una carta.
+
+Message:  1022
+<ce>                      He regresado de entre los muertos
+<ce>                      una vez. Lo haré de nuevo. ¡Y
+<ce>                      cuando lo haga, os cazaré a ti y
+<ce>                      a _vampire_ como a los pálidos
+<ce>                           gusanos que sois!
+
+Message:  1025
+%qdt:
+   _vampire_ de ___vampire_
+ me ha convocado a __vampire_
+ para asuntos de %vam.
+
+Message:  1026
+%qdt:
+ _vampire_ me ha enviado
+ a ___mondung_ para matar a un
+ vampiro anciano llamado _vampname_.
+ Tras la matanza, debo tomar un
+ _vampproof_ muy especial como prueba
+ de la muerte y volver a __vampire_
+ en =1stparton_ noches.

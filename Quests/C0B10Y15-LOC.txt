@@ -1,0 +1,112 @@
+Quest: C0B10Y15
+DisplayName: La Reliquia
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                     %pct, __questgiver_ necesita
+<ce>                  que emprendas una misión peligrosa
+<ce>                    para recuperar uno de los _item_
+<ce>                    perdidos de %god. Tendrás que
+<ce>                    desafiar el poder de =lich_, su
+<ce>                   creador, quien luego traicionó al
+<ce>                   templo y cayó en la maldad. Ahora
+<ce>                  es un lich, y aún protege el _item_.
+<ce>                  ¿Estás dispuesto?
+
+RefuseQuest:  [1001]
+<ce>                  Lo entiendo. Un lich es un enemigo
+<ce>                   temible para alguien con tu juventud
+<ce>                     e inexperiencia. Quizá cuando
+<ce>                      madures puedas intentarlo de
+<ce>                       nuevo. Que %god te acompañe.
+
+AcceptQuest:  [1002]
+<ce>                  Admiro tu valentía, pero temo por el
+<ce>                  peligro que estás a punto de enfrentar.
+<ce>                   =lich_ protege su _item_ de %god
+<ce>                   en ___mondung_. Recuerda, no es
+<ce>                   necesario derrotar al lich, solo
+<ce>                  recupera el _item_ y entrégalo aquí
+<ce>                       a __questgiver_.
+<ce>                     Si no sabemos de ti en
+<ce>                    =qtime_ días, entonaremos el
+<ce>                     Canto de los Caídos por ti.
+<ce>                    Las bendiciones de %god contigo, %pcn.
+
+QuestFail:  [1003]
+<ce>                Entiendo tu renuencia a partir,
+<ce>                    %pcf, pero esperar no hará
+<ce>                          que el peligro sea menor.
+
+QuestComplete:  [1004]
+<ce>                   ¡Alabado sea %god! No me había
+<ce>                    permitido creer que realmente
+<ce>                        tendrías éxito.
+<ce>                     El favor de %god sin duda
+<ce>                     brillará sobre ti por esta hazaña.
+<ce>                     Como un pequeño gesto de la
+<ce>                      gratitud del templo, acepta
+<ce>                          este _reward_ encantado.
+
+RumorsDuringQuest:  [1005]
+<ce>        __questgiver_ espera recuperar su _item_
+<ce>        perdido, pero ¿quién se atreverá a enfrentar al lich =lich_?
+
+RumorsPostfailure:  [1006]
+<ce>            He oído que __questgiver_ ahora cree que
+<ce>               el _item_ nunca estuvo en ___mondung_.
+
+RumorsPostsuccess:  [1007]
+<ce>         ¿Escuchaste sobre %ra que entró en ___mondung_
+<ce>               y regresó con el _item_ de __questgiver_?
+
+QuestorPostsuccess:  [1008]
+<ce>                %pcf, siempre eres bienvenido aquí
+<ce>                         después de enfrentar a ese lich.
+
+QuestorPostfailure:  [1009]
+<ce>              No te culpo por no recuperar
+<ce>                 nuestro _item_ de ___mondung_, pero
+<ce>              me decepciona que aceptaras una misión
+<ce>                      que no podías completar.
+
+Message:  1015
+<ce>                Una voz siniestra susurra desde la nada,
+<ce>                                    
+<ce>               "El _item_ no te pertenece ni a los
+<ce>                   necios sentimentales de __questgiver_.
+<ce>              Reclamo lo que es legítimamente mío."
+<ce>                                    
+<ce>                          El _item_ desaparece.
+
+Message:  1020
+%qdt:
+ __questgiver_ de ___questgiver_
+ me ha enviado a recuperar un objeto
+ sagrado, un _item_, de ___mondung_.
+ El problema es que está protegido por
+ =lich_, un lich. No es necesario
+ derrotar a =lich_, solo recuperar
+ el _item_ y regresar con _questgiver_
+ dentro de =qtime_ días.
+
+Message:  1030
+<ce>                    Este es sin duda el
+<ce>                           _item_ perdido de __questgiver_.
+
+Message:  1035
+<ce>                     ¿Qué? ¿No solo recuperaste
+<ce>                   el _item_ sagrado, sino que también
+<ce>                  derrotaste al malvado =lich_? Eres
+<ce>                   verdaderamente alguien favorecido
+<ce>                   por %god. Sin duda ascenderás alto
+<ce>                     dentro de nuestra orden.
+
+Message:  1040
+<ce>                        =lich_ sisea con furia:
+<ce>                                    
+<ce>                       "¡Perros de __questgiver_
+<ce>                       nunca tendrán mi _item_!
+<ce>                        Yo lo creé y lo conservaré.
+<ce>                       Nada me detendrá,
+<ce>                          ni siquiera la tumba."

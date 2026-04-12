@@ -1,0 +1,82 @@
+Quest: D0B00Y00
+DisplayName: Vengar a los Dragones
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  Si por casualidad buscas
+<ce>               trabajo, unas fáciles _reward_ piezas de oro,
+<ce>                    puede que tenga algo para ti.
+<ce>                   Involucra combate, pero pareces
+<ce>                      no tener problema con eso.
+<ce>                   ¿Te interesa?
+
+RefuseQuest:  [1001]
+<ce>                  Ya veo. Bueno, es una pena.
+
+AcceptQuest:  [1002]
+<ce>                  Muy bien. Sabes que Akatosh es
+<ce>                   el Dios del Tiempo, pero también
+<ce>                   es un Dios Dragón, y consideramos
+<ce>                  a los dragones como símbolo sagrado.
+<ce>                  Uno de los miembros de nuestra orden
+<ce>                  de combate, la Orden de la Hora,
+<ce>                 aparentemente ha enloquecido y ha
+<ce>                   comenzado a atacar a nuestros dragones
+<ce>                 en pleno bosque sagrado. Por supuesto,
+<ce>                   ese asesino debe ser detenido. Lo
+<ce>                     encontrarás en un lugar llamado
+<ce>                      ___mondung_.
+<ce>                    Si no tienes éxito dentro de
+<ce>                =1stparton_ días, enviaremos a la Orden
+<ce>                     de la Hora y perderás tu recompensa.
+<ce>                     Que Akatosh bendiga tu misión.
+
+QuestFail:  [1003]
+<ce>                    Será mejor que te apresures, %pcf.
+<ce>                 No te queda mucho tiempo para
+<ce>                        eliminar a ese mata-dragones.
+
+QuestComplete:  [1004]
+<ce>                   Me alegra verte de vuelta, %pcf.
+<ce>                   Y tu misión fue un éxito. Como
+<ce>                 se prometió, aquí tienes _reward_ piezas de oro.
+<ce>                      Gracias por tu servicio.
+
+RumorsDuringQuest:  [1005]
+El santuario de Akatosh está bastante furioso de que uno de los suyos sea un mata-dragones.
+<--->
+Yo digo que ese tipo tiene todo el derecho de matar dragones. Son criaturas violentas y desagradables.
+
+RumorsPostfailure:  [1006]
+Es bueno que el mata-dragones haya escapado.
+<--->
+Ahora morirán más dragones.
+<--->
+He oído que la Orden de la Hora está persiguiendo al mata-dragones por %reg.
+
+RumorsPostsuccess:  [1007]
+Me pregunto si el santuario de Akatosh intentará detener a todos los mata-dragones.
+<--->
+Ya ni se puede matar un dragón sin problemas.
+
+QuestorPostsuccess:  [1008]
+¿Qué puedo hacer por quien protege a los dragones, %pcf?
+
+QuestorPostfailure:  [1009]
+Confié en que eliminarías a ese mata-dragones, %pcf. No volveré a hacerlo.
+
+Message:  1020
+<ce>                   "El Santuario de Akatosh... gana.
+<ce>                     Todo lo que... quería... era liberar
+<ce>                            a los... dragones."
+<ce>                       El mata-dragones ha muerto.
+
+Message:  1030
+%qdt:
+ El Santuario de Akatosh me ha pedido
+ que dé caza a alguien que ha estado
+ atacando a los dragones en su bosque sagrado.
+ Debo ir a ___mondung_,
+ eliminar al mata-dragones, y regresar
+ al santuario en ___questgiver_
+ en =1stparton_ días.

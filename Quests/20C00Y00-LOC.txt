@@ -1,0 +1,98 @@
+Quest: 20C00Y00
+DisplayName: La misión de Molag Bal
+QRC:
+
+QuestorOffer:  [1000]
+<ce>             Así que quieres poder, %pcn. El poder es una cantidad
+<ce>          mucho más tangible que la sabiduría, ¿no estás de acuerdo? Ahora bien,
+<ce>          para que podamos juzgar tu valía, tenemos una
+<ce>         pequeña tarea que debes llevar a cabo. Nada desagradable,
+<ce>              por supuesto. Puede que incluso la disfrutes. Un simple
+<ce>           asesinato, por el cual serás recompensado con
+<ce>              _artifact_. Entonces veremos si estás listo
+<ce>               para el verdadero poder. ¿Te parece aceptable?
+
+RefuseQuest:  [1001]
+<ce>             Has desperdiciado nuestro tiempo. No estamos complacidos.
+
+AcceptQuest:  [1002]
+<ce>            Pensamos que te resultaría atractivo. Ahora, escucha
+<ce>              con atención: tu objetivo es un _monster_ llamado
+<ce>                =monster_. Este infernal hechicero ha estado
+<ce>         invocando nuestro nombre, usando nuestro poder, sin
+<ce>          contrato. Quizá sea por ignorancia, pero nosotros
+<ce>              no podemos ser misericordiosos. Busca al mago en %g3
+<ce>                laboratorio, ___mondung_ y destrúyelo.
+<ce>          Luego, antes de que pasen =1stparton_ días, reúnete con nuestro
+<ce>                   agente, _contact_, un =contact_, en
+<ce>                 __tavern_ en un lugar llamado _tavern_.
+<ce>            Allí %g te dará _artifact_. No te demores,
+<ce>            el tiempo es limitado. Estaremos observando. No falles.
+
+QuestFail:  [1003]
+<ce>                Escucha, %pcf, tú y yo sabemos que
+<ce>               =monster_ sigue respirando. Un contrato es
+<ce>                un contrato, y Molag Bal nunca olvida.
+
+QuestComplete:  [1004]
+<ce>             Hola, %pcf. Lo lograste. Molag Bal envía sus
+<ce>                felicitaciones. Y, por supuesto, _artifact_.
+<ce>                      Disfrútalo y que te vaya bien.
+
+RumorsDuringQuest:  [1005]
+Todos susurran sobre los experimentos que se están llevando a cabo en ___mondung_.
+<--->
+Están pasando cosas extrañas en ese ___mondung_ hacia el %di.
+
+RumorsPostfailure:  [1006]
+Se dice que esa estrella roja brillante es la ira del daedra Molag Bal.
+<--->
+Había un =contact_ loco corriendo por aquí gritando sobre contratos.
+
+RumorsPostsuccess:  [1007]
+Últimamente está muy tranquilo alrededor de ___mondung_.
+<--->
+Hubo mucha actividad en ___mondung_, pero ahora todo se ha calmado.
+
+Message:  1011
+Un Príncipe Daedra regio, se dice que es el más obsesionado con el poder de todos los daedra.
+<--->
+Se dice que Molag Bal está obsesionado con convertir Tamriel en parte de su reino.
+
+Message:  1012
+Un =contact_ de comportamiento extraño estuvo en __tavern_, %di de aquí.
+<--->
+Un =contact_ con ese nombre estuvo en __tavern_, %di de aquí, hace poco.
+
+Message:  1013
+La Maza de Molag Bal roba magicka de sus víctimas.
+<--->
+<ce>La Maza de Molag Bal, o la Maza del Vampiro para la gente común, es un conducto
+<ce>              para que la energía mágica fluya hacia su portador.
+
+Message:  1020
+%qdt:
+ El Príncipe Daedra Molag Bal me ha enviado a
+ matar a un lanzador de hechizos de algún tipo en la mazmorra
+ ___mondung_. Si el mago muere
+ dentro de =1stparton_ días y me reúno con su
+ asociado _contact_ en __tavern_
+ en un lugar llamado _tavern_,
+ recibiré _artifact_.
+
+Message:  1030
+<ce>                          =monster_ está muerto.
+<ce>                           Has cumplido
+<ce>                           tu contrato con
+<ce>                           Molag Bal. Ahora
+<ce>                          a cobrar tu recompensa.
+
+Message:  1040
+<ce>                       =monster_ levanta %g3 bastón
+<ce>                    y desaparece en un trueno.
+
+Message:  1060
+<ce>              Un mapa que muestra la ubicación de ___hideout_,
+<ce>                       marcado con la anotación,
+<ce>                  "Recordarle a _dummy_ que almacene provisiones.
+<ce>              Indicios de que Molag Bal me ha detectado."

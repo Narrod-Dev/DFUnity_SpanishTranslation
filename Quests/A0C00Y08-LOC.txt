@@ -1,0 +1,102 @@
+Quest: A0C00Y08
+DisplayName: El asesino
+QRC:
+
+QuestorOffer:  [1000]
+<ce>             Mi nombre no es importante. Todo lo que necesitas saber
+<ce>               es que necesito a alguien que no tenga miedo de
+<ce>            derramar un poco de sangre por, digamos, _gold_ oro. Dime
+<ce>            ahora si no estás interesado. ¿Estás dispuesto
+<ce>                           a aceptar este trabajo?
+                                     <--->
+<ce>               ¡Shhh! Baja la voz. Antes de decir
+<ce>              nada más, ¿eres el tipo de %ra que
+<ce>               mataría por oro? ¿Qué tal _gold_ oro?
+                                     <--->
+<ce>             Busco a alguien que no se desmaye al
+<ce>            ver sangre. Sangre humana. Por _gold_ oro,
+<ce>                         ¿matarías a un hombre?
+
+RefuseQuest:  [1001]
+<ce>                           Nunca me viste.
+                                     <--->
+<ce>        Largo. No quiero que nadie nos vea hablando juntos.
+                                     <--->
+<ce>                          Bien. Haz lo que quieras.
+
+AcceptQuest:  [1002]
+<ce>              Quiero que maten a _darkb_. El problema es que
+<ce>           la Hermandad Oscura no acepta el encargo. Algo
+<ce>           sobre un favor que le deben. Necesito a alguien independiente. Haz
+<ce>           el trabajo y vuelve conmigo en una semana y te
+<ce>          pagaré _gold_ piezas de oro. Solo pregunta por _questgiver_.
+<ce>                  Estaré esperándote aquí mismo.
+
+QuestComplete:  [1004]
+<ce>            ¡La venganza es mía! Por cierto, será mejor que
+<ce>            salgas de la ciudad. He oído que la Hermandad
+<ce>                    ya se ha enterado. Aquí tienes tu dinero, %pcf.
+
+RumorsDuringQuest:  [1005]
+<ce>                  He oído que _questgiver_ odia a _darkb_.
+                                     <--->
+<ce>             _darkb_ está relacionado con la Hermandad Oscura.
+
+RumorsPostsuccess:  [1007]
+<ce>             ¡Alguien mató a _darkb_, y en público nada menos!
+                                     <--->
+<ce>                ¿Escuchaste sobre el asesinato? _darkb_
+<ce>                       fue asesinado por un asesino.
+                                     <--->
+<ce>              Nunca me agradó _darkb_. Me alegra que alguien
+<ce>                  finalmente lo haya eliminado. Dicen que fue la
+<ce>                           Hermandad Oscura.
+
+QuestorPostsuccess:  [1008]
+<ce>               Baja la voz. Mataste a _darkb_
+<ce>            por mí, y reconozco la deuda, pero no quiero
+<ce>           que la gente piense que tuve algo que ver.
+
+QuestorPostfailure:  [1009]
+<ce>              Te contraté para hacer un trabajo, pero no pudiste.
+<ce>                  Todo lo que tenías que hacer era matar a _darkb_.
+<ce>               Ahora es demasiado tarde, y la Hermandad Oscura
+<ce>                   está tras de mí. Déjame en paz.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Acepté un contrato para matar a _darkb_.
+ Tengo una semana para volver con _questgiver_
+ de ___questgiver_ con el trabajo hecho.
+
+Message:  1015
+<ce>                ¡_darkb_ no está muerto! ¿Qué clase de tonto
+<ce>                        crees que soy, %pcf?
+
+Message:  1021
+<ce>                         ¡Ayuda! ¡Asesino! ¡Ayuda!
+
+Message:  1022
+<ce>         ¡Canalla! ¿Qué clase de asesino eres? ¡A las armas! ¡A las armas!
+
+Message:  1023
+<ce>                            ¡Me han herido! %oth.
+
+Message:  1024
+<ce>          ¡Cobarde! Me atacas sin causa ni provocación.
+
+Message:  1030
+<ce>              ¿_questgiver_? No sé mucho sobre %g2.
+<ce>                           Se mantiene reservado.
+
+Message:  1031
+<ce>          Dicen que _questgiver_ tiene amigos bastante turbios.
+<ce>                    Pero no lo oíste de mí.
+
+Message:  1032
+<ce>                Un ciudadano ejemplar. Pregunta a cualquiera.
+
+Message:  1033
+<ce>                  _darkb_ suele estar en _place_, pero
+<ce>                yo no me metería en sus asuntos.
+<ce>                    Solo un consejo amistoso.

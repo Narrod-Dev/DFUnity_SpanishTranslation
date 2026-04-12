@@ -1,0 +1,162 @@
+Quest: M0B00Y17
+DisplayName: Mascota fugitiva
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                            Eres %pcn, ¿verdad?
+<ce>                      Justo a quien estaba buscando.
+<ce>                   Tenemos un trabajo bastante interesante,
+<ce>                   que requiere algo de cerebro en lugar
+<ce>                   de fuerza bruta. ¿Te interesa?
+
+RefuseQuest:  [1001]
+<ce>                  Sí, tienes razón, dije que este trabajo
+<ce>                    necesitaba cerebro, ¿no es cierto?
+
+AcceptQuest:  [1002]
+<ce>                  Esta es la situación. Parece que _dummy_
+<ce>                tiene un tigre dientes de sable como mascota
+<ce>                —no preguntes— y se escapó hace unos días.
+<ce>                 %g logró rastrearlo hasta ___mondung_,
+<ce>                pero ahora necesitamos a alguien que entre
+<ce>                 y lo traiga de vuelta. Vivo. El truco
+<ce>                es que ha sido entrenado para responder a
+<ce>                esta campana. El tigre debería volverse
+<ce>                dócil si haces sonar la campana en su cara.
+<ce>                 Por supuesto, _dummy_ dijo que no está muy
+<ce>                bien entrenado —¿te sorprende?— así que es
+<ce>                posible que tengas que darle un par de
+<ce>                golpes en la cabeza para captar su atención.
+<ce>                 Pero no lo mates, ¿vale? Tráelo de vuelta
+<ce>                  a _dummy_ en __dummy_ de una pieza
+<ce>                  dentro de =qtime_ días, y %g te pagará
+<ce>                       _gold_ oro. Buena suerte.
+
+QuestFail:  [1003]
+<ce>                     No me mires a mí. El tigre está
+<ce>                       en ___mondung_. Toma tu
+<ce>                     campanita y ponte en marcha.
+
+QuestComplete:  [1004]
+<ce>                  ¡Oh, =tiger_, cariño, estás a salvo!
+<ce>                    Muchas gracias por traer a mi pequeño
+<ce>                    de vuelta a casa. Estoy segura de que
+<ce>                    no te dio ningún problema, ¿verdad?
+<ce>                    En el fondo es solo un gatito grande,
+<ce>                    no lastimaría ni a una mosca.
+<ce>                  Aquí tienes tus _gold_ oro, tal como
+<ce>                    le prometí a esa amable persona de
+<ce>                    _questgiver_ en el Gremio de Luchadores.
+
+RumorsDuringQuest:  [1005]
+<ce>     ¿Oíste que el tigre de _dummy_ escapó otra vez? Esta vez
+<ce>                    mató y devoró a tres personas.
+
+RumorsPostfailure:  [1006]
+<ce>    El tigre de _dummy_ parece haber desaparecido para siempre. ¡Gracias a %god!
+
+RumorsPostsuccess:  [1007]
+<ce>     _dummy_ contrató a alguien del Gremio de Luchadores para ir
+<ce>a buscar a su tigre. ¿Quién aceptaría un trabajo tan tonto?
+
+QuestorPostsuccess:  [1008]
+<ce>                 ¡Buenas, %pcf, amante de los tigres!
+
+QuestorPostfailure:  [1009]
+<ce>  No se me ocurre un trabajo más fácil que buscar a una mascota, pero
+<ce>           lograste fastidiarlo. ¿Qué quieres ahora?
+
+Message:  1020
+%qdt:
+ He recibido el encargo del Gremio de
+ Luchadores de ___questgiver_ de buscar
+ a un tigre dientes de sable doméstico
+ que huyó hacia ___mondung_.
+ Supuestamente responde a una campana
+ que me entregaron, pero _questgiver_
+ me advirtió que quizá no esté muy bien
+ entrenado. Debo llevar al tigre con
+ su dueño, _dummy_, en __dummy_
+ de ___dummy_ en =qtime_ días.
+ %g me pagará _gold_ oro.
+
+Message:  1021
+%qdt:
+ Encontré al tigre en ___mondung_,
+ y ahora parece que le agrado. Al menos
+ ha empezado a seguirme. Ahora solo
+ tengo que llevarlo de vuelta con
+ _dummy_ en ___dummy_.
+
+ Message:  1022
+%qdt:
+ Encontré al tigre en ___mondung_,
+ pero lo maté. Lo mejor que puedo hacer
+ ahora es ir a __dummy_ de ___dummy_
+ y disculparme con _dummy_
+ por el trabajo fallido.
+
+Message:  1030
+<ce>                        Vaya. Mataste al tigre.
+<ce>                    ¿Qué dirá _dummy_ al respecto?
+
+Message:  1040
+<ce>                        Haces sonar la campana con fuerza,
+<ce>                         pero no parece tener ningún
+<ce>                                 efecto.
+
+Message:  1041
+<ce>                       Las orejas del tigre se yerguen al
+<ce>                        oír la campana. Sacude su gran
+<ce>                       cabeza de lado a lado y comienza
+<ce>                        a emitir un gruñido bajo. ¿Está
+<ce>                       ronroneando? El tigre se acerca
+<ce>                        y se frota contra tus piernas,
+<ce>                        casi derribándote al suelo.
+<ce>                                    
+<ce>                       El tigre ahora te está siguiendo.
+
+Message:  1050
+<ce>                       ¡Qué %ra tan horrible eres!
+<ce>                      No puedo creer que mataras a mi
+<ce>                      pobre e inocente =tiger_. Solo
+<ce>                      era un gatito perdido y tenías
+<ce>                        que masacrarlo. ¡Lárgate de
+<ce>                      aquí ahora mismo antes de que te
+<ce>                       mande arrestar por asesinato!
+<ce>                               ¡Fuera!
+
+Message:  1060
+Amor mío,
+ 
+ Siento no poder estar contigo hoy
+ en __lovehouse_, pero quería dedicar un
+ momento para decirte que siempre estás
+ en mis pensamientos, dulzura.
+ Estoy aquí bajo un árbol, en una tarde
+ hermosa que me recuerda a ti. Todo me
+ recuerda a ti: el sol brillante, el
+ trino de los pájaros e incluso ese lindo
+ tigre que pasea con su dueño por allá.
+ ¡Ja, ja! El tigre se ha soltado, qué
+ travieso. Viene hacia aquí. Mira cómo
+ brilla su pelaje al sol, igual que tu
+ cabello a la luz de la chimenea. Su
+ dueño grita algo y agita una campana,
+ pero no escucha. ¡Qué animal tan vital!
+ Parece bastante amistoso, ya viene a
+ saludar...
+
+Message:  1061
+<ce>                    Sí, ¿qué quieres? Oh... ¡cielo santo!,
+<ce>                    ¡una carta de _victim_! ¿Por qué
+<ce>                      está manchada de sangre?
+<ce>                    ¿Ha muerto? Dios mío. Siempre tuvo
+<ce>                    tanta dulzura conmigo; me temo que
+<ce>                    vivía con la ilusión de que nos
+<ce>                    amábamos. Pobre alma, qué final tan
+<ce>                    trágico. Te agradezco mucho que me
+<ce>                    contaras lo ocurrido. Me aseguraré
+<ce>                    de avisar a su familia. Toma, quédate
+<ce>                    con este _magic_ que me regaló. Yo
+<ce>                         no tengo ningún uso para esto.

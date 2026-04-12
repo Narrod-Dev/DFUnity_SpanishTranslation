@@ -1,0 +1,330 @@
+Quest: R0C11Y28
+DisplayName: El Asesino Loco
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Hay una pesadilla acechando las calles
+<ce>                     de ___bookstore_. Lo llaman el
+<ce>                        Asesino de ___bookstore_, y hasta ahora nadie
+<ce>                puede decirme si es un hombre o una bestia.
+<ce>                  Una de mis eminencias, _contact_,
+<ce>                está examinando los cuerpos de las víctimas, pero
+<ce>                 %g ha empezado a recibir cartas inquietantes
+<ce>                 y francamente teme por su vida. Necesito
+<ce>                que alguien investigue sus hallazgos para ver
+<ce>                si sus temores están justificados. ¿Me ayudarás
+<ce>                     en esto, %pcf? Te ofreceré
+<ce>               _reward_ piezas de oro a cambio de que se
+<ce>                     retire al Asesino de ___bookstore_.
+
+RefuseQuest:  [1001]
+<ce>                 No es una respuesta inusual. Entonces no tengo
+<ce>                 más remedio que recurrir a algunos de mis
+<ce>                 contactos menos recomendables en busca de ayuda...
+<ce>                   una opción que esperaba evitar.
+
+AcceptQuest:  [1002]
+<ce>                       Gracias a %god por eso, al menos.
+<ce>                     La gente de %reg se está volviendo
+<ce>                ansiosa por la falta de progreso en las
+<ce>                 investigaciones oficiales. Temo que pronto
+<ce>                 tengamos una turba enfurecida, quizá en un
+<ce>                  plazo de =total_ días o menos. _contact_
+<ce>                        trabaja en _bookstore_,
+<ce>                  y le dije que enviaría a alguien pronto.
+<ce>                  Ten cuidado, %pcf. Hasta que esta
+<ce>                   situación se resuelva, recuerda que la
+<ce>                    noche en ___bookstore_ tiene un cuchillo.
+
+QuestFail:  [1003]
+<ce>                         El Asesino de ___bookstore_ sigue
+<ce>                 suelto. No tengo tiempo para charlar,
+<ce>                             ni tú deberías tenerlo.
+
+QuestComplete:  [1004]
+<ce>                       %reg está en paz de nuevo, %pcf,
+<ce>           gracias a ti. Aquí tienes el oro _reward_ que prometí;
+<ce>              lo entrego con gusto con tal de acabar con ese
+<ce>               maníaco y por tu discreción en este asunto.
+<ce>                     %god realmente nos bendijo cuando
+<ce>                               viniste a %reg.
+
+RumorsDuringQuest:  [1005]
+Ya no es seguro caminar por las calles de ___bookstore_. No con el Asesino de ___bookstore_ suelto.
+<--->
+He oído que el Asesino no es un hombre, sino un daedra que ha venido a castigarnos a todos.
+<--->
+La última víctima del Asesino de ___bookstore_ fue encontrada esparcida en pedazos por todo ___bookstore_.
+<--->
+Hay quien se pregunta si el Asesino no será un vampiro o un hombre lobo.
+
+RumorsPostfailure:  [1006]
+Los asesinatos pararon sin necesidad de que la turba actuara. Supongo que el Asesino se marchó.
+<--->
+_qgiver_ tiene suerte de que el Asesino de ___bookstore_ decidiera irse. El pánico ya se estaba apoderando de todos.
+<--->
+_qgiver_ todavía está con ansiedad. Uno pensaría que la ausencia del Asesino le daría alivio.
+<--->
+El Asesino de ___bookstore_ desapareció tan repentinamente como llegó a ___bookstore_.
+<--->
+Algunos dicen que el Asesino sigue aquí, esperando a que las estrellas vuelvan a estar en posición.
+
+RumorsPostsuccess:  [1007]
+Todavía me da miedo estar a solas en ___bookstore_, incluso con el Asesino supuestamente muerto.
+<--->
+Supongo que el Asesino de ___bookstore_ era solo un pobre lunático. Nada romántico en él.
+<--->
+El último rumor es que el Asesino de ___bookstore_ no era un vampiro, pero creía que lo era.
+
+QuestorPostsuccess:  [1008]
+Todavía te recuerdo, %pcf, y la discreción que mostraste con el Asesino de ___bookstore_.
+
+QuestorPostfailure:  [1009]
+<ce>                     Me fallaste en el asunto del Asesino de
+<ce>                          ___bookstore_, %pcf. No
+<ce>                 veo ninguna razón para creer que no me
+<ce>                           fallarás de nuevo.
+
+QuestLogEntry:  [1010]
+<ce>                         Ah, %pcf, mi joven %ra,
+<ce>                 me alegra mucho que hayas llegado. Sin duda
+<ce>                 te habrán dicho que me he vuelto alguien
+<ce>                ermitaño desde que empecé a recibir esas cartas
+<ce>                 amenazando mi vida si no abandonaba mis
+<ce>                investigaciones. Bueno, ahora tengo a alguien
+<ce>                 de mi profesión en la ciudad con cuya ayuda
+<ce>                 podría resolver estos asesinatos. Me gustaría
+<ce>                 que llevaras estas notas ante _vamp_,
+<ce>                        alguien que es =vamp_ y hallarás en
+<ce>                       _hookerhouse_. Si algo llegara a
+<ce>                pasarme, quiero que alguien sea capaz de continuar
+<ce>                con las investigaciones. Esa persona será _vamp_
+<ce>                     y tú, %pcf. Así que no hagas que te
+<ce>                            maten ahí fuera.
+
+Message:  1011
+_contact_,
+ 
+ Cesa tus investigaciones sobre las víctimas del
+ Asesino de %reg si valoras tu vida. Te estás
+ adentrando a ciegas en un infierno.
+ 
+ Si continúas, morirás antes de que tus
+ estudios terminen. Considera esto una
+ advertencia seria.
+ 
+<ce>                               Alguien que te desea el bien
+
+Message:  1012
+Estimado _contact_,
+ 
+ Aunque cierres todas tus puertas y extingas
+ toda luz en _bookstore_, sabremos
+ que sigues entregándote a tus autopsias
+ prohibidas. No pidas que demostremos nuestro
+ poder para detenerte, pues solo actuaremos
+ una vez.
+ 
+<ce>                               Alguien que te desea el bien
+
+Message:  1013
+_contact_,
+ 
+ Me gustaría mucho reunirme contigo
+ para hablar de tus fascinantes estudios mortuorios
+ sobre las víctimas del Asesino. Como sabes, he
+ realizado investigaciones similares y estaría
+ encantado de compartir mi conocimiento y experiencia
+ con una eminencia de tu calibre.
+ 
+ Hazme saber por mensajería cuándo te resultaría
+ más conveniente que nos reunamos. Me hospedo
+ en _hookerhouse_, pero quizás prefieras que nos
+ veamos en _bookstore_ para que pueda ver los
+ cadáveres en cuestión. En cualquier caso, espero
+ recibir noticias tuyas.
+ 
+<ce>                          Con admiración,
+ 
+<ce>                                 _vamp_
+
+Message:  1014
+Informe de autopsia de %fn:
+ 
+ Garganta desgarrada, aparentemente con
+ fuerza violenta (¿Asesino demente? Consultar
+ el trabajo de Lobornus con los criminales locos
+ en la prisión de Agryn). Muerte instantánea,
+ sin signos de lucha (¿El asesino conocía a la
+ víctima? ¿No parecía una amenaza?).
+ Arteria carótida completamente seccionada,
+ pérdida de sangre extensa al momento del
+ examen (recordar pedir a _qgiver_ que envíe
+ a la guardia que halló el cuerpo para entrevista).
+ 
+ Informe de autopsia de %mn:
+ 
+ El sujeto muestra una patología similar a la
+ de la víctima femenina. Garganta desgarrada
+ violentamente, hematomas en los brazos como
+ si hubiera sido agarrado por alguien de gran fuerza
+ (¿La locura del Asesino produce fuerza sobrehumana?
+ Nota mental: escribir a Lobornus pidiendo notas de
+ investigación del interesante caso que reportó en el
+ Cónclave del año pasado). ¿Los hematomas indican
+ algún tiempo entre el ataque y la muerte? (¿Podría
+ no tener relación con el ataque? Investigar los
+ antecedentes de la víctima).
+
+Message:  1015
+<ce>                     Así que, para todos los días que
+<ce>                 _contact_ ha pasado con esos cadáveres
+<ce>                        apestosos, todo lo que se le
+<ce>                      ocurre es esto. Por %god, con esto
+<ce>                      como comienzo, _contact_ no tendrá
+<ce>                 ni idea de la identidad del Asesino en
+<ce>                      semanas. Escucha, %pcf, si quieres
+<ce>                      ayudar a _qgiver_, lleva esta flor
+<ce>                      a _widow_ en _widowhouse_ -- su
+<ce>                        hermano era %mn, una de las
+<ce>                  víctimas del Asesino. Esto puede parecer
+<ce>                  un sentimentalismo trivial, pero te acercará
+<ce>                  más a encontrar al Asesino de ___bookstore_
+<ce>                         que cualquiera de los análisis
+<ce>                        científicos de _contact_.
+<ce>                       Confía en mí, %pcf.
+
+Message:  1016
+_vamp_ es la persona que es =vamp_ que conocí en _hookerhouse_. Es agradable, pero da escalofríos.
+<--->
+_vamp_ es el nombre de quien es =vamp_ y se hospeda en _hookerhouse_.
+
+Message:  1017
+_vamp_ es alguien de los %vcn, enviada a ___bookstore_ para eliminar al Asesino loco.
+<--->
+_vamp_ es un vampiro %vcn que está aquí para detener al Asesino, el cual pone en riesgo su seguridad.
+
+Message:  1018
+La pobre _widow_ no sale de _widowhouse_ desde que el Asesino acabó con su hermano.
+<--->
+El Asesino de %reg mató al hermano de _widow_, y ahora %g nunca sale de _widowhouse_.
+
+Message:  1019
+<ce>                ¿Una amapola roja? Oh, debes de ser la
+<ce>                    amistad de mi hermano, _rippername_, ¿no?
+<ce>              Agradezco mucho la reconfortante nota que enviaste
+<ce>              tras su muerte. Él no tenía muchas amistades,
+<ce>             y, a decir verdad, nunca mencionó tu nombre.
+<ce>             Pero ciertamente te agradezco las hermosas flores
+<ce>             y la invitación para visitarte en _ripperhouse_.
+<ce>              Siempre he admirado ese lugar, y me gustaría
+<ce>                     ver cómo es por dentro.
+<ce>                                     
+<ce>                  ¿Cómo? ¿No eres _rippername_? Oh,
+<ce>              lo siento tanto. Por favor perdóname, no he
+<ce>              sido yo misma desde lo de mi hermano... No, no
+<ce>              creo tener información que pueda ayudarte a
+<ce>              encontrar a ese demonio asesino. Sabes que te
+<ce>              ayudaría si pudiera. Pero encontrarás al
+<ce>              monstruo que mató a mi hermano, ¿verdad?
+
+Message:  1020
+%qdt:
+ Estoy tras la pista del Asesino de
+ ___bookstore_. %rt quiere que atrapen
+ al Asesino de ___bookstore_ en =total_ días
+ antes de que los asesinatos inciten a la
+ población a amotinarse. _qgiver_ tiene a alguien
+ de ciencia examinando los cuerpos de las
+ víctimas del Asesino y recientemente ha
+ empezado a recibir amenazas de muerte, al parecer
+ del Asesino. _contact_ es el nombre de esta
+ persona de ciencia, y trabaja en _bookstore_.
+
+Message:  1021
+%qdt:
+ _contact_ me ha enviado a _hookerhouse_
+ para reunirme con una vieja amistad de su profesión
+ de nombre _vamp_, que podría ayudar con la
+ investigación.
+
+Message:  1022
+%qdt:
+ Llegué a _bookstore_ demasiado tarde. Al
+ parecer, las amenazas de muerte de _contact_
+ eran muy reales. Entre las cartas encontré una
+ de alguien de su profesión con interés en reunirse
+ con _contact_, alguien de nombre _vamp_
+ que se hospeda en _hookerhouse_.
+
+Message:  1023
+%qdt:
+ Me reuní con _vamp_, quien parece tener poca
+ impresión del trabajo de su colega _contact_
+ sobre las víctimas del Asesino de %reg.
+ _vamp_ me dijo que llevara una amapola roja a
+ alguien de nombre _widow_ cuyo hermano fue
+ asesinado por el Asesino. Tengo sospechas, pero
+ no lo sabré con certeza hasta que vaya a
+ _widowhouse_, donde vive _widow_.
+
+Message:  1024
+%qdt:
+ Quien era colega del difunto _contact_ y su
+ asesino son la misma persona. _vamp_ es un
+ vampiro, pero profesa no ser el Asesino. Si mato
+ a la persona que %g dice que es el Asesino de
+ %reg, _rippername_ de _ripperhouse_,
+ _vamp_ me ha prometido una recompensa, al parecer
+ además de la que recibiría de _qgiver_.
+
+Message:  1025
+%qdt:
+ _widow_, la persona que es =widow_ a la que
+ me envió _vamp_, creía que yo era alguien de
+ nombre _rippername_. Al parecer, este tal
+ _rippername_ le envió a _widow_ un ramo de
+ amapolas rojas y la invitó a un lugar llamado
+ _ripperhouse_. Suena a una trampa del Asesino
+ si es que alguna vez hubo una.
+
+Message:  1026
+<ce>                 ¿Qué carta te trajo ante mí, %pcn?
+<ce>             Probablemente sepas que yo las escribí todas.
+<ce>                   Después de que _contact_ se negara
+<ce>            a escuchar mis educadas advertencias sobre investigar
+<ce>             asuntos más allá de la comprensión mortal, le invité
+<ce>             aquí como su amistad. Verás, le conocí hace años,
+<ce>             antes de convertirme en vampiro. Nos reunimos,
+<ce>                   volvimos a _bookstore_ para ver los
+<ce>             cuerpos, y allí acabé con su vida. Sin dolor alguno.
+<ce>             Sabía que nunca habría detenido sus estudios.
+<ce>             Más que eso no puedo decir, excepto que el Asesino
+<ce>             es un vampiro como yo, pero loco por la bendición
+<ce>                    de la inmortalidad. _rippername_,
+<ce>             ese es su nombre real y vive en _ripperhouse_.
+<ce>             Si vas allí y acabas con su existencia, te
+<ce>             recompensaré. Si pretendes continuar con los
+<ce>             estudios de _contact_, no tendré más remedio que
+<ce>             matarte a ti también. Esa es mi sencilla oferta.
+
+Message:  1027
+_contact_ es alguien de ciencia con gran saber en _bookstore_, %di de aquí.
+<--->
+_contact_ es alguien que sirve de contacto y trabaja en _bookstore_.
+
+Message:  1028
+_contact_ está diseccionando a las víctimas del Asesino y eso no le gusta a alguien.
+<--->
+_contact_ es alguien de ciencia en _bookstore_, que ha estado recibiendo cartas amenazantes.
+
+Message:  1029
+<ce>  El Asesino Loco ya no existe.
+
+Message:  1050
+<ce>                    Al matar a _rippername_, has ayudado
+<ce>                  tanto a %reg como a mí. Por esto, te
+<ce>                   entrego un _reward2_. Quizás volvamos
+<ce>                     a vernos algún día, %pcn.
+<ce>                   Me has intrigado en nuestro breve
+<ce>                   conocimiento. Que la noche te proteja.

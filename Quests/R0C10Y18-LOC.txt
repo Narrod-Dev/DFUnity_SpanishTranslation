@@ -1,0 +1,110 @@
+Quest: R0C10Y18
+DisplayName: Un objeto prestado
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                ¿Tienes unos días libres para hacerme
+<ce>                   un pequeño favor, %pcf? Solo
+<ce>                necesito que devuelvas algo prestado a
+<ce>               su dueño. Nada demasiado extenuante, y
+<ce>              serás _reward_ piezas de oro más rico.
+<ce>                       Una oferta tentadora, ¿eh?
+
+RefuseQuest:  [1001]
+<ce>                       Es una pena. Bueno,
+<ce>                    contrataré a alguien más entonces.
+
+AcceptQuest:  [1002]
+<ce>                ¡%oth, ese es el espíritu! Tengo
+<ce>               esta pieza: _item1_, que tomé de mi gran
+<ce>                             amistad _npc1_,
+<ce>                        quien sirve como sacerdote en
+<ce>                       __npc1_ de ___npc1_. Es
+<ce>                algo urgente que esto regrese a manos de
+<ce>                %g2 -- %g lo necesita en =1stparton_
+<ce>                días. Así que por favor date prisa.
+<ce>                     Gracias por esto, %pcf.
+
+QuestFail:  [1003]
+<ce>                     ¿No te dije que te dieras prisa, %pcf?
+
+QuestComplete:  [1004]
+<ce>                      Ah, bien. Este ejemplar de _item2_ es tan
+<ce>                    exquisito como me habían dicho. Buen
+<ce>                    trabajo, %pcf. Aquí tienes tus _reward_
+<ce>                    monedas por tu velocidad y discreción.
+
+RumorsDuringQuest:  [1005]
+Ha habido mucho movimiento hacia y desde __npc1_. Me pregunto qué estará pasando.
+<--->
+_npc1_ ha estado buscando su %g3 _item1_, pero ni siquiera sabía que a %g le gustaran esas cosas.
+
+RumorsPostfailure:  [1006]
+Me pregunto cuánto tiempo ha sido __npc1_ un punto de contrabando. Es un escándalo.
+<--->
+Estaban contrabandeando gemas dentro de cada _item1_. Parece tan obvio ahora, ¿no crees?
+
+RumorsPostsuccess:  [1007]
+Curioso. Sé que hubo un cargamento de _item1_s hacia __npc1_ pero no parecían normales.
+<--->
+Se dice que ___npc2_ es un nido de contrabando de _item2_. Debe estar bien camuflado.
+
+QuestorPostsuccess:  [1008]
+Mira quién está de vuelta. Entiendes que no podía decirte lo de la gema, ¿verdad?
+<--->
+Vaya, pero si es %pcf. Gran trabajo con ese asunto del contrabando de gemas, camarada.
+
+QuestorPostfailure:  [1009]
+<ce>                      No fue una misión pequeña la que
+<ce>                          fallaste, %pcf. Quizás
+<ce>                       pueda perdonarte con el tiempo.
+<ce>                                 Quizás.
+
+QuestLogEntry:  [1010]
+<ce>                Oh, qué bien, mi _item1_ ha vuelto. Gracias,
+<ce>                   %pcf. Pero parece haber algo
+<ce>                     atascado dentro. Oh, ya veo...
+<ce>                esta piedra. ¿Serías tan amable de llevar
+<ce>                este guijarro a la amistad de _questgiver_,
+<ce>                   _npc2_, en __npc2_, en ___npc2_?
+<ce>                 Creo que %g tiene tu oro, pero será
+<ce>                   mejor que te des prisa. _npc2_ pierde
+<ce>                 la paciencia si %g tiene que esperar
+<ce>                      más de =2ndparton_ días.
+
+Message:  1015
+%qdt:
+_questgiver_
+ de ___questgiver_ me ha enviado
+ a llevar un ejemplar de _item1_ a alguien del clero en
+ ___npc1_, concretamente a
+ =npc1_ con el nombre de _npc1_
+ a quien encontraré en __npc1_ si
+ llego allí en =1stparton_ días o
+ menos.
+
+Message:  1016
+%qdt:
+ Había un objeto: _item2_ oculto
+ en el interior de _item1_. Por las
+ _reward_ piezas de oro prometidas, debo
+ entregar el _item2_ a una tercera parte
+ en ___npc2_, _npc2_ de
+ __npc2_. Tengo =2ndparton_ días
+ para lograrlo.
+
+Message:  1020
+<ce>                        Aquí en %reg, solo el
+<ce>                      Gremio de Ladrones tiene permiso
+<ce>                    para contrabandear. Supongo que
+<ce>                   _questgiver_ pensó que %g estaba por
+<ce>                   encima de las reglas. %g se equivocaba.
+<ce>                    Vas a entregarme ese objeto: _item2_,
+<ce>                   y _questgiver_ va a aprender a no
+<ce>                    cruzarse con el Gremio de Ladrones.
+<ce>                         Hazlo, o te mataré.
+
+Message:  1021
+<ce>                       Dile a todo el mundo que conozcas
+<ce>                        que no se meta con el Gremio de
+<ce>                        Ladrones. Ahora lárgate de aquí.

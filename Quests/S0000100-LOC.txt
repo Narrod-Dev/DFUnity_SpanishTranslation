@@ -1,0 +1,14 @@
+Quest: S0000100
+QRC:
+
+Message:  1015
+<ce>                La Reina Akorithi nos envía para liberarte
+<ce>                de una pesada carga. El Tótem debe de ser
+<ce>                 un peso enorme para tu mente. Es una pena
+<ce>                que no te esforzaras más por mantener su
+<ce>                favor. También nos ordenó acabar contigo.
+<ce>                  Sin dejar testigos, por supuesto.
+                                     <--->
+<ce>                   Nuestra misión es que mueras, %pcn.
+<ce>                  Nada personal. Solo queremos el Tótem
+<ce>                       y estorbas en el camino.

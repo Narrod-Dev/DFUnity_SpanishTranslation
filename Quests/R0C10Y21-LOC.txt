@@ -1,0 +1,89 @@
+Quest: R0C10Y21
+DisplayName: El Templo de los Orcos
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Mi pariente, _qgfriend_,
+<ce>                 me ha pedido ayuda en una situación
+<ce>                 bastante desagradable. Parece que
+<ce>                 hay un... templo de cierta clase
+<ce>                siendo consagrado, si es que esa es la
+<ce>                palabra adecuada para estas asquerosas
+<ce>                 actividades orcas. Bueno, obviamente,
+<ce>                 debemos aplastarlo antes de que prospere.
+<ce>                Estoy dispuesto a ofrecer hasta _reward_ de oro.
+<ce>                    ¿Puedo contar con tu ayuda, %pcf?
+
+
+RefuseQuest:  [1001]
+<ce>                       ¿Qué eres, algún tipo de
+<ce>                        amistad de los orcos? %oth,
+<ce>                         ¡fuera de mi vista!
+
+AcceptQuest:  [1002]
+<ce>                 Gracias de antemano por esto, %pcf.
+<ce>                 Creo que el mejor uso para tus
+<ce>              habilidades es infiltrarte en ___mondung_
+<ce>           y eliminar a quien llaman chamán del templo.
+<ce>                  Si podemos acabar con ese ser antes
+<ce>              de nuestro asalto en =1stparton_ días, nuestro
+<ce>               trabajo será mucho más fácil. Cuando esté
+<ce>               hecho, ve al palacio de mi pariente en
+<ce>                ___qgfriend_. %g es quien te pagará
+<ce>                             por todo esto.
+
+QuestFail:  [1003]
+<ce>                 Mejor ponte en camino a ___mondung_,
+<ce>                %pcf. El plan ya está en marcha, y
+<ce>                         contamos contigo.
+
+QuestComplete:  [1004]
+<ce>                      Saludos, %pcf. Un trabajo de
+<ce>                 primera con ese apestoso y rancio
+<ce>                 chamán. ¡Cómo se atreven a levantar uno
+<ce>                  de sus templos caníbales en mi tierra!
+<ce>                   Esa chusma sin líder debería ser
+<ce>                 más fácil de manejar ahora. Aquí tienes
+<ce>                   tus _reward_ piezas de oro. Disfrútalas.
+
+RumorsDuringQuest:  [1005]
+Hay una comunidad orca en ___mondung_ que ha estado molestando a _qgfriend_.
+<--->
+___mondung_ fue, creo, un templo orco hace años. Ahora están intentando restaurarlo.
+
+RumorsPostfailure:  [1006]
+Toda esa comunidad orca se enteró de las intenciones de _qgfriend_ y se ha marchado.
+<--->
+Pobre _qgfriend_, no pudo cobrarse su venganza contra los orcos de ___mondung_.
+
+RumorsPostsuccess:  [1007]
+Eso enseñará a esos caníbales degenerados con cara de cerdo a no venir a %reg.
+<--->
+Que %god bendiga a _qgfriend_, a _questgiver_ y a esa persona de raza %ra que sirvió como soldado.
+
+QuestorPostsuccess:  [1008]
+¿Has oído algún buen chiste de orcos últimamente? Mi pariente me contó el gran trabajo que hiciste.
+<--->
+Mi pariente quedó muy impresionado con tu trabajo con ese chamán orco, camarada.
+
+QuestorPostfailure:  [1009]
+<ce>                        Mi pariente dice que no
+<ce>                    mataste a ese chamán después de todo.
+<ce>                      No me interesa seguir hablando
+<ce>                        más sobre el asunto.
+
+Message:  1011
+=qgfriend_, ¿cierto? Posible aliado de _questgiver_ con un problema con los orcos.
+<--->
+_qgfriend_ es alguien con prejuicios muy violentos cuando se trata de orcos.
+
+Message:  1012
+<ce>                     Has matado al chamán orco.
+
+Message:  1015
+%qdt:
+ Tengo =1stparton_ días para matar a un chamán orco
+ en ___mondung_, y luego ir al palacio de _qgfriend_
+ en ___qgfriend_. %g me pagará mis
+ _reward_ piezas de oro por la muerte
+ del chamán.

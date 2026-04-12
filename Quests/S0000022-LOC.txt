@@ -1,0 +1,40 @@
+Quest: S0000022
+DisplayName: La revelación de Lysandus
+QRC:
+
+RefuseQuest:  [1001]
+<ce>                     Creía haber dicho que esto
+<ce>                    tardaría un mes. El polvo aún
+<ce>                     no está listo. Vuelve luego.
+
+AcceptQuest:  [1002]
+<ce>                    El polvo está listo. Todo lo que
+<ce>                     debes hacer es esparcirlo sobre
+<ce>                    su cadáver real. Debo advertirte.
+<ce>                    Esto no hará que su sombra descanse,
+<ce>                     pero la calmará lo suficiente para
+<ce>                   permitirte hablar con él. El exorcismo
+<ce>                    final es algo que Lysandus debe elegir.
+<ce>                                     
+<ce>                   Desconozco dónde fue sepultado. Solo
+<ce>                  sé que no es en el campo de Cryngaine,
+<ce>                  donde erigieron aquel monumento en su
+<ce>                  honor. Si logras hablar con él... ¿podrías
+<ce>                   decirle que aún le amo? La muerte no
+<ce>                     será una barrera entre nosotros por
+<ce>                           mucho tiempo.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Medora me ha dicho que tardaría un
+ mes en preparar el Polvo. Cuando pase
+ este tiempo, debería visitarla de nuevo
+ en su hogar en la Torre Direnni.
+
+Message:  1011
+%qdt:
+ Medora me ha entregado un polvo que
+ calmará el espíritu de Lysandus. Sin
+ embargo, no hará que su sombra descanse,
+ sino que solo la apaciguará. Ahora solo
+ necesito encontrar su tumba y usarlo.

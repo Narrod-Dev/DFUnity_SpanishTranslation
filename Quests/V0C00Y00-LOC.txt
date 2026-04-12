@@ -1,0 +1,99 @@
+Quest: V0C00Y00
+DisplayName: La misión de Clavicus Vile
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Mis necesidades son más bien... modestas,
+<ce>               pero mi oferta, creo que convendréis, es de un
+<ce>               altruismo y generosidad indisolubles. A cambio
+<ce>                       de _artifact_, un artefacto
+<ce>                de gran poder, solo pido que exterminéis a
+<ce>                un desagradable bulto de pelo que ha estado
+<ce>                acechando a algunos de mis contactos cerca de
+<ce>                ___mondung_. Los lupinos suelen ser bastante
+<ce>                amigables conmigo y mis asociados, pero este...
+<ce>                bueno, los niños siempre serán niños.
+<ce>                         ¿Nos entendemos?
+
+RefuseQuest:  [1001]
+<ce>               Vaya, qué insecto más nauseabundo. Envenenáis
+<ce>               el aire con vuestra insolencia de corto alcance.
+<ce>               ¿Cómo osáis convocar al más grande de los
+<ce>               Príncipes de Oblivion y rechazar la petición
+<ce>               más simple que podría proponer? A cambio de agua,
+<ce>               os ofrezco vino y me escupís ambos a la cara.
+<ce>                         No olvidaré esto, %pcn.
+
+AcceptQuest:  [1002]
+<ce>               Ah, sabéis reconocer un buen trato, ¿verdad?
+<ce>               Encontraréis a la amenaza lupina en algún lugar
+<ce>               llamado ___mondung_. Desafortunadamente, el
+<ce>               tiempo no es nuestro aliado en este asunto. Por
+<ce>               razones demasiado aburridas de discutir, necesito
+<ce>               a ese patán muerto en =1stparton_ días. Tras
+<ce>               haber asesinado a la criatura, buscad a mi
+<ce>               contacto en __contact_ en ___contact_. Solo
+<ce>               buscad a alguien de su clase. Ha sido un placer
+<ce>               hacer negocios, %pcn.
+<ce>                     Seguro que volveremos a vernos.
+
+QuestFail:  [1003]
+<ce>               Escuchad. No sé cuántos negocios habéis hecho
+<ce>               con Clavicus Vile antes, pero os diré esto: no
+<ce>               le gusta nada que se quede a medias. Sé que ese
+<ce>               hombre lobo no está muerto, y si creéis que
+<ce>               podéis engañar a Vile, sois idiota. Si no hay
+<ce>               hombre lobo muerto, no hay _artifact_. Así de
+<ce>               sencillo.
+
+QuestComplete:  [1004]
+<ce>                    Ah, %pcf, Vile me dijo que os esperara.
+<ce>               Bueno, tengo entendido que habéis cumplido, así
+<ce>               que aquí tenéis el _artifact_, tal como Vile
+<ce>               prometió. Por cierto, está impresionado con
+<ce>               vuestra valía. No es un mal aliado. Hacedme caso.
+
+RumorsDuringQuest:  [1005]
+He oído que hay algún tipo de hombre lobo suelto por aquí.
+<--->
+Dicen que el hombre lobo ha encontrado una guarida en un lugar llamado ___mondung_.
+<--->
+¿Oíste esos aullidos anoche? ¿Aullidos de lobo?
+
+RumorsPostfailure:  [1006]
+Los hombres lobo son nómadas, supongo. He oído que el nuestro se ha ido hacia el sur.
+<--->
+Me cuenta mi familia que nuestro hombre lobo fue visto bastante más al sur.
+
+RumorsPostsuccess:  [1007]
+Ha empezado cierta actividad de culto extraña cerca de ___mondung_.
+<--->
+Mucha gente se siente más segura sabiendo que ese hombre lobo ha muerto.
+<--->
+¿Os habéis enterado de ese hombre lobo que alguien de la estirpe %ra ha cazado?
+
+Message:  1011
+Clavicus Vile es el político consumado de Oblivion.
+<--->
+No encontraréis a un Príncipe Daédrico más cuidadosamente neutral que Clavicus Vile.
+
+Message:  1012
+Ese contacto de palabra fluida está al %di de aquí, en __contact_.
+<--->
+Si vais al %di de aquí, en __contact_, buscad a alguien de su clase.
+
+Message:  1014
+Supuestamente, la Máscara mejora la personalidad de quien la porta.
+
+Message:  1020
+%qdt:
+ Clavicus Vile quiere que mate a un hombre
+ lobo situado en la mazmorra ___mondung_.
+ Un contacto llamado _contact_ me esperará
+ durante =1stparton_ días en __contact_, en
+ ___contact_, para entregarme la Máscara
+ de Clavicus Vile.
+
+Message:  1030
+<ce>                      Habéis matado al hombre lobo,
+<ce>                    tal como ordenó Clavicus Vile.

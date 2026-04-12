@@ -1,0 +1,74 @@
+Quest: B0B20Y07
+DisplayName: Más Problemas con Orcos
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                     Permíteme presentarme. Soy
+<ce>                         _qgiver_ de ==qgiver_.
+<ce>                      Parece que hay una banda de
+<ce>                     orcos bandidos atrincherados por aquí.
+<ce>                         La gloria de %reg será
+<ce>                     para quien los elimine.
+<ce>                       ¿Puedo contar contigo, %pcf?
+                                     <--->
+<ce>                     Los orcos están entrando en la noble
+<ce>                        %reg, corrompiendo la tierra
+<ce>                    a su paso. ¿Nos ayudarás
+<ce>                         en esta purga?
+
+RefuseQuest:  [1001]
+<ce>                      Eres mi cuarto rechazo
+<ce>                     de hoy. Parece que nadie quiere
+<ce>                        enfrentarse a orcos ya.
+
+AcceptQuest:  [1002]
+<ce>                     No necesitas matar a todos y
+<ce>                      cada uno de los orcos del grupo.
+<ce>                      Solo elimina a una buena cantidad
+<ce>                       de ellos y asegúrate de matar a su
+<ce>                           líder, =monster_.
+<ce>                         Sé que están refugiados en
+<ce>                          __dungeon_. Si no regresas
+<ce>                     en =2dung_ días, cantaré tus hazañas
+<ce>                        en la ceremonia fúnebre.
+
+QuestComplete:  [1004]
+<ce>                     ¡Bien hecho! Los mercaderes ya
+<ce>                      me están diciendo lo felices
+<ce>                      que están con los orcos fuera.
+<ce>                     Eres un orgullo para la Orden.
+
+RumorsDuringQuest:  [1005]
+Los orcos de __dungeon_ están prácticamente destruyendo las rutas normales de caravanas.
+<--->
+Los orcos de __dungeon_ solían ser bastante pacíficos. Ya no lo son.
+
+RumorsPostfailure:  [1006]
+Los orcos se marcharon por su cuenta. Pero apuesto a que volverán.
+
+RumorsPostsuccess:  [1007]
+El %kno salvó a %reg de los orcos de __dungeon_. El héroe fue un caballero %ra.
+
+QuestorPostsuccess:  [1008]
+Será un placer servirte, oh Destructor de Orcos.
+
+QuestorPostfailure:  [1009]
+Oh, hola, %pct. Me alegraría más verte si ese asunto de los orcos hubiera salido bien.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de
+ ==qgiver_ en ___qgiver_
+ me dio la tarea de eliminar
+ una banda de orcos que tiene
+ su guarida en __dungeon_.
+ En particular debo acabar con
+ su líder, cierto _monster_.
+ Necesito regresar con %g2
+ en =2dung_ días o %g asumirá
+ que estoy muerto.
+
+Message:  1011
+<ce>                      Has matado a =monster_.
+<ce>                      Sin un líder, estos orcos
+<ce>                  nunca serán más que una molestia.

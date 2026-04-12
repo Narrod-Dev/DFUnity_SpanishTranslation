@@ -1,0 +1,290 @@
+Quest: $CUREWER
+DisplayName: Cura de la Licantropía
+QRC:
+
+QuestorOffer:  [1000]
+Error -- 1000 llamado
+
+RefuseQuest:  [1001]
+Error -- 1001 llamado
+
+AcceptQuest:  [1002]
+Error -- 1002 llamado
+
+QuestFail:  [1003]
+<ce>                         Error -- 1003 llamado
+
+QuestComplete:  [1004]
+<ce>                     Mientras _child_ bebe tu sangre,
+<ce>                    sientes que tu mente se aclara por
+<ce>                  primera vez desde que fuiste afectado
+<ce>                     por la licantropía. Pero _child_
+<ce>                 grita de agonía mientras %g cambia de forma
+<ce>                        ante tus propios ojos.
+
+RumorsDuringQuest:  [1005]
+<ce>   _hunter_ viene a %reg para eliminar la infección de hombres bestia.
+<ce> Tal vez entonces podamos volver a caminar por las calles de noche sin miedo.
+
+RumorsPostfailure:  [1006]
+<ce>_hunter_ y los hombres de %g3 mataron a muchas bestias en %reg, pero que me cuelguen
+<ce>                          si las eliminaron a todas.
+                                     <--->
+<ce> _hunter_ debería haber dejado las cosas como estaban.  Las cruzadas de %g3 solo hacen
+<ce>                  que las criaturas licántropas se vuelvan aún más feroces.
+
+RumorsPostsuccess:  [1007]
+<ce>_hunter_ y los hombres de %g3 mataron a muchas bestias en %reg, pero que me cuelguen
+<ce>                          si las eliminaron a todas.
+                                     <--->
+<ce> _hunter_ debería haber dejado las cosas como estaban.  Las cruzadas de %g3 solo hacen
+<ce>                  que los licántropos se vuelvan aún más feroces.
+
+QuestorPostsuccess:  [1008]
+Error -- 1008 llamado
+
+QuestorPostfailure:  [1009]
+Error -- 1009 llamado
+
+Message:  1011
+_hunter_ busca y destruye licántropos por todo Tamriel.
+<--->
+_hunter_ ha dedicado su vida a cazar licántropos.
+
+Message:  1012
+<ce>Dicen que la propia madre de _hunter_ fue asesinada por un hombre lobo.  Eso fue lo que
+<ce>               impulsó su odio fanático hacia ellos.
+                                     <--->
+<ce>_hunter_ mató a su propia madre después de que se convirtiera en hombre lobo.  Eso sí que
+<ce>                       es lo que yo llamo un verdadero fanático.
+
+Message:  1013
+_father_... el nombre me suena, pero no puedo decir que lo conozca.
+<--->
+Creo que _father_ murió hace años. ¿O quizá se mudó? No estoy seguro.
+<--->
+<ce>  _father_ fue el último de una casa noble que alguna vez fue poderosa en ___local_.
+<ce>                 Murió hace varios años, me temo.
+                                     <--->
+<ce>Creo que fue el que murió hace dos o tres años, dejando huérfano a su único hijo. Pero _local_ en __local_ sabría más sobre eso.
+                                     <--->
+<ce>_father_ no ha vivido en ___local_ durante años. No sé qué le ocurrió,
+<ce>     pero _local_ era su amigo y podría saber más.
+                                     <--->
+<ce>_father_ se mudó a ___father_ hace mucho tiempo. ¿O era él el que
+<ce>                        murió de forma tan trágica?
+
+Message:  1014
+<ce>_father_ murió hace varios años. Su único hijo fue adoptado por una familia
+<ce>      de __childhouse_, creo. Pregunta allí por _child_.
+                                     <--->
+<ce>¿Eras amigo suyo? Me temo que murió hace aproximadamente un año. Su único
+<ce>       hijo, _child_, fue acogido por una familia de __childhouse_.
+
+Message:  1020
+                       %qdt
+ 
+ Estimado %pcn,
+ 
+    ¿O debería llamarte "=wereboar_," como eres
+ conocido por la gente común de ____childhouse_, que cierran sus
+ puertas por miedo a ti cada noche? Sí, sé
+ quién y qué eres, y tus días de aterrorizar
+ la Bahía de Iliac están contados. Te ofrezco una
+ elección simple: renuncia a tu licantropía o serás
+ cazado como la bestia salvaje que eres.
+    Que nadie diga que a _hunter_ le falta
+ compasión. Te ofrezco una última oportunidad para salvarte.
+ Ve a ver a _priest_ de
+ __priest_ en ___priest_ si deseas
+ vivir. %g es sabio en las artes de la licantropía, y si
+ alguien puede ayudarte, es %g.
+    Esperaré =huntstart_ días antes de enviar a mis cazadores
+ tras de ti. Usa bien el tiempo.
+ 
+<ce>                                _hunter_
+
+Message:  1021
+<ce>                 Debes ser %pcn. _hunter_ dijo que
+<ce>          podrías venir a verme, aunque %g dudaba que
+<ce>              hicieras caso a su advertencia. Por desgracia, la mayoría no lo hace,
+<ce>             ya demasiado confundidos por la Bestia interior
+<ce>           como para salvarse. Sí, la maldición de la licantropía
+<ce>           puede ser eliminada, aunque dudo en hablar de ello,
+<ce>          ya que la cura puede ser peor que la enfermedad. Debemos
+<ce>              bajar la voz. Puede que no sepas que
+<ce>           la licantropía es una condición hereditaria, transmitida
+<ce>            en ciertas familias, aunque puede permanecer latente
+<ce>            durante generaciones antes de reaparecer. Por eso
+<ce>          las grandes cruzadas contra licántropos lideradas por gente
+<ce>            como _hunter_ son, en última instancia, inútiles, a menos que
+<ce>           las familias que portan esta línea de sangre sean exterminadas
+<ce>            también. Ahora entiendes por qué soy reacio
+<ce>            a compartir este conocimiento. Como sabes, la mordedura
+<ce>           de una bestia puede transmitir la infección a una nueva
+<ce>            víctima. Sin embargo, si logras transferir la infección
+<ce>           a un licántropo latente, la maldición se levantará
+<ce>            de ti debido a la intensidad de su manifestación
+<ce>           en la víctima. Mis estudios han descubierto recientemente
+<ce>           una familia que estoy seguro porta la enfermedad. Si
+<ce>          aún deseas seguir este oscuro camino, puedo
+<ce>            decirte dónde encontrar al último superviviente de esta
+<ce>                       antigua y maldita línea de sangre.
+
+Message:  1022
+<ce>          Muy bien. No puedo culparte por querer vivir.
+<ce>            Me consuelo pensando que _father_
+<ce>           es el último de una familia condenada, mejor acabar con ella antes de que
+<ce>             la maldición se renueve. Sí, él es.
+<ce>             Hasta donde sé, aún vive en ___local_,
+<ce>            el hogar familiar durante generaciones. Pero primero,
+<ce>             necesitarás ver a _alchemist_ en ___alchemist_.
+<ce>            %g me ha ayudado en estos asuntos antes. La forma más segura
+<ce>          de transmitir la enfermedad es que la víctima
+<ce>          beba la sangre del licántropo. _alchemist_
+<ce>            no hará preguntas ni contará historias sobre tu
+<ce>              extraña petición. Que %god guíe tus pasos.
+
+Message:  1023
+<ce>           Entiendo. De hecho, casi me alivia que
+<ce>            rechaces este camino hacia la salvación. Eso demuestra que
+<ce>             la Bestia aún no te domina por completo. No
+<ce>           ofrecería falsas esperanzas, pero si aún deseas
+<ce>           intentar curarte... Bueno, esto no es más
+<ce>             que una leyenda, pero se dice que existe un aquelarre
+<ce>            en algún lugar que puede curar la licantropía. La mejor
+<ce>            pista que puedo darte es un antiguo texto, "Una Historia
+<ce>            de las Sectas Daédricas". Desafortunadamente, la única
+<ce>                copia existente desapareció durante el saqueo de
+<ce>              ___hintdung_ hace más de un siglo. Quizá
+<ce>              permanezca oculta en algún lugar de esas ruinas.
+<ce>            Si nada más, la búsqueda podría ayudarte a mantener
+<ce>                a raya a la Bestia, al menos por un tiempo.
+<ce>                       Que %god guíe tus pasos.
+
+Message:  1024
+<ce>               Así que, otro visitante de _priest_. Sí,
+<ce>               sé lo que quieres, pero no es barato.
+<ce>               1000 de oro por adelantado. Tómalo o déjalo.
+<ce>               Bien, entonces quédate quieto un momento. Ahí tienes,
+<ce>                   no dolió nada, ¿verdad?
+<ce>                  Ahora lárgate antes de que uno de mis
+<ce>                    clientes respetables te vea.
+
+Message:  1025
+<ce>               Así que, otro visitante de _priest_. Sí,
+<ce>               sé lo que quieres, pero no es barato.
+<ce>               1000 de oro por adelantado. Tómalo o déjalo.
+<ce>                Lo siento, amigo, no tienes suficiente dinero.
+<ce>                   Muévete antes de que llame a los guardias.
+
+Message:  1026
+<ce>               ¿Buscas a _father_? Me temo
+<ce>             que murió hace tres años. Se suicidó,
+<ce>               en realidad, aunque muy pocos conocen esa parte.
+<ce>               No estoy seguro de qué pasó, pero
+<ce>               se volvió muy inestable y empezó a desaparecer
+<ce>                durante días. Dejó una nota diciendo
+<ce>             algo sobre que no podía vivir consigo mismo,
+<ce>                y que no quería que _child_ descubriera la
+<ce>               verdad. Nunca entendí de qué se trataba todo eso.
+<ce>                Sí, _child_ era su único hijo. %g fue acogido por una familia
+<ce>                 de __childhouse_ tras la muerte de su padre.
+<ce>                 Me temo que eso es todo lo que sé.
+
+Message:  1027
+<ce>               Hola. ¿Eres médico? Hoy no me he
+<ce>               sentido muy bien. ¿Es ese medicamento
+<ce>                         para mí?
+
+Message:  1028
+<ce>                   ¿Le das la sangre a _child_?
+
+Message:  1030
+<ce>                   ¿Deseas buscar una víctima
+<ce>                   para curar tu licantropía?
+
+Message:  1040
+<ce>                   _hunter_ dijo que te encontraría aquí.
+<ce>                            ¡Muere, =wereboar_!
+
+QuestTimeLapse:  [1045]
+<ce>                   Un objeto desconocido en tu mochila
+<ce>                   llama tu atención. Es una carta,
+<ce>                 dirigida a ti con una elegante
+<ce>                    caligrafía. ¿Cómo llegó ahí?
+
+Message:  1050
+%qdt:
+ El cazador de licántropos _hunter_
+ me ha enviado una carta prometiendo
+ cazarme a menos que me cure
+ de la licantropía. %g me dirigió a
+ _priest_ de __priest_,
+ ___priest_. Tengo =huntstart_ días
+ antes de que comience la cacería.
+
+Message:  1051
+%qdt:
+ _priest_ me dijo que la única forma
+ de curarme es encontrar a _father_
+ de ___local_, el último de una familia
+ de licántropos latentes, y obligarlo a beber mi sangre,
+ transfiriendo así completamente la enfermedad
+ de mí a él. Un alquimista llamado _alchemist_ en
+ ___alchemist_ puede preparar un vial de mi
+ sangre para este propósito.
+
+Message:  1052
+%qdt:
+ Rechacé la oferta de _priest_ de curar
+ mi licantropía infligiéndosela a
+ otro. Su único consejo adicional
+ fue buscar un libro que podría
+ llevarme a un aquelarre que supuestamente tiene
+ la cura. La última ubicación conocida del libro
+ era ___hintdung_, así que bien podría
+ comenzar allí.
+
+Message:  1053
+%qdt:
+ Encontré una página del libro, que
+ decía que más información sobre el
+ "Aquelarre de Glenmoril" podía encontrarse
+ en la biblioteca de ___mapdung_.
+
+Message:  1054
+%qdt:
+ Parece que _father_ ya está
+ muerto. Sin embargo, no todo está perdido,
+ ya que he aprendido que tenía un
+ hijo, _child_, que ahora vive
+ en __childhouse_.
+
+Message:  1060
+<ce>                     Un mapa que muestra la ubicación del
+<ce>                 Aquelarre de Glenmoril en las Colinas Ilessan.
+
+Message:  1061
+Esto parece ser una página arrancada de un libro:
+ 
+ "...se dice que tiene la capacidad de resucitar a los
+ muertos, aunque hasta ahora el Cónclave no ha
+ encontrado evidencia de esto más allá de las
+ habituales leyendas y anécdotas.
+ 
+   En contraste, la existencia del Aquelarre de Glenmoril
+ está firmemente arraigada en la historia. De hecho, este
+ aquelarre es de tal antigüedad que sus propios orígenes
+ se han perdido. El Círculo de Siete, como se le llama
+ a menudo (el Aquelarre de Glenmoril considera trece
+ como una corrupción moderna de los siete originales
+ Iniciados más seis Acólitos — uno por cada miembro del
+ Círculo excepto la Maestra, que se considera por encima
+ de tales funciones de aprendizaje). Como es habitual,
+ la leyenda se mezcla con los hechos en la creencia popular de que
+ el Aquelarre de Glenmoril posee la cura para la
+ licantropía. La documentación completa de estas leyendas
+ puede encontrarse en la biblioteca de ___mapdung_.
+ 
+   La región de la Bahía de Iliac también alberga a otro de..."

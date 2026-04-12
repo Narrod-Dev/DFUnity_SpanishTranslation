@@ -1,0 +1,209 @@
+Quest: _BRISIEN
+DisplayName: Lady Brisienna
+QRC:
+
+RefuseQuest:  [1001]
+Error: Texto de misión 1001 llamado en BRISIEN.Q
+
+AcceptQuest:  [1002]
+Error: Texto de misión 1002 llamado en BRISIEN.Q
+
+QuestFail:  [1003]
+Error: Texto de misión 1003 llamado en BRISIEN.Q
+
+RumorsDuringQuest:  [1005]
+Los profetas dicen que pronto lo que no ha sido reclamado será reclamado.
+<--->
+Lady Brisienna espera a alguien en _dirtypit_ en __dirtypit_.
+<--->
+Vaya tormenta fue esa. Muchos dicen que fue creada mágicamente.
+<--->
+Lady Brisienna se ha alojado en _dirtypit_ en __dirtypit_.
+
+RumorsPostfailure:  [1006]
+Lady Brisienna ha abandonado _dirtypit_, murmurando sobre traidores al Imperio.
+
+RumorsPostsuccess:  [1007]
+Lady Brisienna ha abandonado _dirtypit_. Debió haber encontrado a quien buscaba.
+
+QuestorPostsuccess:  [1008]
+<ce>        Espero que tus investigaciones vayan bien hasta ahora, %pcf.
+<ce>                                    
+<ce>                              -- Lady B.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Estoy en una misión del emperador para investigar
+ la sombra del Rey Lysandus. Su espíritu ha estado
+ atormentando la ciudad de Daggerfall. El propio
+ emperador me ha encomendado la tarea de hacer
+ que su fantasma descanse en paz.
+    También está el asunto menor de una carta
+ que envió a la Reina de Daggerfall. Si logro
+ descubrir qué ocurrió con la carta, estaría
+ muy agradecido.
+    Antes de llegar a Daggerfall, una tormenta
+ repentina volcó el barco. Apenas logré llegar a esta cueva.
+
+Message:  1011
+%qdt:
+ Me reuní con Lady Brisienna en una habitación de
+ taberna. Me dijo que las tres grandes potencias de la
+ Bahía de Iliac son Daggerfall, Wayrest y Sentinel. Si
+ voy a investigar el misterio del fantasma de Lysandus,
+ debería comenzar hablando con las familias reales
+ de estos feudos.
+
+Message:  1012
+¿Lady Magnessen? Es la emisaria de los Blades en Daggerfall.
+<--->
+Lady Magnessen forma parte del círculo habitual en el Castillo Daggerfall.
+<--->
+Lady Magnessen trabajó anteriormente al servicio de Mynisera, cuando ella era Reina.
+
+Message:  1013
+Lady Magnessen una vez trabajó para la Reina Madre, pero siempre para el Emperador.
+<--->
+Lady Magnessen es la hermana del Gran Caballero, líder de los Blades.
+<--->
+Escuché que Lady Magnessen fue acusada de espionaje. Nadie sabe dónde está ahora.
+
+Message:  1015
+<ce>              Ah, gracias por responder a mi carta,
+<ce>                    %pcf. Soy Lady Brisienna. Permíteme
+<ce>             ponerte al tanto de la situación. El espectro
+<ce>                del Rey Lysandus acecha las calles de
+<ce>              Daggerfall por la noche. Intentar comunicarse
+<ce>               con él es inútil. Ocasionalmente
+<ce>              gime la palabra "Venganza", pero esa es la
+<ce>               única palabra coherente que le he oído
+<ce>             pronunciar. Si alguna vez estás en Daggerfall, no
+<ce>             deambules por la ciudad de noche. Es seguro que
+<ce>                 serás atacado por su legión de fantasmas.
+<ce>                                    
+<ce>                 Probablemente sería más provechoso
+<ce>               investigar a aquellos que pudieron haber agraviado
+<ce>            a Lysandus para encontrar la causa de su tormento.
+<ce>            No sé si la familia real de Daggerfall
+<ce>                u otra persona o personas merecen más
+<ce>                sospecha. Las principales potencias de la Bahía,
+<ce>               Sentinel, Wayrest y Daggerfall pueden ser
+<ce>                         buenos lugares para empezar.
+<ce>                            (continuará...)
+
+Message:  1016
+<ce>              En cuanto a la carta, el agente del Emperador
+<ce>             dice que no pudo entregarla personalmente
+<ce>            a la Reina debido a la guerra. Contrató a un
+<ce>              mensajero que supuestamente entregó la carta
+<ce>             en su lugar. Ni siquiera sabemos el nombre de
+<ce>               este mensajero. Obviamente, hay poca
+<ce>            información útil, pero valdría la pena
+<ce>              comprobar si la carta llegó al Castillo
+<ce>             Daggerfall en absoluto. Cómo decidas hacerlo
+<ce>             depende completamente de ti. Me pondré en contacto contigo
+<ce>                si surge nueva información.
+<ce>                                    
+<ce>            Pronto dejaré Daggerfall. Mi posición aquí
+<ce>            ha sido comprometida y mi vida está en peligro.
+<ce>              No menciones mi nombre en la corte. Es más
+<ce>               probable que perjudique que ayude. Buena suerte, y
+<ce>                        cuida tu espalda, %pcf.
+
+Message:  1020
+Estimado %pcn,
+ 
+     Escuché sobre tu accidente en el mar, y temí lo
+ peor. Ahora que sé que estás vivo y bien, me
+ gustaría tener la oportunidad de reunirme contigo y discutir
+ la misión de nuestro querido Emperador en la Bahía de Iliac.
+ 
+     Permíteme presentarme. Soy Lady Magnessen,
+ la agente del Emperador en la corte de Daggerfall. Mi
+ posición no es tan oficial como la de una embajadora. Nadie excepto
+ otros agentes del Emperador conocen mi verdadera afiliación.
+ La Bahía de Iliac está llena de rebeldes contra el trono Imperial,
+ por lo que se requiere tu discreción.
+ 
+     Para el propósito de nuestra reunión, tomaré una habitación
+ en una posada, _dirtypit_ en __dirtypit_
+ de Daggerfall, durante un mes. Después de eso, ya no
+ estaré disponible. Te esperaré lo antes posible.
+ 
+<ce>                           Atentamente,
+ 
+<ce>                       Brisienna, Lady Magnessen
+
+Message:  1021
+%pcn,
+ 
+     Te envié una carta hace semanas. Solo espero
+ que te haya llegado. Si esta se cruza en tu camino
+ después de que me hayas visitado de camino a verme en
+ __dirtypit_ por favor no te ofendas.
+ Como mencioné en la carta anterior, soy la
+ agente del Emperador en Daggerfall y es imperativo
+ que hable contigo. He extendido mi estancia en
+ _dirtypit_ en __dirtypit_ por dos semanas más.
+ 
+ Por supuesto, existe la posibilidad de que me hayas
+ ignorado intencionalmente y eludido tu deber hacia
+ el Emperador. Espero que no sea el caso. Si no
+ llegas, me veré obligada a asumir que eres
+ un traidor a Su Majestad Imperial, Uriel Septim VII.
+ 
+<ce>                           Atentamente,
+ 
+<ce>                       Brisienna, Lady Magnessen
+
+Message:  1022
+%pcn,
+ 
+ Te esperé y nunca llegaste. Informaré
+ esto al Emperador. Si está en mis manos, serás
+ excluido del servicio.
+ 
+<ce>                            Lady Magnessen
+
+Message:  1026
+<ce>           	Un joven paje se acerca a ti con una sonrisa de
+<ce>             reconocimiento y no pregunta tu nombre antes
+<ce>              de entregarte una carta dirigida a ti. A
+<ce>               todas tus preguntas, simplemente responde
+<ce>                    con una mirada vacía y una sonrisa.
+                                     <--->
+<ce>             Una carta es colocada en tu mano. Te giras
+<ce>            para ver quién te la dio. Alcanzas a ver
+<ce>                un uniforme que desaparece entre la multitud.
+                                     <--->
+<ce>              Un paje da un paso adelante diciendo "Carta para ti
+<ce>                     %pcn," y te entrega una nota.
+                                     <--->
+<ce>              Un mensajero se acerca a ti con una carta en
+<ce>               la mano. "Me dijeron que entregara esta carta a
+<ce>                alguien que coincida con tu descripción", dice
+<ce>               el mensajero. Al tomarla, el mensajero
+<ce>                     se da la vuelta y se marcha rápidamente.
+                                     <--->
+<ce>               Al meter la mano en tu mochila para buscar algo
+<ce>             de comer, ves una nota. Antes no estaba ahí.
+                                     <--->
+<ce>             Un mensajero sonrojado te sobresalta con un grito de
+<ce>                  "¡Carta para %pcn! ¡Eh, ese debes ser tú!
+<ce>                 Toma, aquí tienes. Debo irme. Otras
+<ce>                        entregas que hacer.
+
+Message:  1025
+<ce>             Despiertas y miras alrededor de la habitación. Hace algunas horas
+<ce>           estabas en un barco, en ruta hacia Daggerfall,
+<ce>             cuando una tormenta de fuerza sobrenatural se desató
+<ce>           sobre la Bahía de Iliac como una criatura maligna. Tu
+<ce>              barco fue destruido, pero lograste nadar
+<ce>           entre las aguas agitadas hasta una roca elevada.
+<ce>          Allí encontraste una cueva y escapaste de la furia de la
+<ce>           tormenta. Apenas habías encendido un pequeño fuego cuando un
+<ce>            derrumbe te selló dentro. Tu miedo a ser
+<ce>             enterrado vivo se calmó al ver el corredor
+<ce>           que conduce fuera de la caverna. Quizá haya una forma
+<ce>          de salir de esta cueva después de todo. Una vez libre de la cueva,
+<ce>                  podrás comenzar la misión del Emperador.

@@ -1,0 +1,78 @@
+Quest: M0B1XY01
+DisplayName: Caza de arpías
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Me caes bien. Esta tarea no es para
+<ce>                 cualquiera. Parece que una bandada
+<ce>                 de carnívoros voladores —arpías— tiene
+<ce>               muy nerviosos a varios de los mercaderes.
+<ce>                ¿Te motivarán _reward_ oro para ir a
+<ce>                   ___mondung_ a repartir un poco
+<ce>                    de mandanga de la buena?
+
+RefuseQuest:  [1001]
+<ce>                       Lástima. A mí me parecía un
+<ce>                    trato condenadamente generoso.
+
+AcceptQuest:  [1002]
+<ce>                  De acuerdo. Hay cinco de estas bellezas
+<ce>                        en ___mondung_, y todas deben
+<ce>                 estar muertas en =1stparton_ días o no hay
+<ce>                  trato. Y un consejo: vuelve aquí en ese
+<ce>                 plazo, pero llega a ___mondung_ lo antes
+<ce>                  posible o esas arpías migrarán y te
+<ce>                 quedarás sin nada. Muy bien, buena suerte
+<ce>                            y lárgate de aquí.
+
+QuestFail:  [1003]
+<ce>                  Escucha, sé que soy encantador, pero
+<ce>                   esas arpías están esperando. Asegúrate
+<ce>                    de acabar con las cinco, ¿entendido?
+
+QuestComplete:  [1004]
+<ce>                Muy bien hecho. Aquí tienes _reward_ oro
+<ce>                 para tu bolsillo. Nada mal, nada mal.
+
+RumorsDuringQuest:  [1005]
+Alguien subió a echar un vistazo a ___mondung_ hace poco y acabó en pedazos.
+<--->
+Solo espero que esas arpías sigan migrando hacia el sur.
+
+RumorsPostfailure:  [1006]
+He oído que las arpías ensuciaron su nido en ___mondung_ y tuvieron que mudarse.
+<--->
+Esas arpías siguen a las caravanas de mercaderes como si fueran un festín ambulante.
+
+RumorsPostsuccess:  [1007]
+Las arpías eran un problema económico real. Las cosas deberían mejorar ahora.
+<--->
+Dicen que encontraron miles y miles de huevos en ese nido de arpías.
+
+QuestorPostsuccess:  [1008]
+<ce>                       ¡Eh! Ya regresó quien se encargó
+<ce>                       de estirpe %ra de esas arpías.
+
+QuestorPostfailure:  [1009]
+<ce>                      Eres de estirpe %ra y no pudiste ni
+<ce>                con unas cuantas arpías. Patético.
+
+Message:  1020
+<ce>                    Van cinco. Eso debería bastar
+<ce>                        para contentar a _questgiver_.
+
+Message:  1030
+%qdt:
+ El Gremio de Luchadores de
+ ___questgiver_ me ha contratado
+ para exterminar un nido de arpías
+ que ha infestado ___mondung_.
+ Debo haber matado al menos a cinco
+ y estar de vuelta en =1stparton_ días
+ si quiero cobrar mi recompensa.
+
+Message:  1080
+<ce>                  Oye, ya que has sido de tanta ayuda,
+<ce>                      aquí tienes un mapa de ___newdung_.
+<ce>                   Toda la matanza y el saqueo que
+<ce>                        puedas aguantar. Invito yo.

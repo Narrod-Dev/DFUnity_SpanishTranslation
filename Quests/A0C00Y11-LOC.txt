@@ -1,0 +1,155 @@
+Quest: A0C00Y11
+DisplayName: La cura
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  Disculpa, ¿eres médico o tienes
+<ce>               alguna habilidad de curación? Realmente necesito
+<ce>                    a alguien que pueda curar a mi primo.
+                                     <--->
+<ce>                 ¡Mi primo se está muriendo! ¿Puedes ayudarme?
+
+RefuseQuest:  [1001]
+<ce>                  Maldición. Me habría venido bien ayuda.
+                                     <--->
+<ce>                     Qué mala suerte. Gracias de todos modos.
+                                     <--->
+<ce>                     Perdón por molestarte entonces.
+
+AcceptQuest:  [1002]
+<ce>                         ¡Gracias, gracias!
+<ce>                          Mi nombre es _giver_.
+<ce>                Recientemente recibí noticias de que mi primo
+<ce>                         _cousin_ de ___cousin_
+<ce>                está gravemente enfermo y probablemente morirá en
+<ce>                =questtime_ días. ¡Cualquier cosa que puedas hacer para
+<ce>                 curarlo será muy apreciada!
+<ce>                  Aquí tienes _gold1_ de oro. Te pagaré
+<ce>                 _gold2_ de oro más si logras curarlo.
+
+QuestComplete:  [1004]
+<ce>                   ¡Oh, has traído el Talismán curativo!
+<ce>                      Gracias, %pcn.
+<ce>                  Aquí tienes el resto del oro que mi
+<ce>               primo te prometió. Realmente no puedo agradecerte
+<ce>              lo suficiente. Espero que el resto de tus viajes
+<ce>                           sean seguros.
+
+RumorsDuringQuest:  [1005]
+<ce>                     Qué pena lo del primo de _giver_.
+<ce>                  Dicen que es una enfermedad mortal.
+
+RumorsPostfailure:  [1006]
+<ce>                        _cousin_ de ___cousin_
+<ce>                 murió de la Plaga del Mago. Dicen que la peste
+<ce>                       podría propagarse allí ahora.
+                                     <--->
+<ce>                      _giver_ está destrozado por
+<ce>                    el dolor. Su primo en ___cousin_
+<ce>                             murió recientemente.
+
+RumorsPostsuccess:  [1007]
+<ce>                 ¿Has oído? ¡Ha habido una cura milagrosa
+<ce>                          en ___cousin_!
+                                     <--->
+<ce>                      _giver_ ha donado una gran
+<ce>                       suma de oro al templo.
+<ce>               Dicen que su primo fue curado milagrosamente.
+                                     <--->
+<ce>                  ¿No eres tú el %ra que curó a esa
+<ce>                       pobre persona en ___cousin_?
+
+QuestorPostsuccess:  [1008]
+<ce>                  Bendiciones, %pcf. Nunca olvidaré
+<ce>                    lo que hiciste por _cousin_ y por mí.
+<ce>                    Se ha recuperado completamente de la
+<ce>                              Plaga del Mago.
+
+QuestorPostfailure:  [1009]
+<ce>                   ¡%pcn! Ensucias el aire con
+<ce>                  tu aliento. Mi primo murió por tu culpa.
+<ce>                         ¡Fuera! ¡Fuera! ¡Fuera!
+
+QuestLogEntry:  [1010]
+%qdt:
+ _giver_ de ___giver_ me ha
+ pagado para curar a su primo,
+ _cousin_ de ___cousin_.
+ Probablemente morirá en =questtime_ días.
+ Recibiré otros _gold2_ de oro cuando
+ logre salvarlo.
+
+Message:  1011
+%qdt:
+ He visto a _cousin_. Su condición
+ es incluso peor de lo que _giver_ dijo.
+ _cousin_ dice que _healer_ en
+ ___healer_ podría tener una cura.
+
+Message:  1012
+<ce>               He oído sobre su enfermedad. Hasta ahora ninguno de
+<ce>                  los curanderos locales ha encontrado una cura.
+                                     <--->
+<ce>                Sí escuché algo sobre ello. Algo
+<ce>             acerca de una enfermedad misteriosa y mortal. Muy triste.
+                                     <--->
+<ce>              Sí, conozco la historia. Me suena a Plaga del Mago.
+                                     <--->
+<ce>                Nadie sabe qué le ocurre, pero
+<ce>                   dicen que solo le quedan días de vida.
+                                     <--->
+<ce>             Un caso muy desafortunado. Nadie sabe qué
+<ce>             le ocurre. Podrías intentar con un curandero llamado
+<ce>                    _healer_, que dicen tiene un
+<ce>              conocimiento enciclopédico de enfermedades extrañas.
+                                     <--->
+<ce>               Oh, sí, el de la fiebre debilitante.
+
+Message:  1013
+<ce>                   Hola. Sí, he oído hablar de
+<ce>                     _cousin_ de ___cousin_ y su
+<ce>               problema. Es la Plaga del Mago. Lo sé bien.
+<ce>             En fin, tengo un Talismán especial que puede
+<ce>               curarlo. Solo puede usarse una vez.
+<ce>                 Te lo venderé por 20 de oro. Aquí
+<ce>                     tienes. Muchas gracias.
+
+Message:  1015
+<ce>                   Hola. Sí, he oído hablar de
+<ce>                     _cousin_ de ___cousin_ y su
+<ce>               problema. Es la Plaga del Mago. Lo sé bien.
+<ce>             En fin, tengo un Talismán especial que puede
+<ce>               curarlo. Solo puede usarse una vez.
+<ce>             Te lo vendería por 20 de oro, pero no
+<ce>                   parece que tengas suficiente para pagarlo.
+
+Message:  1017
+%qdt:
+ He comprado un Talismán a _healer_ de
+ ___healer_ que cura la Fiebre del Mago,
+ la enfermedad que afecta a _cousin_.
+
+Message:  1019
+<ce>            Usas el Talismán y desaparece mágicamente.
+
+Message:  1030
+<ce>              Me siento tan débil. No sé qué me pasa.
+<ce>                ¿Mi primo _giver_ te envió a
+<ce>               ayudarme? ¡Oh, gracias, gracias! He
+<ce>                 oído de un curandero llamado _healer_
+<ce>                     en ___healer_ que podría
+<ce>                ayudarme. Por favor ve con él y tráeme
+<ce>                  la cura antes de que sea demasiado tarde.
+
+Message:  1040
+<ce>                   Dicen que _healer_ se especializa en
+<ce>                       las enfermedades más extrañas.
+                                     <--->
+<ce>              ¿_healer_? Vive en ___healer_, creo.
+
+Message:  1041
+<ce>             Dicen que _healer_ es el mejor curandero que hay.
+<ce>                     Lo encontrarás en ___healer_.
+                                     <--->
+<ce>                 He oído hablar de _healer_ de ___healer_.
+<ce>    Tiene una gran reputación por curar los casos más difíciles.

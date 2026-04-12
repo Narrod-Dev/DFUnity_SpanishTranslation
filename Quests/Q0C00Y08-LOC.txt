@@ -1,0 +1,90 @@
+Quest: Q0C00Y08
+DisplayName: Un Tomo Extraño
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  Sí, de hecho, podrías ayudarnos,
+<ce>                   %pcf. Somos un aquelarre aislado,
+<ce>                  visto con temor y hostilidad por el
+<ce>                  mundo exterior. Si pudieras conseguir
+<ce>                   para nosotros cierto tomo extraño que
+<ce>                     tienen en ___contact_, nos haría
+<ce>                  felices darte, digamos, un objeto como
+<ce>                  _mitem_ creado especialmente para ti.
+
+RefuseQuest:  [1001]
+<ce>                    Bien, entonces esperaremos a la
+<ce>                   siguiente persona que pase por aquí.
+<ce>                    Nuestra necesidad no es tan urgente.
+
+AcceptQuest:  [1002]
+<ce>                 ¿Lo harías? El nombre del tomo es
+<ce>                        _book_; un libro muy
+<ce>                 extraño ciertamente. Incluso si alguien
+<ce>                 hallara una copia, el precio sería muy
+<ce>                 prohibitivo. Tenemos suerte, por tanto,
+<ce>                  de tener una amistad en ___contact_,
+<ce>                    alguien de nombre _contact_ que ha
+<ce>                robado una copia. Si pudieras reunirte
+<ce>                   con %g2 en __contact_, %g te dará
+<ce>                 el libro. Esperamos tu regreso en
+<ce>                  =queston_ días. Tras ese tiempo, el
+<ce>                   libro no nos será de utilidad. Que
+<ce>                    ==daedra_ guarde tu camino.
+
+QuestComplete:  [1004]
+<ce>                  Ah, aquí está. Espero que hayas tenido
+<ce>                 ocasión de ojear sus páginas, %pcf. No
+<ce>                  es probable que encuentres algo igual
+<ce>                    en mucho tiempo. Bien, aquí tienes
+<ce>                           tu _mitem_.
+
+RumorsDuringQuest:  [1005]
+_contact_ está bajo sospecha. Dicen que tiene trato con brujas.
+<--->
+Hay quien dice que _contact_ practica la brujería en secreto.
+
+RumorsPostfailure:  [1006]
+_contact_ fue bajo arresto y murió en la hoguera. Bien merecido lo tiene %g2.
+<--->
+Pobre _contact_, nunca supo cuándo callar. Bueno, ahora guardará silencio.
+
+RumorsPostsuccess:  [1007]
+_contact_ fue bajo arresto, pero no encontraron el libro _book_.
+<--->
+Atraparon a _contact_, pero al parecer %g no era quien robó _book_.
+
+QuestorPostsuccess:  [1008]
+Oh, hola, %pcf. Justo estaba leyendo _book_; la copia que nos conseguiste.
+
+QuestorPostfailure:  [1009]
+<ce>                          _book_ se ha perdido,
+<ce>                        probablemente para siempre.
+<ce>                         No es momento de hablar.
+<ce>                        Vete, deja a ==qgiver_. No
+<ce>                          haces falta ahora.
+
+QuestLogEntry:  [1010]
+%qdt:
+ ==qgiver_ me ha enviado
+ a ___contact_ para ver a 
+ alguien de nombre _contact_
+ en __contact_ por un libro
+ muy extraño. Debo devolver
+ el libro a ==qgiver_ en
+ =queston_ días o menos.
+
+Message:  1011
+<ce>                       Bien, %pcf, aquí está el
+<ce>                  libro. Ve con cuidado. La guardia
+<ce>                      está peinando ___contact_
+<ce>                        en busca de esa cosa.
+
+Message:  1012
+<ce>                             ¡Alto! ¡Ladrón!
+
+Message:  1013
+<ce>                        De repente te das cuenta
+<ce>                       de que las brujas esperaban
+<ce>                        el libro en este preciso
+<ce>                             instante.

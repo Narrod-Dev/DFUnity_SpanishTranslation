@@ -1,0 +1,119 @@
+Quest: S0000501
+DisplayName: Misión de Lord K'avar Parte III
+QRC:
+
+QuestComplete:  [1004]
+<ce>                  %pcn, sabía que podía contar contigo.
+<ce>                La amistad de la Reina de Sentinel ya es
+<ce>                 recompensa suficiente, pero he preparado
+<ce>                   algunos obsequios más tangibles también.
+
+RumorsDuringQuest:  [1005]
+<ce>     He oído que el _traitor_ escapó de las mazmorras del Castillo.
+<ce>           Estaba a punto de recibir ejecución por traición.
+
+RumorsPostsuccess:  [1007]
+<ce>      El _traitor_ intentaba que Wayrest apoyara su reclamo al
+<ce>     trono de Sentinel, pero los agentes de la Reina lo atraparon.
+<ce>      Nadie sabe qué fue de él, pero supongo que habrá muerto.
+
+Message:  1020
+%qdt:
+ He recibido una carta de la Reina de
+ Sentinel. Dice que el _traitor_ ha
+ escapado, y le gustaría que fuera a verla
+ para intentar localizarlo de nuevo.
+
+Message:  1021
+%qdt:
+ El espionaje de la Reina ha descubierto
+ que el _traitor_ está en Wayrest, creando
+ problemas contra Sentinel. Se oculta en
+ algún lugar de las mazmorras del castillo
+ real. Debo hallarlo y llevarlo de vuelta
+ a Sentinel para su ejecución en =time2_ días.
+
+Message:  1022
+%qdt:
+ El _traitor_ es mi prisionero. Estoy de
+ camino a Sentinel para entregárselo a la
+ Reina.
+
+Message:  1030
+Estimado %pcn:
+ 
+    Lamento informarte de que vuestro noble
+ servicio a Sentinel ha sido en vano. El
+ _traitor_ aún conserva algunas amistades, al
+ parecer. Ha escapado de la mazmorra solo unos
+ días antes de ser colgado.
+    Agradecería mucho vuestra asistencia para
+ zanjar este asunto de una vez por todas.
+ Por favor, venid a verme antes de =patsy_ días.
+ 
+<ce>                                 Quien os estima,
+<ce>                                     
+<ce>                          La Reina de Sentinel
+
+Message:  1031
+<ce>                Un caballero robusto con la librea de Sentinel
+<ce>                      se detiene ante ti y te saluda.
+<ce>                                     
+<ce>                    "¿%pcn? Una carta para vuestra presencia,
+<ce>                    mensaje personal de la propia Reina".
+
+Message:  1040
+<ce>                 Ah, %pcn, esperaba que vinierais. Mis
+<ce>              espías han localizado al escurridizo _traitor_.
+<ce>                Ha aparecido en la corte de Wayrest, nada
+<ce>               menos, intentando obtener apoyo para su patético
+<ce>               reclamo al trono. Wayrest no sería tan imprudente
+<ce>            como para dar refugio abierto a un traidor convicto,
+<ce>             pero se oculta en algún lugar del Castillo Wayrest,
+<ce>              y quiero que lo encontréis y lo traigáis de vuelta.
+<ce>             Vivo si es posible, pero matadlo si es necesario.
+<ce>                       No permitáis que escape de nuevo.
+<ce>                Tenéis =time2_ días.
+
+Message:  1041
+<ce>                     ¡Otra vez tú! %oth, ¿es que no vas
+<ce>                  a dejarme en paz? ¡Acabaré contigo ahora!
+
+Message:  1042
+<ce>                   "¡Alto! ¡No me matéis! ¡Me rindo!"
+<ce>                                     
+<ce>                  ¿Aceptas la rendición del _traitor_?
+
+Message:  1043
+<ce>                    El traidor _traitor_ ha muerto.
+
+Message:  1044
+<ce>                       _traitor_ suelta su arma,
+<ce>                    y rápidamente atas sus manos y le
+<ce>                     vendas los ojos para evitar más
+<ce>                    trucos. Ahora, a escapar de Wayrest...
+
+QuestTimeLapse:  [1045]
+<ce>                 ¡Entonces, por %god, moriremos en compañía!
+
+Message:  1050
+<ce>               Vaya, vaya, pero si es mi leal _traitor_,
+<ce>              que vuelve a mí. ¿De verdad creíste que
+<ce>                podrías escapar de mi ira? Guardias, llevadlo
+<ce>                abajo y ejecutadlo de inmediato.
+
+Message:  1051
+<ce>                 _traitor_ merecía la muerte. Habría
+<ce>                  preferido ejecutarlo en público, como
+<ce>                ejemplo para otros de su ralea, pero me
+<ce>             complace que este turbio asunto esté por fin cerrado.
+
+Message:  1060
+<ce>                  ¿Pensaste que podrías deshacerte del
+<ce>                    _traitor_ tan fácilmente? ¡Nadie se
+<ce>                  cruza con un Lord de Sentinel a la ligera!
+
+Message:  1061
+<ce>                Un caballero con librea de Sentinel se acerca.
+<ce>                    "Yo me haré cargo de este cerdo
+<ce>                     traidor ahora mismo".

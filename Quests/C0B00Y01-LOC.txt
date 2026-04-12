@@ -1,0 +1,403 @@
+Quest: C0B00Y01
+DisplayName: El Hereje
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Que %god esté contigo, %pct.
+<ce>                   Puede que hayas oído hablar de _prophet_.
+<ce>                 Si aún no lo has hecho, lo harás. Estamos
+<ce>                  investigando las afirmaciones de que %g es
+<ce>                    un profeta. No somos, creo,
+<ce>                   censores por naturaleza, pero debemos
+<ce>                     estar siempre atentos a la presencia
+<ce>                  de influencias heréticas. ¿Estarías
+<ce>                    disponible para ayudar en esta
+<ce>                       importante investigación?
+                                     <--->
+<ce>                  Nos corresponde investigar las
+<ce>                       afirmaciones de _prophet_ de que
+<ce>                  ha visto el rostro y escuchado las
+<ce>                      palabras de %god. Quizá tú
+<ce>                      tengas tiempo para ayudar en esta
+<ce>                               indagación.
+
+RefuseQuest:  [1001]
+<ce>                         Es una lástima, %pct.
+<ce>                   Espero que encuentres tiempo en tu
+<ce>                     apretada agenda para el templo
+<ce>                          en un futuro cercano.
+
+AcceptQuest:  [1002]
+<ce>                 Bien. Ya hemos enviado a uno del
+<ce>                        templo, _priest_, al
+<ce>                    desacralizado ___mondung_, donde
+<ce>                    _prophet_ afirma que %g presenció
+<ce>                        por primera vez el milagro.
+<ce>                     Si _priest_ necesita ayuda,
+<ce>                te mandaré llamar. Mientras tanto,
+<ce>                 quiero que encuentres información más
+<ce>                       mundana sobre _prophet_,
+<ce>                   preguntando en %g3 ciudad natal,
+<ce>                          __tavern_. Un fiel
+<ce>                       clérigo nuestro, _contact_,
+<ce>                      se reunirá contigo en _tavern_.
+<ce>                  Quiero ver pruebas de la verdadera
+<ce>                          naturaleza de _prophet_
+<ce>                   en no más de =queston_ días. Yo
+<ce>                  partiría de inmediato. Que el gran
+<ce>                   %god bendiga tu empresa, %pct.
+
+QuestComplete:  [1004]
+<ce>                     Bien hecho, %pct. Me estremezco al
+<ce>                    pensar lo que _prophet_ podría haber
+<ce>                   hecho a nuestro templo si hubiera difundido
+<ce>                        su palabra profana. Que %god
+<ce>                    te bendiga y te guarde, noble
+<ce>                       %ra. Aquí, una pequeña muestra
+<ce>                    del aprecio de tus hermanos.
+
+RumorsDuringQuest:  [1005]
+Di lo que quieras sobre la religión de _prophet_, pero escribe de forma convincente.
+<--->
+__qgiver_ está realmente nervioso por tener a un revolucionario como _prophet_ cerca.
+<--->
+Leí sobre el milagro de _prophet_ en su tratado. Debo decir que es convincente.
+
+RumorsPostfailure:  [1006]
+_prophet_ se ha ido a predicar su evangelio a los pueblos paganos de Tamriel.
+<--->
+_prophet_ ha dejado la Bahía, pero su obra aún no ha terminado.
+
+RumorsPostsuccess:  [1007]
+Ese _prophet_ era un charlatán que encontró a unos cuantos tontos en __tavern_.
+
+QuestorPostsuccess:  [1008]
+Por lo que has hecho por la fe, estaré encantado de ayudarte.
+
+QuestorPostfailure:  [1009]
+No tengo nada que decirte, hereje de _prophet_.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de ___qgiver_
+ me ha enviado a investigar la vida de
+ _prophet_, quien afirma
+ ser un profeta. Debo preguntar por %g2
+ en su ciudad natal, __tavern_.
+ _contact_ me está esperando
+ allí para darme más
+ instrucciones. Debo reunirme con %g2
+ en _tavern_.
+
+Message:  1011
+    Apenas recuerdo mi viaje al lugar
+ llamado ___mondung_: supongo que
+ aún estaba medio soñando. En lo profundo de los
+ fétidos recovecos del templo profanado, me encontré
+ con un gran fuego y de las llamas escuché la
+ misma voz decir: "Bienvenido."
+      "¿Quién eres?" le pregunté a la llama.
+      "Soy aquello que __qgiver_ afirma
+ adorar, pero con cada acto y pensamiento
+ profanan mi divinidad. Te llamé a ti
+ para que un nuevo __qgiver_ pudiera ser
+ creado, uno guiado por la verdad y el verdadero
+ entendimiento de mi Ser. Los paganos
+ necesitan visión, y tú serás eso."
+      El Dios me dijo más aquel día, pero mientras
+ los malvados __qgiver_ continúen
+ con su política de silenciar a cualquiera que se atreva
+ a desafiar su corrupta y despreciable
+ teología, debo mantener mis tratados breves. Más
+ seguirán en breve.
+
+Message:  1012
+                          __qgiver_
+                           ___qgiver_
+ 
+ %pct %pcn,
+ 
+      _priest_ no ha logrado
+ reunirse con la persona a quien debía informar
+ de sus hallazgos en ___mondung_.
+ Debemos asumir lo peor.
+      Se te ordena encontrar a
+ _priest_ en persona o su cuerpo
+ en ___mondung_ e informarme.
+ Todas las demás tareas e investigaciones
+ pasan a ser de menor prioridad.
+ 
+<ce>                               _qgiver_
+
+Message:  1013
+<ce>                 Ah, hola, %pcf. Bienvenido a __tavern_.
+<ce>              Todo el pueblo está alborotado por ese joven
+<ce>                     _prophet_. Pero ni siquiera está
+<ce>                   aquí — está en __prophouse_, en una
+<ce>                  taberna llamada _prophouse_, trabajando
+<ce>               en un nuevo tratado sobre lo que ese misterioso
+<ce>                     espíritu de ___mondung_ tenía que
+<ce>                 decir sobre la desintegración moral de
+<ce>                      __qgiver_. Aquí tienes una copia
+<ce>                del tratado original, para que sepas de qué
+<ce>                      trata _prophet_.
+<ce>              Un personaje peligroso por lo que he visto hasta
+<ce>                 ahora. Estoy en contacto con _lover_,
+<ce>                   un/a =lover_ en ___lover_ con quien
+<ce>                      _prophet_ tenía algún tipo de
+<ce>                relación. No sería mala idea que fueras a ___lover_
+<ce>                   y ver si puedes convencer a %g2
+<ce>                de que hable con nosotros. Espero que toda esta
+<ce>                          información te sea útil, %pcf.
+
+Message:  1014
+                   _tavern_
+                    __tavern_
+ 
+ 
+ Estimado/a %pcn,
+ 
+ 
+      Ha ocurrido un terrible accidente
+ aquí en _tavern_, que involucra a
+ _contact_. Por favor, ven aquí
+ cuando puedas.
+ 
+ 
+ Atentamente,
+ 
+ _replace_
+
+Message:  1015
+<ce>                        Un joven te entrega una
+<ce>                       carta y sale corriendo.
+
+Message:  1016
+<ce>                     %oth, %pcf, fue horrible.
+<ce>                    El tabernero encontró a _contact_
+<ce>                     en una de las habitaciones, su cuerpo
+<ce>                    profanado de la forma más espantosa,
+<ce>                     una macabra parodia de los antiguos
+<ce>                       ritos funerarios de __qgiver_.
+<ce>                         Fue _prophet_, sin
+<ce>                    duda. Esta reliquia fue encontrada en
+<ce>                       el pecho de _contact_.
+<ce>                            Ve si _lover_
+<ce>                        en ___lover_ la reconoce.
+
+Message:  1017
+_lover_ -- ah, pobre =lover_. Bueno, suele mantenerse aislado/a.
+<--->
+_lover_ es un/a =lover_ en __lover_. Dicen que llora a su amor perdido.
+<--->
+No importa lo que te digan, el/la amante de _lover_ no está muerto/a. Loco/a, no muerto/a.
+<--->
+_lover_ es una de las tragedias de ___lover_. Dicen que su amante enloqueció.
+
+Message:  1018
+<ce>                 Digan lo que digan, nunca conocí a
+<ce>                       _prophet_. Dile a _contact_
+<ce>                       que se equivoca de =lover_.
+Message:  1019
+<ce>                      _prophet_ me mataría si
+<ce>                   supiera que estoy hablando contigo. Pero
+<ce>                  sé que no podrías estar trabajando
+<ce>                   para %g2. Aquí tienes una carta que %g escribió
+<ce>                   hace aproximadamente un mes. Creo
+<ce>                        que lo explica todo.
+
+Message:  1020
+<ce>                      ¡_relartifact_! %oth, eso
+<ce>                      es propiedad del pobre _prophet_.
+<ce>                     %oth, sabía que %g era inestable,
+<ce>                pero nunca pensé que realmente lo haría.
+<ce>                      %oth, pobre _contact_. Si yo
+<ce>                  hubiera ayudado a %g2, aún estaría vivo
+<ce>                  hoy. Esto no compensará lo que
+<ce>                 hice al no actuar, pero tú
+<ce>                sabrás qué hacer con esta carta.
+<ce>                         Que %god me perdone.
+
+Message:  1021
+_lover_, mi amor,
+ 
+ 
+      Primero, perdona el silencio de tu
+ amor. No fue otro ataque de fiebre
+ cerebral. Durante algunos meses he estado
+ en una agitación espiritual, incapaz de
+ cualquier compañía, incluso del consuelo de tu
+ dulce compañía. Mis días de dolor han
+ terminado, salvo por esto: nunca podré verte
+ de nuevo. Mi vida tiene ahora un propósito
+ más elevado que la realización de una ridícula
+ historia de amor.
+      Ya no puedo soportar el mal de
+ __qgiver_, el mal que me hicieron
+ a mí, y el mal que están haciendo a todo
+ Tamriel. Los días de los que habló el profeta Marukh
+ han vuelto. Debo reunir al pueblo mediante
+ cualquier mentira, insinuación, prejuicio
+ y amenaza para que se alce contra la tiranía
+ espiritual de __qgiver_.
+     Perdóname, mi antiguo amor. Y si puedes,
+ olvídame. Y si no puedes hacer ninguna de las dos cosas,
+ no me veas. Si lo haces, te mataré
+ y pondré velas en tus ojos y entrelazaré
+ tus órganos con cuentas para la mayor
+ gloria de los dioses del universo. Asqueroso/a
+ =lover_, no me atormentes más.
+ 
+<ce>                               _prophet_
+
+Message:  1022
+Solía usarse en los rituales funerarios de __qgiver_.
+
+Message:  1023
+_replace_ es ese/a =replace_. Está relacionado/a con __qgiver_ de alguna manera.
+<--->
+_replace_ era un viejo amigo de _contact_ antes del... accidente.
+
+Message:  1024
+<ce>                        ¡Oh! Ese es el
+<ce>                       _relartifact_ de _prophet_. %oth, pobre
+<ce>                       _contact_. ¿Por qué no
+<ce>                    llevas esa carta que te di a
+<ce>                         alguien en __qgiver_?
+<ce>                  Seguramente eso sea suficiente para desacreditar
+<ce>                         a _prophet_, ¿no?
+
+Message:  1025
+<ce>                       %pcf, pensaba que tú
+<ce>                   debías estar investigando
+<ce>                      la situación en __tavern_.
+<ce>                     Bueno, ya que estás aquí,
+<ce>                    tengo algo diferente para
+<ce>                    que hagas. He encontrado algunas cartas
+<ce>                   rotas, en pedazos, sobre
+<ce>                          un/a =lover_ en algún lugar
+<ce>                          de ___lover_ con el
+<ce>                        nombre de _lover_. Mira a ver
+<ce>                   si puedes averiguar algo sobre %g2.
+<ce>                    No sé si %g hablará, pero
+<ce>                           vale la pena intentarlo.
+
+Message:  1026
+<ce>                     Recoges un trozo de carne,
+<ce>               cuidadosamente, casi de forma ritual,
+<ce>                      arrancado de la mano de un/a =priest_.
+<ce>                    Esto fue una vez un dedo de
+<ce>                               _priest_.
+
+Message:  1027
+Verdaderamente nauseabundo.
+<--->
+Un dedo cercenado.
+<--->
+Un trozo de la mano de alguien.
+<--->
+De muy mal gusto.
+<--->
+No está mal con un poco de sal y miel.
+<--->
+Parece una antigua ceremonia de __qgiver_. Solían hacer eso con los cadáveres.
+<--->
+Cuando estaba en __qgiver_, _prophet_ solía diseccionar cadáveres con esa precisión.
+<--->
+__qgiver_ abandonó ese tipo de disección funeraria, pero _prophet_ la promueve.
+
+Message:  1028
+<ce>                        Fue amable de _priest_
+<ce>                  echarme una mano, ¿no crees?
+                                     <--->
+<ce>                   %oth, ¿qué se suponía que debía hacer?
+<ce>                        _priest_ amenazó con
+<ce>                         delatarme, después de todo.
+                                     <--->
+<ce>                  Qué juguete tan curioso tienes,
+<ce>                       %pcf. Mira cómo señala.
+
+Message:  1029
+<ce>                    Cómo se atreven a perseguirme.
+<ce>                  Abandona tu profano abuso, sabueso de
+<ce>                         __qgiver_. Estoy bajo
+<ce>                   la protección de mi dios... y del
+<ce>                              %t de %reg.
+
+Message:  1030
+<ce>                       ¡_lover_! Criatura falsa,
+<ce>                      ¡engañador/a! ¡Cómo pagará %g!
+<ce>                            =fighter_, encárgate
+<ce>                            de este/a %ra!
+
+Message:  1031
+<ce>                       Gracias a %god, temía
+<ce>                      haberlo perdido. Gracias,
+<ce>                               noble %ra.
+
+Message:  1032
+%qdt:
+ _contact_ me dice
+ que _prophet_ está en
+ _prophouse_ en __prophouse_,
+ pero podría ser buena idea ir a
+ visitar a un/a =lover_ llamado/a
+ _lover_ en ___lover_.
+ _contact_ no conoce la
+ relación entre ambos,
+ pero vale la pena investigarlo.
+
+Message:  1033
+%qdt:
+ _priest_ me dijo
+ que el nombre _lover_
+ y la ciudad ___lover_
+ fueron encontrados en varios fragmentos de
+ papel en ___mondung_,
+ lo cual merece ser investigado.
+
+Message:  1034
+%qdt:
+ _replace_ me habló
+ del asesinato ritual de
+ _contact_ y me dio
+ algunos _relartifact_ encontrados en
+ el cuerpo. _replace_
+ sugirió que fuera a ___lover_,
+ se lo mostrara a _lover_,
+ y ver si eso convence a %g2
+ de hablar conmigo.
+
+Message:  1035
+%qdt:
+ Acabo de leer una carta
+ que _prophet_ envió a _lover_
+ hace un mes y que %g me dio. La
+ carta debería desacreditar por completo a
+ _prophet_
+ ante cualquiera de sus posibles
+ seguidores. El/la =prophet_
+ estaba loco/a como una cabra.
+
+Message:  1036
+%qdt:
+ Recibí una carta
+ de _qgiver_ diciéndome
+ que fuera a ___mondung_
+ y viera qué le ocurrió al sacerdote,
+ _priest_. Debo encontrar
+ al/a la =priest_ o
+ pruebas de su muerte.
+
+Message:  1037
+%qdt:
+ Encontré un dedo que supongo que una vez perteneció
+ a _priest_. Fue curiosamente,
+ incluso ceremonialmente cercenado.
+
+Message:  1038
+_prophet_ puede ser el mayor líder que haya salido de __tavern_.
+<--->
+_prophet_ pasa su tiempo en su habitación en _prophouse_, escribiendo.
+<--->
+_prophet_ nunca se ha llevado bien con __qgiver_.

@@ -1,0 +1,118 @@
+Quest: K0C00Y00
+DisplayName: Una lección ejemplar
+QRC:
+
+QuestorOffer:  [1000]
+<ce>          Tal vez seas la persona adecuada para un pequeño
+<ce>          trabajo que tengo en mente. Un competidor mío ha
+<ce>           usurpado un contrato que me pertenecía y ha entrado
+<ce>           en una relación comercial ilegal, o al menos inmoral.
+<ce>          Quiero corregir esta situación y enviar un mensaje
+<ce>                  para desalentar las futuras
+<ce>          intromisiones de _competitor_. Esto puede significar que
+<ce>        alguien tenga que aplastar algunos cráneos. ¿Te tentarían
+<ce>                       _reward_ piezas de oro para aceptar este trabajo?
+
+RefuseQuest:  [1001]
+<ce>                     %oth, los escrúpulos me hacen actuar sin pensar.
+
+AcceptQuest:  [1002]
+<ce>                  Bien. _competitor_ tiene una tienda en
+<ce>                 __storehouse_ llamada _storehouse_ y
+<ce>                   dentro hay un _mitem_ que quiero que
+<ce>            consigas. Y, al salir, deja esta
+<ce>            nota en cualquier parte de la tienda. No puedo resistirme.
+<ce>                 _competitor_ va a trasladar ese
+<ce>                  _mitem_ a un lugar más seguro en
+<ce>               =2storehouse_ días, así que tendrás que actuar
+<ce>               con rapidez. Si no regresas a tiempo,
+<ce>                  perderás tu oro. Y no hace falta
+<ce>                   que diga que _storehouse_
+<ce>               estará vigilado, ¿verdad? Buena suerte.
+
+QuestFail:  [1003]
+<ce>                     Esto no es una farsa, %pcf.
+<ce>                         Necesito que completes este trabajo.
+
+QuestComplete:  [1004]
+<ce>                    Bien hecho, %pcf. Ah, sí,
+<ce>                   precioso, precioso _mitem_. No hay
+<ce>                 duda de que este es el mismo
+<ce>                         _mitem_ que el socio de
+<ce>                _competitor_ entregó a %g2 para su resguardo. Sin duda
+<ce>              te has ganado tus _reward_ piezas de oro.
+
+RumorsDuringQuest:  [1005]
+Estos son tiempos en los que la competencia comercial se vuelve especialmente sangrienta.
+<--->
+_qgiver_ y _competitor_ son rivales aún más amargos que Gothryd y Akorithi.
+
+RumorsPostfailure:  [1006]
+_competitor_ realmente está restregándole a _qgiver_ en la cara el nuevo acuerdo comercial de %g3.
+<--->
+Resulta que _competitor_ es un comerciante más duro de lo que _qgiver_ jamás imaginó.
+
+RumorsPostsuccess:  [1007]
+_competitor_ ha perdido ese contrato que %g consiguió con tanto esfuerzo de _qgiver_.
+<--->
+_qgiver_ ha recuperado su antiguo contrato y está feliz como una arpía bien alimentada.
+
+QuestorPostsuccess:  [1008]
+Bien, me trajiste el _mitem_, ¿qué puedo hacer por ti?
+
+QuestorPostfailure:  [1009]
+No tengo nada que decirle al lacayo de _competitor_.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de ___qgiver_ me ha enviado
+ a _storehouse_ en __storehouse_
+ para "recuperar" un _mitem_ guardado
+ allí y dejar una nota. Si logro hacerlo
+ y regreso con __qgiver_ en =2storehouse_
+ días, ganaré _reward_ piezas de oro.
+
+Message:  1011
+
+ _competitor_,
+ 
+ 
+ Buena seguridad para tu seguridad.
+ 
+ 
+ 
+<ce>                            Tu querido amigo
+
+Message:  1012
+                                 __competitor_
+                                  ___competitor_
+ 
+ 
+ Estimado %pcn,
+ 
+      He recibido tu nota. Muy divertida. Ahora tengo
+ una propuesta para que consideres. Tráeme el
+ _mitem_ robado y te recompensaré con una
+ _gem_. Si llevas ese _mitem_ a tu
+ empleador, te habrás ganado un enemigo.
+ 
+ 
+<ce>                              _competitor_
+
+Message:  1013
+<ce>             Un joven te entrega una carta y sale corriendo
+<ce>               antes de que tengas oportunidad de preguntarle algo.
+
+Message:  1014
+<ce>                 ¿Le das a _competitor_ el _mitem_
+<ce>                       a cambio de la _gem_?
+
+Message:  1015
+<ce>                Una decisión inteligente, %pcf. Este puede ser el
+<ce>            comienzo de una relación provechosa. Los días
+<ce>                  en que _qgiver_ obtenía ganancias, por otro lado,
+<ce>                    bien podrían estar llegando a su fin.
+
+Message:  1016
+<ce>                 Entonces no sé por qué viniste aquí.
+<ce>                      Abandona este lugar ahora, %pcf.

@@ -1,0 +1,116 @@
+Quest: A0C01Y06
+DisplayName: Un Viaje Inesperado Parte II
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                         Mi nombre es _qgiver_.
+<ce>                Mi maestro me ha pedido que encuentre a un valiente
+<ce>                 aventurero para una misión peligrosa. No
+<ce>                puedo decirte más, salvo que vale
+<ce>                _gold_ piezas de oro para quien
+<ce>                 tenga éxito. ¿Te interesa?
+                                     <--->
+<ce>                   Llámame _qgiver_. Conozco a alguien
+<ce>                 que podría tener un trabajo interesante.
+<ce>                 Hay _gold_ oro para quien
+<ce>                            pueda hacerlo.
+
+RefuseQuest:  [1001]
+<ce>                   Buscaré en otro lugar a un héroe
+<ce>                     que cumpla la misión de mi maestro.
+
+AcceptQuest:  [1002]
+<ce>                    Ve a _meetingplace_. Allí
+<ce>                    encontrarás a mi maestro, _master_.
+                                     <--->
+<ce>                  Pregunta por _master_ en _meetingplace_
+<ce>                    y %g tendrá un trabajo para ti.
+
+QuestComplete:  [1004]
+<ce>                 =mmaster_ está muerto. Tus enemigos
+<ce>                  lo pensarán dos veces antes de intentar
+<ce>                           tal traición otra vez.
+
+RumorsDuringQuest:  [1005]
+<ce>                Escuché que un orco fue visto en la ciudad
+<ce>                     hoy. Espero que lo atrapen.
+
+RumorsPostfailure:  [1006]
+<ce>                  ¿Escuchaste el chiste del %ra
+<ce>                 que fue teletransportado al fondo de
+<ce>               una mazmorra? ¡Es muy gracioso! Oh. Perdón.
+
+RumorsPostsuccess:  [1007]
+<ce>                   ¡Oye! Eres ese %ra que mató
+<ce>                   al chamán orco. ¡Buen trabajo!
+
+QuestorPostsuccess:  [1008]
+<ce>                Está bien, está bien. Supongo que te debo una por aquel
+<ce>             incidente con el chamán orco. Estaba hechizado
+<ce>                      para parecer una persona normal.
+
+QuestorPostfailure:  [1009]
+<ce>                 ¡Solo mantente alejado! No quise que
+<ce>              nadie saliera herido. Ese orco estaba hechizado para parecer
+<ce>               una persona normal. No es mi culpa que te
+<ce>                    teletransportara a una mazmorra.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Conocí a _qgiver_ en ___qgiver_,
+ quien me dijo que su maestro,
+ _master_, pagaría _gold_ piezas de oro
+ por una tarea desconocida pero ciertamente
+ peligrosa. %g1 se está alojando en
+ _meetingplace_ en __meetingplace_.
+
+Message:  1011
+%qdt:
+ El traidor =mmaster_, disfrazado como
+ _master_, me hechizó
+ para enviarme a ___dungeon_. Si alguna vez
+ salgo, %g lamentará nuestro próximo encuentro.
+
+Message:  1012
+<ce>                Conóceme por lo que realmente soy. ¡Soy tu
+<ce>                   enemigo mortal, =mmaster_! Tengo un
+<ce>                    destino especial preparado para ti.
+
+Message:  1013
+<ce>                    ¡No me hagas daño, %pcn! Yo no
+<ce>               sabía lo que _master_ planeaba. No tengo
+<ce>               nada contra ti, de verdad. %g no me
+<ce>                   dijo nada, lo juro, solo
+<ce>                 me pagó para enviarte con %g2. Es a %g2
+<ce>                   a quien buscas, no a mí, ¿verdad? He oído
+<ce>                     que se ha mudado a __hidingplace_.
+<ce>                          Búscalo allí.
+
+Message:  1014
+<ce>                   No sé cómo escapaste de
+<ce>                   ___dungeon_, %pcf. Pero no te servirá
+<ce>                   de mucho. ¡Prepárate para morir!
+
+Message:  1020
+<ce>                   ¿_master_? No, no creo que %g sea
+<ce>                           de por aquí.
+                                     <--->
+<ce>                   _master_ es nuevo en la ciudad. No estoy
+<ce>                         seguro de dónde viene.
+
+Message:  1021
+<ce>                 _master_ ha estado preguntando por
+<ce>                               algún %ra.
+                                     <--->
+<ce>               _master_ se está quedando aquí en la ciudad. Dicen que
+<ce>               ha estado haciendo muchas preguntas sobre
+<ce>               un %ra. Tú eres un %ra, ¿verdad? Quizá
+<ce>                        te estaba buscando.
+
+Message:  1030
+%qdt:
+ He descubierto que =mmaster_
+ ahora se oculta en __hidingplace_.
+
+Message:  1035
+El cántico del chamán orco se intensifica.

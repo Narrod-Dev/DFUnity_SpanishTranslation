@@ -1,0 +1,144 @@
+Quest: K0C00Y03
+DisplayName: Contrabando
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  No tendrás problema en hacer
+<ce>                 un poco de contrabando para mí, ¿verdad,
+<ce>                      %pcf? Existe la posibilidad
+<ce>                 de riesgo, pero la certeza de ganancia para
+<ce>                    ambos. Tu parte sería de
+<ce>                  _gold_ piezas de oro. ¿Qué dices?
+                                     <--->
+<ce>                 Contrabando es una palabra fea, ¿no?
+<ce>                  Prefiero decir que necesito llevar
+<ce>                   ciertos artículos legalmente ambiguos
+<ce>                   a un lugar donde algunos los recibirán
+<ce>                   con gusto, y otros, la ley en concreto,
+<ce>                         no. ¿Interesa?
+
+RefuseQuest:  [1001]
+<ce>                      Entonces nunca nos conocimos. Recuerda
+<ce>                              eso, %pcf.
+                                     <--->
+<ce>                       En ese caso, negaré
+<ce>                           haberte conocido.
+
+AcceptQuest:  [1002]
+<ce>                    Perfecto. Aquí está el plan, %pcf.
+<ce>                Tengo un pequeño negocio paralelo exportando
+<ce>                         _item_ a __conhouse_,
+<ce>                pero mis agentes habituales están siendo vigilados
+<ce>                 por la guardia del %t. Si puedes llevar el
+<ce>                        _item_ a __conhouse_,
+<ce>                     a un lugar llamado _conhouse_,
+<ce>                     mi cliente _contact_ te dará
+<ce>                las _gold_ piezas de oro que mencioné.
+<ce>                No hables con ningún guardia mientras tengas
+<ce>                      el _item_ y no falles en llegar
+<ce>                  a _conhouse_ en =queston_ días,
+<ce>                  o haré de mi vida destruir tu reputación con
+<ce>                    el gobierno, el inframundo y cualquiera
+<ce>                 que se me ocurra. Pero estoy seguro de que
+<ce>                  no me fallarás. Buena suerte.
+<ce>                          Haz que _qgiver_ se sienta orgulloso.
+
+QuestComplete:  [1004]
+<ce>                  Bastante tenso estar aquí,
+<ce>                       esperando por ti, %pcf. Ah,
+<ce>                     el _item_. De buena calidad.
+<ce>                  Toma, aquí tienes las _gold_ piezas de oro.
+<ce>                      Un placer hacer negocios contigo
+<ce>                             y con _qgiver_.
+
+RumorsDuringQuest:  [1005]
+El contrabando de _item_ entre ___qgiver_ y __conhouse_ es una vergüenza para %reg.
+<--->
+El %t ha jurado hacer algo respecto a la ola de contrabando de _item_.
+
+RumorsPostsuccess:  [1007]
+Nunca podrán acabar con el contrabando de _item_ en %reg. Hay demasiada demanda.
+<--->
+%rt %rn ha nombrado a _qgiver_ ejecutor especial en la guerra contra el contrabando.
+
+QuestorPostsuccess:  [1008]
+_contact_ me dice que llegaste sin problemas. Por eso, gracias.
+
+QuestorPostfailure:  [1009]
+<ce>               Tal vez me traicionaste, tal vez solo eres
+<ce>                  un mal contrabandista. En cualquier caso, lárgate.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de
+ ___qgiver_ me ha dado
+ un _item_ para introducir de contrabando en __conhouse_.
+ El nombre de mi contacto allí es
+ _contact_ y %g estará
+ esperando en _conhouse_.
+ Naturalmente, tendré que
+ cuidarme de los guardias de la ciudad
+ en esta tarea. Tengo =queston_ días
+ para llegar.
+
+Message:  1011
+Estimado %pcf,
+ 
+      Te han tendido una trampa. _contact_
+ no está en _conhouse_. Un caballero
+ llamado =guard_ está esperando allí
+ para emboscarte. Si quieres deshacerte de
+ ese _item_, tráemelo
+ a __contact2_ aquí en
+ ___contact2_.
+ 
+ 
+ _contact2_
+
+Message:  1012
+<ce>                           Una carta ha sido
+<ce>                        deslizada en tus manos.
+
+Message:  1013
+%qdt:
+ Recibí una carta de alguien llamado
+ _contact2_, diciendo que
+ _conhouse_ es una trampa. Se
+ me ha ofrecido la opción de entregar
+ el _item_ a este _contact2_
+ en la posada de %g3 en ___contact2_,
+ __contact2_.
+
+Message:  1014
+<ce>                   Ah, recibiste mi carta. Bien
+<ce>                    por ti. Había una situación
+<ce>                   complicada en marcha y odiaría
+<ce>                     que te vieras envuelto en ella. Me quedaré
+<ce>                          con ese _item_ a
+<ce>                    cambio de mis servicios limpiando
+<ce>                      tu implicación en este
+<ce>                       fallido plan de contrabando.
+<ce>                          No hace falta que agradezcas.
+
+Message:  1015
+<ce>                   Espera un momento, chico. No te queremos
+<ce>                       a ti. Solo a _qgiver_ y al
+<ce>                      _item_. Entrégalo y podrás
+<ce>                       irte de aquí, ¿de acuerdo?
+                                     <--->
+<ce>                  Escucha, chico, nada personal. Solo
+<ce>                          dame el _item_ y
+<ce>                       le diré a mi jefe que lograste
+<ce>                              escapar. ¿Trato?
+
+Message:  1016
+<ce>                         Eres listo, chico. Ahora,
+<ce>                            lárgate de aquí.
+
+Message:  1017
+<ce>                        _qgiver_ no va a
+<ce>                    estar contento de que te quedes con
+<ce>                        el _item_, pero ya es
+<ce>                      tarde para entregarlo en algún sitio.
+<ce>                       Quizá puedas venderlo
+<ce>                            en algún lugar...

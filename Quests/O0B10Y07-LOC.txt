@@ -1,0 +1,70 @@
+Quest: O0B10Y07
+DisplayName: Las joyas de la nobleza
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Te hemos estado vigilando,
+<ce>                          %pcf. No importa quiénes
+<ce>                        somos "nosotros". Eres miembro
+<ce>                       prometedor de este gremio. Si
+<ce>                        hicieras un trabajo especial
+<ce>                        para nosotros, sin cobrar,
+<ce>                       podríamos verte con buenos ojos
+<ce>                             en el futuro.
+<ce>                            ¿Qué me dices?
+
+RefuseQuest:  [1001]
+<ce>                        ¡Cuida tu espalda, asqueroso
+<ce>                            pequeño traidor!
+
+AcceptQuest:  [1002]
+<ce>                 Tu encargo es muy sencillo. %rt en
+<ce>                __palace_ ha "comprado" hace poco
+<ce>               _jewelry_ de una factura tan decente
+<ce>               que tenemos interés en echarle un ojo de
+<ce>               cerca. Vas a tener precisamente =2palace_
+<ce>               días para entrar en el palacio, fugarte
+<ce>               con dicha baratija y volver aquí. No es
+<ce>               imposible para alguien del Gremio de
+<ce>                Ladrones. ¿A qué esperas, %pcf?
+<ce>                         ¡Lárgate de una vez!
+
+QuestFail:  [1003]
+<ce>                        ¡He dicho que te largues!
+
+QuestComplete:  [1004]
+<ce>                        Enhorabuena, %pcf.
+<ce>                       Tendrás noticias nuestras
+<ce>                        dentro de no mucho tiempo.
+
+RumorsDuringQuest:  [1005]
+%t %rn está evidentemente orgulloso de su nuevo ejemplar de _jewelry_. Todo el mundo quiere verlo.
+<--->
+La seguridad ha aumentado en _palace_, al parecer por la llegada de _jewelry_.
+
+RumorsPostfailure:  [1006]
+Los hombres de %t lograron recuperar _jewelry_ tras el intento fallido de robo.
+<--->
+El Gremio de Ladrones no desperdiciaría una oportunidad así para hacerse con _jewelry_.
+
+RumorsPostsuccess:  [1007]
+El Gremio de Ladrones se está volviendo muy osado, robando directamente a %t.
+<--->
+El Gremio de Ladrones ha logrado ocultar con éxito la identidad de quien robó en _palace_.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Para ganar influencia en el Gremio de Ladrones,
+ he aceptado entrar en _palace_,
+ el palacio de %t en __palace_,
+ y robar su nuevo ejemplar de _jewelry_.
+ Tengo =2palace_ días para poner
+ _jewelry_ en manos de _qgiver_
+ en ___qgiver_.
+
+Message:  1015
+<ce>                        Ya tienes _jewelry_
+<ce>                       que te enviaron a buscar.
+
+Message:  1020
+<ce>                        ¡Esta debe ser la pieza!

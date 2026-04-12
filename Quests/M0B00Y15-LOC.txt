@@ -1,0 +1,78 @@
+Quest: M0B00Y15
+DisplayName: Caza de roedores gigantes
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                            Soy _qgiver_.
+<ce>                Tengo un trabajo bastante servil, si es que
+<ce>                te interesa. A decir verdad, hay miembros
+<ce>                que prefieren estos encargos porque pagan
+<ce>                tan bien como los más difíciles. Una casa
+<ce>                de la ciudad está infestada de roedores
+<ce>                gigantes. La esposa dice que son ratas, el
+<ce>                marido dice que murciélagos. Sea como sea,
+<ce>                quieren que se larguen. ¿Te interesa?
+
+RefuseQuest:  [1001]
+<ce>                  Es obvio que no tienes amor por el
+<ce>                 Gremio de Luchadores. Me aseguraré de
+<ce>                   decirles lo que realmente piensas.
+
+AcceptQuest:  [1002]
+<ce>                     Los bichos han infestado _house_.
+<ce>                  Ve allí, mátalos a todos y recibirás tu
+<ce>                  paga. Solo puedo darte un día para
+<ce>                         terminar con esto.
+
+QuestComplete:  [1004]
+<ce>                    Matar murciélagos, incluso gigantes,
+<ce>                    no requiere gran habilidad, pero se
+<ce>                         paga igual de bien, ¿no?
+
+RumorsDuringQuest:  [1005]
+<ce>                   Alguien sin juicio no reparó su tejado
+<ce>                    por un par de meses. Ahora tiene
+<ce>                     murciélagos gigantes en su casa.
+
+RumorsPostfailure:  [1006]
+<ce>                   ¿Oíste sobre la mujer que tuvo que
+<ce>                    abandonar su hogar? Estaba infestado
+<ce>                    de murciélagos gigantes y no tenía
+<ce>                   oro suficiente para pagar al Gremio
+<ce>                       de Luchadores para matarlos.
+
+RumorsPostsuccess:  [1007]
+<ce>                  Oí que el Gremio de Luchadores envió a
+<ce>                   alguien de estirpe %ra a matar a los
+<ce>                  bichos de esa casa. Le costó un dineral,
+<ce>                  pero supongo que es mejor que abandonar
+<ce>                             su propio hogar.
+
+QuestorPostsuccess:  [1008]
+<ce>                  Así que mataste a los murciélagos. No te
+<ce>                  lo creas demasiado. Solo eran simples
+<ce>                         murciélagos gigantes.
+
+QuestorPostfailure:  [1009]
+<ce>                  Ni siquiera pudiste encargarte de unos
+<ce>                    murciélagos. No tienes remedio, %pcn.
+
+QuestLogEntry:  [1010]
+%qdt:
+ El Gremio de Luchadores de ___qgiver_
+ me ha pedido que limpie _house_
+ de las ratas o murciélagos gigantes
+ que la han infestado. Tengo un día
+ para lograrlo.
+
+Message:  1011
+<ce>  Oyes tenuemente el sonido de garras de varias ratas
+<ce>  arañando el suelo. Parecen estar acercándose.
+
+Message:  1012
+<ce>  Oyes tenuemente el sonido de chillidos de murciélagos.
+<ce>  Parecen estar acercándose.
+
+Message:  1020
+<ce>                 Ya son casi todos. El Gremio de
+<ce>                Luchadores no pondrá pegas por el resto.

@@ -1,0 +1,61 @@
+Quest: B0B40Y09
+DisplayName: Matar a un Gigante
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                      Acabo de recibir noticias de un
+<ce>                      _monster_ que está saqueando granjas
+<ce>                       y devorando ganado. ¿Mi nombre?
+<ce>                       Mil disculpas, %pcf.
+<ce>                        Soy _qgiver_. ¿Irás a
+<ce>                         matar al _monster_?
+
+RefuseQuest:  [1001]
+<ce>                     ¿Dónde están los nobles caballeros?
+<ce>                      ¿Han desaparecido todos de
+<ce>                           %reg? Márchate, %pcn.
+
+AcceptQuest:  [1002]
+<ce>                     El _monster_ ha hecho su guarida
+<ce>                         en ___dungeon_. Ve
+<ce>                        allí y mátalo. Puede que
+<ce>                      encuentres otros _monster_s
+<ce>                     allí. Mátalos si es necesario,
+<ce>                       pero asegúrate de acabar con el
+<ce>                       que tiene la marca de una garra
+<ce>                      de oso en su brazo. Solo puedo darte
+<ce>                           =2dung_ días.
+
+QuestComplete:  [1004]
+<ce>                     Ahora sí eres un verdadero cazador de
+<ce>                       _monster_s, %pcf! Y pensar que
+<ce>                       pude estrechar tu mano.
+
+RumorsDuringQuest:  [1005]
+Los gigantes no suelen ser tan agresivos. Pero el de ___dungeon_ sí lo es.
+
+RumorsPostfailure:  [1006]
+He oído que el gigante de ___dungeon_ se fue hacia el sur. Deben estar maldiciéndonos allí.
+
+RumorsPostsuccess:  [1007]
+El %kno salvó a %reg otra vez. Un %ra de su orden mató al gigante de ___dungeon_.
+
+QuestorPostsuccess:  [1008]
+Hola, %pcf, el Mata-Gigantes. ¿Qué puedo hacer por ti?
+
+QuestorPostfailure:  [1009]
+Vuelve cuando sepas matar a un simple gigante, %pcf.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de
+ __qgiver_ en ___qgiver_
+ me habló de un _monster_ que debe
+ ser eliminado en ___dungeon_.
+ Solo tengo =2dung_ días.
+
+Message:  1011
+<ce>                     Una marca de garra de oso es claramente
+<ce>                      visible en el brazo del _monster_.
+<ce>                      Este debe ser
+<ce>                       del que habló _qgiver_.

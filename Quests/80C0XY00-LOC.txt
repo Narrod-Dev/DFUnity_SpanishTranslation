@@ -1,0 +1,152 @@
+Quest: 80C0XY00
+DisplayName: La misión de Malacath
+QRC:
+
+QuestorOffer:  [1000]
+<ce>              Sí, conozco a alguien más que estaba interesado
+<ce>              en el poder. Una pequeña panikosa en Oblivion que
+<ce>              soñaba con el poder, que me pidió que se lo otorgara
+<ce>                junto con la belleza y la gracia que siempre
+<ce>               había deseado. Y cuando la hice hermosa,
+<ce>               luchó contra mí, resistiendo mi voluntad como si
+<ce>                 no la hubiera creado. Quizás tú seas
+<ce>               igual. Si te hiciera fuerte y hermoso,
+<ce>                respetarías el don que te di, ¿no es
+<ce>                                así?
+
+RefuseQuest:  [1001]
+<ce>                      Insensato %ra, ¿ni siquiera
+<ce>                  sabes lo suficiente como para mentir? No hagas
+<ce>                   perder mi tiempo con tus patéticos anhelos.
+
+AcceptQuest:  [1002]
+<ce>                        Te creo, %pcn. A
+<ce>               cambio de la muerte de la traicionera
+<ce>              seductora en la que una vez confié, te daré
+<ce>                 el _artifact_, mi posesión más preciada
+<ce>             en tu mundo. Te hará verdaderamente poderoso.
+<ce>               Encontrarás a la despreciable criatura
+<ce>                  en ___mondung_. Mátala y reúnete con mi
+<ce>                  querido y leal súbdito, _qgfriend_,
+<ce>                  en ___qgfriend_. Le diré a %g2 que
+<ce>             se reúna contigo en el palacio allí por conveniencia.
+<ce>               No creo que todo el asunto deba tomar
+<ce>                 más de =1stparton_ días si se hace
+<ce>               de manera eficiente. Ve entonces al
+<ce>                     mundo y cumple mi voluntad, %pcn.
+
+QuestFail:  [1003]
+<ce>                     Piérdete, %ra baboso.
+<ce>                 Estoy buscando a un verdadero ser humano.
+
+QuestComplete:  [1004]
+<ce>                       Así que tú eres %pcn. Malacath
+<ce>                te describió perfectamente. Buen trabajo con
+<ce>                     la vieja =monster_. Simplemente no
+<ce>               sabía cuándo mantener la boca cerrada, ¿sabes?
+<ce>                  En fin, aquí tienes el _artifact_. Nada mal
+<ce>             como arma demoledora. Y quién sabe, quizá algún día
+<ce>                 tengas que usarlo contra el propio Malacath.
+<ce>                             Estoy bromeando...
+<ce>                               claro.
+
+RumorsDuringQuest:  [1005]
+_murder_ fue encontrado muerto, justo en su palacio en ___ruler_.
+<--->
+La mayoría de los seductores daedra tienen una misión. El de ___mondung_ solo está esperando.
+
+RumorsPostfailure:  [1006]
+Aún sigo pensando en la risa de esa mujer que escuché venir del cielo.
+<--->
+No sé dónde, pero mucha gente la vio volando hace algunas noches.
+
+RumorsPostsuccess:  [1007]
+Escuché que esa seductora fue asesinada por los agentes de su maestro por enamorarse.
+<--->
+Me ponía nervioso — esa seductora simplemente sentada en ese agujero, esperando algo.
+
+Message:  1011
+_qgfriend_ es un noble, del que se rumorea que tuvo un romance secreto con una dama oscura.
+<--->
+_qgfriend_ es un noble con muchas lealtades secretas.
+
+Message:  1012
+Malacath es el Príncipe Daedra de las Mentiras, el Engaño y la Hipocresía.
+<--->
+Malacath cría mentiras como un perro muerto cría gusanos.
+
+Message:  1013
+<ce>      El _artifact_ es un martillo de guerra de gran poder, capaz de drenar
+<ce>                      la fuerza de sus víctimas.
+
+
+Message:  1015
+=monster_ está muerto.
+
+Message:  1020
+%qdt:
+ He invocado al Príncipe Daedra Malacath
+ quien ha ofrecido el _artifact_ a cambio de
+ la muerte de =monster_, una seductora daedra
+ anteriormente afiliada a él. La seductora ha buscado
+ refugio en un lugar llamado ___mondung_.
+ Si puedo matar a =monster_ y llegar al Palacio de
+ ___qgfriend_ en =1stparton_ días,
+ un =qgfriend_ llamado _qgfriend_ me dará
+ el _artifact_.
+
+Message:  1030
+=monster_,
+ 
+      Malacath desea que _murder_ muera.
+ %g3 agentes han descubierto demasiados de
+ nuestros planes. %g debe ser detenido antes de que todos
+ nuestros planes para %reg se arruinen. Encontrarás a %g2
+ en el Palacio de ___ruler_. Asegúrate de que
+ su muerte no pueda ser rastreada hasta nosotros.
+     Una vez que hayas llevado a cabo el asesinato,
+ espérame en ___mondung_. Traeré
+ tu recompensa y tu próxima misión de parte de
+ Malacath.
+ 
+<ce>                               _qgfriend_
+
+Message:  1040
+<ce>                     ¡%oth! ¿_qgfriend_ estaba detrás
+<ce>                    de la muerte de _murder_? ¿Y también
+<ce>                   involucrado en un complot daedra? Puede que
+<ce>                 nunca hubiéramos resuelto este asesinato sin
+<ce>                   tu ayuda, %pcn. Tu lealtad a
+<ce>                     %rt no será olvidada.
+
+Message:  1041
+<ce>                       ¿Entregas la
+<ce>                            nota de _qgfriend_ a _ruler_?
+
+Message:  1050
+<ce>La muerte de _murder_ sigue siendo un misterio. _ruler_ está liderando la investigación,
+<ce>                        pero hasta ahora no hay pistas.
+                                     <--->
+<ce>Estoy seguro de que _murder_ fue asesinado por su investigación de la corrupción
+<ce>                                en %reg.
+
+Message:  1051
+<ce>  _murder_ estaba investigando un complot para derrocar a %rt %rn cuando %g fue
+<ce> "misteriosamente" asesinado. _ruler_ está tratando de descubrir quién fue el responsable,
+<ce>                pero nunca llegará al fondo del asunto.
+                                     <--->
+<ce>_murder_ fue encontrado muerto en el Palacio de ___ruler_, y todas sus notas sobre
+<ce>    su investigación de traición de alto nivel fueron robadas. _ruler_ fue
+<ce>      enviado a encontrar al asesino, pero no tiene pistas.
+
+Message:  1052
+<ce>      _ruler_ está liderando la investigación sobre la muerte de _murder_,
+<ce>                        pero hasta ahora no hay pistas.
+                                     <--->
+<ce> _ruler_ está investigando la muerte de _murder_ en el Palacio de ___ruler_.
+
+Message:  1053
+<ce>_ruler_ está tratando de descubrir quién fue responsable de la muerte de _murder_,
+<ce>                pero nunca llegará al fondo del asunto.
+                                     <--->
+<ce>_ruler_ fue enviado a encontrar al asesino de _murder_, pero no tiene pistas.

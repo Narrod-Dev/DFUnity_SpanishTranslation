@@ -1,0 +1,167 @@
+Quest: K0C00Y05
+DisplayName: El niño perdido
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 He acudido al Gremio de Luchadores,
+<ce>               pero al parecer están demasiado ocupados
+<ce>               rescatando damas y jóvenes de alta cuna
+<ce>                en apuros como para preocuparse por la
+<ce>                  desaparición de un niño humilde. Pero
+<ce>                       _child_ es todo lo que tengo.
+<ce>                    Por favor, encuentra a %g2 por mí,
+<ce>                         ¿sí, amigo?
+                                     <--->
+<ce>                  Esos malditos orcos han secuestrado a
+<ce>              mi pequeño primo y nuestros supuestos protectores,
+<ce>                  el Gremio de Luchadores, se niegan a tomarme
+<ce>                       en serio. _child_ es
+<ce>                     solo un =child_, no digno de
+<ce>                 su atención, pero %g es todo lo que tengo.
+<ce>                  Por favor, buen %ra, ¿me ayudarás?
+
+RefuseQuest:  [1001]
+<ce>                    Un corazón de piedra, igual que el
+<ce>                      Gremio de Luchadores. ¿Qué valor
+<ce>                  tiene la vida de un niño inocente?
+
+AcceptQuest:  [1002]
+<ce>                   Gracias, gracias. Puedo darte
+<ce>                  _gold_ piezas de oro si encuentras a
+<ce>                        _child_ -- es todo lo que
+<ce>                  tengo. Ahora, esos orcos que se llevaron a %g2
+<ce>                  son los que acampan en el apestoso
+<ce>                      ___mondung_. Necesito saber
+<ce>                        si _child_ está bien
+<ce>                 en =queston_ días o enviaré
+<ce>                 a alguien más. Por favor, no me obligues
+<ce>                      a eso. Que %god te acompañe,
+<ce>                              buen %pcn.
+
+QuestComplete:  [1004]
+<ce>                        _child_, ¡oh, gracias %god!
+<ce>                       %oth, mi buen %pcn,
+<ce>                    eres mi salvador. Toma, aquí están
+<ce>                       tus _gold_ piezas de oro.
+
+RumorsDuringQuest:  [1005]
+_qgiver_ está muy angustiado por la desaparición de _child_.
+
+RumorsPostfailure:  [1006]
+_qgiver_ ha perdido toda esperanza de volver a encontrar a _child_.
+
+RumorsPostsuccess:  [1007]
+_qgiver_ y _child_ se han reunido de nuevo, gracias a un mercenario %ra.
+
+QuestorPostsuccess:  [1008]
+Me has traído de vuelta a _child_, %pcf. ¿En qué puedo ayudarte?
+
+QuestorPostfailure:  [1009]
+<ce>                     ¿No me recuerdas, %pcf?
+<ce>                          ¿_qgiver_? Dijiste
+<ce>                        que traerías de vuelta a _child_
+<ce>                     por mí, pero fallaste. No tengo
+<ce>                        nada que decirte.
+<ce>                            Vete al Oblivion.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_
+ de __qgiver_, ___qgiver_
+ me ha enviado a rescatar a
+ el pequeño primo de %g3, _child_.
+ Al parecer, %g está retenido por un
+ grupo de orcos en ___mondung_.
+ Tengo =queston_ días para salvar al niño.
+
+Message:  1011
+                             __knight_
+                              ___knight_
+ 
+ Estimado %pcn,
+ 
+      _child_ no ha sido
+ secuestrado por ninguna tribu de orcos ni nada
+ por el estilo. De hecho, %g está con nosotros, como
+ protección contra _qgiver_,
+ quien es un conocido borracho. Si quieres
+ comprobarlo con tus propios ojos,
+ ven a __knight_.
+ 
+                            Atentamente,
+ 
+                            _knight_
+
+
+Message:  1012
+<ce>                   Un mensajero con la heráldica del
+<ce>                  Gremio de Luchadores aparece a tu
+<ce>                      lado. Te entrega una carta
+<ce>                           y se marcha apresuradamente.
+
+Message:  1013
+%qdt:
+ He recibido una carta
+ de _knight_, un caballero
+ del Gremio de Luchadores, quien dice que %g
+ tiene al niño que debo rescatar de
+ ___mondung_. Según
+ _knight_, _child_ ha sido
+ apartado de la custodia de _qgiver_
+ porque =qgiver_ es un borracho. Si quiero
+ comprobarlo por mí mismo,
+ _knight_ está en __knight_
+ en ___knight_.
+
+Message:  1014
+<ce>                 Supongo que recibiste mi carta, %pcf.
+<ce>             Eso es bueno. No me gustaría que, con las
+<ce>               mejores intenciones, te metieras en una
+<ce>                       situación bastante peligrosa. _child_
+<ce>                   es primo de _qgiver_, desde luego,
+<ce>                   pero más importante aún, el =child_
+<ce>              es heredero de la fortuna de sus abuelos. Por
+<ce>                la seguridad de %g3, hemos trasladado a %g2 a un
+<ce>                  lugar en __childlocale_. Supongo
+<ce>                   que puedo decírtelo -- _childlocale_.
+<ce>              Mejorarás tu ya buena reputación
+<ce>               con el Gremio de Luchadores si simplemente dejas
+<ce>                         en paz a _child_.
+
+Message:  1015
+<ce>                           Hola, soy _child_.
+<ce>                         Tengo siete años.
+                                     <--->
+<ce>                        Hola. Me llamo _child_.
+<ce>               ¿Quieres oír un chiste? Vale, ahí va.
+<ce>                                 %jok.
+                                     <--->
+<ce>                    Mi abuelo es más rico que tú.
+                                     <--->
+<ce>                    Hola, se supone que no debo hablar
+<ce>                 con desconocidos. Pero si no hablo con
+<ce>                   desconocidos, entonces no hay nadie
+<ce>                          con quien hablar. Me llamo
+<ce>                               _child_.
+                                     <--->
+<ce>                      Hola, ¿eres un %ra? Yo también,
+<ce>                     y me llamo _child_.
+
+Message:  1016
+<ce>                           _child_ sale corriendo
+<ce>                     cuando te alejas de %g2.
+
+Message:  1017
+<ce>                         ¿Te llevas a _child_?
+
+Message:  1018
+<ce>                    El guerrero lleva la heráldica
+<ce>                        del Gremio de Luchadores.
+
+Message:  1019
+%qdt:
+ Me he reunido con _knight_ del
+ Gremio de Luchadores. %g me dijo que
+ _child_ está a salvo en
+ _childlocale_ en __childlocale_.
+ 

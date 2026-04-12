@@ -1,0 +1,134 @@
+Quest: A0C00Y15
+DisplayName: El Mensajero
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                      He oído hablar de ti, %pcn.
+<ce>                         Soy _questgiver_. ¿Podría
+<ce>                  pedirte un favor? ¿Pasarás por
+<ce>                      ___pickupregion_ en algún momento
+<ce>                    pronto? Si es así, necesito entregar un
+<ce>                   paquete a alguien allí. Con gusto
+<ce>                   te pagaré _gold_ piezas de oro.
+                                     <--->
+<ce>                     Tu reputación te precede,
+<ce>                        %pcn. Necesito un
+<ce>                    mensajero. ¿Por casualidad te diriges
+<ce>                    hacia ___pickupregion_
+<ce>                   en algún momento pronto? ¿Podría confiar en ti
+<ce>                    para dejar un paquete allí por
+<ce>                    mí? Te pagaría _gold_ piezas de oro
+<ce>                        por la molestia.
+
+RefuseQuest:  [1001]
+<ce>                               Qué pena.
+                                     <--->
+<ce>                   Tendré que encontrar a alguien dispuesto
+<ce>                         a trabajar para ganarse la vida.
+                                     <--->
+<ce>                     Debes ser un %pcn diferente
+<ce>              del que he oído hablar tanto.
+
+AcceptQuest:  [1002]
+<ce>                       ¡Genial! Lleva este paquete
+<ce>                        a ___pickupregion_ y
+<ce>                        pregunta por _pickupregion_.
+<ce>                       %g te pagará. Debe
+<ce>                   estar allí en =traveltime_ días.
+<ce>                          Aquí tienes el paquete.
+                                     <--->
+<ce>                ¡Qué suerte! Mi amigo es _pickupregion_
+<ce>                     en ___pickupregion_. Solo pregunta
+<ce>                  por ahí, todos conocen a %g2. %g te
+<ce>                    pagará de inmediato. Si tardas
+<ce>                   más de =traveltime_ días, más te vale tirarlo.
+<ce>                              Aquí está.
+
+QuestComplete:  [1004]
+<ce>                       Esperaba que _questgiver_
+<ce>                pudiera hacerme llegar esto a tiempo.
+<ce>                      %g ha estado muy ocupado últimamente.
+<ce>                 Aquí tienes el oro _gold_ que te prometieron.
+
+RumorsDuringQuest:  [1005]
+<ce>                Los orcos están causando problemas otra vez.
+
+RumorsPostfailure:  [1006]
+<ce>               Dicen que el espíritu del difunto rey Lysandus
+<ce>                      ha sido visto en Daggerfall.
+
+RumorsPostsuccess:  [1007]
+<ce>                Una tormenta en el mar destrozó un barco
+<ce>                cerca de las costas de Daggerfall. Dicen que llevaba
+<ce>                     a un emisario del emperador.
+
+QuestorPostsuccess:  [1008]
+<ce>               Mi humilde agradecimiento por llevar ese paquete
+<ce>                          a ___pickupregion_.
+
+QuestorPostfailure:  [1009]
+<ce>                  ¡Canalla! ¿Qué hiciste con mi
+<ce>                 paquete? ¿Lo vendiste? Nunca llegó a
+<ce>                     ___pickupregion_. Márchate.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _questgiver_ de
+ ___questgiver_ me ha encargado
+ la tarea de entregar
+ un paquete a _pickupregion_
+ de ___pickupregion_.
+ Debo tenerlo allí dentro de
+ =traveltime_ días.
+
+Message:  1011
+<ce>                    Este libro tiene un valor
+<ce>                     sentimental. _pickupregion_ no ha
+<ce>                         visto una copia de _book_
+<ce>                               en años.
+
+Message:  1012
+<ce>                       _pickupregion_ necesita este
+<ce>                       _ingredient_ para una preparación
+<ce>                           especial que %g está haciendo.
+
+Message:  1013
+<ce>                       Esta _jewelry_ es un regalo
+<ce>                      para _pickupregion_ que
+<ce>                     sellará mi acuerdo con %g2.
+
+Message:  1014
+<ce>                   Esta es una _mensclothing_ especial
+<ce>                        que mi madre hizo para
+<ce>                  _pickupregion_ para la celebración.
+
+Message:  1015
+<ce>                    _pickupregion_ encargó esta
+<ce>                          _painting_. Debe estar allí
+<ce>                          para la reunión de %g3 mañana.
+
+Message:  1016
+<ce>                       _pickupregion_ necesita esta
+<ce>                     _potion_ lo antes posible.
+
+Message:  1017
+<ce>                        _pickupregion_ ha sido
+<ce>                       amenazado. Esta _weapon_
+<ce>                     debería calmar los temores de %g3.
+
+Message:  1018
+<ce>                  Compré esta fina _womensclothing_
+<ce>                     para la boda de _pickupregion_.
+<ce>                  Sería terriblemente vergonzoso
+<ce>                     si no llega a tiempo.
+
+Message:  1019
+<ce>                    ¿Qué quieres? ¿_questgiver_?
+<ce>                     Sí, %g prometió enviarme un
+<ce>                    paquete. Si no lo recibo pronto,
+<ce>                          será demasiado tarde.
+
+Message:  1020
+<ce>                    Sé que tienes un paquete de
+<ce>                         _questgiver_. Entrégalo
+<ce>                       y nadie saldrá herido.

@@ -1,0 +1,99 @@
+Quest: P0B20L09
+DisplayName: La vanguardia
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 Called
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called
+
+QuestFail:  [1003]
+Error: Questtext 1003 Called
+
+QuestComplete:  [1004]
+<ce>                  Te saludo, tras el exterminio de licántropos.
+<ce>                 Tu progenitor de sangre se alegrará mucho
+<ce>                  al saber de la eficiencia de tu
+<ce>                  limpieza. Conserva el colmillo de =wereboar_
+<ce>                    como una insignia de honor entre %vam.
+
+RumorsDuringQuest:  [1005]
+___mondung_ es la mazmorra en la que nadie debería entrar jamás. Nunca.
+
+RumorsPostfailure:  [1006]
+Se oyeron aullidos de triunfo saliendo de ___mondung_ la otra noche.
+
+RumorsPostsuccess:  [1007]
+Las cosas están tranquilas, como una tumba, en ___mondung_ de nuevo.
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called
+
+QuestLogEntry:  [1010]
+                    __vamp_
+                     ___vamp_
+ 
+ 
+ Estimable %pcn,
+ 
+      %vam te necesita.
+ Ven de inmediato.
+ 
+ 
+                   Tuyo en la muerte,
+ 
+                   _vamp_
+
+Message:  1011
+<ce>                       Honorable %pcn, buenas noches.
+<ce>                 Los ancestros de %vam se reunirán pronto
+<ce>                en %reg, pero como una burla, un grupo de
+<ce>                  licántropos se ha instalado en
+<ce>                  ___mondung_, donde los ancestros planean
+<ce>                 reunirse. Por favor, muestra a esta calaña y
+<ce>                  a otros de su clase que ___mondung_
+<ce>          pertenece a %vam y no toleraremos intrusos.
+<ce>           Elimina a tantos como sea posible, incluyendo a su
+<ce>            líder, un hombre jabalí. Regresa aquí con uno
+<ce>            de sus colmillos en =queston_ noches y %vam
+<ce>                  te estará muy agradecido. Que te vaya bien.
+
+Message:  1012
+%qdt:
+ He recibido una carta
+ de _vamp_ de %vam,
+ solicitando mi presencia urgente
+ en __vamp_, en ___vamp_.
+
+Message:  1013
+%qdt:
+ _vamp_ me ha enviado a
+ ___mondung_, donde un grupo de impudentes
+ criaturas se han atrevido a invadir el
+ terreno de %vam. Debo mostrarles a esos
+ seres el error de sus actos y volver con
+ _vamp_ en =queston_ noches con el colmillo
+ de su líder como trofeo.
+
+Message:  1017
+<ce>                     Un muchacho pálido y de ojos desorbitados
+<ce>                    te entrega una carta y luego desaparece
+<ce>                               en la oscuridad.
+
+Message:  1020
+<ce>                    Has eliminado a =wereboar_, líder de los
+<ce>                    licántropos. Ahora sabrán que es mejor
+<ce>                    no entrar sin permiso en un baluarte
+<ce>                            de la estirpe %vam.
+
+Message:  1021
+<ce>                 No me obligues a matarte, chupasangre.
+<ce>                 Vuelve y dile a %vam que =wereboar_
+<ce>               te mandó a casa por no saber jugar limpio.

@@ -1,0 +1,66 @@
+Quest: B0B00Y01
+DisplayName: Retribución
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                    Tenemos un traidor en __qgiver_,
+<ce>                 un villano _monster_ que se ha vuelto
+<ce>                 contra los hermanos de %g3. Nuestro honor está en
+<ce>                         juego, %pct. Únete a nuestra
+<ce>                            justa furia.
+                                     <--->
+<ce>                      __qgiver_ ha sido traicionado
+<ce>                       por un pérfido _monster_.
+<ce>                  ¿Nos ayudarás a rastrear al cobarde
+<ce>                     villano y destruirlo?
+
+RefuseQuest:  [1001]
+<ce>                 Una respuesta indigna. Esperaba más de ti.
+
+AcceptQuest:  [1002]
+<ce>                 Muy bien. El traidor es un _monster_
+<ce>                     llamado =monster_ que se ha refugiado
+<ce>                      en ___mondun_ al
+<ce>                     %di. Si no has regresado
+<ce>                 en =queston_ días, tu honor se dará por
+<ce>               perdido y otro tomará tu lugar.
+<ce>                     No nos falles en esto, %pcf.
+
+QuestFail:  [1003]
+<ce>                 El _monster_ no está muerto. No intentes
+<ce>                       convencerme de lo contrario.
+
+QuestComplete:  [1004]
+<ce>                Bien hecho. Tienes razones para estar orgulloso.
+
+RumorsDuringQuest:  [1005]
+Ese _monster_ huyó hacia ___mondun_ como si los sabuesos del infierno lo persiguieran.
+<--->
+_qgiver_ no puede simplemente dejar ir a =monster_ después de lo que %g le hizo al %kno.
+
+RumorsPostfailure:  [1006]
+Al parecer, =monster_ es más fuerte de lo que _qgiver_ pensaba. Vaya escape.
+<--->
+He oído que =monster_ se ha movido al norte, pero la memoria de %g3 aún atormenta a la orden.
+
+RumorsPostsuccess:  [1007]
+La historia de =monster_ lo demuestra. No se juega con el %kno.
+<--->
+Siempre pensé que la Orden sería más misericordiosa con un tonto como =monster_.
+
+QuestorPostsuccess:  [1008]
+Has demostrado tu valía en el asunto de =monster_. ¿Cómo podemos ayudarte?
+
+QuestorPostfailure:  [1009]
+__qgiver_ ha sido avergonzado por el asunto de =monster_. ¿Qué quieres ahora?
+
+QuestLogEntry:  [1010]
+%qdt:
+ El %kno en ___qgiver_
+ me ha enviado a encontrar y matar a un _monster_
+ llamado =monster_ en
+ el escondite de %g3, ___mondun_. Tengo
+ =queston_ días para lograrlo.
+
+Message:  1011
+<ce>               Has matado a =monster_, el _monster_.

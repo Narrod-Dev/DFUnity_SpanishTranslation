@@ -1,0 +1,147 @@
+Quest: K0C01Y00
+DisplayName: Ayudar al destino
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Imagina la pureza de mi deleite cuando mi
+<ce>                llorica y engañosa pareja de los últimos dos
+<ce>                años sufrió un secuestro y, presuntamente, murió.
+<ce>                Luego imagina mi desesperación al descubrir
+<ce>                  que =victim_ seguía contando con
+<ce>               vida. Después, imagina mi diversión cuando sus
+<ce>              secuestradores exigieron un rescate. Finalmente,
+<ce>              imagina mi molestia cuando su pariente aceptó
+<ce>              pagar dicho rescate. Esto no puede ser.
+<ce>                  Necesito a alguien que se asegure de que el
+<ce>                    rescate fracase. ¿Me ayudarás?
+
+RefuseQuest:  [1001]
+<ce>                        %oth, qué actitud.
+<ce>                 Vuestra egoísta moralidad os causará
+<ce>                        problemas algún día.
+
+AcceptQuest:  [1002]
+<ce>                               %oth, %oth,
+<ce>                                y %oth.
+<ce>             Tal como yo lo veo, hay tres formas de detener
+<ce>             este rescate. Una es asegurar que la adorable
+<ce>                        persona de _victim_ sufra un
+<ce>            accidente mortal antes de la fecha del rescate en
+<ce>            =queston1_ días. Claro que no sé dónde está, así
+<ce>             que es difícil. La otra opción es ocuparse de que
+<ce>             su pariente muera accidentalmente en ese mismo
+<ce>              plazo. =cousin_, quien tiene el parentesco,
+<ce>                    vive en ___mondung2_, que es una
+<ce>             fortaleza bien defendida. Otra dificultad. Por
+<ce>             último, podrías robar la _gem_ de ___mondung2_
+<ce>                    que =cousin_ planea usar para el
+<ce>              rescate. Sea como sea, vuelve con noticias en
+<ce>             =queston1_ días o antes, y serás _gold_ piezas
+<ce>                          de oro más rico.
+<ce>                          Buena suerte, %ra.
+
+QuestComplete:  [1004]
+<ce>                        ¿Así que _victim_ no
+<ce>                 volverá a casa? Bien hecho, camarada.
+<ce>               Aquí están las _gold_ piezas de oro prometidas.
+<ce>                        El dinero mejor invertido.
+
+RumorsDuringQuest:  [1005]
+Pobre _qgiver_. El duelo es terrible. Aunque, no sé... parece diez años más joven.
+<--->
+=cousin_ sospecha que _qgiver_ en realidad no quiere que _victim_ regrese.
+
+RumorsPostfailure:  [1006]
+_qgiver_ está que echa chispas con alguien de raza %ra llamado %pcn por alguna razón.
+
+RumorsPostsuccess:  [1007]
+Parece que _victim_ realmente no volverá jamás a ___qgiver_.
+<--->
+_qgiver_ guarda ahora un profundo luto por _victim_. Es muy triste.
+
+QuestorPostsuccess:  [1008]
+Me salvaste de ese sapo corpulento de _victim_, %pcf. No creas que lo he olvidado.
+
+QuestorPostfailure:  [1009]
+<ce>                 Te pedí una sola cosa, y te di tres formas
+<ce>                 de hacerlo. Y fracasaste. ¿Por qué demonios
+<ce>                 debería hablar contigo, pedazo de estiércol
+<ce>                        metido en un barril?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de
+ __qgiver_, ___qgiver_ me ha
+ enviado a evitar el rescate de su pareja, a quien
+ detesta. Puedo encontrar y matar a _victim_, pero no
+ tengo ni idea de dónde está. O puedo ir a
+ ___mondung2_, la fortaleza de su pariente,
+ =cousin_, y matarle o robar la
+ _gem_ que iba a usar para el
+ rescate. En cualquier caso, debo actuar y
+ volver con _qgiver_ en =queston1_ días,
+ que es cuando vence el plazo del rescate.
+
+Message:  1011
+<ce>                        El corazón de _victim_ se
+<ce>                    detiene por la impresión de ver a un
+<ce>                         mercenario de raza %ra.
+                                     <--->
+<ce>                         "Ven, muerte violenta",
+<ce>                        dice _victim_ mientras bebe
+<ce>                    un frasco de veneno. "Me reuniré
+<ce>                        con mi verdadero amor,
+<ce>                            _qgiver_, en el
+<ce>                             más allá".
+                                     <--->
+<ce>                         "¡Asesino! ¡Asesino!"
+<ce>                          _victim_ perece víctima
+<ce>                              de la histeria.
+
+Message:  1013
+%pcf,
+ 
+      Tienen a _victim_ en
+ ___mondung_. Haz lo que debas.
+ 
+      No nos importa. Esos secuestradores son unos
+ malditos mercenarios por cuenta propia.
+ 
+ 
+<ce>                          El Gremio de Ladrones
+
+Message:  1015
+<ce>                      Un tipo de aspecto común te pone
+<ce>                    una nota en la mano, te guiña un ojo
+<ce>                            y se marcha.
+
+Message:  1017
+%qdt:
+ He recibido una
+ carta del Gremio de Ladrones. Parece
+ que los secuestradores no son miembros
+ del Gremio, así que no tienen reparos
+ en darme su ubicación: ___mondung_.
+ Si quiero poner fin a la vida de
+ _victim_, ese es el lugar
+ para hacerlo.
+
+Message:  1018
+<ce>                        ¡Maldito %ra de las narices,
+<ce>                            eso ha dolido!
+                                     <--->
+<ce>                        Seguro que crees que eso
+<ce>                          duele, ¿a que sí?
+
+Message:  1019
+<ce>                        El pariente de _victim_, su
+<ce>                  única esperanza, ha partido hacia la eternidad.
+                                     <--->
+<ce>                           =cousin_ ya no
+<ce>                        rescatará a nadie.
+
+Message:  1020
+<ce>                          Has encontrado la
+<ce>                           _gem_ que =cousin_
+<ce>                        iba a usar para rescatar
+<ce>                              a _victim_.

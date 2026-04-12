@@ -1,0 +1,84 @@
+Quest: M0B20Y02
+DisplayName: Horda de gigantes
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  Sí, tengo un trabajito para ti. No se lo
+<ce>                    daría a cualquiera, pero sé que haces
+<ce>                  buen trabajo. Hay una horda de gigantes
+<ce>                  que necesita ser eliminada. La paga es
+<ce>                  la estándar, _reward_ piezas de oro.
+<ce>                          ¿Te hace el trato?
+
+RefuseQuest:  [1001]
+<ce>                       Está bien, como quieras. Me
+<ce>                    parecía que era algo de tu estilo.
+
+AcceptQuest:  [1002]
+<ce>                      Buen trato, %pcf. Nuestro cliente
+<ce>                 sitúa a los gigantes en su fortaleza,
+<ce>                        ___mondung_. Dice que hay
+<ce>                  seis de ellos, y no va a pagar a menos
+<ce>                  que los seis estén tiesos, y en un plazo
+<ce>                   de =1stparton_ días. ¿Entendido, %pcf?
+<ce>                             Perfecto.
+
+QuestFail:  [1003]
+<ce>                   Sabes, mientras esos seis gigantes sigan
+<ce>                   respirando, no hay tiempo para charlas.
+
+QuestComplete:  [1004]
+<ce>                      %oth, esos gigantes no supieron ni
+<ce>                      qué les golpeó, ¿verdad, %pcf?
+<ce>                 Aquí tienes tus _reward_ oro, como prometí.
+
+RumorsDuringQuest:  [1005]
+Hay un grupo de gigantes en ___mondung_, pero no molestan a nadie.
+<--->
+He oído que %t quiere a esos gigantes de ___mondung_ muertos de una vez por todas.
+
+RumorsPostfailure:  [1006]
+Algo asustó a esos gigantes y se largaron. Me pregunto qué habrá sido.
+<--->
+Si yo fuera uno de esos gigantes, también habría huido. Demasiado tráfico.
+
+RumorsPostsuccess:  [1007]
+Me pregunto cuánto tardará un nuevo grupo de gigantes en mudarse a ___mondung_.
+<--->
+Casi me dan pena esos gigantes. Realmente no molestaban a nadie.
+
+QuestorPostsuccess:  [1008]
+<ce>                    Los gigantes son duros. Lo hiciste
+<ce>                  bien, %pcf. Llegarás lejos en el gremio.
+
+QuestorPostfailure:  [1009]
+<ce>                    ¿Los gigantes fueron demasiado para ti?
+<ce>                     Quizá el gremio debería haberte enviado
+<ce>                       a cazar pigmeos en su lugar.
+
+QuestLogEntry:  [1010]
+<ce>                     Todos los gigantes han muerto.
+
+Message:  1020
+<ce>                        ¡Este es territorio GIGANTE!
+<ce>                       Vuelve a tus tierras diminutas,
+<ce>                             ¡mosca de estirpe %ra!
+                                     <--->
+<ce>                        Ayer me comí a alguien %ra.
+<ce>                             Sabía muy bien.
+                                     <--->
+<ce>                       ¡Aplastar! ¡Aplastarte como torta!
+
+Message:  1030
+%qdt:
+ El Gremio de Luchadores de
+ ___questgiver_ me ha contratado
+ para matar a una tribu de seis
+ gigantes en su escondite, ___mondung_.
+ Debo completar el encargo y estar de
+ vuelta en =1stparton_ días para cobrar.
+
+Message:  1080
+<ce>                        Oye %pct, si buscas algo de
+<ce>                         matanza, toma este mapa de
+<ce>                         ___newdung_. Hay de sobra.

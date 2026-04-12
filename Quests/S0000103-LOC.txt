@@ -1,0 +1,18 @@
+Quest: S0000103
+QRC:
+
+Message:  1015
+<ce>                Nadie puede desafiar al Rey de los Gusanos
+<ce>                 y vivir para contarlo. Le has denegado
+<ce>                    el Tótem de Tiber Septim. Por lo
+<ce>                 tanto, acabaré con tu vida y se lo
+<ce>                            llevaré yo mismo.
+                                     <--->
+<ce>                 Tomaré el Tótem y beberé de tus venas
+<ce>                 esta misma noche. Solo ríndete y será
+<ce>                      relativamente indoloro.
+                                     <--->
+<ce>                  El Rey de los Gusanos quiere el Tótem.
+<ce>                  Como no tiene razones para creer que
+<ce>                 se lo entregarías por voluntad propia,
+<ce>                    estoy aquí para darte muerte.

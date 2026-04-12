@@ -1,0 +1,54 @@
+Quest: B0B40Y08
+DisplayName: Aún Más Problemas con Orcos
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Me llaman _qgiver_.
+<ce>                       Tengo una misión para ti, si
+<ce>                      te sientes capaz. Una poderosa
+<ce>                       banda de orcos ha estado
+<ce>                       asaltando caravanas en %reg.
+<ce>                     Alguien debe matar al caudillo
+<ce>                        orco que los lidera.
+
+RefuseQuest:  [1001]
+<ce>                                 Cobarde.
+
+AcceptQuest:  [1002]
+<ce>                    Los orcos están usando ___dungeon_
+<ce>                        como base de operaciones.
+<ce>                      Mata a tantos como quieras,
+<ce>                        pero asegúrate de degollar a
+<ce>                          =monster_.
+<ce>                     Él es su caudillo. Si sé de ti
+<ce>                     dentro de =2dung_ días,
+<ce>                    tu honor permanecerá intacto.
+
+QuestComplete:  [1004]
+<ce>                        La amenaza orca ha sido
+<ce>                           eliminada de %reg.
+<ce>                             ¡Gloria a %pcn!
+
+RumorsDuringQuest:  [1005]
+Los orcos de ___dungeon_ están haciendo la vida difícil a los mercaderes de ___qgiver_.
+
+RumorsPostfailure:  [1006]
+Los orcos de ___dungeon_ se fueron a saquear a otro lugar. ¿Pero por cuánto tiempo?
+
+RumorsPostsuccess:  [1007]
+___dungeon_ ha sido limpiado de orcos, gracias a un valiente %ra.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de
+ ==qgiver_ en ___qgiver_
+ me dio la oportunidad de matar a
+ =monster_, el _monster_
+ de una poderosa banda de orcos en
+ ___dungeon_. Tengo =2dung_ días
+ para salvar a %reg de ser arrasada.
+
+Message:  1011
+<ce>                          =monster_ está muerto.
+<ce>                       Los orcos ya no serán
+<ce>                            una amenaza para %reg.

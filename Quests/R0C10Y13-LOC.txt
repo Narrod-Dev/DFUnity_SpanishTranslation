@@ -1,0 +1,82 @@
+Quest: R0C10Y13
+DisplayName: Una Ofrenda de Paz
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  Tengo una misión de cierta importancia
+<ce>                    diplomática. Un regalo de paz que
+<ce>                  debe ser intercambiado. Como favor hacia mí,
+<ce>                  ¿le llevarías mi regalo a mi amistad,
+<ce>                                _contact_?
+
+RefuseQuest:  [1001]
+<ce>                  ¿Es el precio, la inconveniencia
+<ce>                  o la humildad de la misión lo que
+<ce>                        te irrita, %pcf? No importa,
+<ce>                  puedo encontrar fácilmente a otra persona %ra
+<ce>                        interesada en mejorar su
+<ce>                        posición política.
+
+AcceptQuest:  [1002]
+<ce>                            Muy bien, %pcf.
+<ce>                 Ahora, escucha con atención: lleva este _item_
+<ce>             al palacio en __palace_ y busca a un =contact_.
+<ce>                   Esa persona será _contact_. %g te estará
+<ce>                  esperando, y es probable que te recompense
+<ce>                  por las molestias. Será mejor que te pongas
+<ce>                  en camino. No me falles, %pcf.
+
+QuestFail:  [1003]
+<ce>                      ¡Rápido, vete! No es momento
+<ce>                    para conversaciones triviales. Tienes
+<ce>                            trabajo que hacer.
+
+QuestComplete:  [1004]
+<ce>                        Oh, qué _item_ tan encantador.
+<ce>                        ¿Es de parte de _questgiver_?
+<ce>                      Bueno, quizás todo fue solo un
+<ce>                      malentendido después de todo.
+<ce>                      Aquí tienes _reward_ oro por tus
+<ce>                        buenos servicios, %pcf.
+
+RumorsDuringQuest:  [1005]
+He oído que _contact_ está considerando romper su alianza con _questgiver_.
+<--->
+Más le vale a _questgiver_ hacer algo para cimentar las relaciones con _contact_.
+
+RumorsPostfailure:  [1006]
+_questgiver_ y _contact_ parecen más distanciados que nunca.
+<--->
+No me sorprendería que _contact_ y _questgiver_ rompieran sus lazos por completo.
+
+RumorsPostsuccess:  [1007]
+Se dice que _contact_ está muy conforme con el presente de _questgiver_.
+<--->
+Gracias a %god que _questgiver_ le hizo llegar ese _item_ a _contact_. Podría haber acabado mal.
+
+QuestorPostsuccess:  [1008]
+Ah, pero si es mi agente de paz. ¿Cómo te va todo, camarada?
+<--->
+%oth, si no es mi correo favorito. ¿Cómo estás?
+
+QuestorPostfailure:  [1009]
+<ce>                Al fallar en la entrega del _item_ que
+<ce>                  prometiste llevar a _contact_, has
+<ce>                 hecho que mis planes de paz sean mucho
+<ce>                          más difíciles, %pcf.
+<ce>                         Fuera de mi vista.
+
+QuestLogEntry:  [1010]
+%qdt:
+_questgiver_ me ha
+ dado _reward_ de oro para ir
+ al palacio de __palace_
+ a llevar una ofrenda de paz, un _item_
+ a _contact_. Debo estar allí en
+ =queston_ días o menos.
+
+Message:  1020
+<ce>                            ¿Acaso _questgiver_
+<ce>                       no te dio algo para mí?
+<ce>                    Maldición, si este es uno de sus
+<ce>                            trucos de %g3...

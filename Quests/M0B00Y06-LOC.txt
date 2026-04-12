@@ -1,0 +1,86 @@
+Quest: M0B00Y06
+DisplayName: Animal salvaje
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                            Soy _qgiver_.
+<ce>                Tenemos una petición de alguien de la zona.
+<ce>                Parece que un animal salvaje se ha metido en
+<ce>                 su hogar. Necesitamos a alguien que vaya a
+<ce>              matar a la cosa. El gremio pagará _gold_ oro.
+<ce>                         ¿Aceptas el encargo, %pcn?
+
+RefuseQuest:  [1001]
+<ce>                       Seguro que alguien más querrá
+<ce>                        hacerse cargo de esta
+<ce>                          molestia de oso.
+
+AcceptQuest:  [1002]
+<ce>                    "Bien, %pcf. Ve hacia _house_
+<ce>                aquí en la ciudad. Hazlo en un solo día.
+<ce>                Nadie quiere un animal merodeando por su
+<ce>                 propia casa. Vuelve cuando la bestia
+<ce>                  esté muerta y tendré tu pago listo
+<ce>                            esperándote".
+<ce>                                    
+<ce>                 _qgiver_ exclama: "¡Oye!, ¿qué tipo de
+<ce> animal hay en _house_?"
+
+QuestComplete:  [1004]
+<ce>                            Bien hecho, %pcf.
+<ce>                       Aquí tienes tus _gold_ oro.
+
+RumorsDuringQuest:  [1005]
+¿Te has enterado? Un animal se metió en un edificio de la ciudad. Espero que lo maten pronto.
+
+RumorsPostfailure:  [1006]
+Esa criatura atacó a una mujer antes de ser ahuyentada de la ciudad. Qué lástima.
+
+RumorsPostsuccess:  [1007]
+El Gremio de Luchadores mató a ese oso que entró en _house_. Es bueno tenerlos cerca.
+
+QuestorPostsuccess:  [1008]
+Buen trabajo matando a esa bestia. ¿Qué puedo hacer por ti?
+
+QuestorPostfailure:  [1009]
+He oído que un bicho devoró a quien vivía en esa casa. Nos da mala reputación. Intenta hacerlo mejor la próxima vez.
+
+QuestLogEntry:  [1010]
+%qdt:
+ El Gremio de Luchadores de ___qgiver_
+ me ha pedido eliminar a una bestia salvaje
+ que se ha colado en _house_. Debe
+ hacerse en un solo día.
+
+Message:  1011
+<ce>                             El oso ha muerto.
+
+Message:  1012
+<ce>                            La arpía ha muerto.
+
+Message:  1013
+<ce>                            La araña ha muerto.
+
+Message:  1014
+<ce>                            El tigre ha muerto.
+
+Message:  1021
+<ce>                    Oyes una voz gritar desde un
+<ce>                       piso superior: "Es un oso".
+
+Message:  1022
+<ce>                    Oyes una voz gritar desde un
+<ce>                      piso superior: "Es una arpía".
+
+Message:  1023
+<ce>                    Oyes una voz gritar desde un
+<ce>                      piso superior: "Es una araña".
+
+Message:  1024
+<ce>                    Oyes una voz gritar desde un
+<ce>                      piso superior: "Es un tigre".
+
+Message:  1080
+<ce>                  Por cierto, ya que pareces haberte
+<ce>                   divertido tanto con esa bestia, aquí
+<ce>              tienes un mapa de ___newdung_. Diviértete.

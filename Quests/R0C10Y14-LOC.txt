@@ -1,0 +1,83 @@
+Quest: R0C10Y14
+DisplayName: Equipo Olvidado
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                ¿Estarías de casualidad disponible para
+<ce>                 un pequeño encargo que no debería
+<ce>                tomarte nada de tiempo y te hará _reward_
+<ce>                   piezas de oro más rico?
+
+RefuseQuest:  [1001]
+<ce>                                ¿No? Lástima.
+
+AcceptQuest:  [1002]
+<ce>                      %oth, eso es magnífico. Tengo
+<ce>                    una alianza con alguien algo lerdo
+<ce>                     que se fue a cumplir un encargo
+<ce>                           sin su objeto (_item_).
+<ce>                    Necesito que se lo lleves a ___contact_
+<ce>                    de inmediato. Hay un pequeño lugar
+<ce>                     allí llamado __contact_ donde
+<ce>                     podrás encontrar a un =contact_
+<ce>                             de nombre _contact_.
+<ce>                         Entrégale el _item_
+<ce>                    y %g te dará las _reward_ piezas
+<ce>                     de oro. Una nota final, %g se
+<ce>                     marchará de __contact_ en
+<ce>                     =queston_ días con o sin el
+<ce>                      _item_, así que mejor ponte
+<ce>                           en camino ya.
+
+QuestFail:  [1003]
+<ce>                 Te he dado el _item_ y te he dicho dónde
+<ce>                debe entregarse. ¿Qué más hay que discutir?
+
+QuestComplete:  [1004]
+<ce>                    ¿Vienes de parte de _questgiver_? ¡%oth,
+<ce>                    mi _item_! ¡Ya era hora! Pensé que
+<ce>                   iba a tener que marcharme sin él.
+<ce>                   ¿Por qué has tardado tanto, de todos modos?
+<ce>                    ¿Cómo? ¿Que tengo que pagarte por mi propio
+<ce>                    _item_? Muy bien, si eso es lo que te
+<ce>                    dijo _questgiver_. Ahora, ya he
+<ce>                    perdido bastante tiempo. Debo ponerme
+<ce>                                en camino.
+
+RumorsDuringQuest:  [1005]
+Si tuviera un _item_, se lo vendería a ese =contact_ en __contact_. Parece desesperado.
+<--->
+Ese =contact_ lleva días deambulando por __contact_ con aire deprimido.
+
+RumorsPostfailure:  [1006]
+Pobre _contact_... su entrega nunca llegó y tuvo que irse sin el _item_.
+<--->
+Me pregunto qué estaba esperando _contact_ de todos modos. ¿Alguna clase de milagro?
+
+RumorsPostsuccess:  [1007]
+_contact_ se marchó de __contact_ más feliz que una arpía. Supongo que obtuvo lo que necesitaba.
+<--->
+_questgiver_ andaba cantando las alabanzas de alguien de la estirpe %ra que contrató como mercenario.
+
+QuestorPostsuccess:  [1008]
+Ah, mi querido camarada. Qué bueno que hayas vuelto. ¿Cómo va todo?
+<--->
+Se me ha informado de que tu misión fue un éxito. Te doy las gracias de todo corazón.
+
+QuestorPostfailure:  [1009]
+<ce>                    No lograste llegar a mi contacto,
+<ce>                   pero aun así regresas a mí. Un
+<ce>                    comportamiento bastante extraño.
+
+QuestLogEntry:  [1010]
+%qdt:
+He sido enviado por
+ _questgiver_ hacia ___contact_,
+ donde alguien de clase =contact_
+ llamado _contact_ está esperando
+ un _item_ especial en un lugar
+ llamado __contact_. _contact_
+ tiene planeado irse de
+ ___contact_ en =queston_ días
+ con o sin el _item_, así que
+ tendré que darme prisa.

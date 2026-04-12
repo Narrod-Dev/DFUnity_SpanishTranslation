@@ -1,0 +1,113 @@
+Quest: W0C00Y00
+DisplayName: La misión de Hermaeus Mora
+QRC:
+
+QuestorOffer:  [1000]
+<ce>               El poder, sí, es una elusiva pero elocuente
+<ce>                acusación. Uno de mis súbditos posee un
+<ce>               antiguo tomo llamado el Oghma Infinium,
+<ce>               el cual otorga gran poder a aquellos que
+<ce>               leen sus páginas. Si extermináis a cierto
+<ce>               patricio escrofuloso que ha despertado mi
+<ce>               desagrado, organizaré un encuentro entre
+<ce>                        vuestra persona y el libro.
+<ce>                           ¿Os parece aceptable?
+
+RefuseQuest:  [1001]
+<ce>               Vuestra respuesta es negativa. ¿He de entender
+<ce>               que buscabais el poder, pero lo buscabais
+<ce>               gratis? Deberíais haber buscado la sabiduría
+<ce>               en su lugar, pues es lo que necesitáis. Os
+<ce>               despido con una despedida muy decepcionada.
+
+AcceptQuest:  [1002]
+<ce>               Muy bien. Ese personaje de la alta sociedad al
+<ce>               que me refería reside en el palacio de
+<ce>               __palace_. Para que conste, el nombre de
+<ce>                        vuestra presa es _enemy_.
+<ce>               Acabad con su vida y dirigíos a ___contact_,
+<ce>               donde mi sirviente _contact_ os esperará en
+<ce>               una biblioteca. No creo que se gane nada
+<ce>               prolongando esta entrevista. No me falléis
+<ce>               en esto, %pcf, y el poder que ansiáis será
+<ce>                            vuestro.
+
+QuestFail:  [1003]
+<ce>                       Escuchad, si sois %pcf, volved
+<ce>                       y matad a _enemy_ de una vez.
+<ce>                       Hermaeus Mora me dice que no os
+<ce>                       entregue el libro porque esa
+<ce>                       persona sigue viva. Lo siento,
+<ce>                       pero es lo que hay.
+
+QuestComplete:  [1004]
+<ce>                %pcf, os subestimé. Le dije a Mora que
+<ce>               no podríais hacerlo, pero aquí estáis, y
+<ce>               todo %reg está conmocionado por la muerte
+<ce>               de _enemy_. Como prometí, el libro. Recordad:
+<ce>                      solo podéis leerlo una vez.
+<ce>                       Tal vez nos veamos luego.
+
+RumorsDuringQuest:  [1005]
+Dicen que _enemy_ obtuvo todo su poder directamente de los propios daedra.
+<--->
+_enemy_ debe de haber hecho un pacto con los daedra. Nadie puede tener tanta suerte.
+
+RumorsPostfailure:  [1006]
+_enemy_ se marchó de %reg a toda prisa. Supongo que su pasado le alcanzó.
+<--->
+Se puede engañar a los daedra. _enemy_ lo hizo. Tuvo que huir, pero sigue con vida.
+
+RumorsPostsuccess:  [1007]
+Cada cual recoge lo que siembra. _enemy_ intentó engañar al destino, eso dicen.
+<--->
+Aún puedo oír a _enemy_ alardeando de haber timado a los daedra. Qué necedad.
+
+Message:  1011
+Solo alguien de la clase =contact_ que trata con los daedra.
+<--->
+Cierto =contact_ que prácticamente vive en __contact_.
+
+Message:  1012
+El Príncipe Daedra del Conocimiento Prohibido, el más sabio de los seres infernales.
+<--->
+Hermaeus Mora tiene una mente tan antigua como Tamriel. Y un cuerpo de limo.
+
+Message:  1013
+El Oghma Infinium es el libro del conocimiento. Pero el conocimiento puede olvidarse.
+<--->
+Es el libro que dota a su lector de cuerpos más fuertes y mentes más capaces.
+
+Message:  1020
+%qdt:
+ El Príncipe Daédrico Hermaeus Mora quiere
+ que asesine a una hoja conjurada que rompió
+ un contrato con él. _enemy_ reside en el
+ Palacio de __palace_. A cambio de acabar con
+ su vida y llegar hasta el contacto de
+ Hermaeus Mora en ___contact_, _contact_,
+ en =1stparton_ días o menos, se me entregará
+ el libro del conocimiento, el Oghma Infinium.
+ _contact_ me esperará allí, en una biblioteca.
+
+Message:  1030
+<ce>                    Hermaeus Mora estará complacido:
+<ce>                        habéis matado a _enemy_.
+
+Message:  1035
+<ce>             ¡No! ¡Esperad! Lo juro, tenía intención de
+<ce>              pagar a Lord Mora. ¡No me matéis, os lo ruego!
+<ce>             Tomad, perdonadme la vida y devolvedle este
+<ce>             objeto _magic_ como muestra de mi buena voluntad
+<ce>             y como pago a cuenta de lo que debo. Por favor.
+
+Message:  1040
+<ce>             Mmm, bueno, gracias por el objeto _magic_, supongo...
+<ce>                   Ahora, vayamos a los negocios.
+
+QuestTimeLapse:  [1045]
+<ce>               ¿Me estáis diciendo que dejasteis vivir a esa
+<ce>               pequeña sabandija, y me traéis este patético
+<ce>               _magic_ en lugar de tener las manos manchadas
+<ce>               con la sangre de _enemy_? Hermaeus Mora estará
+<ce>                    muy disgustado con esta noticia.

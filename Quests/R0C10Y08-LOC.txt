@@ -1,0 +1,106 @@
+Quest: R0C10Y08
+DisplayName: Robo en un Templo
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Si pudieras, %pcf, estoy en
+<ce>              necesidad de ayuda de alguien que sepa que no es
+<ce>              un completo bufón. Envié a otro mercenario
+<ce>              a entregar un pequeño paquete a un templo,
+<ce>            nada de gran valor, pero maldita sea si no fue
+<ce>               robado. Bueno, al menos esa mano contratada
+<ce>                idiota prestó atención a hacia dónde fueron
+<ce>                   los bandidos. ¿Crees que podrías
+<ce>                     ayudarme y recuperar mi paquete?
+
+RefuseQuest:  [1001]
+<ce>                  %oth, me temía que fueras a decir
+<ce>              eso. En fin, supongo que eso es mejor
+<ce>                        que decir que sí y fallar.
+
+AcceptQuest:  [1002]
+<ce>                       Gracias de antemano, %pcf.
+<ce>              Ahora, las complicaciones. Los bandidos vendieron el
+<ce>                    _item_ a un templo, _itemplace_
+<ce>                      en __itemplace_. Al parecer
+<ce>              tiene algún tipo de significado religioso para
+<ce>              ellos. Para evitar vergüenzas, necesito que
+<ce>                   robes el _item_ del templo y se lo
+<ce>                   entregues a _transporter_.
+<ce>                   Encontrarás a %g2 en _inn_ en __inn_.
+<ce>           El _item_ debe estar en manos del simplón de
+<ce>          _transporter_ en =1stparton_ días; y debes estar de
+<ce>           vuelta aquí desde __inn_ en =2ndparton_ días después,
+<ce>          ¿entendido? No es mucho tiempo. Confío en ti,
+<ce>                      %pcf. Buena suerte y hasta pronto.
+
+QuestFail:  [1003]
+<ce>               ¿Sí? No esperabas una recompensa antes de
+<ce>                 hacer algo realmente, ¿verdad, %pcf?
+
+QuestComplete:  [1004]
+<ce>                    %oth, bienvenido de nuevo, %pcf. No
+<ce>              sé por qué contraté a ese deficiente mental en
+<ce>               primer lugar. Bueno, aquí tienes tus _reward_
+<ce>                    piezas de oro. Ciertamente las mereces.
+
+RumorsDuringQuest:  [1005]
+_itemplace_ está reforzando su seguridad por alguna razón.
+<--->
+Por alguna razón, en _itemplace_ están más preocupados por los ladrones de lo habitual.
+
+RumorsPostfailure:  [1006]
+_itemplace_ recuperó una clase de _item_ que había sido robado.
+<--->
+_itemplace_ recuperó su _item_ robado y lo movió a un lugar más seguro.
+
+RumorsPostsuccess:  [1007]
+Cierta clase de _item_ valioso fue robado de _itemplace_.
+<--->
+Se está llegando al punto en que incluso en los templos entran a robar. Escandaloso.
+
+QuestorPostsuccess:  [1008]
+Es terriblemente bueno verte de nuevo. ¿En qué puedo ayudarte?
+<--->
+Tú eres la persona %ra que me ayudó con aquel desagradable asunto del templo, ¿verdad?
+
+QuestorPostfailure:  [1009]
+<ce>                         %oth, eres tú. Vienes a
+<ce>                  disculparte por tu descuidada búsqueda,
+<ce>                       supongo. Bueno, no te molestes.
+<ce>                            No tengo tiempo.
+
+QuestLogEntry:  [1010]
+<ce>                      Gracias a %god que llegaste, %pcf.
+<ce>                    Escucha, vuelve rápido con _questgiver_
+<ce>                  -- %g fingirá olvidar que alguna vez
+<ce>                  exististe y no recibirás ni un cobre si
+<ce>                   no estás de vuelta en =2ndparton_ días.
+<ce>                    Créeme, conozco los métodos de %g3.
+
+Message:  1011
+<ce>            _transporter_ parece un =transporter_ algo nervioso
+<ce>                    con conexiones con _questgiver_.
+                                     <--->
+Un =transporter_ -- %g está %di de aquí en __transporter_.
+
+Message:  1012
+<ce>                         Recoges el _item_.
+<ce>                    Ahora a llevárselo a _transporter_.
+
+Message:  1015
+%qdt:
+_questgiver_
+ me ha enviado a _itemplace_
+ en __itemplace_ para robar
+ un cierto _item_, y entregárselo a
+ _transporter_ en __inn_
+ en un lugar llamado _inn_.
+ Tengo =1stparton_ días para hacer la entrega.
+ Finalmente, debo volver para mi recompensa.
+ Tengo =2ndparton_ días para viajar desde
+ __inn_ hasta __questgiver_,
+ el hogar de _questgiver_ en ___questgiver_.
+
+Message:  1020
+<ce>            ¡Detengan al ladrón! ¡Vil profanador de nuestro sagrado _item_!

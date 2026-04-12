@@ -1,0 +1,93 @@
+Quest: K0C00Y02
+DisplayName: Oro falsificado
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 %pcf, puede que esté en serios problemas
+<ce>             de verdad. Parece que uno de mis antiguos
+<ce>             socios, en un intento de hacer mi vida más
+<ce>               miserable, me ha entregado lingotes de oro
+<ce>               falsificados. Sin saberlo, los entregué
+<ce>              a cuatro de mis aliados más valiosos a cambio
+<ce>                de servicios prestados. Evidentemente debo
+<ce>              recuperar esos lingotes antes de que descubran
+<ce>               que el oro es foscarium, lo cual podría ocurrir
+<ce>             en =2mondung_ días o menos. Estoy pagando alrededor de
+<ce>           _reward1_ piezas de oro por cada lingote falso
+<ce>                que puedas recuperar. ¿Te parece bien?
+
+RefuseQuest:  [1001]
+<ce>               ¿No? ¿De verdad? Muy bien. Alguien más
+<ce>                será más receptivo, estoy seguro.
+
+AcceptQuest:  [1002]
+<ce>                %oth, eso está bien. Ahora, uno de los lingotes
+<ce>                  está en un banco llamado _depository_ en
+<ce>                 __depository_; otro está en una fortaleza
+<ce>                          llamada ___mondung_;
+<ce>                   otro está en __palace_ en el palacio
+<ce>                         de ese lugar; el último está en
+<ce>                       _mansion_ en __mansion_.
+<ce>            Recuerda que solo tienes =2mondung_ días
+<ce>               para esto, y prefiero recuperar uno en ese
+<ce>                 tiempo que los cuatro. Buena suerte, %pcf.
+<ce>                       Que %god bendiga tu viaje.
+
+QuestFail:  [1003]
+<ce>                     %god, ¿podrías apresurarte?
+
+QuestComplete:  [1004]
+<ce>                  Parece que ya te has encargado
+<ce>                    de los problemas de _qgiver_.
+
+RumorsDuringQuest:  [1005]
+Alguien acaba de pedir indicaciones hacia _depository_. No parecía banquero.
+<--->
+<ce>             Al parecer están reclutando en ___mondung_.
+ Al menos, hay bastante movimiento allí.
+                                     <--->
+_palace_ está reforzando su seguridad debido a rumores de ladrones en la zona.
+<--->
+La sirvienta de _mansion_ dijo haber visto a individuos sospechosos vigilando el lugar.
+
+RumorsPostfailure:  [1006]
+%t %rn parece creer que el jefe de la operación de contrabando es _qgiver_.
+<--->
+Al parecer, _qgiver_ ha estado traficando foscarium, haciéndolo pasar por oro.
+<--->
+_palace_ ha cortado completamente sus relaciones con _qgiver_, según dicen.
+<--->
+___mondung_ está trabajando para desmantelar todos los aspectos del negocio de _qgiver_.
+
+RumorsPostsuccess:  [1007]
+_qgiver_ ha reemplazado amablemente todo el oro que los torpes aliados de %g3 perdieron por robo.
+<--->
+La popularidad de _qgiver_ entre los principales líderes comerciales de %reg sigue en aumento.
+
+QuestorPostsuccess:  [1008]
+Saludos, portador de oro falso.
+
+QuestorPostfailure:  [1009]
+Te confié mi futuro financiero una vez, ¿lo recuerdas, %pcf?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de ___qgiver_ me ha
+ pedido que recupere al menos uno de
+ los cuatro lingotes de oro falso que %g dio
+ a %g3 aliados antes de que descubran la
+ verdad sobre el oro, en =2mondung_ días
+ o menos. Un lingote de oro está en cada
+ uno de los siguientes lugares:
+ _palace_ en __palace_,
+ ___mondung_,
+ _mansion_ en __mansion_,
+ y _depository_ en __depository_.
+ Recibiré alrededor de _reward1_ piezas de oro
+ por cada lingote que logre recuperar.
+
+Message:  1015
+<ce>                       %oth, bien hecho, %pcf. Temía
+<ce>                 no haberte dado suficiente tiempo.
+<ce>                Aquí tienes oro auténtico a cambio
+<ce>                         de ese oro falso.

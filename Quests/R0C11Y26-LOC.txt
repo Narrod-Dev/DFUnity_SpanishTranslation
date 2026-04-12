@@ -1,0 +1,236 @@
+Quest: R0C11Y26
+DisplayName: El Destripador Loco
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        %pcn, alguien demente a quien
+<ce>                    llaman el Destripador de ____qgiver_ está
+<ce>                 aterrorizando la ciudad de ___qgiver_, y mi
+<ce>                guardia y policía no pueden hacer nada contra él.
+<ce>                No tienen ni la menor pista sobre su identidad.
+<ce>                Sé que tienes ciertos recursos y contactos algo
+<ce>                 poco tradicionales. ¿Podrías intentar
+<ce>                  ayudarme en este asunto, por el bien de
+<ce>               ____qgiver_... y por una suma sustancial de oro?
+
+RefuseQuest:  [1001]
+<ce>                 No es una respuesta inusual. Entonces no tengo
+<ce>                 más remedio que recurrir a algunos de mis
+<ce>                 contactos menos recomendables en busca de ayuda...
+<ce>                   una opción que esperaba evitar.
+
+AcceptQuest:  [1002]
+<ce>                      Eres una verdadera amistad, %pcf.
+<ce>                    La gente de ____qgiver_ se está volviendo
+<ce>               ansiosa por la falta de progreso en las
+<ce>          investigaciones oficiales. La situación se está volviendo
+<ce>                explosiva; la gente teme que el Destripador
+<ce>            venga a por ellos a continuación. Temo que pronto
+<ce>            tengamos una turba enfurecida, quizá en un plazo de
+<ce>            =total_ días o menos. La única otra persona a la que
+<ce>            he contratado extraoficialmente es _contact_,
+<ce>              una eminencia local que ha estado analizando algunas
+<ce>                  de las cartas que me han enviado. Ve a
+<ce>                    _bookstore_ para hablar con %g2 primero,
+<ce>                y comprueba su progreso. Si no puedes resolver
+<ce>                este misterio, que %god nos ayude a todos.
+
+QuestFail:  [1003]
+<ce>                        El Destripador de ____qgiver_ sigue
+<ce>                 suelto. No tengo tiempo para charlar,
+<ce>                            ni tú deberías tenerlo.
+
+QuestComplete:  [1004]
+<ce>                  ___qgiver_ está en paz de nuevo, %pcf,
+<ce>                  gracias a ti. Aquí tienes el oro _reward_
+<ce>                    que prometí; lo entrego con gusto
+<ce>                      con tal de acabar con ese maníaco.
+<ce>                      %god realmente nos bendijo
+<ce>                        cuando viniste a ____qgiver_.
+
+RumorsDuringQuest:  [1005]
+Ya no es seguro caminar por las calles de ___qgiver_. No con el Destripador de ____qgiver_ suelto.
+<--->
+He oído que el Destripador de ____qgiver_ no es un hombre, sino un daedra que ha venido a castigarnos a todos.
+<--->
+La última víctima del Destripador de ____qgiver_ fue encontrada esparcida en pedazos por todo ___qgiver_.
+<--->
+Hay quien se pregunta si el Destripador de ____qgiver_ no será un vampiro o un hombre lobo.
+
+RumorsPostfailure:  [1006]
+Los asesinatos pararon sin necesidad de que la turba actuara. Supongo que el Destripador se marchó.
+<--->
+_qgiver_ tiene suerte de que el Destripador de ____qgiver_ decidiera irse. El pánico ya se estaba apoderando de todos.
+
+RumorsPostsuccess:  [1007]
+No puedo creer que _rippername_ fuera el Destripador de ____qgiver_; si %g era tan amable y tranquilo.
+<--->
+¡%oth!, dicen que encontraron una montaña de cráneos enterrada bajo la casa de _rippername_.
+<--->
+Dicen que _rippername_ era alguien solitario que no se relacionaba con nadie. Típico.
+
+QuestorPostsuccess:  [1008]
+Siempre tengo tiempo para la figura de raza %ra que resolvió el misterio del Destripador, %pcf.
+<--->
+Si no fuera por ti, el Destripador de ____qgiver_ seguiría aterrorizándonos. ¿Qué puedo hacer por ti?
+
+QuestorPostfailure:  [1009]
+<ce>                     Suerte tienes de que el Destripador de
+<ce>                 ____qgiver_ se marchara. De lo contrario, estaría
+<ce>                 muy enfadado contigo. De hecho, estoy enfadado.
+<ce>                            Vete al cuerno, %pcf.
+
+QuestLogEntry:  [1010]
+<ce>                        Buena puntería, %pcf. Estaba
+<ce>                  a punto de salir para ver a alguien en
+<ce>                    _hookerhouse_ que podría arrojar algo
+<ce>                  de luz sobre esta situación.
+<ce>                   Se trata de alguien dedicado a la =hooker_
+<ce>                  llamado _hooker_. Francamente, es alguien que
+<ce>                  ejerce la prostitución, pero su nombre estaba
+<ce>                  tachado en la parte superior de una carta
+<ce>                  que recibió _qgiver_. Quizás el Destripador
+<ce>                   le estaba escribiendo una carta a _hooker_,
+<ce>                  y luego cambió de opinión. Si es así,
+<ce>                  %g podría tener alguna idea sobre la
+<ce>                identidad del Destripador. Vale la pena intentarlo.
+<ce>                   ¿Por qué no vas a _hookerhouse_
+<ce>                        con la carta y lo compruebas?
+
+Message:  1011
+<ce>                           _qgiver_, el último
+ estaba Tan Rico que incluso le di un bocado. Toda
+ tu familia se ve jugosa también -- tal ves el
+<ce>                            Destripador les
+ visite pronto. Rajando y rajando y Luego un
+<ce>                   poco de RAJAR para ajustar cuuentas.
+<ce>                            Graciosamente suyo,
+ El Destrippador de ____qgiver_
+
+Message:  1012
+_qgiver_,
+    atrápame si PUEDES
+ tal ves ahora te importe tu ____qgiver_
+ ahora que está empapada en SANGRE
+ Tu amigo,
+<ce>                            El Destrippador de ____qgiver_
+
+Message:  1013
+_contact_,
+ 
+    Estaría encantado de reunirme contigo,
+ ya sea en tu casa o en la mía sobre ese
+ admirador chiflado mío. Tengo una carta
+ que me enviaron que podría ser útil.
+ 
+<ce>                    Atentamente, _hooker_
+
+Message:  1014
+_hooker_,
+ 
+ Dijiste que serías mi amiga, pero
+ cuando te vi en la calle, fingiste
+ que no me veías.
+ 
+ No querrás hacerme enfadar de
+ nuevo, ¿verdad?
+ 
+ _rippername_
+
+Message:  1015
+<ce>                       ¿Trabajas con _contact_, no es
+<ce>                        así, %pcf? Bueno, %g estaba
+<ce>               interesado en esta carta que me enviaron la
+<ce>                   otra noche. _rippername_ era un
+<ce>               cliente mío, con unas ideas muy retorcidas
+<ce>               sobre lo que es divertirse. Ideas muy locas
+<ce>               en general. En parte sentía lástima por %g2,
+<ce>               pero sobre todo le tenía miedo, así que
+<ce>               supongo que le dejé creer que me gustaba.
+<ce>               Claro que ahora recibo cartas como esta.
+<ce>               Creo que %g bien podría ser el Destripador
+<ce>               de ____qgiver_. Vive en _ripperhouse_ si
+<ce>               quieres ir a verle en persona.
+
+Message:  1016
+_hooker_ se dedica a la prostitución. Está justo %di de aquí si te interesa.
+<--->
+No es más que alguien que ofrece sexo barato, esa es _hooker_. %di si estás buscando.
+
+Message:  1017
+_hooker_ solía juntarse con un personaje llamado _rippername_. Uno tenebroso.
+<--->
+_hooker_ lo sabe todo sobre Destripadores. Pregúntale a %g3 sobre _rippername_; es un tipo asqueroso.
+
+Message:  1020
+%qdat:
+ He llegado a ___qgiver_ y me he reunido con
+ _qgiver_ sobre el misterio del Destripador de
+ ____qgiver_. %g quiere que atrapen al Destripador
+ en =total_ días antes de que todo ___qgiver_
+ se convierta en una turba enfurecida. Mi única
+ pista es alguien de estudios llamado _contact_
+ que tiene las cartas que el Destripador envió a
+ _qgiver_. _contact_ trabaja en _bookstore_.
+
+Message:  1021
+%qdat:
+ _contact_ me ha enviado a _hookerhouse_
+ para reunirme con _hooker_, que ejerce la
+ prostitución y podría tener información sobre
+ el Destripador.
+
+Message:  1022
+%qdat:
+ El Destripador de ____qgiver_ tuvo un encuentro
+ con _contact_ antes de que yo llegara. Una
+ de las cartas que encontré en __contact_ era
+ de alguien llamado _hooker_ que quería reunirse
+ con _contact_ sobre un "admirador chiflado".
+ A esa persona es a quien debo encontrar ahora.
+ Y esta vez, tendré que llegar antes.
+
+Message:  1023
+%qdat:
+ _hooker_ me habló de un cliente que tenía,
+ lo suficientemente loco como para ser el Destripador.
+ Alguien llamado _rippername_, que vive en
+ _ripperhouse_. Espero que esta no sea la última
+ entrada de diario que escriba.
+
+Message:  1024
+%qdat:
+ El admirador de _hooker_ al parecer vino a
+ visitarla antes que yo. En su casa encontré una
+ carta de alguien llamado _rippername_. Parecía
+ lo suficientemente inquietante como para ser nuestro
+ Destripador. Vale la pena investigar de todos modos.
+
+Message:  1025
+_contact_ es alguien de gran saber en _bookstore_, %di de aquí.
+<--->
+_contact_ es a veces el tutor de _qgiver_ en ciertos asuntos de la mente humana.
+
+Message:  1026
+_contact_ es un viejo necio que algún día se meterá en problemas persiguiendo al Destripador.
+<--->
+_contact_ es una eminencia en _bookstore_, peligrosamente involucrado en el asunto del Destripador.
+
+Message:  1040
+¿_rippername_? Probablemente encuentres a %g2 en _ripperhouse_.
+<--->
+No sé mucho sobre _rippername_. Casi no sale.
+<--->
+_rippername_ es ese joven agradable que vive en _ripperhouse_.
+
+Message:  1041
+<ce> Bueno, parece bastante normal, pero he oído algunas historias sobre él
+<ce>                 que podrían hacerte pensar lo contrario.
+                                     <--->
+<ce> Es agradable, pero un poco raro, ¿sabes? A veces te hace preguntarte si
+<ce>                     le falta un tornillo.
+
+Message:  1050
+<ce>            ¡Te he visto con mi novia! ¡Ahora tú y ella
+<ce>             vais a ser Destripados juntos ya que os
+<ce>                        queréis tanto!

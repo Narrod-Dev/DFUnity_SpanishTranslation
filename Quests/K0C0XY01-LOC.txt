@@ -1,0 +1,150 @@
+Quest: K0C0XY01
+DisplayName: El Nido de las Arpías
+QRC:
+
+QuestorOffer:  [1000]
+<ce>          Tengo una situación bastante común entre manos.
+<ce>           Un nido de arpías se ha instalado en una vieja
+<ce>          propiedad mía, y aunque personalmente no me
+<ce>            importa, nuestro sabio y benevolente %rt ha
+<ce>          decretado que el dueño de cualquier estructura
+<ce>           infestada de arpías es responsable de su
+<ce>           exterminio. Al parecer hay una multa por no
+<ce>           cumplir. Francamente, no tengo tiempo para esto;
+<ce>           pero si no te importa ensuciar tu espada,
+<ce>              podría usar tu ayuda. El último mercenario
+<ce>              que contraté no lo logró, así que entendería
+<ce>             si dudas. Estaría dispuesto a pagarte
+<ce>          _reward_ piezas de oro por las molestias.
+
+RefuseQuest:  [1001]
+<ce>                    %oth. Bueno, no te culpo.
+<ce>            Nunca soporté el hedor de las arpías.
+
+AcceptQuest:  [1002]
+<ce>            ¿Lo harás? Maravilloso. El detalle es que
+<ce>             debo presentar pruebas de que se ha hecho
+<ce>              un esfuerzo serio por limpiar ___mondung_
+<ce>              en =2mondung_ días. Evidentemente, no hay
+<ce>                   mucho tiempo. Esperaba que _contact_,
+<ce>          el mercenario que contraté antes del Gremio
+<ce>            de Luchadores, hubiera sido más capaz. Y,
+<ce>                   escucha, %pcf, no tienes que limpiar
+<ce>                todo ___mondung_. Solo mata cuatro o cinco
+<ce>             de esas criaturas y regresa. ¡Ya sé! Los líderes
+<ce>               del clan llevan plumas de grifo teñidas
+<ce>                   de forma especial. Trae una de esas
+<ce>               y tendré la prueba que necesito. Solo asegúrate
+<ce>             de regresar en =2mondung_ días, %pcf.
+
+QuestFail:  [1003]
+<ce>                 %oth. Eso no fue mucho esfuerzo.
+
+QuestComplete:  [1004]
+<ce>                Bien hecho, %pcf. Ahora puedo demostrar al
+<ce>             %rt que cumplí con mi deber cívico, o al menos
+<ce>           que lo intenté. Has ganado tus _reward_ piezas
+<ce>                        de oro. Gracias.
+
+RumorsDuringQuest:  [1005]
+El %rt exige pruebas físicas de la exterminación de arpías a algunos mercenarios.
+<--->
+_qgiver_ ha dejado ___mondung_ completamente abandonado. Ya ni parece un almacén.
+<--->
+_qgiver_ debería destruir ___mondung_ si no piensa usarlo.
+
+RumorsPostfailure:  [1006]
+El %rt le impuso tantas multas a _qgiver_ que dudo que se recupere.
+<--->
+_qgiver_ ha tenido muy mala suerte con quienes intentan eliminar arpías.
+
+RumorsPostsuccess:  [1007]
+El %rt parece satisfecho con los esfuerzos de _qgiver_ por limpiar ___mondung_.
+<--->
+_qgiver_ por fin hizo algo para limpiar ese sucio ___mondung_.
+
+QuestorPostsuccess:  [1008]
+Me ayudaste con esas arpías, %pcf. ¿En qué puedo ayudarte?
+
+QuestorPostfailure:  [1009]
+No tengo nada que decirle a alguien que no puede conseguir unas cuantas plumas.
+
+Message:  1030
+Una pluma grande y blanca, teñida de un desagradable tono rojo.
+
+Message:  1031
+Una pluma gris, teñida de un enfermizo tono verde.
+
+Message:  1032
+Una pluma grande y blanca, teñida de negro puro.
+
+Message:  1033
+Una pluma gris, teñida de un azul apagado.
+
+Message:  1011
+<ce>                      Gracias, %pcf. Conozco el
+<ce>                          camino de regreso desde aquí.
+
+Message:  1012
+__qgiver_, ___qgiver_
+ Estimado %pcn,
+ 
+      Lamento molestarte, sé que estás ocupado, pero recibí
+ una visita del Gremio de Luchadores sobre _contact_,
+ el mercenario que contraté primero para limpiar ___mondung_.
+      Sin aburrirte con los detalles, prometí al maestro
+ del gremio que te pediría que buscaras a _contact_
+ mientras estés en ___mondung_. _contact_
+ es un =contact_, así que debería destacar allí.
+      Bien, he cumplido mi promesa al maestro del gremio.
+ Personalmente, no me importa si tiras esta carta y dejas
+ que _contact_ se pudra en ___mondung_.
+ 
+      Espero tu regreso con interés.
+ 
+<ce>                              Atentamente,
+<ce>                                _qgiver_
+
+Message:  1013
+<ce>                         ¿Vienes de parte de _qgiver_?
+<ce>                        Gracias a %god que llegaste,
+<ce>                          %pcf. Espero que no te
+<ce>                          importe si me uno.
+<ce>                         Toma este _jewelry_ como
+<ce>                        muestra de mi gratitud.
+
+Message:  1014
+<ce>            Un joven mensajero aparece a tu lado, te entrega
+<ce>                una carta y desaparece sin decir palabra.
+
+Message:  1020
+%qdt:
+ _qgiver_, un
+ comerciante en ___qgiver_, me ha contratado
+ para limpiar su propiedad abandonada,
+ ___mondung_, infestada de arpías.
+ Aparentemente, no es necesario limpiar todo
+ el lugar, pero sí demostrar algún esfuerzo,
+ o al menos aparentarlo. Debo regresar
+ con una pluma de líder de clan en
+ =2mondung_ días para recibir _reward_ piezas de oro.
+
+Message:  1050
+1 arpía eliminada
+
+Message:  1051
+2 arpías eliminadas
+
+Message:  1052
+3 arpías eliminadas
+
+Message:  1053
+4 arpías eliminadas
+
+--changed these msgs from 103X to 105X since those numbers were already taken above
+
+Message:  1040
+<ce>                Necesito alguna prueba antes de pagarte.
+
+Message:  1099
+<ce>                    Has encontrado una pluma de clan.

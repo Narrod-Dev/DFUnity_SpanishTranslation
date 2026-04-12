@@ -1,0 +1,115 @@
+Quest: L0B10Y03
+DisplayName: Ausencia No Autorizada
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                   La Hermandad se enorgullece de
+<ce>                   saber siempre dónde se encuentra
+<ce>                   cada Hermano en todo momento. Podría
+<ce>                   decirte dónde estuviste el pasado
+<ce>                    Tirdas con un pie de precisión.
+<ce>                  Sin embargo, uno de nuestros Hermanos
+<ce>                  ha desaparecido durante un encargo.
+<ce>                         Tu misión será encontrar
+<ce>                               a =target_,
+<ce>                  y, a menos que haya una excusa válida
+<ce>                   por su ausencia, le pedirás cuentas.
+<ce>                     Confío en que tengas tiempo para
+<ce>                            esto, ¿verdad?
+                                     <--->
+<ce>                  Como sabes, nadie abandona jamás la
+<ce>                   Hermandad Oscura. Alguien de los
+<ce>                  nuestros ha desaparecido en misión,
+<ce>                    y debemos saber si =target_ está
+<ce>                    con vida o no. Te hemos elegido a
+<ce>                       ti para este trabajo.
+
+RefuseQuest:  [1001]
+<ce>                      ¿En serio? Bueno, supongo que
+<ce>                   tienes derecho a rechazar un encargo
+<ce>                            de vez en cuando.
+
+AcceptQuest:  [1002]
+<ce>                         Bien. =target_ tiene
+<ce>                      familia en ___contact_ --
+<ce>                        alguien con el nombre de
+<ce>                              _contact_ que
+<ce>                    suele encontrarse en un lugar llamado
+<ce>                       __contact_. Habla con esa
+<ce>                  persona —con firmeza— y averigua dónde
+<ce>                 está su pariente. Te daré =queston_
+<ce>                  días para ocuparte de este asunto
+<ce>                             y regresar.
+
+QuestComplete:  [1004]
+<ce>                            ¿=target_ era un
+<ce>                   vampiro? Bueno, eso explica las
+<ce>                    cosas. Si no lo has hecho ya,
+<ce>                      deberías ir a que te curen en
+<ce>                    un templo, para no acabar en la
+<ce>                        familia chupasangre de
+<ce>                               =target_.
+
+RumorsDuringQuest:  [1005]
+Nadie, absolutamente nadie, traiciona a la Hermandad Oscura.
+<--->
+Se dice que =target_ fue tras cierto barón en algún lugar de %reg antes de desaparecer.
+
+RumorsPostfailure:  [1006]
+Hay quien dice que =target_ ha muerto. Pero otros han visto a ese ser... solo de noche.
+
+RumorsPostsuccess:  [1007]
+Qué curioso, la Hermandad liquidando a ese chupasangres. Uno pensaría que se llevarían bien.
+<--->
+Al parecer, el último objetivo de =target_ fue más de lo que esperaba.
+
+QuestorPostsuccess:  [1008]
+Hola, %pcf. Espero que te haya visto un sacerdote tras esa batalla contra el vampiro.
+
+QuestorPostfailure:  [1009]
+<ce>                     No tengo más que desprecio por
+<ce>                   quienes fallan en sus misiones.
+<ce>                         Largo de aquí, %pcf.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de la Hermandad Oscura,
+ en ___qgiver_, quiere que rastree
+ a un miembro que ha desaparecido
+ y, si no ofrece una explicación
+ razonable, que ajuste las cuentas.
+ Este personaje, llamado =target_,
+ tiene un familiar en ___contact_,
+ de nombre _contact_. Tengo
+ =queston_ días para averiguar qué
+ sabe su pariente, localizar a
+ =target_ y volver con __qgiver_.
+
+Message:  1011
+<ce>                      No he sabido nada de =target_
+<ce>              desde que fue a buscar a aquel barón en
+<ce>                     ___mondung_. Un tipo raro,
+<ce>               ese barón. Nunca se dejaba ver durante el
+<ce>               día, vivía en ese lugar espeluznante. No
+<ce>               es de extrañar que alguien lo quisiera
+<ce>               muerto. Aun así, si alguien iba a frenar
+<ce>                la carrera de mi pariente, no esperaba
+<ce>                   que fuera ese barón pálido y
+<ce>                             esquelético.
+
+Message:  1012
+%qdt:
+ _contact_ me dijo que
+ =target_ fue a
+ ___mondung_ buscando a un
+ misterioso barón para ajustar cuentas.
+ ___mondung_ será mi próxima parada.
+
+Message:  1013
+<ce>                      "Déjame compartir contigo la
+<ce>                    inmortalidad que el barón me dio",
+<ce>                           sisea =target_.
+
+Message:  1014
+<ce>                          El vampiro, =target_,
+<ce>                         al fin descansa en paz.

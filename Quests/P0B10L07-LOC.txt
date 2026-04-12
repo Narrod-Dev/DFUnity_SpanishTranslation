@@ -1,0 +1,124 @@
+Quest: P0B10L07
+DisplayName: Intimidación
+QRC:
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called.
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called.
+
+QuestComplete:  [1004]
+<ce>                         _knight_ casi ha perdido
+<ce>                    el juicio por %g3, %pcf. Qué gran
+<ce>                            amenaza representas. %vam siente
+<ce>                    que mereces esta _jewelry_
+<ce>                   en reconocimiento a tu lealtad y
+<ce>                    tu notable... moderación en este
+<ce>                         asunto. Bien hecho, camarada.
+
+RumorsDuringQuest:  [1005]
+Si _knight_ no tiene cuidado, esos vampiros se volverán contra %g2.
+<--->
+_knight_ cree que %g sabe sobre los vampiros. Pero %g no tiene ni idea.
+
+RumorsPostfailure:  [1006]
+_knight_ se ha mudado al otro lado de la Bahía, pero %g no quita ojo a los vampiros.
+<--->
+_knight_ no teme a ningún vampiro. Dicen que ha matado a miles.
+
+RumorsPostsuccess:  [1007]
+_knight_ recibió la lección de %g3 vida. No sale a cuenta luchar contra vampiros.
+<--->
+_knight_ no era más que alguien con exceso de idealismo. Yo digo que dejen en paz a los vampiros.
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called.
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called.
+
+QuestLogEntry:  [1010]
+               __vamp_
+                ___vamp_
+ 
+ 
+ Estimable %pcn,
+ 
+      %vam te necesita. Ven
+ de inmediato.
+ 
+ 
+                Tuyo en la muerte,
+ 
+ 
+                _vamp_
+
+Message:  1011
+<ce>                  Ah, buenas noches, camarada. Estamos
+<ce>                    teniendo dificultades con un señor de
+<ce>                   la guerra local quien, pese a nuestras
+<ce>                    muchas y muy educadas amenazas,
+<ce>                    continúa librando una guerra contra
+<ce>                  %vam. Normalmente, este molesto caballero
+<ce>                     ya estaría en el más allá hace
+<ce>                    semanas. Nuestra piedad no nace del
+<ce>                      sentimiento. Podríamos usar a
+<ce>                          _knight_ como aliado
+<ce>                    en %reg, pero %g necesita aprender
+<ce>                  obediencia. Quiero que hables con
+<ce>                        %g2 en ___mondung_
+<ce>                    donde %g se sienta más seguro. No
+<ce>                  le mates; solo dale una buena paliza.
+<ce>                 Te esperaré de vuelta en =queston_ días
+<ce>                            tras haber... ablandado
+<ce>                            a _knight_.
+
+Message:  1012
+%qdt:
+ He recibido una carta
+ de _vamp_, de
+ %vam de ___vamp_. Se me
+ necesita en __vamp_
+ lo antes posible.
+
+Message:  1013
+%qdt:
+ _vamp_ quiere que
+ vaya a ___mondung_
+ y reduzca a _knight_,
+ alguien que se niega a ceder
+ ante la voluntad de %vam.
+ Se me ordena no matar a %g2,
+ solo darle un susto y volver a
+ ___vamp_ en =queston_ días.
+
+Message:  1014
+<ce>                         ¡Por %god, dile a %vam
+<ce>                         que haré cualquier cosa!
+<ce>                          ¡Pero no me mates!
+                                     <--->
+<ce>                          ¡%oth, me rindo!
+<ce>                       Haré lo que quieran,
+<ce>                       solo por favor, en nombre de
+<ce>                            %god, no me
+<ce>                                mates!
+
+Message:  1015
+<ce>                            _knight_ ha muerto.
+<ce>                            A _vamp_ no le va a
+<ce>                                gustar esto.
+
+Message:  1016
+<ce>                        Ya me he enterado, %pcf.
+<ce>                            Has matado a _knight_
+<ce>                  aunque te dije específicamente que solo
+<ce>                        le asustaras. %oth, no eres
+<ce>                     más que un simple matón, ¿verdad?
+<ce>                          %vam y yo estamos muy
+<ce>                          decepcionados, %pcf.
+
+Message:  1017
+<ce>                      Un joven y pálido muchacho te entrega
+<ce>                       una carta antes de escabullirse
+<ce>                        con una agilidad sorprendente.

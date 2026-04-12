@@ -1,0 +1,109 @@
+Quest: 90C00Y00
+DisplayName: La misión de Vaernima
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                    Un %ra muy sabio dijo una vez que
+<ce>                   el poder corrompe, y el poder absoluto
+<ce>                   es absolutamente fabuloso. Por eso
+<ce>                    voy a ayudarte. Ahora, estoy
+<ce>                  seguro de que tienes ciertos problemas morales
+<ce>                  con asesinar a un inocente que nunca
+<ce>                   te ha hecho daño alguno. Pero lo harás
+<ce>                 para ganar mi Calavera de la Corrupción, ¿verdad?
+
+RefuseQuest:  [1001]
+<ce>                          ¿No? ¿Por qué... tú...
+<ce>                        despreciable, llorón,
+<ce>                        virtuoso, pulcro pedazo
+<ce>                        de moco de goblin! No voy
+<ce>                        a desperdiciar mi precioso
+<ce>                          tiempo con alguien tan
+<ce>                           venenósamente moral.
+
+AcceptQuest:  [1002]
+<ce>               Magnífico. El inocente en cuestión que tengo en
+<ce>                      mente es un _monster_. Probablemente
+<ce>               estás pensando, ¿un lich inocente? Bueno,
+<ce>                    inocente para ti. Para mí, es un
+<ce>                  antiguo sirviente traicionero que tomó
+<ce>                todo el poder que le ofrecí y luego ignoró
+<ce>                mis órdenes. Encontrarás su cadavérica
+<ce>                        presencia en ___mondung_.
+<ce>                Está nervioso, así que prepárate para la batalla.
+<ce>                Tras tu victoria, ve a ___qgfriend_,
+<ce>                  y busca a mi sirviente _qgfriend_,
+<ce>                      un =qgfriend_ en __qgfriend_.
+
+QuestFail:  [1003]
+<ce>                       Vaya, qué traicionero %ra.
+<ce>                    ¿Estás fingiendo haber matado
+<ce>                   al lich para poner tus manos codiciosas
+<ce>                    sobre la Calavera? Vaernima se
+<ce>                     divertiría, pero, por desgracia, estoy
+<ce>                     bajo órdenes estrictas. Vuelve cuando
+<ce>                    hayas cumplido tu contrato.
+
+QuestComplete:  [1004]
+<ce>                 Entonces, ¿el lich se deshizo en una nube de
+<ce>                     polvo al morir? _qgfriend_
+<ce>                    aquí, %pcf. Vaernima estará muy
+<ce>                   complacida con la noticia. Espero que no
+<ce>                   te importe si exagero un poco
+<ce>                  sobre algunos horribles y escandalosos pecados
+<ce>                   que cometiste en tu viaje. Aquí
+<ce>                   tienes _artifact_. Úsalo cuando quieras
+<ce>                  que un objetivo enfrente su lado
+<ce>                     más oscuro. Adiós, %pcf,
+<ce>                              pero haz el mal.
+
+RumorsDuringQuest:  [1005]
+Hay una maldición sobre estas tierras mientras ese lich permanezca en ___mondung_.
+<--->
+Ojalá algún gran héroe viniera a matar a ese antiguo lich en ___mondung_.
+
+RumorsPostfailure:  [1006]
+Ese lich se fue de ___mondung_, pero no está muerto. Volverá cuando esté listo.
+<--->
+Solo me alegra que ese lich se haya ido, aunque no esté muerto.
+
+RumorsPostsuccess:  [1007]
+Dicen que %god nos envió un ángel para librar a ___mondung_ de ese lich maldito.
+<--->
+Puede que nunca sepamos quién destruyó a ese lich en ___mondung_, pero está en nuestras oraciones.
+
+Message:  1011
+_qgfriend_ es ese inquietante =qgfriend_ allá en __qgfriend_ hacia el %di.
+<--->
+_qgfriend_ es el maloliente =qgfriend_ que vi en __qgfriend_.
+
+Message:  1012
+_qgfriend_ es uno de los agentes de corrupción de Vaernima en %reg.
+<--->
+_qgfriend_ es uno de los pequeños y sucios propagadores de corrupción de Vaernima.
+
+Message:  1013
+Vaernima es la Dama Daedra de la Corrupción y la Decadencia. No es agradable de ver.
+<--->
+Vaernima es una regente de Oblivion, y su esfera es la Corrupción y la Decadencia.
+
+Message:  1014
+La Calavera de la Corrupción crea duplicados oscuros y opuestos de un objetivo.
+<--->
+La Calavera trae a la luz la mitad oscura de un objetivo desde el plano de Oblivion de Vaernima.
+
+Message:  1015
+<ce>                     Has matado al _monster_,
+<ce>                  cumpliendo tu parte del trato
+<ce>                          con la Dama Vaernima.
+
+Message:  1020
+%qdt:
+ He hecho un contrato con el Príncipe Daedra Vaernima.
+ Ella ordenará a su agente en ___qgfriend_
+ que me entregue su artefacto, _artifact_, si
+ puedo reunirme con %g2 en __qgfriend_ con el
+ polvo de cierto _monster_ en mis manos
+ en =1stparton_ días o menos.
+ Todo lo que sé sobre el _monster_ es que
+ vive en ___mondung_.

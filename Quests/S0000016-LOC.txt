@@ -1,0 +1,45 @@
+Quest: S0000016
+DisplayName: Viaje a Aetherius
+QRC:
+
+QuestLogEntry:  [1010]
+%qdt:
+ Nulfaga me ha enviado al Nexo de Mantella
+ para encontrar la Mantella, el corazón del gran
+ Numidium. Se supone que es una gema grande y
+ verde. Todo lo que tengo que hacer es tocarla.
+
+Message:  1012
+<ce>            Solo Cabezas Coronadas portarán el Tótem Verdadero
+<ce>             Primero es Aquel que Mató, pero No Mató a Otro
+<ce>            Segundo es Aquel que es Dos Devorado Por Su Prole
+<ce>             Tercero es Aquel que Hizo a Uno Esclavo y a Muchos Libres
+<ce>             Cuarto y Quinto son Dos que Compiten por el Lodo
+<ce>             Sexto es Aquel que Trae un Hogar a los Desamparados
+<ce>          Séptimo es Aquel que Domina Todo, pero No Domina Nada en Absoluto
+<ce>                                     
+<ce>          No sé cuál de estos siete es más digno del
+<ce>          Poder, pues durante demasiado tiempo he dejado que mis
+<ce>            pasiones me volvieran loca. A veces el destino de un
+<ce>            mundo pende de la decisión de una sola persona. Tú
+<ce>            has elegido quién comandará al gran Numidium. Tú
+<ce>              cargas con el peso de las consecuencias.
+<ce>                                     
+<ce>          Te envío ahora al Nexo de Mantella, la prisión
+<ce>            salvaguardada de la Mantella. Busca una joya verde de
+<ce>            tamaño inusual. Tan solo toca la Mantella y será
+<ce>            liberada. Serás transportado de vuelta a mi lado.
+
+Message:  1020
+<ce>                    Tu trabajo ha terminado, %pcn. El mundo
+<ce>             ya no es como era antes. Así es como funcionan las
+<ce>              cosas. Ah, y si le dices a mi estatua de liche que
+<ce>              se calle, la puerta de mi cámara se abrirá.
+
+Message:  1050
+<ce>                   Nulfaga cacarea: "No tan rápido, %pcn.
+<ce>          ¿No quieres ver el resultado de tu obra?
+<ce>            Mira ahora en el Libro del Tiempo. Lee en sus
+<ce>            páginas la historia de lo que sucederá en los
+<ce>            próximos días. Lee el destino tal como quedará
+<ce>                    registrado en los Pergaminos Antiguos".

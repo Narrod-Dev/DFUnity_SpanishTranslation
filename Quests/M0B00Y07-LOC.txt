@@ -1,0 +1,67 @@
+Quest: M0B00Y07
+DisplayName: Huésped no deseado
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  De vez en cuando nos llega alguien con
+<ce>                 poca cabeza como este cliente. Dejó la
+<ce>                puerta trasera abierta y entró un animal.
+<ce>                 No parece tener muy claro si se trata de
+<ce>                un oso o un tigre, pero en cualquier caso,
+<ce>                 se lo quería cenar. Necesitamos que vayas
+<ce>                  y mates al animal. Tu tarifa estándar
+<ce>                        será de _gold_ oro.
+<ce>                       ¿Aceptas el encargo, %pcn?
+
+RefuseQuest:  [1001]
+<ce>                  Entendido. Que se lo quede el tigre.
+<ce>                 Quien le deja entrar en primer lugar es
+<ce>                       quien tiene la culpa, ¿no?
+
+AcceptQuest:  [1002]
+<ce>                      Genial. Ve a _house_, en
+<ce>                   __house_. Te daré =2dung_
+<ce>                  días para matarlo y volver a verme.
+
+QuestComplete:  [1004]
+<ce>                         Sin grandes dificultades,
+<ce>                      supongo. Me lo imaginaba. Aquí
+<ce>                             tienes tu _gold_ oro.
+
+RumorsDuringQuest:  [1005]
+<ce>                    He oído que hay un tigre atrapado en
+<ce>                      _house_. Va a tener que pagar
+<ce>                        para que alguien se deshaga de él.
+
+RumorsPostfailure:  [1006]
+Un tigre mató a alguien en su propia casa. Una tragedia terrible.
+
+RumorsPostsuccess:  [1007]
+¿No fuiste tú quien mató a ese tigre salvaje que entró en _house_?
+
+QuestorPostsuccess:  [1008]
+Buen trabajo con ese tigre.
+
+QuestorPostfailure:  [1009]
+Los tigres son duros. Quizás deberíamos probar a darte tareas con ardillas. Menudo desastre.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ en ___qgiver_ me ha
+ encargado matar a un tigre u oso
+ que se coló en _house_
+ en __house_. Si regreso en un
+ plazo de =2dung_ días, recibiré
+ _gold_ piezas de oro.
+
+Message:  1011
+<ce>                         El _monster_ ha muerto.
+
+Message:  1012
+<ce>                          El _bear_ ha muerto.
+
+Message:  1080
+<ce>                       Oye, acabo de recordar que uno
+<ce>                        de los miembros acaba de hallar
+<ce>                        este mapa de ___newdung_.
+<ce>                    No lo limpies todo en un solo día.

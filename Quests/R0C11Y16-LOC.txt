@@ -1,0 +1,102 @@
+Quest: R0C11Y16
+DisplayName: Equipo de espionaje
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Si tienes un par de días libres y
+<ce>                no te importaría ser _reward_ piezas
+<ce>                   de oro más rico, tengo una misión que
+<ce>                        requiere rapidez y delicadeza.
+
+RefuseQuest:  [1001]
+<ce>                     ¿No? No esperaba que rechazaras
+<ce>                    _reward_ de oro por el trabajo de
+<ce>                    unos pocos días. ¿Cuántas personas
+<ce>                    matarían por esa clase de dinero? En
+<ce>                      fin. Es tu vida, supongo.
+
+AcceptQuest:  [1002]
+<ce>                      Excelente, %pcf. Verás, cuento con
+<ce>                       quien sirve de espía, _npc1_ en ___npc1_
+<ce>                 que necesita un telescopio para continuar
+<ce>                  con sus actividades de vigilancia. Se me ha
+<ce>                  dicho que %g ha encontrado algo de interés
+<ce>                  para una amistad común, que también debe
+<ce>                  ser entregado. Así que, aquí tienes el
+<ce>                  telescopio. Llévalo ante alguien que sea =npc1_
+<ce>                        en un lugar llamado __npc1_ en
+<ce>                        ___npc1_, y allí recibirás más
+<ce>                  instrucciones. Buena suerte para ti, %pcf.
+
+QuestFail:  [1003]
+<ce>                  Quedarte por aquí no te hará más
+<ce>                          pudiente, %pcf.
+
+QuestComplete:  [1004]
+<ce>                            Debes de ser %pcn.
+<ce>                      _npc1_ me dijo que te esperara.
+<ce>                          Mi nombre es _npc2_. Deja que
+<ce>                    eche un vistazo a esa reliquia. Muy
+<ce>                    interesante, de hecho. Bueno, aquí tienes
+<ce>                  tus _reward_ piezas de oro. Tú nunca me
+<ce>                            has visto, ¿entendido?
+
+RumorsDuringQuest:  [1005]
+Si _questgiver_ realmente tiene una red de espionaje, debe estar muy bien escondida.
+<--->
+Se dice que _npc1_ se dedica al espionaje, pero %g nunca sale de __npc1_.
+
+RumorsPostfailure:  [1006]
+Resulta que atraparon a _npc1_ y confiscaron su botín mal habido.
+<--->
+Dicen que _npc1_ era una pieza clave en el espionaje al servicio de _questgiver_.
+
+RumorsPostsuccess:  [1007]
+Siempre tengo la sensación de que me observan en todas partes en ___npc1_.
+<--->
+Me pregunto si alguna vez encontrarán esa reliquia que fue sustraída del palacio.
+
+QuestorPostsuccess:  [1008]
+Vaya, pero si es mi espía favorito. ¿Cómo te va, joven %pcf?
+<--->
+Tengo entendido que la empresa salió sin contratiempos. Bien hecho, %pcf.
+
+QuestorPostfailure:  [1009]
+<ce>                  Esa misión que te encomendé fue un
+<ce>                  fracaso, ¿no es así? No hay ninguna
+<ce>                  razón apremiante por la que deba hablar
+<ce>                         contigo, ¿verdad?
+
+QuestLogEntry:  [1010]
+<ce>                      Sincronización excelente, %pcf.
+<ce>                    Permíteme presentarme. Mi nombre es
+<ce>                         _npc1_ y creo que es mi
+<ce>                  telescopio lo que llevas contigo.
+<ce>                        _questgiver_, creo, te dijo
+<ce>                  que tendría un pequeño trabajo para ti.
+<ce>                  Lleva esta reliquia ante alguien que sea =npc2_
+<ce>                         en ___npc2_. Se llama _npc2_ y
+<ce>                       podrás encontrar a %g2 en __npc2_.
+<ce>                Tu oro te estará esperando allí también.
+<ce>                 Mejor ponte en camino; %g te espera
+<ce>                  allí en un plazo de =2ndparton_ días.
+
+Message:  1015
+%qdt:
+ Alguien al servicio de espionaje de
+ _questgiver_ de ___questgiver_
+ necesita un telescopio y se me ha pedido
+ que lo entregue. Tengo =1stparton_ días
+ para llegar ante _npc1_ en
+ ___npc1_, en un lugar llamado __npc1_.
+ Una vez allí, recibiré más
+ instrucciones.
+
+Message:  1016
+%qdt:
+ Entregué a _npc1_ su
+ telescopio y %g me envió ante alguien de nombre
+ _npc2_ de ___npc2_ con
+ una reliquia de algún tipo. Tengo =2ndparton_
+ días para llegar al sitio de _npc2_
+ en ___npc2_, __npc2_.

@@ -1,0 +1,93 @@
+Quest: A0C10Y02
+DisplayName: El Niño Secuestrado
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 Estoy desesperado. La Hermandad Oscura
+<ce>                     ha tomado a mi hijo _child_ y
+<ce>                    lo matará si no pago un
+<ce>                  rescate. No tengo lo suficiente para comprar
+<ce>                     su libertad, pero puedo pagarte
+<ce>                    _money_ piezas de oro si lo
+<ce>                               liberas.
+                                     <--->
+<ce>                       Mi hijo, mi pobre _child_
+<ce>                    ha desaparecido, secuestrado por la Hermandad
+<ce>                       Oscura por %god sabe
+<ce>                  qué propósito horrible. Debes ayudarme,
+<ce>                      %pcf. Te daré todo
+<ce>                      lo que tengo, _money_ de oro, si
+<ce>                  traes a mi hijo de vuelta a casa.
+
+RefuseQuest:  [1001]
+<ce>                      Este es un día oscuro para mí.
+<ce>                  _child_ seguramente será asesinado por la
+<ce>                    Hermandad Oscura. ¡Que su fantasma
+<ce>                  te persiga por el resto de tus días!
+
+AcceptQuest:  [1002]
+<ce>                ¡Eres mi salvador! Mi nombre es _qgiver_.
+<ce>             Rápido, solo tienes =timeforq_ días
+<ce>                 antes de que maten a _child_. Está
+<ce>                    retenido en _dbguild_ en __dbguild_.
+
+QuestFail:  [1003]
+<ce>                   ¿_child_? ¿Dónde está? ¿Por qué no
+<ce>                    lo has traído de vuelta aún? Si
+<ce>                      quieres salvar su vida, ¡ve ahora!
+
+QuestComplete:  [1004]
+<ce>                   ¡_child_! ¡Estás vivo y sano!
+<ce>                    %pcf, te debo una deuda que nunca
+<ce>                   podrá ser completamente pagada. Esta modesta
+<ce>                     recompensa es lo menos que puedo
+<ce>                               darte.
+
+RumorsDuringQuest:  [1005]
+<ce>                   La Hermandad Oscura ha ido demasiado
+<ce>                  lejos esta vez. Secuestrar al hijo de _qgiver_
+<ce>                         es imperdonable.
+
+RumorsPostfailure:  [1006]
+<ce>                   No creo que _qgiver_ sobreviva la temporada.
+<ce>                   Probablemente se suicidará. ¿No escuchaste que la
+<ce>         Hermandad Oscura secuestró y mató a su hijo, _child_?
+
+
+RumorsPostsuccess:  [1007]
+<ce>                   ¡Tú eres ese %ra que rescató al pequeño
+<ce>                         _child_! Qué héroe.
+
+QuestorPostsuccess:  [1008]
+<ce>                  ¡El salvador de mi hijo! Te agradezco
+<ce>                   y _child_ te agradece por salvar
+<ce>                       su vida. Bendiciones, %pcf.
+
+QuestorPostfailure:  [1009]
+<ce>                   ¡Mi hijo _child_ está muerto por
+<ce>                 tu culpa! No vuelvas a aparecer por aquí.
+
+QuestLogEntry:  [1010]
+<ce>                 ¿Has venido a rescatarme? Mi nombre es
+<ce>                         _child_. No me gusta
+<ce>                   esta gente. Por favor llévame de vuelta
+<ce>                             con mi familia.
+
+Message:  1011
+<ce>                         _dbguild_ es oscuro y
+<ce>                      ominoso. Es seguro que
+<ce>                        hay enemigos al acecho en todas partes.
+
+Message:  1012
+On %qdt, _qgiver_
+ me contó sobre el desgarrador secuestro de
+ su hijo _child_ por la Hermandad
+ Oscura. Acepté de inmediato
+ rescatarlo de _dbguild_ en
+ __dbguild_. Su familia esperará
+ =timeforq_ días mi regreso a
+ __qgiver_ en ___qgiver_.
+
+Message:  1020
+<ce>                ¡Nadie se mete con la Hermandad Oscura
+<ce>                               y vive!```

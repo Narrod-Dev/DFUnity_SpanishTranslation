@@ -1,0 +1,68 @@
+Quest: B0C00Y06
+DisplayName: El Cazador
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        No confío en ti, %pcn.
+<ce>                      No eres miembro de nuestra
+<ce>                    orden. Si quieres ganarte
+<ce>                   mi confianza, y quizá incluso un poco
+<ce>                   de respeto, ve y mata al _monster_
+<ce>                  que está atacando las granjas. ¿Te atreves?
+
+RefuseQuest:  [1001]
+<ce>                     Ya lo suponía. El corazón de un
+<ce>                    cobarde late en tu pecho.
+<ce>                     Solo verte me da asco.
+
+AcceptQuest:  [1002]
+<ce>                  El _monster_ ha establecido su guarida en
+<ce>                       ___dungeon_. Ve allí y
+<ce>                      mátalo. Puede que haya otros
+<ce>                  _monster_s allí, pero no me importa.
+<ce>                   Solo me interesa uno con una
+<ce>                 gran marca de quemadura en la espalda. Es el
+<ce>                que ha estado atacando a los campesinos.
+<ce>                         Tienes =2dung_ días.
+
+QuestComplete:  [1004]
+<ce>                      Hmmph. Lo hiciste mejor de lo
+<ce>                     esperado, %pcn. Tal vez algún día
+<ce>                      incluso seas digno de ser miembro
+<ce>                   de la orden de caballería.
+
+RumorsDuringQuest:  [1005]
+Ese _monster_ es una verdadera molestia en ___qgiver_.
+<--->
+Muchos desean que los caballeros hagan algo con ese _monster_.
+
+RumorsPostfailure:  [1006]
+Gracias a %god, y no a la orden de caballería, el _monster_ se fue.
+<--->
+Es natural que el _monster_ se haya ido. Pero volverá.
+
+RumorsPostsuccess:  [1007]
+Todos están agradeciendo a los caballeros por matar a ese _monster_.
+<--->
+Nadie esperaba que la orden de caballería hiciera algo con el _monster_.
+
+QuestorPostsuccess:  [1008]
+Está bien, chico. Después de lo que hiciste, puedo tratarte con respeto.
+
+QuestorPostfailure:  [1009]
+Amante de _monster_, lárgate de aquí.
+<--->
+Me das asco, amante de _monster_.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de
+ la orden de caballería en ___qgiver_
+ me habló de un _monster_ que debe
+ ser eliminado en ___dungeon_.
+ Solo tengo =2dung_ días.
+
+Message:  1011
+<ce>                        En su espalda hay una gran
+<ce>                      zona chamuscada. Este debe ser
+<ce>                       el que mencionó _qgiver_.

@@ -1,0 +1,92 @@
+Quest: N0B00Y08
+DisplayName: Lanzar el hechizo de Sueño
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Noble _warrior_ ha
+<ce>                  patrocinado al Gremio en muchas de nuestras
+<ce>                   empresas, y así como nosotros hemos hecho
+<ce>                   enemigos, también %g. Tenemos noticias
+<ce>                   por un mensajero de %g2 de que una bruja
+<ce>                  ha maldecido a %g2 con un insomnio eterno.
+<ce>                    Un simple hechizo de Sueño curaría a
+<ce>                     %g2; ¿quizás estés en disposición
+<ce>                     y seas capaz de lanzarlo? Te pagaría
+<ce>                      con gusto _gold_ piezas de oro.
+                                     <--->
+<ce>                    Si eres capaz de lanzar el hechizo
+<ce>                    estándar de Sueño, alguien que es
+<ce>                    buena amistad del Gremio lo necesita.
+<ce>                          _warrior_ ha sufrido
+<ce>                      una maldición y necesita de ese
+<ce>                        hechizo somnífero. Puedo
+<ce>                      ofrecerte _gold_ piezas de oro
+<ce>                      a cambio de este servicio.
+
+RefuseQuest:  [1001]
+<ce>                         Ya veo. %oth, Sueño es un
+<ce>                    hechizo relativamente simple. Te
+<ce>                    vendría bien aprenderlo algún día.
+
+AcceptQuest:  [1002]
+<ce>                  Muy bien. Ahora, le dije al mensajero
+<ce>                  que no usaríamos ningún otro hechizo que
+<ce>                          no fuera Sueño en _warrior_.
+<ce>                  Dada la experiencia previa de %g2 con
+<ce>                  hechizos malditos, difícilmente se puede
+<ce>                  culpar a %g2 por esta ansiedad. Encontrarás
+<ce>                          a _warrior_ en _castle_
+<ce>                        en __castle_. Verás que
+<ce>                  _warrior_ lleva una buena armadura.
+<ce>                  Asegúrate de volver en =queston_ días,
+<ce>                    con nuestro contacto en pleno sopor.
+
+QuestComplete:  [1004]
+<ce>                         He oído que _warrior_
+<ce>                    cayó en una sublime torpescencia
+<ce>                    sin soltar a %g3. Espero que %g
+<ce>                  despierte antes del próximo Festival de
+<ce>                   Nueva Vida. En cuanto a ti, mi %ra,
+<ce>                    ciertamente te has ganado tus _gold_
+<ce>                              piezas de oro.
+
+RumorsDuringQuest:  [1005]
+Pobre _warrior_, lleva días sin dormir. Creo que la cordura de %g2 peligra.
+<--->
+La bruja que maldijo a _warrior_ con insomnio realmente hizo un buen trabajo con %g2.
+
+RumorsPostfailure:  [1006]
+_warrior_ y el Gremio de Magos están enemistados. No pudieron ayudar a %g2.
+<--->
+_warrior_ hizo las paces con las brujas, pero no ha perdonado al Gremio de Magos.
+
+RumorsPostsuccess:  [1007]
+He oído que _warrior_ sigue durmiendo. Ahora temen que %g no despierte nunca.
+<--->
+La bruja que maldijo a _warrior_ ha jurado venganza contra quien haya curado a %g2.
+
+QuestorPostsuccess:  [1008]
+Nos has ayudado a mantener una buena relación con _warrior_. ¿Qué puedo hacer por ti?
+
+QuestorPostfailure:  [1009]
+<ce>               Le fallaste al Gremio cuando le fallaste a
+<ce>                         nuestro contacto _warrior_.
+<ce>                Vete de aquí. Quizás con el tiempo pueda
+<ce>                               perdonarte, %pcn.
+
+QuestLogEntry:  [1010]
+%qdt:
+ He aceptado lanzar Sueño
+ sobre _warrior_, alguien que
+ patrocina al Gremio de Magos
+ de ___qgiver_. Tengo =queston_
+ días para llegar a _castle_
+ en __castle_ donde vive
+ _warrior_, lanzar el hechizo
+ con éxito y regresar con
+ _qgiver_ al Gremio de Magos.
+
+Message:  1011
+<ce>                             _warrior_ cae
+<ce>                      en un sueño profundo, sin
+<ce>                        siquiera soltar a %g3.

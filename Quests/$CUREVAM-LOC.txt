@@ -1,0 +1,203 @@
+Quest: $CUREVAM
+DisplayName: Cura del Vampirismo
+QRC:
+
+QuestorOffer:  [1000]
+Error -- 1000 llamado
+
+RefuseQuest:  [1001]
+Error -- 1001 llamado
+
+AcceptQuest:  [1002]
+Error -- 1002 llamado
+
+QuestFail:  [1003]
+<ce>                         Error -- 1003 llamado
+
+QuestComplete:  [1004]
+<ce>               Mientras =bloodfather_ muere, sientes que la maldición
+<ce>                   del vampirismo se desvanece de tu alma.
+<ce>                      Ya no eres un vampiro.
+
+RumorsDuringQuest:  [1005]
+<ce> _hunter_ está liderando una nueva cruzada contra los vampiros en %reg pronto.
+<ce> Tal vez entonces podamos volver a caminar por las calles de noche sin miedo.
+
+RumorsPostfailure:  [1006]
+<ce>_hunter_ y los hombres de %g3 mataron a muchos vampiros en %reg, pero dudo que
+<ce>                             los hayan eliminado a todos.
+                                     <--->
+<ce> _hunter_ debería haber dejado las cosas como estaban.  Las cruzadas de %g3 solo hacen
+<ce> que los vampiros se escondan, y cuando %g se va, regresan más fuertes que nunca.
+
+RumorsPostsuccess:  [1007]
+<ce>_hunter_ y los hombres de %g3 mataron a muchos vampiros en %reg, pero dudo que
+<ce>                             los hayan eliminado a todos.
+                                     <--->
+<ce> _hunter_ debería haber dejado las cosas como estaban.  Las cruzadas de %g3 solo hacen
+<ce> que los vampiros se escondan, y cuando %g se va, regresan más fuertes que nunca.
+
+QuestorPostsuccess:  [1008]
+Error -- 1008 llamado
+
+QuestorPostfailure:  [1009]
+Error -- 1009 llamado
+
+Message:  1011
+_hunter_ busca y destruye vampiros por todo Tamriel.
+<--->
+_hunter_ ha dedicado su vida a cazar vampiros.
+
+Message:  1012
+<ce>Dicen que el propio padre de _hunter_ fue asesinado por vampiros.  Eso fue lo que
+<ce>               impulsó su odio fanático hacia ellos.
+                                     <--->
+<ce> _hunter_ mató a su propio padre después de que se convirtiera en vampiro.  Eso sí que
+<ce>                       es lo que yo llamo un verdadero fanático.
+
+Message:  1020
+                       %qdt
+ 
+ Estimado %pcn de %vam,
+ 
+    Permíteme presentarme.  Soy _hunter_.
+ Puede que hayas oído hablar de mí -- el renombrado
+ cazador de vampiros.  No te apresures a juzgarme,
+ sin embargo.  No soy tu enemigo, al menos no todavía.
+ Aunque detesto el vampirismo con pasión, y he
+ dedicado mi vida a erradicar esta oscura plaga
+ de Tamriel, entiendo que muchos son víctimas
+ inocentes como tú.  La voluntad de vivir no es
+ en sí misma maligna, y siempre trato de ofrecer a mi presa
+ una oportunidad para demostrar que sus actos sangrientos
+ se basan en la necesidad, no en el placer de matar.
+    Estoy seguro de que tus "semejantes" no te han dicho
+ esto, pero el vampirismo puede curarse.  Para hacerlo,
+ debes matar a tu "padre de sangre", el antiguo mal
+ que creó la línea de vampiros que conduce hasta ti.
+ Al hacerlo, no solo te liberarás, sino que también
+ eliminarás un cáncer del corazón de %reg.
+ 
+<ce>                              (continuará)
+ 
+    Yo mismo no sé dónde encontrar a tu
+ "padre de sangre", pero mis fuentes han revelado el nombre
+ de alguien importante en %vam que debería tener esta información,
+ _vamp1_ de ___vamp1_.  Esperaré
+ =huntstart_ días antes de actuar contra los vampiros de %reg,
+ para darte la oportunidad de salvarte.
+    Considera bien mi oferta, %pcn.  Tienes
+ =huntstart_ días, luego tú y el resto de %vam
+ serán cazados como alimañas.
+ 
+<ce>                                _hunter_
+
+Message:  1021
+<ce>                      ¿Quieres mostrarle a _vamp1_
+<ce>                       la carta de _hunter_?
+
+Message:  1022
+<ce>                Has hecho bien en traerme esto,
+<ce>                   %pcn.  _hunter_ ha sido la pesadilla
+<ce>             de %vam durante años.  Con esta advertencia,
+<ce>             podemos salvar la vida de muchos de nuestros semejantes.
+<ce>              No subestimes el peligro en el que estás,
+<ce>               %pcf.  _hunter_ es despiadado y competente,
+<ce>              y sus espías están en todas partes.  %g sería
+<ce>              una excelente incorporación a %vam -- quizá %g
+<ce>              lo sea algún día.  Sea como sea, %g conoce tu
+<ce>              nombre, y no dudes que intentará
+<ce>                      cumplir su amenaza.
+<ce>                      Que la noche te mantenga a salvo.
+
+Message:  1023
+<ce>                  %pcn, ¿verdad?  He oído cosas buenas
+<ce>                sobre ti por parte del resto de %vam.
+<ce>               Entonces, quieres encontrar a tu padre de sangre.  Un
+<ce>           deseo comprensible, aunque es un privilegio
+<ce>               que normalmente no se concede a alguien tan joven.
+<ce>              Sin embargo, has progresado tanto en %vam
+<ce>            que creo que puedo hacer una excepción.  Veamos,
+<ce>          debe ser =elder_ o =bloodfather_.
+<ce>                 Puedes encontrarlos en ___wrongdung_ y
+<ce>                 ___fatherdung_, respectivamente.  Sin embargo,
+<ce>                 te aconsejo no perturbar la reclusión de un anciano
+<ce>             a la ligera.  Lo mejor sería
+<ce>                 que buscaras a _vamp2_ de ___vamp2_.
+<ce>              %g es el Guardián del Linaje, y podrá
+<ce>              decirte con certeza cuál de los ancianos de %vam
+<ce>              es tu padre de sangre.  Lleva este
+<ce>              brazalete a %g2 para que sepa que te envié yo.
+
+Message:  1024
+<ce>               Hmph.  Eres muy joven para que se te confíe
+<ce>               tal información.  Sin embargo, ya que
+<ce>              llevas el símbolo de _vamp1_, te revelaré
+<ce>            dónde reside tu padre de sangre, =bloodfather_.
+<ce>            Lo encontrarás en su guarida en ___fatherdung_.
+<ce>             Ten en cuenta que en esta época del año, los ancianos
+<ce>                 no desean ser molestados por nadie.
+<ce>          Interfiere con la soledad de =bloodfather_ bajo tu propio riesgo.
+
+Message:  1025
+<ce>                ¡Traidor de sangre!  Hemos descubierto tu
+<ce>             traición.  Nunca encontrarás a =bloodfather_,
+<ce>                 aunque tus días como miembro de %vam
+<ce>                  están por terminar, no te preocupes. _hunter_
+<ce>                    no tendrá que cazarte.
+
+Message:  1030
+<ce>               ¡Muchacho, no interrumpas mis meditaciones!
+<ce>                    ¡Vete, o mi hambre me obligará
+<ce>                            a matarte!
+
+Message:  1031
+<ce>                        Has matado a =elder_,
+<ce>                             Anciano de %vam.
+
+Message:  1032
+<ce>                     %pcn, tu sangre me llama.
+<ce>                   ¿Por qué atacas a tu propio padre?
+<ce>                      %vam castiga el parricidio con la
+<ce>                  muerte.  No me obligues a ejecutar
+<ce>                 esta sentencia yo mismo.  ¡Huye, hijo mío!
+
+Message:  1040
+<ce>                   _hunter_ dijo que te encontraría aquí.
+<ce>                           ¡Muere, acechador nocturno!
+
+QuestTimeLapse:  [1045]
+<ce>                   Un objeto desconocido en tu mochila
+<ce>                   llama tu atención.  Es una carta,
+<ce>                 dirigida a ti con una elegante
+<ce>                    caligrafía.  ¿Cómo llegó ahí?
+
+Message:  1050
+%qdt:
+ El cazador de vampiros _hunter_
+ me ha enviado una carta prometiendo
+ cazarme a menos que me cure
+ del vampirismo matando a mi padre de sangre.
+ _hunter_ no sabe quién ni dónde
+ está mi padre de sangre, pero %g sugirió
+ que _vamp1_ de
+ ___vamp1_ podría saberlo.
+ Tengo =huntstart_ días antes de que comience
+ la cacería de vampiros.
+
+-movida la línea de vamp1 hacia abajo, se salía de los límites del diario
+
+Message:  1051
+%qdt:
+ _vamp1_ cree que mi padre de sangre
+ vive en ___wrongdung_ o
+ ___fatherdung_, pero aconsejó que
+ lleve su brazalete a _vamp2_ de
+ __vamp2_, ___vamp2_, quien puede
+ decirme con certeza dónde encontrarlo.
+
+Message:  1052
+%qdt:
+ _vamp2_ me dijo que el nombre de mi padre de sangre
+ es =bloodfather_, y que
+ vive en ___fatherdung_.

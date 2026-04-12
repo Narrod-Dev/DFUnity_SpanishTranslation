@@ -1,0 +1,63 @@
+Quest: M0C00Y11
+DisplayName: Caza de un Escorpión Gigante
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Puedes llamarme _qgiver_.
+<ce>             Normalmente solo damos trabajo a miembros del gremio.
+<ce>              Pero pareces tener potencial, %pcn. Te diré qué.
+<ce>                 He recibido una petición para eliminar a un
+<ce>                escorpión gigante. Hazlo y veré si el gremio
+<ce>               pasa por alto tu reputación. ¿Tenemos un trato?
+
+RefuseQuest:  [1001]
+<ce>                         Intento ser amable y mira
+<ce>                        lo que gano. Simplemente
+<ce>                             lárgate de aquí.
+
+AcceptQuest:  [1002]
+<ce>                 Tienes agallas, %pcf, eso te lo reconozco.
+<ce>             Al parecer, este escorpión escapó de la colección
+<ce>               personal de alguien. Ahora está acorralado en
+<ce>                _house_. Mata a la cosa hoy mismo y
+<ce>                         hablaré bien de ti.
+
+QuestComplete:  [1004]
+<ce>               Supongo que no tienes el carácter débil que
+<ce>                todo el mundo dice. Me aseguraré de que las
+<ce>                    personas adecuadas se enteren de esto.
+
+RumorsDuringQuest:  [1005]
+<ce>                 ¿Te has enterado del pobre necio que
+<ce>                encontró un escorpión gigante en su casa?
+<ce>                       Se está emborrachando ahora mismo.
+
+RumorsPostfailure:  [1006]
+<ce>                Algún borracho entró dando tumbos en su casa
+<ce>                y un escorpión gigante lo mató. Parece que
+<ce>                pensaba que el Gremio de Guerreros ya se
+<ce>                        había encargado de la bestia.
+
+RumorsPostsuccess:  [1007]
+<ce>                 El Gremio de Guerreros es un buen grupo.
+<ce>                Mataron a un escorpión gigante que encontró
+<ce>                       el camino hacia la casa de alguien.
+
+QuestorPostsuccess:  [1008]
+<ce>                  Buen trabajo con ese escorpión gigante.
+<ce>                A este ritmo, te admitirán en el gremio
+<ce>                          muy pronto.
+
+QuestorPostfailure:  [1009]
+<ce>                  Solo te pedí que mataras a un escorpión
+<ce>                   gigante. No vales para nada, %pcf.
+
+QuestLogEntry:  [1010]
+El %qdt:
+ El Gremio de Guerreros de ___qgiver_
+ me ha ofrecido la oportunidad de aniquilar a un
+ escorpión gigante que se ha metido en
+ _house_. Debe hacerse hoy mismo.
+
+Message:  1011
+<ce>                       El _monster_ ha muerto.

@@ -1,0 +1,67 @@
+Quest: B0B80Y17
+DisplayName: El Ejército de los No Muertos
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                      Soy _qgiver_ de ==qgiver_.
+<ce>                     Tengo una misión muy peligrosa,
+<ce>                        %pcn. Eres uno de los pocos
+<ce>                      que podrían encargarse de ella.
+<ce>                      Un lich está levantando un
+<ce>                    ejército de no muertos. Necesitamos
+<ce>                     a alguien que vaya y lo detenga.
+
+RefuseQuest:  [1001]
+<ce>                          Lo entiendo, %pcn.
+<ce>                     Esto es demasiado peligroso incluso
+<ce>                    para ti. Hay uno o dos héroes más
+<ce>                      que podrían lograrlo. Iré a preguntarles.
+
+AcceptQuest:  [1002]
+<ce>                    Eres valiente de verdad. El lich
+<ce>                       ha convertido ___dungeon_ en
+<ce>                     su guarida. Ve allí y destruye
+<ce>                    a esa abominación. En =2dung_ días
+<ce>                     enviaremos a alguien más,
+<ce>                         si no regresas.
+
+QuestComplete:  [1004]
+<ce>                        ¡Honor al héroe, %pcn!
+<ce>                      ¡Bien hecho! Tu nombre será
+<ce>                     registrado en todas las historias.
+
+RumorsDuringQuest:  [1005]
+El Gran Lich de ___dungeon_ ha despertado otra vez.
+
+RumorsPostfailure:  [1006]
+He oído que el lich de ___dungeon_ cruzó la bahía.
+<--->
+El lich está reuniendo fuerzas fuera de %reg.
+
+RumorsPostsuccess:  [1007]
+Gracias a %god por ==qgiver_. Nos salvaron a todos.
+<--->
+Un %ra de ==qgiver_ destruyó al lich de ___dungeon_.
+
+QuestorPostsuccess:  [1008]
+Sería un honor ayudarte de cualquier forma, héroe.
+
+QuestorPostfailure:  [1009]
+Después del desastre en ___dungeon_, tienes mucho descaro al volver.
+<--->
+Confié en que matarías a ese lich. ¡Piensa en mi situación!
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de
+ ==qgiver_ en ___qgiver_
+ me encargó la tarea de
+ destruir al lich de
+ ___dungeon_. Tengo =2dung_
+ días para completar la misión.
+
+Message:  1011
+<ce>                       El lich ha muerto. Sin
+<ce>                        su apoyo mágico, el
+<ce>                     ejército de no muertos volverá
+<ce>                               a la tumba.

@@ -1,0 +1,74 @@
+Quest: L0B00Y03
+DisplayName: Un mago renegado
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 El Gremio de Magos ha acudido a nosotros
+<ce>                   para un asuntillo turbio que es demasiado
+<ce>                   asqueroso y desagradable para que ellos
+<ce>                    se encarguen. Un mago renegado necesita
+<ce>                      un ajuste de cuentas rápido. ¿Interesa?
+                                     <--->
+<ce>                 Tenemos al Gremio de Magos como cliente
+<ce>                 de nuevo. Parece que uno de sus chicos
+<ce>                 ha estado olisqueando demasiadas tripas
+<ce>                   de murciélago y se ha vuelto loco.
+<ce>                        ¿Suena interesante, %pct?
+
+RefuseQuest:  [1001]
+<ce>                          Eso es decepcionante.
+
+AcceptQuest:  [1002]
+<ce>                 Bien. Ahora, este mago —su nombre es
+<ce>                               =mage_— se ha
+<ce>                fugado con varios cachivaches mágicos,
+<ce>                pero al Gremio de Magos no le importa si
+<ce>                te quedas con lo que haya robado. Solo
+<ce>               quieren que muera. Y solo tienes =queston_
+<ce>                    días para traer el ajuste de cuentas.
+<ce>                Lo encontrarás acobardado en un lugar
+<ce>                        inmundo llamado ___mondung_.
+<ce>               Regresa aquí con el mundo menos un mago
+<ce>               renegado en =queston_ días. Que Mephala
+<ce>                           guíe tu brazo, %pct.
+
+QuestComplete:  [1004]
+<ce>                   ¿Así que apagaste la chispa de ese
+<ce>                         Lanzahechizos, %pcf? Ah,
+<ce>                  Mephala está complacida contigo, al igual
+<ce>                             que sus hijos.
+
+RumorsDuringQuest:  [1005]
+El Gremio de Magos niega que =mage_ esté fuera de su控制.
+<--->
+La Orden de la Lámpara es una organización demasiado oficial para lidiar con =mage_.
+
+RumorsPostfailure:  [1006]
+=mage_ ha huido a través de la Bahía. ¿Quién sabe cuáles son sus planes?
+
+RumorsPostsuccess:  [1007]
+La gente común dice que =mage_ fue liquidado por la Orden de la Lámpara.
+<--->
+Quién sabe qué habría pasado si se hubiera permitido que ese _mage_ siguiera vivo.
+
+QuestorPostsuccess:  [1008]
+Saludos y parabienes. ¿Cómo puede =qgiver_ asistirte, ejecutor de magos?
+
+QuestorPostfailure:  [1009]
+<ce>                Has fallado en tu contrato con nosotros,
+<ce>                así que hemos fallado en nuestro contrato
+<ce>                con el Gremio de Magos. Siento poco más que
+<ce>                        desprecio por ti ahora, %pcf.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de la Hermandad Oscura
+ en __qgiver_, ___qgiver_
+ me ha enviado a ___mondung_
+ para encargarme de un mago renegado del
+ Gremio de Magos. Tengo =queston_ días para
+ zanjar el asunto.
+
+Message:  1011
+<ce>                     La luz de =mage_ se ha apagado.
+<ce>          La Hermandad y el Gremio de Magos estarán complacidos.

@@ -1,0 +1,115 @@
+Quest: F0B00Y00
+DisplayName: Obra de Arte Deseada
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Una de las funciones más importantes de
+<ce>                la Casa de Dibella es la preservación
+<ce>                 de las grandes obras de arte. Contamos
+<ce>                 con personal de avanzada en Tamriel
+<ce>                 en busca de piezas raras y hermosas.
+<ce>                 ¿Hay disponibilidad para recuperar una
+<ce>                 de estas obras maestras? No está lejos,
+<ce>                 y se otorgarán _reward_ piezas de oro
+<ce>                  con gusto a cambio de la entrega.
+                                     <--->
+<ce>                  En más de cuatro mil años de alta
+<ce>                  civilización en Tamriel, la Casa de
+<ce>                  Dibella ha trabajado sin descanso para
+<ce>                  salvar y preservar objetos de gran
+<ce>                  antigüedad y maestría de la ruina y del
+<ce>                   paso del tiempo. Se ha desarrollado una
+<ce>                  red sofisticada de arqueología, comercio
+<ce>                  y mensajería con buena remuneración para
+<ce>                    obtener arte para la casa. ¿Prestarías
+<ce>                       asistencia en tal empresa, %pcf?
+
+
+RefuseQuest:  [1001]
+<ce>                      Qué lástima, me entristece que
+<ce>                      el tiempo se considere tan valioso
+<ce>                        como para no dedicarlo al más
+<ce>                       raro de los placeres: la belleza.
+
+AcceptQuest:  [1002]
+<ce>                Oh, maravilloso. Quien procura esta
+<ce>                obra en particular tiene una personalidad
+<ce>                             curiosa: =contact_,
+<ce>                            de nombre _contact_.
+<ce>                  Lo hallado es tan raro y asombroso
+<ce>                  que se teme a los bandidos antes de
+<ce>                   llegar a la Casa. No hay certeza de
+<ce>                  cuánto peligro acecha, pero si vas
+<ce>                      con _contact_ en ___contact_
+<ce>                        para recibir el artefacto,
+<ce>                  habrá un gran agradecimiento. El tiempo
+<ce>                  apremia, pues se ha dicho que el objeto
+<ce>                  quedará en abandono si nadie aparece
+<ce>                en =1stparton_ días. Se te esperará de
+<ce>              regreso aquí en =1stparton_ días. Que te vaya
+<ce>                    bien y que la luz de Dibella
+                            aligere tu carga.
+
+QuestFail:  [1003]
+<ce>                        Buen día, %pcf. No hay olvido
+<ce>                      sobre el artefacto que aguarda en
+<ce>                        __contact_, ¿cierto?
+
+QuestComplete:  [1004]
+<ce>            ¡Es una belleza! Mira las líneas simétricas,
+<ce>              las figuras estilizadas, los pliegues...
+<ce>                   Oh, %pcf, qué gran regalo se nos
+<ce>                da con este icono. Estas _reward_ piezas
+<ce>            de oro son lo mínimo que podemos ofrecerte.
+<ce>                       Que Dibella te bendiga.
+
+RumorsDuringQuest:  [1005]
+Ese ser tembloroso de =contact_ es irritante con sus teorías de conspiración.
+<--->
+Me pregunto si =contact_ realmente tiene algo que valga la pena robar.
+
+RumorsPostfailure:  [1006]
+En la Casa de Dibella actúan como si perder ese icono fuera el fin del mundo.
+<--->
+En la Casa confían tanto que es normal que alguien del mercenariado %ra se aprovechara.
+
+RumorsPostsuccess:  [1007]
+Tras tantos rumores, escuché que ese icono era solo una falsificación.
+<--->
+Me pregunto si la Casa de Dibella mostrará el icono o solo lo guardará.
+
+QuestorPostsuccess:  [1008]
+¿Qué puedo hacer por quien de la clase %ra nos trajo tan bello icono?
+
+QuestorPostfailure:  [1009]
+Al fallarle al arte, le fallaste a la Casa, %pcf. ¡Fuera de aquí!
+
+QuestLogEntry:  [1010]
+<ce>                Por Dibella, los nervios me han traicionado
+<ce>                esperando tu llegada. Aquí está el icono;
+<ce>                me alegra deshacerme de esto. Siento que
+<ce>                cada maleante me vigila por su causa.
+<ce>                Mejor vuelve a la Casa antes de que
+<ce>                    piensen que has huido con la pieza.
+
+Message:  1011
+_contact_ se dedica a la arqueología y trabaja para la Casa de Dibella.
+<--->
+¿Ese personaje de =contact_ en __contact_? No es más que alguien de dudosa reputación.
+
+Message:  1013
+Es falso, apuesto lo que sea. Pero en la Casa probablemente ni noten la diferencia.
+<--->
+Una falsificación, con toda probabilidad. Pero muy bonita, de todos modos.
+
+Message:  1030
+%qdt:
+ La Casa de Dibella me ha
+ contratado para reunirme con
+ alguien de la arqueología que ha
+ hallado un icono, pagar por él
+ y llevarlo de vuelta a la Casa.
+ _contact_ está en __contact_,
+ en ___contact_. Debo entregar
+ el icono a _questgiver_ en
+ ___questgiver_ en =1stparton_ días.

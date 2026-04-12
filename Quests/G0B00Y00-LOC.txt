@@ -1,0 +1,67 @@
+Quest: G0B00Y00
+DisplayName: El Brazo de la Furia
+QRC:
+
+QuestorOffer:  [1000]
+<ce>               Nuestra orden exige retribución contra
+<ce>                un antiguo miembro que se volvió traidor.
+<ce>                ¿Serás el brazo de nuestra furia, %pcf?
+                                     <--->
+<ce>                  La Diosa nos ha hablado en nuestros
+<ce>                 augurios, y exige la sangre del vil
+<ce>                 criminal que ha profanado su nombre.
+<ce>                  Ayúdanos a apaciguar a nuestra
+<ce>                           señora Kynareth.
+
+RefuseQuest:  [1001]
+<ce>                 Una respuesta indigna. Esperaba más.
+
+AcceptQuest:  [1002]
+<ce>                  Muy bien. El traidor es un asesino
+<ce>                   que se ha refugiado en ___mondun_
+<ce>                  hacia %di. Si no has regresado
+<ce>                 en =queston_ días, tu honor se perderá
+<ce>               y otra persona ocupará tu lugar.
+<ce>                     No nos falles en esto, %pcf.
+
+QuestFail:  [1003]
+<ce>                  El traidor no está muerto. No intentes
+<ce>                       convencerme de lo contrario.
+
+QuestComplete:  [1004]
+<ce>                Bien hecho. Tienes motivos para sentir orgullo.
+
+RumorsDuringQuest:  [1005]
+Ese cobarde huyó a ___mondun_ como si los sabuesos del infierno lo persiguieran.
+<--->
+<ce>             _qgiver_ no puede dejar ir a ese inútil
+<ce>                después de lo que hizo a la Orden Kynaran.
+
+RumorsPostfailure:  [1006]
+El traidor resultó ser más duro de lo que _qgiver_ pensaba. Vaya escape.
+<--->
+Dicen que el renegado se fue al norte, pero el recuerdo aún atormenta a la orden.
+
+RumorsPostsuccess:  [1007]
+La historia del traidor lo demuestra. No se juega con la Orden Kynaran.
+<--->
+Siempre pensé que la Orden sería más misericordiosa con ese necio.
+
+QuestorPostsuccess:  [1008]
+Bueno, eliminaste a ese traidor por la Orden. Lo mínimo que puedo hacer es saludarte.
+
+QuestorPostfailure:  [1009]
+Dejaste escapar al traidor. No tengo nada que decirte.
+
+QuestLogEntry:  [1010]
+%qdt:
+ La Orden Kynaran en ___qgiver_
+ me ha enviado a encontrar y eliminar
+ a un traidor en un escondite,
+ ___mondun_. Tengo
+ =queston_ días para lograrlo.
+
+Message:  1020
+<ce>                    "Así que...la Orden Kynaran...te envió
+<ce>                    a matarme. Diles que...escupo sobre..."
+<ce>                          El traidor ha muerto.

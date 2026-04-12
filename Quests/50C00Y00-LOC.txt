@@ -1,0 +1,109 @@
+Quest: 50C00Y00
+DisplayName: La misión de Peryite
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 Realmente no puedes tener demasiado poder,
+<ce>                       ¿verdad, %pcf? Te pareces
+<ce>                   mucho a alguien que solía conocer --
+<ce>                  pero eso fue durante tu Primera
+<ce>                 Era, así que no podrías ser tú,
+<ce>                  ¿verdad? Ahora bien, si lo deseas, yo
+<ce>                  puedo darte un pequeño escudo mío
+<ce>                   llamado Rompehechizos. Sin duda
+<ce>                 te dará el poder que buscas,
+<ce>                  pero primero, necesito una pequeña prueba de
+<ce>                   tu determinación. Eres serio,
+<ce>                              ¿no es así?
+
+RefuseQuest:  [1001]
+<ce>                   ¿Cambiaste de opinión, eh? No te sientas
+<ce>                    mal. Es una señal de madurez
+<ce>                    ser lo suficientemente valiente como para
+<ce>                    decir no. Solo
+<ce>                     búscame cuando cambies
+<ce>                      de opinión. Sé que lo harás.
+
+AcceptQuest:  [1002]
+<ce>                  Excelente. Es maravilloso ver a un
+<ce>                   %ra con objetivos claros. Tan raro
+<ce>                 en estos tiempos. Ahora bien, hay
+<ce>                 este _monstruo_, francamente un vampiro, que
+<ce>                 sé que odiarías. Completamente estúpido,
+<ce>                 poco atractivo y de mala índole.
+<ce>                  Necesita hacer un viaje solo de ida hacia
+<ce>                   ya-sabes-dónde. Luego, después de que
+<ce>                te hayas encargado de ese desagradable asunto,
+<ce>                    ve a visitar a mi amigo, _qgfriend_,
+<ce>                         un encantador =qgfriend_,
+<ce>                    quien se reunirá contigo en __qgfriend_
+<ce>                     en ___qgfriend_. Ahora, no quiero
+<ce>                 apresurarte, pero no puedo pedirle a %g2
+<ce>                   que espere más de =1stparton_ días
+<ce>                por ti. Y solo llegar a ___mondung_
+<ce>                  puede tomar un buen tiempo, así que
+<ce>                 no deberías demorarte en el camino. _qgfriend_
+<ce>                  estará encantado de mostrarte el
+<ce>                  Rompehechizos. Bien, ya he hablado suficiente.
+<ce>                     Ha sido un placer.
+
+QuestFail:  [1003]
+<ce>                       Debes estar buscando a un
+<ce>                         =qgfriend_ diferente.
+
+QuestComplete:  [1004]
+<ce>                         Aquí estás, %pct.
+<ce>                            Soy _qgfriend_,
+<ce>              creo que el Maestro quería que me encontraras.
+<ce>               El Maestro está muy complacido con tu trabajo
+<ce>                        con el temible _monstruo_,
+<ce>               si no te molesta que lo diga. El Maestro
+<ce>               parece apreciarte bastante en general. Aquí está
+<ce>               el escudo que querías, el Rompehechizos.
+<ce>                  Los lanzadores de hechizos llegarán a temerte.
+<ce>                        Espero que te complazca, %pct.
+
+RumorsDuringQuest:  [1005]
+=monster_ de ___mondung_, dicen, ha hecho enemigos poderosos además de amigos.
+<--->
+Conocí a un muy agradable =qgfriend_ en __qgfriend_. Me pregunto por qué nunca conocí a %g2 antes.
+
+RumorsPostfailure:  [1006]
+El viejo =monster_ se mudó al norte. Supongo que ya sabemos dónde seguirá la plaga.
+<--->
+Dicen que los propios daedra temen a =monster_ y su poder.
+
+RumorsPostsuccess:  [1007]
+Dicen que =monster_ se creía más poderoso que los propios daedra.
+<--->
+=monster_ recibió su merecido por presumir de su poder sobre la vida y la muerte.
+
+Message:  1011
+Dicen que _qgfriend_ es un =qgfriend_ muy agradable y encantador, que además es un adorador de daedra.
+<--->
+Se rumorea que _qgfriend_ es esclavo de Peryite en %reg.
+
+Message:  1012
+Peryite es el Daedra de la Pestilencia y la Plaga.
+<--->
+Peryite es el más afable de los Príncipes Daedra con la peor reputación.
+
+Message:  1013
+El Rompehechizos es la defensa definitiva contra hechizos.
+<--->
+Rompehechizos puede disipar o incluso reflejar hechizos de vuelta a los lanzadores ofensivos.
+
+Message:  1014
+<ce>                       Has matado a =monster_.
+<ce>                     La venganza de Peryite está completa.
+
+Message:  1015
+%qdt:
+ El Príncipe Daedra Peryite quiere que
+ vaya a ___mondung_
+ y mate a un vampiro llamado =monster_
+ Después de eso, debo encontrarme con _qgfriend_
+ en un lugar llamado __qgfriend_ en
+ ___qgfriend_ para reclamar el famoso
+ escudo Rompehechizos. Tengo =1stparton_
+ días para todo el viaje.

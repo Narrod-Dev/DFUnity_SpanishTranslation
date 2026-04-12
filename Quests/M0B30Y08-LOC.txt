@@ -1,0 +1,72 @@
+Quest: M0B30Y08
+DisplayName: Disputa Doméstica
+QRC:
+
+QuestorOffer:  [1000]
+<ce>             Una disputa doméstica algo extraña, %pcf.
+<ce>              Parece ser que una mujer en __house_
+<ce>            ha pedido que alguien libre su hogar de
+<ce>            su marido. El único problema es que él
+<ce>            está muerto. ¿Te interesa este encargo?
+
+RefuseQuest:  [1001]
+<ce>                Lástima. Normalmente solo los templos
+<ce>                reciben trabajos así. Has dejado pasar
+<ce>                         uno bueno, %pcn.
+
+AcceptQuest:  [1002]
+<ce>             Su marido es un zombi. Se oculta en algún
+<ce>             lugar durante el día; ella nunca lo ve en
+<ce>             _house_ entonces. Por la noche merodea por
+<ce>             el lugar. Pon fin a su miseria y regresa
+<ce>             en =2dung_ días, y recibirás _gold_ de oro
+<ce>                         por tu esfuerzo.
+
+QuestComplete:  [1004]
+<ce>            ¿Olía el viejo tan mal como dicen? Como un
+<ce>            cajón de ropa interior dejado bajo la lluvia
+<ce>            durante un mes. Bueno, aquí tienes tu
+<ce>                        pago, %pcn.
+
+RumorsDuringQuest:  [1005]
+<ce>                ¿Te has enterado? Una anciana dice
+<ce>                que su marido ha vuelto de la tumba
+<ce>                       para atormentarla.
+
+RumorsPostfailure:  [1006]
+<ce>                Encontraron a una mujer muerta en su
+<ce>                hogar. El cadáver putrefacto de su
+<ce>                difunto marido yacía junto a ella.
+
+RumorsPostsuccess:  [1007]
+<ce>                He oído que el Gremio de Guerreros
+<ce>               envió a alguien capaz para encargarse
+<ce>               de ese zombi. Son buena gente en el gremio.
+
+QuestorPostsuccess:  [1008]
+<ce>                 Hiciste un buen trabajo con ese
+<ce>                          zombi, %pcn.
+
+QuestorPostfailure:  [1009]
+<ce>              ¿El zombi fue demasiado para ti? Nunca
+<ce>              deberías aceptar un trabajo que no puedas
+<ce>                          llevar a cabo.
+
+QuestLogEntry:  [1010]
+El %qdt,
+ el Gremio de Guerreros de ___qgiver_
+ me contrató para librar a _house_ en
+ __house_ de un zombi que lo acecha.
+ Tengo =2dung_ días para completar la tarea.
+
+Message:  1011
+<ce>                       El _monster_ ha muerto.
+<ce>                   Su esposa podrá dormir tranquila.
+
+Message:  1080
+<ce>                    Oye %pcf, si pensaste que matar
+<ce>                   zombis era divertido, lleva este
+<ce>                   mapa a un agujero infestado de
+<ce>                    monstruos llamado ___newdung_.
+<ce>                   Serán vacaciones para alguien de
+<ce>                         la estirpe %ra.

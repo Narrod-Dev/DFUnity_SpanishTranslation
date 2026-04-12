@@ -1,0 +1,199 @@
+Quest: K0C00Y07
+DisplayName: El Rescate
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Mi pobre y adorable _victim_
+<ce>        ha sufrido un secuestro a manos del Gremio de Ladrones.
+<ce>                        ¿Podrías ayudarme?
+                                     <--->
+<ce>                El Gremio de Ladrones se ha llevado
+<ce>                lejos de mi lado a mi fiel _victim_
+<ce>             y ahora exigen un rescate. Necesito a alguien
+<ce>             que me traiga de vuelta a mi pareja, sea como
+<ce>                        sea. Por favor,
+<ce>                        ¿me ayudarás?
+
+RefuseQuest:  [1001]
+<ce>                        Tienes un corazón frío,
+<ce>                         %pcf. Supongo que tendré
+<ce>                    que enfrentarme a esos secuestradores
+<ce>                                por mi cuenta.
+                                     <--->
+<ce>                        Entonces buscaré a alguien
+<ce>                               más, %pcn.
+
+AcceptQuest:  [1002]
+<ce>                   No puedo pagarte mucho, %pcf.
+<ce>             Usé casi todo mi oro en comprar esta gema para el
+<ce>             rescate, pero puedes quedarte con el resto de mis
+<ce>             ahorros, _gold_ piezas de oro, cuando mi querida
+<ce>                        persona, _victim_, regrese.
+<ce>                  Los secuestradores quieren que la _gem_
+<ce>                   sea entregada a __kidnapper_ en
+<ce>                    ___kidnapper_ y no debo tardar
+<ce>               más de =2ransom_ días. En __kidnapper_,
+<ce>                    debo buscar a alguien de clase =kidnapper_,
+<ce>                        cuyo nombre es _kidnapper_.
+<ce>                    Nada importa más que la seguridad de
+<ce>            _victim_, pero si logras garantizarla sin pagar
+<ce>              el rescate, te estaré muy agradecido. Como dije,
+<ce>                    es todo lo que tengo. Buena suerte y
+<ce>                           que %god te bendiga.
+                                     <--->
+<ce>                      Gracias a %god. Aquí está la _gem_
+<ce>                que los secuestradores piden por el rescate. Si
+<ce>                    logras rescatar a _victim_ sin pagar
+<ce>                el rescate, te estaré infinitamente
+<ce>              a su servicio. Tras comprar esa gema, mis ahorros
+<ce>              casi han desaparecido. Por supuesto, tendrás
+<ce>                      _gold_ de oro cuando _victim_
+<ce>             haya regresado; eso agotará mis ahorros por
+<ce>             completo, pero valdrá la pena. Si el rescate
+<ce>              debe pagarse, asegúrate de no tardar más de
+<ce>               =2ransom_ días. Los secuestradores tienen
+<ce>                      un agente en __kidnapper_, allá
+<ce>                     en ___kidnapper_, un =kidnapper_
+<ce>                    de nombre _kidnapper_. Una vez pasen
+<ce>            =2ransom_ días, %g enviará un mensaje a sus amigos
+<ce>                    donde sea que tengan a _victim_
+<ce>               y acabarán con su vida. Por favor, no permitas
+<ce>                        que pase. Suerte, camarada.
+
+Message:  1099
+<ce>                          ¡_victim_! Oh, gracias a
+<ce>                    %god por tu vida. Y, noble %pcf,
+<ce>                  ni siquiera usaste la _gem_ del rescate.
+<ce>                  No sé cómo agradecértelo. Aquí tienes el
+<ce>                   oro prometido (_gold_), aunque no sea
+<ce>                   suficiente. Tienes mi más profunda
+<ce>                         gratitud, mi camarada.
+
+QuestComplete:  [1004]
+<ce>                     Tómalo. Es tuyo, camarada.
+
+RumorsDuringQuest:  [1005]
+_qgiver_ apenas puede permitirse pagar el rescate de _victim_.
+<--->
+El secuestro de _victim_ tiene a todo el mundo en ___qgiver_ bajo temor.
+
+RumorsPostfailure:  [1006]
+Los ladrones que secuestraron a _victim_ probablemente nunca paguen por sus actos.
+
+RumorsPostsuccess:  [1007]
+_victim_ recibió rescate de manos de un mercenario %ra ejemplar.
+
+QuestorPostsuccess:  [1008]
+Rescataste a _victim_, %pcf. Por supuesto, te ayudaré en lo que pueda.
+
+QuestorPostfailure:  [1009]
+<ce>                     Mira, no quiero hablar contigo
+<ce>                    ni con nadie más ahora mismo. ¿Por qué
+<ce>                         no te largas de aquí?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de
+ __qgiver_, ___qgiver_
+ me ha enviado con una _gem_ para
+ rescatar a su pareja, _victim_,
+ del Gremio de Ladrones. El rescate
+ debe pagarse en =2ransom_ días o
+ matarán a _victim_.
+ _kidnapper_ es el agente
+ de los secuestradores que me espera en
+ __kidnapper_, en ___kidnapper_.
+ Por supuesto, _qgiver_
+ quiere que, de ser posible, rescate a
+ su pareja sin pagar el rescate.
+
+Message:  1011
+<ce>                         ¿Entregas la _gem_
+<ce>                            a _kidnapper_?
+
+Message:  1012
+<ce>                   Eres %pcf, ¿verdad? El Gremio de
+<ce>                  Ladrones te tiene aprecio, %pcn. Oh, %oth,
+<ce>                   ya veo. Estás trabajando para _qgiver_
+<ce>              para asegurar el pago sin trucos raros,
+                                   ¿cierto?
+
+Message:  1013
+<ce>                         ¡_victim_ pagará por
+<ce>                      tu estupidez! %oth, morirá
+<ce>                    antes de que pasen =queston_
+<ce>                         días. ¡=thug_!
+<ce>                         ¡Matad a este %ra!
+                                     <--->
+<ce>                            ¡=thug_! Matad a este
+<ce>                      %ra tan estúpido mientras yo hago
+<ce>                        lo mismo con _victim_.
+
+Message:  1014
+<ce>                         ¿Te envía _qgiver_?
+<ce>                        ¡%oth, gracias a %god! Rápido,
+<ce>                          ¡salgamos de aquí!
+
+Message:  1015
+=thug_,
+ 
+      El Gremio requiere de tu fuerza para un
+ secuestro de rutina. El nombre de la
+ víctima es _victim_
+ y tras sacarle de su hogar en
+ __qgiver_, en ___qgiver_,
+ ve a ___mondung_.
+      Las indicaciones para llegar a ___mondung_
+ van adjuntas. Espero que el plan no sea
+ demasiado complejo para ti.
+ 
+<ce>                               _kidnapper_
+
+Message:  1016
+<ce>                         %pcf, espero que sepas
+<ce>                  lo que haces. Me alegra recuperar
+<ce>                   mi _gem_, pero no a expensas de la
+<ce>                   vida de _victim_.
+<ce>                 Si le matan, no esperes mi gratitud.
+
+Message:  1017
+<ce>                         ¡_victim_! ¡Gracias a %god
+<ce>                    que estás bien! Gracias, camarada.
+<ce>                    Ojalá no hubieras tenido que pagar
+<ce>                         el rescate, %pcf,
+<ce>                    pero lo más importante es que mi
+<ce>                          querido ser, _victim_,
+<ce>                        ha vuelto. Aquí tienes las
+<ce>                        _gold_ piezas de oro prometidas.
+
+Message:  1018
+<ce>                  No me extraña que le caigas bien al Gremio.
+<ce>                  Me aseguraré de que también se enteren de
+<ce>                         esto, %pcf. Ahora, vuelve
+<ce>                          con _qgiver_ y dile que
+<ce>                         _victim_ estará allí pronto.
+<ce>                         Ha sido un placer hacer
+<ce>                           negocios contigo.
+
+Message:  1019
+<ce>                        Ah, bien. Haz saber a _qgiver_
+<ce>                         que su pareja, _victim_,
+<ce>                       estará a salvo en ___qgiver_
+<ce>                        muy pronto. Hasta la vista.
+
+Message:  1020
+<ce>                            Sí, _victim_ llegó
+<ce>                    justo antes que tú, %pcf. Gracias
+<ce>                    por enfrentarte a ese infame ser,
+<ce>                    _kidnapper_, por mí. Aquí tienes
+<ce>                    las _gold_ piezas de oro prometidas.
+
+Message:  1021
+<ce>                          _victim_ te dice que
+<ce>                    puede encontrar el camino hacia su
+<ce>                     pareja _qgiver_ desde aquí,
+<ce>                    te da las gracias y sale corriendo.
+
+Message:  1022
+<ce>                            A estas alturas,
+<ce>                         _victim_ habrá muerto.

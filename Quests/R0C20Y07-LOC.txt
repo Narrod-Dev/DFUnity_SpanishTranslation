@@ -1,0 +1,84 @@
+Quest: R0C20Y07
+DisplayName: El zafiro perdido
+QRC:
+
+QuestorOffer:  [1000]
+<ce>             Tengo una amistad, una posible alianza, que
+<ce>             necesita asistencia discreta. Es una operación
+<ce>               de recuperación relativamente sencilla, una por
+<ce>               la que mi amistad pagaría muy generosamente y
+<ce>               que yo agradecería enormemente. Deberá ser
+<ce>              completada muy pronto, en un plazo de =1stparton_
+<ce>             días. Entraré en detalles si te interesa.
+
+RefuseQuest:  [1001]
+<ce>           Bueno, decir que no desde el principio es definitivamente
+<ce>           preferible a decir que sí y fallar. Estoy un poco
+<ce>                    decepcionado, pero ya se me pasará.
+
+AcceptQuest:  [1002]
+<ce>           Excelente, sabía que ayudarías. Bien, mi amistad
+<ce>                     es _qgfriend_ de ___qgfriend_.
+<ce>        %g ha perdido una gema, un zafiro, y mis espías lo han rastreado
+<ce>                 hasta ___itemdung_, de entre todos los lugares.
+<ce>                      _qgfriend_ necesita esta piedra,
+<ce>                porque %g se la pidió prestada a una tercera parte.
+<ce>             Si no está en sus manos en =1stparton_ días,
+<ce>          bueno, habrá problemas considerables. Además,
+<ce>          las personas que ahora poseen la piedra abandonarán
+<ce>             ___itemdung_ cualquier día de estos, según mi espía.
+<ce>            Obviamente, lo mejor es que partas de inmediato para llegar
+<ce>           ante ___qgfriend_ en =1stparton_ días con el zafiro.
+<ce>                     Buena suerte, %pcf. Haz que me sienta orgulloso.
+
+QuestFail:  [1003]
+<ce>                       ¿El zafiro, %pcf? ¿Se te ha
+<ce>                         olvidado algo? ¡%oth!
+
+QuestComplete:  [1004]
+<ce>                       Oh, %pcf, no sabes lo
+<ce>               aliviado que estoy de que encontraras ese zafiro.
+<ce>                Ni siquiera quiero pensar en lo que habría pasado
+<ce>               si no lo hubieras hecho. Aquí tienes la mejor
+<ce>                recompensa que puedo darte, un _reward_. Por favor,
+<ce>                         acéptalo con mi sincero agradecimiento.
+
+RumorsDuringQuest:  [1005]
+Esos ladrones en ___itemdung_ tienen guardias bastante poderosos.
+<--->
+_qgfriend_ ha estado terriblemente nervioso últimamente.
+
+RumorsPostfailure:  [1006]
+Al parecer, algún mago poderoso la tiene tomada con _qgfriend_.
+<--->
+_questgiver_ se ha estado quejando de la escasez de mercenarios de raza %ra decentes.
+
+RumorsPostsuccess:  [1007]
+Resulta que _qgfriend_ no robó esa gema después de todo. La encontraron.
+<--->
+Llamaron ladrón a _qgfriend_, pero encontraron la gema que supuestamente %g robó.
+
+QuestorPostsuccess:  [1008]
+Mi amistad me dice que conseguiste el zafiro. Ahora, ¿qué puedo hacer por ti?
+<--->
+Me alegra verte de nuevo. Mi amistad apreció ese pequeño regalo azul.
+
+QuestorPostfailure:  [1009]
+<ce>                     Me impresiona tu descaro,
+<ce>                           %pcn. Fallaste la
+<ce>                       misión y aun así regresas sin
+<ce>                                 el zafiro.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _questgiver_ de
+ ___questgiver_ me ha enviado
+ en una misión para encontrar un zafiro robado a
+ su amistad, _qgfriend_ de
+ __qgfriend_, ___qgfriend_.
+ Tengo =1stparton_ días para llevar el zafiro desde
+ ___itemdung_ hasta __qgfriend_
+ para ganar mi recompensa.
+
+Message:  1011
+Has encontrado el zafiro.

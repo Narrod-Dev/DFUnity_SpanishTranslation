@@ -1,0 +1,61 @@
+Quest: A0C00Y06
+DisplayName: Un viaje inesperado
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                         Mi nombre es _qgiver_.
+<ce>                       Mi maestro me ha pedido que
+<ce>                        encuentre a un valiente aventurero
+<ce>                       para una misión peligrosa.
+<ce>                        No puedo decirte más,
+<ce>                       salvo que vale _gold_ piezas de oro
+<ce>                      para quien tenga éxito. ¿Estás
+<ce>                            interesado?
+
+RefuseQuest:  [1001]
+<ce>                      Buscaré en otro lugar a
+<ce>                         un héroe que cumpla la
+<ce>                            misión de mi maestro.
+
+AcceptQuest:  [1002]
+<ce>                         Ve a _meetingplace_.
+<ce>                        Allí encontrarás a mi
+<ce>                                maestro.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Conocí a _qgiver_
+ en ___qgiver_,
+ quien me dijo que su maestro en
+ _meetingplace_
+ pagaría _gold_ piezas de oro por
+ una tarea desconocida pero
+ ciertamente peligrosa.
+
+Message:  1011
+%qdt:
+ El traidor _traitor_
+ me transportó con magia a __dungeon_.
+ Si alguna vez salgo, nos volveremos a encontrar.
+
+Message:  1012
+<ce>                       Conóceme por quien realmente
+<ce>                      soy. ¡Soy tu enemigo mortal,
+<ce>                          _traitor_! Tengo un
+<ce>                       destino especial reservado
+<ce>                                 para ti.
+
+Message:  1013
+<ce>                        No sabía que _traitor_
+<ce>                      te traicionaría así.
+<ce>                       No tengo nada en tu contra,
+<ce>                          %pcn. %g se mudó a
+<ce>                    _hidingplace_ aquí en la ciudad.
+<ce>                          Búscalo allí.
+
+Message:  1014
+<ce>                         No sé cómo escapaste
+<ce>                       de ___dungeon_,
+<ce>                         %pcf. Pero no te servirá
+<ce>                       de mucho. Prepárate
+<ce>                                para morir.

@@ -1,0 +1,121 @@
+Quest: O0B00Y11
+DisplayName: Marfil Antiguo
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 %pcf, un juego sencillo. Un objeto
+<ce>                 en una casa que necesita ser tomado.
+<ce>                        ¿Te sientes con ánimos?
+
+RefuseQuest:  [1001]
+<ce>                  Llegarás lejos en el Gremio de
+<ce>                 Ladrones con esa actitud. Seguro.
+
+AcceptQuest:  [1002]
+<ce>                 Ese es el espíritu. Como dije, no
+<ce>                 hay nada complicado en este trabajo.
+<ce>                 Alguien que nos contrata quiere una
+<ce>                 pieza de marfil antiguo que está en
+<ce>                 _target_, aquí en __target_. Tienes
+<ce>                 dos días para traérmela, por una
+<ce>                 comisión de _reward_ piezas de oro.
+
+QuestFail:  [1003]
+<ce>                   ¿El _heist_? ¿Dónde está?
+
+QuestComplete:  [1004]
+<ce>                 Excelente trabajo, %pcf. Justo como
+<ce>                 me gusta que salgan las cosas: sin
+<ce>                líos ni ruidos. Aquí tienes el _reward_
+<ce>                en oro. Felicidades por un buen trabajo.
+
+RumorsDuringQuest:  [1005]
+_dummy_ ha contratado a un montón de guardias extra en _target_ por alguna razón.
+
+RumorsPostfailure:  [1006]
+¿Te has enterado del torpe intento de robo en _target_?
+
+RumorsPostsuccess:  [1007]
+<ce>¡Alguien entró en _target_ y se llevó el preciado marfil antiguo de _dummy_
+<ce>             delante de las narices de todos esos guardias!
+
+QuestorPostsuccess:  [1008]
+¿Qué puedo hacer por ti, camarada del robo?
+
+QuestorPostfailure:  [1009]
+No consigo olvidar el desastre que hiciste con aquel robo tan simple.
+
+Message:  1011
+<ce> _target_ está plagado de guardias contratados estos días. No sé por qué.
+
+Message:  1020
+%qdt:
+ Tengo dos días para robar una pieza
+ de marfil antiguo en _target_, aquí
+ en __target_. Debo entregarla a
+ _questgiver_ en __questgiver_
+ por _reward_ de oro.
+
+
+Message:  1021
+%qdt:
+ Mi robo no salió bien. _questgiver_
+ me ordenó salir de la ciudad con
+ el marfil. Debo entregárselo a
+ _contact_, que me esperará en
+ _safehouse_, en __safehouse_.
+
+Message:  1040
+<ce>                  Parece la pieza de marfil que
+<ce>                _questgiver_ te envió a recuperar.
+
+Message:  1050
+<ce>                    %pcf, ¿qué haces todavía aquí?
+<ce>                   No sé cómo has podido pifiar un
+<ce>                  encargo tan simple, pero si no sales
+<ce>                  de la ciudad con ese maldito marfil,
+<ce>                  acabaremos en la trena, o algo peor.
+<ce>                   Me importa un bledo tu pellejo,
+<ce>                  pero el Gremio de Ladrones tiene una
+<ce>                 reputación que mantener, y prometimos
+<ce>                 ese objeto. Ve a __safehouse_. Allí
+<ce>                  te esperará _contact_ en _safehouse_.
+<ce>                        No vuelvas a meter la pata.
+
+Message:  1051
+<ce>                    Vaya, ¿pero si es %pcn, el as
+<ce>                    del robo... de lo inepto? Al menos
+<ce>                   has logrado llegar con el objeto.
+<ce>                   Eso dice algo de tu fuerza, si no
+<ce>                   de tu cerebro. No esperarías que
+<ce>                   te pagáramos igual, ¿verdad?
+
+Message:  1052
+<ce>                  Eres más inteligente de lo que
+<ce>                  pareces. Ahora lárgate antes de
+<ce>                  que decidamos entregarte a la
+<ce>                       guardia de __target_.
+
+Message:  1053
+<ce>                  Entonces tendremos que quitártelo
+<ce>                        de tu cuerpo inerte.
+
+Message:  1060
+<ce>                  Por %oth, tienes agallas, ¿eh?
+<ce>                  Mejor lárgate de aquí antes de que
+<ce>                        tenga que lastimarte.
+
+Message:  1061
+<ce>                   ¡Esta escoria %ra mató a =guard_!
+
+Message:  1062
+<ce>                   ¡Quieta la mano, o te corto aquí
+<ce>                   mismo! Danos el marfil que robaste
+<ce>                   de _target_ y dejaré que te vayas.
+
+Message:  1063
+<ce>                  Sabemos cómo tratar con calaña
+<ce>                  asesina como tú. =posse_, tened
+<ce>                  cuidado de no manchar de sangre el
+<ce>                  marfil de _dummy_ cuando le cortéis
+<ce>                      el cuello a este ser %ra.

@@ -1,0 +1,131 @@
+Quest: A0C00Y14
+DisplayName: El Mensajero
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       Mi nombre es _questgiver_.
+<ce>                      Tengo una tarea sencilla. Si
+<ce>                    pudieras encargarte de entregar
+<ce>                      un objeto a un amigo mío,
+<ce>                    te lo agradecería con
+<ce>                     _gold_ piezas de oro. ¿Qué dices,
+<ce>                             %pcf?
+                                     <--->
+<ce>                         Hola, soy _questgiver_.
+<ce>                     Necesito a alguien que entregue
+<ce>                    un objeto por mí. Es solo un corto
+<ce>                     viaje por la ciudad, pero estoy
+<ce>                  demasiado ocupado ahora mismo. Hay _gold_ oro
+<ce>                             para ti.
+
+RefuseQuest:  [1001]
+<ce>                               Qué pena.
+                                     <--->
+<ce>                     ¡No tienes que ponerte arrogante
+<ce>                               por eso!
+                                     <--->
+<ce>                   Tendré que encontrar a alguien dispuesto
+<ce>                         a trabajar para ganarse la vida.
+
+AcceptQuest:  [1002]
+<ce>                   ¡Genial! Aquí está el paquete. Llévalo
+<ce>                      a _pickuplocal_ aquí en
+<ce>                    la ciudad. %g te pagará. Tiene
+<ce>                   que estar allí para esta hora mañana.
+                                     <--->
+<ce>                   Por fin, alguien dispuesto a trabajar
+<ce>                    para ganarse la vida. Solo lleva esto a
+<ce>                      _pickuplocal_ aquí en la ciudad.
+<ce>                    %g te dará el oro _gold_.
+<ce>                       Entrégaselo a %g2 para esta hora
+<ce>                               mañana.
+
+QuestComplete:  [1004]
+<ce>                       Esperaba que _questgiver_
+<ce>                pudiera hacerme llegar esto a tiempo.
+<ce>                      %g ha estado muy ocupado últimamente.
+<ce>                  Aquí tienes el oro _gold_ que %g te prometió.
+
+RumorsDuringQuest:  [1005]
+<ce>                   El clima suele ser horrible en esta
+<ce>                             época del año.
+
+RumorsPostfailure:  [1006]
+<ce>                 ¡Dicen que la reina está teniendo un romance!
+
+RumorsPostsuccess:  [1007]
+<ce>                     ¿Todos los %ra son así de entrometidos?
+
+QuestorPostsuccess:  [1008]
+<ce>                 Gracias por entregar ese paquete
+<ce>                              por mí, %pcf.
+
+QuestorPostfailure:  [1009]
+<ce>                    ¡Ladrón! Tomaste mi paquete y
+<ce>                      _pickuplocal_ nunca lo recibió.
+<ce>                        Nunca te ayudaría.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _questgiver_ de
+ ___questgiver_ me ha encargado
+ la tarea de entregar
+ un paquete a _pickuplocal_,
+ también de ___pickuplocal_.
+ Debo tenerlo allí para esta
+ misma hora mañana.
+
+Message:  1011
+<ce>                    Este libro tiene un valor
+<ce>                      sentimental. _pickuplocal_ no ha
+<ce>                         visto una copia de _book_
+<ce>                               en años.
+
+Message:  1012
+<ce>                       _pickuplocal_ necesita este
+<ce>                       _ingredient_ para una preparación
+<ce>                           especial que %g está haciendo.
+
+Message:  1013
+<ce>                       Esta _jewelry_ es un regalo
+<ce>                       para _pickuplocal_ que
+<ce>                     sellará mi acuerdo con %g2.
+
+Message:  1014
+<ce>                   Esta es una _mensclothing_ especial
+<ce>                        que mi madre hizo para
+<ce>                   _pickuplocal_ para la celebración.
+
+Message:  1015
+<ce>                    _pickuplocal_ encargó esta
+<ce>                          _painting_. Debe estar allí
+<ce>                          para la reunión de %g3 mañana.
+
+Message:  1016
+<ce>                       _pickuplocal_ necesita esta
+<ce>                     _potion_ lo antes posible.
+
+Message:  1017
+<ce>                        _pickuplocal_ ha sido
+<ce>                       amenazado. Esta _weapon_
+<ce>                     debería calmar los temores de %g3.
+
+Message:  1018
+<ce>                  Compré esta fina _womensclothing_
+<ce>                      para la boda de _pickuplocal_.
+<ce>                  Sería terriblemente vergonzoso
+<ce>                     si no llega a tiempo.
+
+Message:  1019
+<ce>                    ¿Qué quieres? ¿_questgiver_?
+<ce>                    Sí, %g prometió enviar un
+<ce>                     paquete hoy. Si vas a buscar a %g2,
+<ce>                     puede que incluso te pague
+<ce>                      por traérmelo.
+
+Message:  1020
+<ce>                       Escuché a _questgiver_
+<ce>                       decir que %g te pagaría por
+<ce>                     entregar el paquete. Solo dámelo
+<ce>                     y no te haré daño.

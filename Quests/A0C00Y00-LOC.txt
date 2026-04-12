@@ -1,0 +1,168 @@
+Quest: A0C00Y00
+DisplayName: El mensajero
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 Mi nombre es _qgiver_. Tengo una misión
+<ce>         que requiere el máximo sigilo y discreción. El riesgo
+<ce>         es mínimo, y te pagaré _gold_ piezas de oro. Solo
+<ce>        te tomará =traveltime_ días de tu tiempo. No puedo
+<ce>             decirte más a menos que aceptes esta misión.
+                                     <--->
+<ce>            Hola, joven %ra. ¿Te gustaría ganar
+<ce>          _gold_ piezas de oro simplemente realizando lo que en círculos
+<ce>          mercenarios llaman "el viejo cambiazo"?
+
+RefuseQuest:  [1001]
+<ce>           Entiendo. Me alegra no haber revelado ningún
+<ce>               detalle. Ahora no puedes traicionarme.
+                                     <--->
+<ce>           Muy bien, pero la falta de ambición puede ser
+<ce>                       tu perdición, joven amigo.
+
+
+AcceptQuest:  [1002]
+<ce>                        Ve a _inn_ en __inn_.
+<ce>            Allí se hospeda un mensajero que lleva una carta. Tómala
+<ce>            y deja esta falsa en su lugar. No
+<ce>             alteres ninguna de sus pertenencias. Si descubre
+<ce>              que la carta ha sido cambiada, todos mis
+<ce>             planes se arruinarán. Si te atrapan, no
+<ce>                       intentes encontrarme.
+
+QuestFail:  [1003]
+<ce>             ¿No tienes una carta que "entregar" por mí?
+                                     <--->
+<ce>         Vuelve cuando hayas completado tu misión, %pcf.
+
+QuestComplete:  [1004]
+<ce>               ¡Ah! Bien hecho, %pcf. Aquí tienes tu recompensa.
+<ce>            Nunca menciones este asunto a nadie. Negaré
+<ce>                           haberte conocido.
+
+RumorsDuringQuest:  [1005]
+<ce>                La cosecha parece que será buena este año.
+
+RumorsPostfailure:  [1006]
+<ce>               _qgiver_ ha tenido mala suerte últimamente.
+
+RumorsPostsuccess:  [1007]
+<ce>            _qgiver_ ha tenido una racha de suerte últimamente.
+
+QuestorPostsuccess:  [1008]
+<ce>           Shhh. Claro que recuerdo esa pequeña misión
+<ce>             de cambiar la carta que hiciste para mí, pero
+<ce>                 preferiría que nadie más lo supiera.
+
+QuestorPostfailure:  [1009]
+<ce>              ¡Eres tú! Todo lo que te pedí fue cambiar una
+<ce>             simple carta, ¡y ni siquiera pudiste hacerlo!
+<ce>                           Fuera de mi vista.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Me reuní en secreto con _qgiver_ en
+ ___qgiver_, quien me dio una
+ carta falsificada. Debo colarme en la
+ _inn_ en __inn_ y
+ reemplazar la carta verdadera. Tengo =traveltime_ días
+ para completar esta misión. Si me atrapan,
+ estaré por mi cuenta.
+
+Message:  1011
+_npc1_,
+    Eres un hombre de lo más despreciable. ¿Cómo pude
+ haber creído que te amaba? Desde que me atrapaste
+ en el balcón en brazos de _npc2_,
+ ahora puedo revelar que en verdad somos amantes. %g es
+ capaz de darme todo lo que tú no puedes. Me hiciste
+ sentir impura con tus repugnantes regalos de oro.
+ No vuelvas a cruzar mi puerta jamás.
+ 
+                       _npc3_
+
+Message:  1012
+Mi querido _npc1_,
+    Sé que estás enfadado y herido. Haría
+ cualquier cosa por recuperar tu amor. Lo que viste en el
+ balcón no fue por voluntad propia. Había bebido demasiado
+ esa noche y _npc2_ se aprovechó
+ del momento para robarme un beso. %g ha sido azotado y
+ ya no está a mi servicio. Por favor, perdóname.
+ Solo te amo a ti.
+ 
+                       _npc3_
+
+Message:  1013
+<ce>          Esta taberna parece como cualquier otra. Sin embargo, para ti
+<ce>             es un lugar donde el sigilo vale más que
+<ce>            la fuerza. Ahora a descubrir dónde el mensajero ha
+<ce>                           dejado esa carta.
+
+Message:  1014
+<ce>       ¡Ladrón! ¡Te enseñaré a robar a un mensajero honesto!
+
+Message:  1015
+<ce>            Mientras la carta llena de mentiras abandona tus manos,
+<ce>                 sabes que tu misión está a medio camino.
+
+Message:  1016
+Barón _npc1_,
+    El conde _npc2_ tendrá sus fuerzas
+ esperando para emboscarte en el paso. No
+ caigas en su trampa.
+                     _npc3_
+
+Message:  1017
+_npc1_,
+    ¡Tu oferta es ridícula!
+ Puedo comprar a la mitad de ese precio
+ a cualquier otro comerciante en
+ ___npc1_, y eso haré.
+                  _npc2_
+
+Message:  1018
+Honorable _npc1_,
+    He decidido emitir mi
+ voto por ti cuando el gremio
+ vote para tesorero. Por
+ supuesto, espero ser tratado
+ bien en el futuro cercano.
+                   _npc2_
+
+Message:  1019
+Barón _npc1_,
+    El conde _npc2_ estará
+ esperándote en el paso.
+ Su acuerdo de tregua es
+ honorable y justo.
+                  _npc3_
+
+Message:  1020
+_npc1_,
+    Tu precio es justo.
+ Esta carta es mi garantía de
+ pago por los bienes. Preséntala
+ a mi representante cuando los
+ entregues.
+                  _npc2_
+
+Message:  1021
+Honorable _npc1_,
+    He decidido emitir mi
+ voto por _npc3_ en la
+ próxima reunión del gremio. %g ha
+ demostrado su lealtad al
+ gremio muchas veces.
+                  _npc2_
+
+Message:  1022
+<ce>  Te han atrapado y lo sabes.
+<ce>  Fuera de mi vista, %ra.
+
+Message:  1030
+<ce>                      _qgiver_ es un auténtico miserable.
+
+Message:  1031
+<ce>                      _qgiver_ parece bastante agradable,
+<ce>                  pero yo no jugaría cartas con %g2.

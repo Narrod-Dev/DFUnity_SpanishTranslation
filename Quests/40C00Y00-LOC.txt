@@ -1,0 +1,284 @@
+Quest: 40C00Y00
+DisplayName: La misión de Nocturnal
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                      Deseas, %pcn, poder.
+<ce>                 Con él puedes golpear a las sombras y
+<ce>                  tener una oportunidad. Si te ofreciera
+<ce>                 esta esperanza, ¿qué me ofrecerías tú? ¿Acaso
+<ce>                  destruirías a quien me causa dolor?
+
+RefuseQuest:  [1001]
+<ce>                Como pensé, sin corazón alguno. No habrá
+<ce>                contrato entre nosotros entonces, y,
+<ce>                   decepcionada, regreso a mi frío
+<ce>                palacio. Las almas dentro no son más amables
+<ce>               que las de aquí, pero allí, obedecen.
+
+AcceptQuest:  [1002]
+<ce>                ¿Lo harías? ¿Serías mi anestesia?
+<ce>               ¿Irás al refugio del _monster_
+<ce>                =monster_ en ___mondung_ y lo matarás?
+<ce>                    Ah, %pcf, por eso te entregaría
+<ce>                     mi _artifact_, el cual
+<ce>                he confiado a mi esclavo _qgfriend_.
+<ce>                      Una vez que =monster_ esté muerto,
+<ce>                    ve a ___qgfriend_ y encuentra a mi
+<ce>                    esclavo en __qgfriend_. Lo
+<ce>                 reconocerás fácilmente: es un =qgfriend_.
+<ce>                Allí recibirás el _artifact_.
+<ce>                   Y ahora debo regresar a mi frío
+<ce>                palacio en el Olvido. Esperaré noticias.
+
+QuestFail:  [1003]
+<ce>                      No. Debes estar buscando
+<ce>                        a otro =qgfriend_.
+<ce>                       Mi nombre no es _qgfriend_.
+
+QuestComplete:  [1004]
+<ce>                           Así que eres %pcn,
+<ce>                        ¿verdad? Soy _qgfriend_.
+<ce>               Debo decir que me preguntaba qué clase de
+<ce>                %ra se necesita para infiltrarse en la fortaleza
+<ce>                de un _monster_, asesinar al dueño y salir
+<ce>                    sin problemas. Muy impresionante.
+<ce>                  Nocturnal también está intrigada por
+<ce>                   ti, de ahí este regalo: _artifact_.
+<ce>                       Ten cuidado con él, %pcf.
+
+RumorsDuringQuest:  [1005]
+=monster_ es bastante sigiloso — pone a todo el Gremio de Magos bajo sospecha.
+<--->
+No puedo confiar en nadie del Gremio de Magos sabiendo que =monster_ es miembro.
+<--->
+Los magos dicen que =monster_ se esconde de la ira de Oblivion en ___fakedung_.
+<--->
+Los magos se están reuniendo para registrar ___fakedung_ en busca de ese canalla =monster_.
+<--->
+Vi a un grupo de magos dirigiéndose hacia ___fakedung_.
+<--->
+Escuché que ese traidor =monster_ ahora se oculta en ___fakedung_.
+
+RumorsPostfailure:  [1006]
+Sabía que =monster_ estaba en problemas, ¿por qué si no se iría tan rápido?
+<--->
+El Gremio de Magos debió decidir que =monster_ era un problema para su reputación.
+
+RumorsPostsuccess:  [1007]
+Bueno, no puedo decir que me sorprenda lo de =monster_; su pasado lo alcanzó.
+<--->
+Ni siquiera creo que el Archimago esté triste por la muerte de =monster_.
+
+Message:  1011
+_qgfriend_ es uno de los habituales en __qgfriend_, justo %di de aquí.
+<--->
+_qgfriend_ es un =qgfriend_ que frecuenta __qgfriend_. Está hacia el %di.
+
+Message:  1012
+_qgfriend_ es un agente de Nocturnal, operando desde __qgfriend_ %di de aquí.
+<--->
+_qgfriend_ es uno de los esclavos de Nocturnal, Dama Daedra de la Noche.
+
+Message:  1013
+Nocturnal es la misteriosa Dama de la Noche, una de los Regentes Daedra.
+<--->
+Nocturnal es una Regente de Oblivion, cuya esfera es la oscuridad y el misterio.
+
+Message:  1014
+El _artifact_ puede abrir cualquier cerradura.
+
+Message:  1015
+Los magos dicen que =monster_ se esconde de la ira de Oblivion en ___fakedung_.
+<--->
+Los magos se están reuniendo para registrar ___fakedung_ en busca de ese canalla =monster_.
+<--->
+Vi a un grupo de magos dirigiéndose hacia ___fakedung_.
+<--->
+Escuché que ese traidor =monster_ ahora se oculta en ___fakedung_.
+
+Message:  1016
+<ce>                           %oth!  =monster_,
+<ce>                     ¡el agente de Oblivion está sobre nosotros!
+<ce>               He trasladado los reactivos más valiosos a
+<ce>                          ___fakedung_ y
+<ce>                  planeo reunirme contigo allí después de que
+<ce>                      te ocupes de ese molesto %ra.
+<ce>                                    
+<ce>                                  N.
+
+Message:  1017
+<ce>                         Una voz parece resonar
+<ce>                        en tu oído: =monster_
+<ce>                      ...claro...lugar especial...
+<ce>                                noticias...
+
+Message:  1018
+%qdt:
+ Cuando llegué a ___mondung_,
+ un eco mencionó un "lugar
+ especial" en su interior.
+
+Message:  1019
+%qdt:
+ Encontré una nota de =monster_ diciendo que %g
+ esperaba en ___fakedung_ tras intentar
+ sobornarme.
+
+Message:  1020
+%qdt:
+ Ahora tengo un contrato con Nocturnal,
+ uno de los Príncipes Daedra de Oblivion. He aceptado
+ matar al _monster_ =monster_ en su fortaleza en
+ ___mondung_ a cambio del artefacto de Nocturnal,
+ el _artifact_. Debo completar la tarea y reunirme con su
+ agente _qgfriend_ en __qgfriend_ de ___qgfriend_
+ en =1stparton_ días o habré fallado el contrato.
+ Esto podría significar algo peor que simplemente no recibir
+ el _artifact_.
+
+Message:  1021
+%qdt:
+ =monster_ me ofreció _bow_
+ a cambio de su vida, y
+ no pude resistirme. Dijo que
+ está en ___bowdung_.
+ Como ya he traicionado a
+ Nocturnal, bien puedo intentar
+ encontrarlo.
+
+Message:  1022
+%qdt:
+ =monster_ me ofreció el _ring_
+ a cambio de su vida, y
+ no pude resistirme. Dijo que
+ está en ___ringdung_.
+ Como ya he traicionado a
+ Nocturnal, bien puedo intentar
+ encontrarlo.
+
+Message:  1023
+%qdt:
+ =monster_ me ofreció el _staff_
+ a cambio de su vida, y
+ no pude resistirme. Dijo que
+ está en ___staffdung_.
+ Como ya he traicionado a
+ Nocturnal, bien puedo intentar
+ encontrarlo.
+
+Message:  1030
+<ce>                   ¡Espera! Sé que Nocturnal te ha
+<ce>                  enviado, y que te ha prometido
+<ce>                   el _artifact_. Pero si realmente
+<ce>                  buscas poder, puedo superar su
+<ce>                  oferta — si detienes tu ataque,
+<ce>                 te diré dónde encontrar _bow_.
+<ce>                       ¿Aceptas mi oferta?
+
+Message:  1031
+<ce>                   ¡Espera! Sé que Nocturnal te ha
+<ce>                  enviado, y que te ha prometido
+<ce>                   el _artifact_. Pero si realmente
+<ce>                  buscas poder, puedo superar su
+<ce>                  oferta — si detienes tu ataque,
+<ce>               te diré dónde encontrar el _ring_.
+<ce>                       ¿Aceptas mi oferta?
+
+Message:  1032
+<ce>                   ¡Espera! Sé que Nocturnal te ha
+<ce>                  enviado, y que te ha prometido
+<ce>                   el _artifact_. Pero si realmente
+<ce>                  buscas poder, puedo superar su
+<ce>                  oferta — si detienes tu ataque,
+<ce>              te diré dónde encontrar el _staff_.
+<ce>                       ¿Aceptas mi oferta?
+
+Message:  1035
+<ce>                       Has matado a =monster_.
+<ce>                       El Príncipe Nocturnal ahora
+<ce>                             descansará más tranquilo.
+
+Message:  1040
+<ce>                      Excelente. Sabía que tenías
+<ce>                      el corazón de un mercenario. _bow_
+<ce>                      está oculto en ___bowdung_.
+<ce>                     Solo tienes que encontrarlo y
+<ce>                       serás un poder digno de temer.
+<ce>                      Ahora, me despido, no sea que
+<ce>                      decidas reclamar tanto _bow_
+<ce>                         como el _artifact_ matándome.
+<ce>                    Un corazón mercenario como el tuyo
+<ce>                      no debería ser confiado demasiado.
+
+Message:  1041
+<ce>                      Excelente. Sabía que tenías
+<ce>                   el corazón de un mercenario. El _ring_
+<ce>                     está oculto en ___ringdung_.
+<ce>                     Solo tienes que encontrarlo y
+<ce>                       serás un poder digno de temer.
+<ce>                      Ahora, me despido, no sea que
+<ce>                    decidas reclamar tanto el _ring_
+<ce>                         como el _artifact_ matándome.
+<ce>                    Un corazón mercenario como el tuyo
+<ce>                      no debería ser confiado demasiado.
+
+Message:  1042
+<ce>                      Excelente. Sabía que tenías
+<ce>                   el corazón de un mercenario. El _staff_
+<ce>                     está oculto en ___staffdung_.
+<ce>                     Solo tienes que encontrarlo y
+<ce>                       serás un poder digno de temer.
+<ce>                      Ahora, me despido, no sea que
+<ce>                   decidas reclamar tanto el _staff_
+<ce>                         como el _artifact_ matándome.
+<ce>                    Un corazón mercenario como el tuyo
+<ce>                      no debería ser confiado demasiado.
+
+QuestTimeLapse:  [1045]
+<ce>                 Una risa burlona resuena en tu mente,
+<ce>                                    
+<ce>                  "Deberías haber sabido mejor que
+<ce>                   confiar en mí, %pcn. Quizás esta
+<ce>                   sombra de poder pueda saciar tu
+<ce>                     ansia por un tiempo, mientras
+<ce>                     te enfureces en vano contra aquellos
+<ce>                 que realmente lo poseen. Yo, por ejemplo.
+<ce>                  Espero que la dulce Nocturnal no esté
+<ce>                 demasiado disgustada con tu traición."
+<ce>                                    
+<ce>                 _bow_ se desmorona en polvo en tu mano.
+
+Message:  1046
+<ce>                 Una risa burlona resuena en tu mente,
+<ce>                                    
+<ce>                  "Deberías haber sabido mejor que
+<ce>                   confiar en mí, %pcn. Quizás esta
+<ce>                   sombra de poder pueda saciar tu
+<ce>                     ansia por un tiempo, mientras
+<ce>                     te enfureces en vano contra aquellos
+<ce>                 que realmente lo poseen. Yo, por ejemplo.
+<ce>                  Espero que la dulce Nocturnal no esté
+<ce>                 demasiado disgustada con tu traición."
+<ce>                                    
+<ce>               El _ring_ se desmorona en polvo en tu mano.
+
+Message:  1047
+<ce>                 Una risa burlona resuena en tu mente,
+<ce>                                    
+<ce>                  "Deberías haber sabido mejor que
+<ce>                   confiar en mí, %pcn. Quizás esta
+<ce>                   sombra de poder pueda saciar tu
+<ce>                     ansia por un tiempo, mientras
+<ce>                     te enfureces en vano contra aquellos
+<ce>                 que realmente lo poseen. Yo, por ejemplo.
+<ce>                  Espero que la dulce Nocturnal no esté
+<ce>                 demasiado disgustada con tu traición."
+<ce>                                    
+<ce>              El _staff_ se desmorona en polvo en tu mano.
+
+Message:  1050
+<ce>                 Nocturnal quedó muy impresionada por tu
+<ce>                    audacia, %pcn. Me pidió que
+<ce>                   te matara rápidamente como recompensa por
+<ce>                       una traición tan atrevida.

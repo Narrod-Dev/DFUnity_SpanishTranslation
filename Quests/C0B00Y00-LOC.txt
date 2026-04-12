@@ -1,0 +1,64 @@
+Quest: C0B00Y00
+DisplayName: La Casa Embrujada
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       Una casa en __house_
+<ce>            está siendo acechada por algún tipo de no-muerto. Necesitamos
+<ce>           a alguien que exorcice el espíritu. ¿Te atreves?
+<ce>                      Paga _gold_ piezas de oro.
+
+RefuseQuest:  [1001]
+<ce>           No hay vergüenza en eso. Estaré atento a trabajos
+<ce>                          más de tu agrado.
+
+AcceptQuest:  [1002]
+<ce>            Recuerda, si la presencia es demasiado fuerte para
+<ce>          que puedas manejarla por tu cuenta, simplemente vete de allí. Nadie
+<ce>          te culpará por salvar tu pellejo. El lugar se llama
+<ce>                     _house_ y está en __house_.
+<ce>           Tienes =traveltime_ días o enviaremos a otra persona
+<ce>                           a hacer el trabajo.
+
+QuestComplete:  [1004]
+<ce>          Así que la presencia ya no existe. Quemaré incienso en el
+<ce>             altar por su espíritu. Aquí está la paga del templo.
+
+RumorsDuringQuest:  [1005]
+Dicen que el fantasma de _house_ no puede ser destruido.
+
+RumorsPostfailure:  [1006]
+El fantasma de _house_ seguirá regresando.
+<--->
+Los espíritus de _house_ aún no descansan.
+
+RumorsPostsuccess:  [1007]
+_house_ está limpia al fin.
+<--->
+Los espíritus de _house_ por fin descansan en paz.
+
+QuestorPostsuccess:  [1008]
+¿Cómo puedo ayudarte, oh exorcista de _house_?
+
+QuestorPostfailure:  [1009]
+_house_ sigue embrujada, ¿y debería hablar contigo?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de __qgiver_
+ en ___qgiver_
+ me envió a una misión para librar
+ _house_ en __house_
+ de una presencia no-muerta. Tengo
+ =traveltime_ días para completar el trabajo.
+
+Message:  1011
+<ce>          Soy el ancestro del constructor de esta casa. Ahora
+<ce>           pertenece a los muertos. Que todas las criaturas vivas
+<ce>                            eviten este lugar.
+
+Message:  1012
+<ce>          Entiendo por qué no te quedaste a luchar contra esa
+<ce>                cosa, %pcn. Tienes el agradecimiento del
+<ce>            templo por al menos descubrir la presencia.
+<ce>                          Aquí tienes 2 monedas de oro.

@@ -1,0 +1,120 @@
+Quest: N0B40Y07
+DisplayName: Desterrar Daedra
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  No sé si podrás ayudarme en absoluto,
+<ce>                        %pcf. Estoy buscando a alguien con la 
+<ce>                  maestría mágica suficiente para lanzar el
+<ce>                  hechizo Desterrar Daedra con pocas
+<ce>                       probabilidades de fallo. ¿Podrías?
+                                     <--->
+<ce>                    Desterrar Daedra es uno de los más
+<ce>                  difíciles de lanzar entre los hechizos
+<ce>                  estándar. Pocos requieren más magia innata
+<ce>                  y habilidad. No serás capaz de lanzar
+<ce>                       Desterrar Daedra, ¿por casualidad?
+                                     <--->
+<ce>                  Es una gran ironía que invocar un daedra
+<ce>                    sea un asunto relativamente simple,
+<ce>                  pero desterrarlos no lo sea tanto.
+<ce>                    ¿No tendrás el poder para lanzar el
+<ce>                  hechizo estándar Desterrar Daedra,
+<ce>                         por casualidad?
+
+RefuseQuest:  [1001]
+<ce>                     Ah, bueno, la búsqueda continúa.
+
+AcceptQuest:  [1002]
+<ce>                   Sinceramente espero que no estés mintiendo
+<ce>                      sobre esto. No quiero que maten a este
+<ce>                    daedra en particular, pues podría
+<ce>                    necesitar sus servicios más tarde, pero
+<ce>                    ahora mismo es una presencia molesta.
+<ce>                    Y ni se te ocurra crear un hechizo similar
+<ce>                    en el Hacedor de Hechizos. Debe ser el
+<ce>                    hechizo estándar y básico. Ahora, como
+<ce>                    yo fue quien invocó a este daedra,
+<ce>                  puedo hacer tu trabajo algo más fácil,
+<ce>                    pero debes seguir mis instrucciones
+<ce>                exactamente. Toma este pergamino; contiene
+<ce>                  un hechizo para aprisionar momentáneamente
+<ce>                  al daedra usando su nombre verdadero.
+<ce>                  Antes de usarlo, sin embargo, debes
+<ce>                  asegurarte de herir a tu objetivo, o
+<ce>                  podría ser contraproducente con resultados
+<ce>                  impredecibles. Una vez aprisionado,
+<ce>                  Desterrar Daedra tiene muy pocas
+<ce>                  probabilidades de fallar. El daedra en
+<ce>                  cuestión está en ___mondung_.
+<ce>                Te espero de vuelta en =queston_ días.
+<ce>                         Buena suerte, %pct.
+
+QuestComplete:  [1004]
+<ce>                         Bien hecho, %pct. Mira, no
+<ce>                    tengo oro que ofrecerte, pero aquí
+<ce>                    tienes un libro que disfruté mucho
+                                en particular.
+
+RumorsDuringQuest:  [1005]
+Los daedras parecen sentirse atraídos por ___mondung_. Debe haber algo espiritual en ello.
+<--->
+<ce>      _qgiver_ siempre está invocando cosas y
+<ce>                         metiéndose en problemas.
+
+RumorsPostfailure:  [1006]
+Anoche las estrellas daédricas brillaron con especial intensidad.
+
+RumorsPostsuccess:  [1007]
+El daedra de _qgiver_ se ha ido por ahora. Pero los daedras suelen volver.
+<--->
+___mondung_ está relativamente purgado de influencia daédrica, al menos por ahora.
+
+QuestorPostsuccess:  [1008]
+¿Estás disfrutando ese libro, %pcf? A mí me resultó bastante esclarecedor.
+
+QuestorPostfailure:  [1009]
+<ce>                     Si no tenías el hechizo
+<ce>                   Desterrar Daedra, no deberías haber
+<ce>                   aceptado la misión. Ahora déjame.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ del Gremio de Magos
+ en ___qgiver_ me ha enviado
+ a ___mondung_ donde debo lanzar
+ el hechizo Desterrar Daedra sobre un
+ daedra. _qgiver_ me entregó un
+ pergamino con un hechizo para
+ aprisionar al daedra brevemente y
+ facilitar el destierro, pero el hechizo
+ solo funcionará si primero le hago sangrar.
+ Debo volver en =queston_ días tras completar la misión.
+
+Message:  1030
+Zanoth na' =daedra_.
+ Zanoth na' ==dummydaedra_.
+ Senet seneth mor.
+
+Message:  1040
+<ce>                  ¡Pobre idiota! Te instruí
+<ce>                específicamente para desterrar a =daedra_,
+<ce>                 no para matarle. Ahora tendré que
+<ce>                  tomarme la molestia de aprender el
+<ce>                 nombre verdadero de otro daedra. Tu
+<ce>                presencia aquí se ha vuelto opresiva, %pcf.
+<ce>                         Por favor, vete de inmediato.
+
+Message:  1050
+<ce>                      Un estallido de llamas consume el
+<ce>                    pergamino al leer la última palabra.
+
+Message:  1051
+<ce>                           Soy =firedaedra_.
+<ce>                           ¿Quién me llama desde
+<ce>                         mi hogar en Oblivion?
+
+Message:  1060
+<ce>                         El daedra =daedra_ ha sido
+<ce>                      desterrado correctamente de vuelta
+<ce>                        al Plano de Oblivion.

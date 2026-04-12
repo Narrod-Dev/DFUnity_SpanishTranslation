@@ -1,0 +1,100 @@
+Quest: R0C11Y19
+DisplayName: El regalo del Emperador
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Me encuentro en una situación delicada, %pcf.
+<ce>              Si pudiera contar con tu diligencia y tu
+<ce>                silencio, podrías ganar, digamos,
+<ce>              _reward_ piezas de oro sacando provecho de mi miseria.
+<ce>                            ¿Suena tentador?
+
+RefuseQuest:  [1001]
+<ce>                         ¡%oth, maldita sea, y %oth!
+<ce>                 ¡Todo lo que me rodea es gente apática y holgazana!
+<ce>                         Nada personal, %pcf.
+
+AcceptQuest:  [1002]
+<ce>                 Bueno, al menos eso es algo bueno. No hace mucho,
+<ce>                 durante un tiempo de estancamiento financiero,
+<ce>                 empeñé un anillo que me entregó el mismísimo
+<ce>                  Emperador. Supuse que Uriel Septim
+<ce>                  nunca bajaría a este rincón del
+<ce>                Imperio, pero ahora oigo que sus agentes están
+<ce>                en la zona, y necesito recuperar ese
+<ce>                 anillo. _contact_, en __contact_
+<ce>           de ___contact_, solo lo guardará por =1stparton_
+<ce>            días más. Aquí tienes el oro para pagar el anillo.
+<ce>                 Buena suerte y que %god guíe tu viaje.
+
+QuestFail:  [1003]
+<ce>                         ¿Mi anillo, %pcf? ¿El
+<ce>                     maldito anillo que te envié a buscar?
+<ce>                     ¿Dónde está? ¡Si lo has perdido,
+<ce>                     acabaré con tu pellejo de %ra!
+
+QuestComplete:  [1004]
+<ce>               Oh, qué bien, qué bien, el anillo. Oh, gracias,
+<ce>                         gracias, %pcf. Aquí tienes
+<ce>                  las _reward_ piezas de oro que prometí.
+<ce>                   Una entrega cara, pero ciertamente
+<ce>                            vale cada moneda.
+
+RumorsDuringQuest:  [1005]
+He oído que los hombres del Emperador no montan un gran espectáculo cuando vienen a la ciudad.
+<--->
+No son muy llamativos; los hombres del Emperador podrían estar aquí incluso mientras hablamos.
+
+RumorsPostfailure:  [1006]
+He oído que _questgiver_ no tuvo un encuentro muy agradable con los imperiales.
+<--->
+Por alguna razón, _questgiver_ ha perdido el favor del Emperador.
+
+RumorsPostsuccess:  [1007]
+Tengo entendido que _questgiver_ agasajó a los estadistas imperiales con gran estilo.
+<--->
+Al parecer, los estadistas imperiales quedaron muy satisfechos con su visita.
+
+QuestorPostsuccess:  [1008]
+Ah, hola, portador del anillo. ¿Qué puedo hacer por ti?
+<--->
+Ayudaste a mantenerme en buena posición con el Imperio. Ahora, ¿qué puedo hacer por ti?
+
+QuestorPostfailure:  [1009]
+<ce>                     Los emisarios imperiales no
+<ce>                 notaron que el anillo faltaba, gracias a %god.
+<ce>                Aun así, no eres de mis personas
+<ce>                        favoritas ahora mismo, %pcf.
+
+QuestLogEntry:  [1010]
+<ce>                     Debes de ser %pcf. Tienes suerte
+<ce>                  de haber llegado cuando lo hiciste. Estaba
+<ce>                  a punto de vender el anillo a una tercera
+<ce>              parte muy interesada. Bueno, si entiendo bien y
+<ce>                         _questgiver_ quiere el
+<ce>                   anillo antes de que los estadistas imperiales
+<ce>                   lleguen, mejor ponte en camino.
+<ce>                   Solo tienes muy poco tiempo.
+
+Message:  1015
+%qdt:
+ _questgiver_ de
+ ___questgiver_ me ha enviado a
+ ___contact_, a __contact_,
+ donde _contact_ custodia
+ un anillo que _questgiver_
+ empeñó. Debo pagar por el anillo con
+ el oro que me dio _questgiver_,
+ y luego regresar a __questgiver_.
+ Todo en menos de =1stparton_ días.
+
+Message:  1020
+<ce>                       Dame el anillo. Esto puede ser
+<ce>                       fácil o difícil. Realmente depende
+<ce>                        de ti. De cualquier forma, nos
+<ce>                               llevaremos el anillo.
+
+Message:  1021
+<ce>                       Qué necedad. Ahora morirás. ¿De
+<ce>                        verdad pensaste que dejaríamos
+<ce>                          con vida a quien testifique?

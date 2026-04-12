@@ -1,0 +1,126 @@
+Quest: R0C4XY23
+DisplayName: El Libro Daédrico
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                %pcf, que alegría verte, camarada.
+<ce>              Tengo problemas con un grupo de daedra y
+<ce>               busco a alguien que entregue un extraño
+<ce>                manuscrito a una de mis amistades.
+<ce>              La recompensa será muy generosa, pero la
+<ce>               posibilidad de una intervención daédrica
+<ce>                 es bastante alta. ¿Te interesa?
+
+RefuseQuest:  [1001]
+<ce>                     Lo entiendo, %pcf. Eres alguien
+<ce>                           con mucha ocupación.
+
+AcceptQuest:  [1002]
+<ce>                  Excelente. Aquí está el libro, _item_.
+<ce>                 _contact_ debe tenerlo en __contact_
+<ce>                  en =queston_ días. Creo que aún estás
+<ce>                 a tiempo. Mantén la guardia ante los
+<ce>                        daedra. Buena suerte.
+
+QuestFail:  [1003]
+<ce>              A menos que ya hayas entregado el libro,
+<ce>                 no tenemos nada de qué hablar.
+
+QuestComplete:  [1004]
+<ce>                     Ah, me alegra verte %pcf. Y con
+<ce>                  _item_ también. Excelente. Espero que
+<ce>                  los daedra no te causaran demasiada
+<ce>                  dificultad. ¡Ja! ¡Si supieran para qué
+<ce>                  puedo usar este librito, habrían enviado
+<ce>                  al doble para detenerte! Aquí tienes tu
+<ce>                   recompensa por un trabajo bien hecho.
+
+RumorsDuringQuest:  [1005]
+Los daedra están agitados esta noche. Se puede sentir en el aire.
+<--->
+¿Qué habrá hecho _questgiver_ para enfurecer tanto a los daedra?
+
+RumorsPostfailure:  [1006]
+Alguien encontró un libro muy extraño por aquí hace poco.
+<--->
+He oído que _questgiver_ tiene un cabreo monumental con alguien de la aventura.
+
+RumorsPostsuccess:  [1007]
+<ce>Alguien de nombre _contact_ estuvo aquí, agitando un libro viejo y riendo para sí.
+                                     <--->
+He oído que una joyería ha denunciado el robo de un gran rubí.
+
+QuestorPostsuccess:  [1008]
+Le dije a mi contacto que eres de una casta más dura que cualquier daedra. Veo que lo has demostrado.
+<--->
+Saludos, alguien capaz de burlar a los daedra. ¿Qué puede hacer tu amistad por ti?
+
+QuestorPostfailure:  [1009]
+<ce>                 Los daedra resultaron ser demasiado,
+<ce>                  ¿verdad, %pcf? Es una decepción.
+<ce>                   Esperaba mucho más de tu parte.
+
+QuestLogEntry:  [1010]
+%qdt:
+_questgiver_ me ha
+ enviado a ___contact_ para entregar cierto
+ libro, _item_, a _contact_ en
+ ___contact_. Tengo =queston_ días
+ para entregarlo y obtener mi recompensa. Un grupo de
+ daedra aparentemente quiere que mi misión fracase.
+
+Message:  1011
+<ce>             Saludos, %pcn. Te estaba esperando.
+<ce>             Soy _oblivion_, a tu servicio. Mis amistades
+<ce>              en Oblivion me dicen que te has involucrado
+<ce>            en sus asuntos. Quizás aún pueda aplacarles,
+<ce>             pero debo tener el libro que portas contigo.
+<ce>             Te advierto, los daedra tienen memoria larga.
+<ce>              ¡Dámelo ahora, antes de que sea tarde!
+
+Message:  1012
+<ce>               Al entregar el libro, una forma sombría
+<ce>                           se materializa:
+                                     
+ "Oblivion agradece tus servicios, %pcf.
+ Te hemos estado observando. Parece ser que nuestro
+ interés estaba justificado".
+                                     
+<ce>                    Sientes que el libro desaparece de
+<ce>               tu agarre mientras la figura se desvanece.
+
+Message:  1013
+_oblivion_ es alguien con gran poder en la magia que vive en ___oblivion_.
+<--->
+¿_oblivion_ de ___oblivion_? He oído que tiene pactos con los Daedra.
+
+Message:  1014
+_oblivion_ se dedica a la hechicería, creo. Busca en __oblivion_, en ___oblivion_.
+<--->
+<ce>  Alguien con peligro que se entromete en asuntos daédricos.
+<ce>  Hallarás a _oblivion_ en ___oblivion_, en __oblivion_.
+
+Message:  1020
+<ce>                 Asestas un golpe temible al daedra, pero
+<ce>              se mantiene en pie un momento, con sus ojos
+<ce>              fijos en los tuyos, y una voz áspera surge
+<ce>                         de su garganta ensangrentada:
+                                     
+ "Puedes destruir mi forma mortal, %pcn,
+ pero mi estirpe te acosará sin descanso
+ hasta que arranquemos el libro de tu
+ mano sin vida. Si deseas evitar este
+ destino, busca a _oblivion_ y entrégalo
+ a %g2. Como puente entre tu mundo y el
+ mío, solo %g puede persuadir a mi Señor
+ para que detenga la cacería".
+
+Message:  1025
+<ce>              ¡Insolente! ¿Vienes aquí pidiendo mi
+<ce>             ayuda y luego rechazas mi consejo?
+<ce>                    ¡Que Oblivion te lleve!
+
+Message:  1030
+<ce>                 Este pergamino revela la ubicación del
+<ce>                  Aquelarre Skeffington en Ykalon, sea
+<ce>                          lo que sea que eso signifique.

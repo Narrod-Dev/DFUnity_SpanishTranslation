@@ -1,0 +1,71 @@
+Quest: J0B00Y00
+DisplayName: La Recompensa
+QRC:
+
+QuestorOffer:  [1000]
+<ce>               Si estás disponible para trabajar, puede
+<ce>                 que tenga algo para ti. Es un asunto
+<ce>                  algo sucio, implica castigar a un ladrón.
+<ce>               La recompensa será de _reward_ piezas de oro.
+<ce>                 ¿Te interesa?
+
+RefuseQuest:  [1001]
+<ce>                Qué decepción. Bueno, sin duda encontraremos
+<ce>                           a alguien más.
+
+AcceptQuest:  [1002]
+<ce>                Rara vez actuamos por nuestra cuenta,
+<ce>                   pero en este caso creemos estar
+<ce>                 justificados. Este ladrón, verás,
+<ce>                 robó directamente de una de nuestras
+<ce>                caravanas y ahora nos exige pago por
+<ce>               usar la carretera. Qué descaro. Encontrarás
+<ce>                    a ese bandido en un escondite llamado
+<ce>                      ___mondung_. Regresa en
+<ce>                      =1stparton_ días.
+
+QuestFail:  [1003]
+<ce>                    Será mejor que te apresures, %pcf.
+<ce>                     Solo tienes =1stparton_ días
+<ce>                          para acabar con ese ladrón.
+
+QuestComplete:  [1004]
+<ce>                         Muy buen trabajo, %pcf.
+<ce>                     Eso debería disuadir a otros
+<ce>                    salteadores de caminos. Aquí tienes
+<ce>                            _reward_ piezas de oro. Gracias.
+
+RumorsDuringQuest:  [1005]
+Ese ladrón está arruinando la economía por sí solo.
+<--->
+<ce>         Creen que ese salteador es solo un ladrón, pero
+<ce>                    es muy hábil con la espada.
+
+RumorsPostfailure:  [1006]
+Ese ladrón se mudó a otro escondite, pero los caminos siguen siendo peligrosos.
+<--->
+No sé por qué no pueden arrestar a ese salteador. Debería ser fácil.
+
+RumorsPostsuccess:  [1007]
+Los mercaderes están contentos de que finalmente atraparan a ese ladrón.
+<--->
+No me importa que hayan acabado con ese asesino nocturno. Los caminos siguen inseguros.
+
+QuestorPostsuccess:  [1008]
+Claro que hablaré contigo, %pcf. Recuerdo a esos salteadores que eliminaste.
+
+QuestorPostfailure:  [1009]
+La Resolución sigue perdiendo oro por culpa de esos salteadores. No es nada agradable.
+
+Message:  1020
+<ce>                   Debes ser de la Resolución.
+<ce>                     ¡Prepárate para morir, cazarrecompensas!
+
+Message:  1030
+%qdt:
+ La Resolución de Zenithar
+ me ha enviado a eliminar a un ladrón que ha estado saqueando
+ sus caravanas. ___mondung_ es
+ el escondite del criminal. Debo
+ eliminarlo y regresar a
+ ___questgiver_ en =1stparton_ días.

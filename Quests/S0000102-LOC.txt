@@ -1,0 +1,16 @@
+Quest: S0000102
+QRC:
+
+Message:  1015
+<ce>                   Gortwog dice que debes morir. Podemos
+<ce>                   quedarnos con todas tus pertenencias,
+<ce>                   salvo el Tótem, que es su recompensa.
+                                     <--->
+<ce>                   Quienes sois de sangre %ra nunca habéis
+<ce>                   mostrado el respeto debido a los orcos.
+<ce>                   Será un placer acabar con tu vida por el
+<ce>                   Rey Gortwog y llevarle el Tótem.
+                                     <--->
+<ce>                   El Rey Gortwog dice que no eres alguien
+<ce>                   de confianza por ser %ra. Mi misión es
+<ce>                   matarte y entregarle el Tótem.

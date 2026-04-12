@@ -1,0 +1,154 @@
+Quest: A0C00Y10
+DisplayName: El duelo
+QRC:
+
+QuestorOffer:  [1000]
+<ce>              ¿Disculpa?! ¿No ves que estoy ocupado, apestoso
+<ce>             %ra? ¿Estás buscando problemas o algo?
+                                     <--->
+<ce>           ¿Qué? ¿Qué dijiste? Espero no haberte oído
+<ce>                 decir algo. ¿Dijiste algo?
+                                     <--->
+<ce>            ¿No ves que estoy ocupado?! Y de mal humor,
+<ce>               debo añadir. Si no te vas ahora,
+<ce>                podría haber problemas. ¿Eso es lo que quieres?
+                                     <--->
+<ce>            Bueno, ¡disculpa! No quería estorbarte,
+<ce>               cerdo gordo %ra. ¿Quieres salir afuera?
+
+RefuseQuest:  [1001]
+<ce>                  Así está mejor. Ahora lárgate.
+                                     <--->
+<ce>            Eso pensé. Sigue con lo que sea que hagas.
+                                     <--->
+<ce>                Ya sabía que no dirías que sí.
+<ce>                       Ahora desaparece.
+
+AcceptQuest:  [1002]
+<ce>                    Oh... ¿quieres jugar, eh?
+                                     <--->
+<ce>                     ¡Creo que tenemos a uno valiente!
+                                     <--->
+<ce>                       Bueno... parece que mi día
+<ce>                       se acaba de poner interesante.
+                                     <--->
+<ce>                 ¡Eres tan estúpido como pareces!
+<ce>                       Bien, %ra, yo también juego.
+                                     <--->
+<ce>          ¡Así que así lo quieres! ¡Acepto cualquier %ra!
+
+QuestFail:  [1003]
+%qdt:
+ He aceptado batirme en duelo con _giver_ en
+ _inn_ en ___giver_ dentro de seis horas.
+
+QuestComplete:  [1004]
+<ce>                    Mientras contemplas a tu
+<ce>                     adversario caído, sabes que tu
+<ce>                       honor ha sido satisfecho.
+
+RumorsDuringQuest:  [1005]
+<ce>                      ¡_giver_ ha desafiado a algún
+<ce>                        %ra errante a un duelo!
+
+RumorsPostfailure:  [1006]
+<ce>                     ¿No eres tú ese cobarde, %pcn?
+<ce>                    Rechazaste un duelo, ¿verdad?
+                                     <--->
+<ce>                         Escuché que _giver_
+<ce>                 desafió a alguien a un duelo, ¡y el
+<ce>                        idiota ni siquiera apareció!
+
+RumorsPostsuccess:  [1007]
+<ce>                       ¡Eres el %ra que venció
+<ce>                          al campeón de _giver_!
+<ce>                               ¡Bien hecho!
+                                     <--->
+<ce>                        Escuché que _giver_ fue
+<ce>                    humillado públicamente cuando algún
+<ce>       aventurero errante venció a su campeón. Bien merecido.
+
+QuestorPostsuccess:  [1008]
+<ce>                    %oth. Esperaba no volver a
+<ce>                 verte. Venciste a mi campeón en un
+<ce>                  duelo, pero soy una persona honorable.
+                                     <--->
+<ce>                  ¡No me hagas daño! Venciste a mi campeón
+<ce>                     en un duelo, ¿no es suficiente?
+
+QuestorPostfailure:  [1009]
+<ce>                  ¡Ja! Ni siquiera te presentaste
+<ce>                  al duelo. ¿Creíste que no lo recordaría?
+<ce>                    ¡Lárgate, cobarde!
+
+Message:  1016
+<ce>                     Oh, apestoso. No es tu
+<ce>                      día de suerte. ¿Qué tal un duelo?
+                                     <--->
+<ce>               Entonces lo resolveremos como guerreros.
+<ce>                       ¿Qué dices a un duelo?
+                                     <--->
+<ce>                  Resuelvo mis problemas a la antigua.
+<ce>                           ¿Qué tal un duelo?
+                                     <--->
+<ce>                   Resolveremos esto. Al menos,
+<ce>                    ¡yo lo haré! ¿Qué tal un duelo luego?
+
+Message:  1018
+<ce>             ¡Excelente! ¡Ja ja! Un duelo será. Pero no aquí,
+<ce>              cerdo. Dentro de seis horas, en _inn_. Nos vemos
+<ce>                               allí.
+ 
+                                     <--->
+<ce>                  Mala decisión, %ra. El duelo es
+<ce>                       un hecho entonces. Encuéntrame en _inn_ en
+<ce>                      seis horas. ¡Estaré esperando!
+                                     <--->
+<ce>             No te esfuerces demasiado. Ese esfuerzo mató
+<ce>             a un caballo mío... ¡y puede matarte a ti! Ven a
+<ce>                   _inn_ y lo resolveremos.
+<ce>                 Preséntate en seis horas. Debo prepararme.
+                                     <--->
+<ce>             ¡Un duelo será! Lo lamentarás... pero tuviste
+<ce>                la oportunidad de seguir tu camino. Encuéntrame en
+<ce>             _inn_ en seis horas y resolveremos esto.
+
+Message:  1019
+<ce>                    Entonces el %ra no es un cobarde como
+<ce>                     _giver_ dijo que eras. %g me pagó
+<ce>                  bien para venir aquí y hacerte pedazos.
+<ce>                Y lo haré. ¡Prepárate para la batalla!
+                                     <--->
+<ce>              ¡Eres tú! _giver_ dijo que estarías aquí,
+<ce>                    y yo siempre termino las peleas de %g3.
+                                     <--->
+<ce>                  Deberías tener cuidado con quién te metes.
+<ce>                 _giver_ tiene muchos amigos. Ahora prepárate
+<ce>                                para morir.
+
+Message:  1025
+<ce>            Esto puede ponerse feo. No tan feo como tú, pero
+<ce>             no tengo problema en cortarte la cabeza por esas
+<ce>           palabras. ¿Quieres que esto se convierta en una pelea?
+                                     <--->
+<ce>                Estás buscando pelea, ¿verdad?
+<ce>                     ¿Eso es lo que quieres, niño?
+                                     <--->
+<ce>                  Oh... sí tenemos a uno valiente... ¡con
+<ce>                  armas! ¿Quieres usar eso contra mí?
+                                     <--->
+<ce>          Las dos peleas en las que me metí ayer no terminaron bien
+<ce>           para los otros cerdos. ¿Quieres enfrentarte a mí?
+
+Message:  1027
+<ce>                   Eso pensé. Ahora lárgate.
+                                     <--->
+<ce>                  Así está mejor. Ahora déjame.
+                                     <--->
+<ce>                   Ahora vemos quién eres. Adiós.
+                                     <--->
+<ce>                  Sigue tu camino entonces. No tengo tiempo
+<ce>                            que perder contigo.
+                                     <--->
+<ce>                    Entonces sigue adelante. Tengo un día
+<ce>                               ocupado por delante.

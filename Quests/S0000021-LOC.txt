@@ -1,0 +1,86 @@
+Quest: S0000021
+DisplayName: El alma del Lich
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        %pcf, me alegra que hayas
+<ce>                respondido a mi carta. Espero que mi mensajero
+<ce>                   fuera amable. Tu lealtad ha quedado
+<ce>                demostrada en el pasado. No tanto como la de
+<ce>                 mis muertos vivientes, pero con mucha más
+<ce>                 versatilidad. Mi necesidad requiere bajar a
+<ce>                   lo más profundo del Castillo de Sentinel,
+<ce>                y la recompensa es un conocimiento que solo
+<ce>                         los muertos pueden otorgar.
+<ce>                             ¿Aceptas el reto?
+
+RefuseQuest:  [1001]
+<ce>                  Debes de tener un gran afecto por la
+<ce>                       Reina Akorithi. Qué lástima.
+
+AcceptQuest:  [1002]
+<ce>                    Qué curioso. Estoy buscando la respuesta
+<ce>                  a una pregunta. No existe entre los vivos,
+<ce>                  pero puede que esté entre los muertos.
+<ce>                  Quiero que me traigas el fantasma del
+<ce>                  Príncipe Karolis, el bisabuelo del difunto
+<ce>                  Rey Camaron de Sentinel. Karolis era un
+<ce>                  hechicero de gran habilidad. Ahora es un
+<ce>                   lich en las entrañas del Castillo. Te
+<ce>                  entrego un _scarab_ especial. Si está cerca
+<ce>                  de él cuando destruyas su cuerpo físico,
+<ce>                   su alma quedará atrapada en el _scarab_.
+<ce>                  Tráemelo y te contaré una historia que
+<ce>                       pocos mortales han escuchado.
+
+QuestComplete:  [1004]
+<ce>                       Bien hecho, %pcf. Estoy por creer que
+<ce>                el príncipe cooperará. Por favor, acepta este
+<ce>                       _magicitem_ como muestra de mi
+<ce>                agradecimiento. Además, he decidido que es hora
+<ce>                de que alguien ajeno al linaje de Tiber Septim
+<ce>                sepa la verdad sobre el Rey de los Gusanos. Como
+<ce>              sabes, Tiber Septim fue el primer emperador de Tamriel.
+<ce>                Hacia el final de sus guerras de conquista,
+<ce>                traicionó a su Mago de Batalla, Zurin Arctus.
+<ce>                Cuando Zurin murió, su alma se negó a abandonar
+<ce>                su cuerpo. Algo relacionado con el misterioso
+<ce>                Numidium. Desde entonces, Zurin Arctus ha
+<ce>                        vivido como el Rey de los Gusanos.
+<ce>                                     
+<ce>                 El Rey de los Gusanos y sus agentes han sido
+<ce>                una molestia para mí durante siglos. Solo
+<ce>                recuerda: si el Rey de los Gusanos recuperara
+<ce>                su cuerpo mortal, seguramente sumergiría a
+<ce>                        todo Tamriel en un conflicto.
+
+QuestLogEntry:  [1010]
+%qdt:
+ El Rey de los Gusanos ha prometido contarme
+ oscuros secretos si le traigo el espíritu
+ de un lich. No cualquier lich, sino el
+ antiguo Príncipe Karolis de Sentinel, que
+ vaga por las mazmorras del castillo real.
+ Debo destruir su cuerpo mientras llevo
+ un _scarab_ especial que atrapará el alma
+ del Príncipe Karolis.
+
+Message:  1011
+<ce>                Cosido en la carne putrefacta del zombi
+<ce>                      ves el siguiente mensaje:
+<ce>                                     
+ %pcn,
+ 
+ Sería un honor recibir tu visita en mis
+ dominios cuando te sea posible. Tengo un
+ asunto menor para el que tienes la aptitud
+ ideal. Como siempre, mis sirvientes pondrán
+ a prueba tu temple. Siéntete libre de
+ acabar con ellos. Siempre pueden ser
+ reanimados de nuevo.
+ 
+<ce>                            El Rey de los Gusanos,
+<ce>                        Maestro de Scourg Barrow
+
+Message:  1012
+<ce>              El escarabajo que te entregó el Rey de los Gusanos.

@@ -1,0 +1,63 @@
+Quest: B0B50Y11
+DisplayName: El Exorcismo
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                            Soy _qgiver_.
+<ce>                        Uno de los nobles locales,
+<ce>                      _nobleman_, acaba de obtener
+<ce>                        la escritura de una propiedad
+<ce>                      abandonada. Demasiado tarde,
+<ce>                      %g descubrió que está embrujada.
+<ce>                      Alguien necesita ir y
+<ce>                      expulsar al fantasma que la habita.
+<ce>                      ¿Estás dispuesto a aceptar
+<ce>                             esta misión?
+
+RefuseQuest:  [1001]
+<ce>                        Los fantasmas normalmente son
+<ce>                      problema del templo. Quizá
+<ce>                      les deje este asunto a ellos.
+
+AcceptQuest:  [1002]
+<ce>                       _nobleman_ quiere comenzar
+<ce>                    la reconstrucción en =2dung_ días.
+<ce>                    %g tiene la escritura de ___dungeon_,
+<ce>                     donde encontrarás al espíritu.
+
+QuestComplete:  [1004]
+<ce>                       _nobleman_ estará bastante
+<ce>                      complacido. %g incluso ha ofrecido
+<ce>                       dedicar una fuente en
+<ce>                               tu nombre.
+
+RumorsDuringQuest:  [1005]
+_nobleman_ estaba loco por aceptar la escritura de ___dungeon_. Loco o estúpido.
+
+RumorsPostfailure:  [1006]
+El pobre _nobleman_ pidió a %kno que exorcizaran ___dungeon_, pero fallaron.
+
+RumorsPostsuccess:  [1007]
+___dungeon_ puede convertirse en un almacén o una casa de verano, gracias al %kno.
+
+QuestorPostsuccess:  [1008]
+Saludos, %pcf. Después de ayudar con _nobleman_, ¿qué puedo hacer por ti?
+
+QuestorPostfailure:  [1009]
+Fallaste al %kno cuando fallaste a _nobleman_, %pcf. Una gran decepción.
+
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de
+ ==qgiver_ en ___qgiver_
+ me pidió que librara a ___dungeon_
+ de un fantasma que la acecha.
+ Tengo =2dung_ días antes de que
+ necesiten comenzar
+ la reconstrucción.
+
+Message:  1011
+<ce>                      El fantasma ha sido puesto
+<ce>                        a descansar. _nobleman_ ahora puede
+<ce>                          reconstruir ___dungeon_.

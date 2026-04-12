@@ -1,0 +1,87 @@
+Quest: L0B30Y03
+DisplayName: Contrato contra la Hechicería
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                   Reconozco esa expresión, %pcf.
+<ce>                  Te estás volviendo arrogante, egoísta
+<ce>                 y vanidoso. Es maravilloso de ver. Aun
+<ce>                  así, necesitas ejercitar tu humildad
+<ce>                  y aceptar un encargo con peligrosas
+<ce>                   connotaciones políticas. Tenemos un
+<ce>                   contrato contra alguien de alto rango
+<ce>                  del Gremio de Magos. ¿Te ves capaz?
+
+RefuseQuest:  [1001]
+<ce>                      Entonces borra esa sonrisa
+<ce>                        boba de tu cara hasta que
+<ce>                         desarrolles algo de valor.
+
+AcceptQuest:  [1002]
+<ce>                    No me decepcionas, %pcf.
+<ce>                   Sí, se nos ha pedido ajustar cuentas
+<ce>                   con esta eminencia mágica, que por
+<ce>                  cierto no es alguien novato. Para que
+<ce>                   sea más interesante, nunca abandona
+<ce>                   el Gremio de Magos; así que correrás
+<ce>                    el riesgo de molestar a docenas de
+<ce>                  los mejores y más destructivos magos
+<ce>                 del reino. Encontrarás a este ser en el
+<ce>                       Gremio de Magos de ___mondung_.
+<ce>                 El contrato es válido por =1stparton_
+<ce>                      días, para entonces debes estar
+<ce>                      de vuelta y el objetivo debe haber
+<ce>                      muerto. Buena suerte, y que su
+<ce>                    infernal alteza Mephala guíe tus
+<ce>                               pasos y manos.
+
+QuestFail:  [1003]
+<ce>                        Ese ser todavía vive,
+<ce>                         %pcf. No falles en
+<ce>                            esta misión.
+
+QuestComplete:  [1004]
+<ce>                  Vuelve quien ajusta las cuentas, con
+<ce>                  las manos empapadas con la sangre de
+<ce>                      la odiada magia. Has logrado
+<ce>                        algo importante ahora, %pcf.
+<ce>                    Tienes motivos para el orgullo.
+<ce>                   Disfruta tus _reward_ piezas de oro,
+<ce>                  %pcf. Y puedes mantener esa sonrisa
+<ce>                               en tu cara.
+
+RumorsDuringQuest:  [1005]
+Las cosas están tranquilas en el Gremio de Magos. Me recuerda a un dragón dormido.
+<--->
+Algún día, alguien hará algo con respecto a esa magia perversa.
+
+RumorsPostfailure:  [1006]
+<ce>                  Bueno, esa eminencia dejó el Gremio,
+<ce>               pero seguro que volveremos a ver a ese canalla.
+                                     <--->
+<ce>               Mucha más emoción de la que el Gremio suele
+<ce>                 tener con la partida de esa eminencia.
+
+RumorsPostsuccess:  [1007]
+Creo que en el Gremio de Magos están tan aliviados como todos los demás por esa muerte.
+<--->
+Si me preguntas, esa magia era una mala influencia para el Gremio de todos modos.
+
+QuestorPostsuccess:  [1008]
+Ese lugar, __mondung_, debió ser un sitio miserable, %pcf. Qué maravilla.
+
+QuestorPostfailure:  [1009]
+<ce>                   Dejaste a esa magia con vida y aun
+<ce>                    así crees que mereces mi tiempo.
+<ce>                      Eres alguien egoísta, %pcf.
+
+Message:  1020
+%qdt:
+ Mi última presa de la Hermandad Oscura es alguien que
+ practica la magia en el Gremio de Magos de __mondung_.
+ El objetivo debe morir y yo debo estar de vuelta
+ con la Hermandad en ___questgiver_ en =1stparton_ días.
+
+Message:  1011
+<ce>                        Has matado al objetivo.
+<ce>                     La Hermandad estará orgullosa.

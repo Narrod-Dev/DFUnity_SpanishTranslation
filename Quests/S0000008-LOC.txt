@@ -1,0 +1,304 @@
+Quest: S0000008
+DisplayName: Quién se queda con el Tótem
+QRC:
+
+QuestorOffer:  [1000]
+<ce>            %pcf, me alegra que pudieras reunirte
+<ce>          conmigo aquí. Los Cuchillas y tu emperador
+<ce>           te necesitan de nuevo. Quizás sepas o no
+<ce>           que el Tótem de Tiber Septim ha sido
+<ce>          encontrado. Por un breve tiempo, Lord Woodborne
+<ce>          de Salto de la Daga lo tuvo. De dónde lo sacó
+<ce>          sigue siendo un misterio. Los Cuchillas lanzaron
+<ce>          un asalto sobre la Mansión Woodborne para
+<ce>          recuperarlo. Aunque la mansión cayó, muchos de
+<ce>                   los nuestros cayeron con ella.
+<ce>                                     
+<ce>          Saqueamos la Mansión Woodborne, pero el
+<ce>          Tótem había desaparecido. Tengo razones para creer
+<ce>          que Gothryd tiene el Tótem. Los Cuchillas ya no
+<ce>          tienen hombres para lanzar un asalto al Castillo
+<ce>          de Salto de la Daga. Has demostrado gran
+<ce>          habilidad para entrar y salir de estos lugares.
+<ce>          ¿Irías al Castillo de Salto de la Daga para
+<ce>               recuperar el Tótem de Tiber Septim?
+
+RefuseQuest:  [1001]
+<ce>           Ciertamente son tiempos oscuros. Si Gothryd
+<ce>           consigue también la Mantella, Tamriel se
+<ce>                 verá sumida en una guerra civil.
+
+AcceptQuest:  [1002]
+<ce>               Sabía que podía contar contigo, %pcf.
+<ce>           Lo más probable es que el Tótem esté en la
+<ce>           tesorería de Salto de la Daga. Es una sala
+<ce>           enorme, inconfundible. Me marcharé en un par
+<ce>           de días. Te enviaré un mensaje diciendo dónde
+<ce>           reunirnos una vez que consigas el Tótem.
+<ce>           Si tienes éxito, el Emperador me ha dado
+<ce>              instrucciones de obsequiarte con un
+<ce>            artefacto de gran poder y renombre...
+<ce>                           ¡_artifact4_!
+
+QuestLogEntry:  [1010]
+%qdt:
+ Lady Brisienna me ha pedido que le traiga
+ el Tótem de Tiber Septim. Está oculto
+ en la tesorería del Castillo de Salto de la Daga.
+ Teme que haya asesinos buscándola,
+ y me enviará una carta revelando su
+ ubicación actual cuando escape del
+ castillo. Quien posea el Tótem tiene el
+ potencial de controlar al poderoso Numidium
+ y forjar un nuevo imperio, tal como hizo
+ Tiber Septim hace tanto tiempo.
+
+Message:  1011
+%pcn,
+ 
+ Ven de inmediato a __tavern_ en
+ ____tavern_. Estaré esperando en
+ _tavern_ por ti. El destino
+ del imperio podría estar en juego.
+ 
+<ce>                            -- Lady Brisienna
+
+Message:  1015
+<ce>             Una voz en tu cabeza entona...
+<ce>                                     
+<ce>             "Eres %pcn. Eres mi nuevo
+<ce>      vínculo. Sábelo ahora y con firmeza. No tienes
+<ce>      la dignidad para portar el Tótem de Tiber Septim. Solo
+<ce>      quienes pertenecen a su linaje pueden portarme. Te
+<ce>      daré un año y un día para lograr este cometido."
+
+Message:  1017
+%qdt:
+ ¡El Tótem de Tiber Septim me habló en mi
+ cabeza! Afirma que solo quienes posean sangre
+ real pueden reclamar el Tótem. Me ha dado
+ un año y un día para decidir quién será
+ su verdadero portador.
+
+Message:  1020
+%pcn,
+ 
+ Estás en una misión para recuperar el Tótem de
+ Tiber Septim. No lo niegues. Mis espías lo han
+ confirmado. El Tótem no es para plebeyos,
+ y no puedes usarlo. Tráeme el Tótem a mí
+ y te pagaré 100.000 piezas de oro.
+ Es el rescate de un rey por cualquier medida.
+ 
+ Debo advertirte, ni Sentinel ni Salto de la Daga
+ son leales al trono. Soy la única regente en
+ la Bahía de Iliac en la que se puede confiar.
+ Los demás solo lo usarán para destruirme.
+ 
+<ce>                                Akorithi
+<ce>                            Reina de Sentinel
+
+Message:  1021
+Noble %pcf,
+ 
+ Mis oídos han captado rumores de que estás
+ buscando el Tótem de Tiber Septim. Yo
+ también he buscado este maravilloso artefacto
+ por muchos años. Si lo encontraras, te
+ pagaría un rescate generoso, suficiente para
+ comprar tu propio barco. Igualaré o superaré
+ cualquier precio que Gothryd o Akorithi puedan
+ ofrecer. Nunca olvides a tus verdaderas amistades.
+ 
+<ce>                               Rey Eadwyre,
+<ce>                                de Sentinel
+
+Message:  1022
+%pcn,
+ 
+ No eres orco. ¿Cómo podrías entender
+ lo que se siente? Mi pueblo es tratado
+ como bárbaro. Masacrado al ser visto.
+ ¿Es tan inusual que respondamos de la misma
+ forma? La violencia engendra violencia.
+ 
+ Aspiro a sacar a mi raza del fango. Los
+ llevaré a la igualdad con las demás razas
+ de Tamriel. Para ello debo tener el Tótem
+ de Tiber Septim. No te insultaré con promesas
+ de que no habrá sangre. Juro por mi corona
+ y mis herederos que no intentaré dominar
+ más allá de las fronteras de Orsinium. Mi meta
+ no es conquistar Tamriel, sino crear un hogar
+ orco. Poseo un artefacto que estoy seguro de
+ que querrías tener. Será tuyo si tan solo
+ me entregas el Tótem de Tiber Septim.
+ 
+<ce>                -- Gortwog, Señor de la Guerra y Rey
+
+Message:  1023
+%pcn,
+ 
+ Pronto tendrás el Tótem de Tiber Septim
+ en tus manos. Está previsto en las estrellas,
+ y yo las he leído. Sabe esto. Todos los seres
+ de estatura mortal están llenos de orgullo y
+ codicia. Dar el Tótem a cualquiera de ellos
+ es soltar la vanidad mortal sobre este mundo.
+ Destruirán aquello mismo que codician.
+    Yo no tengo deseos terrenales. No tengo
+ orgullo mortal ni mezquina codicia. Solo alguien
+ como yo puede portar el Tótem con seguridad,
+ pues lo llevaré al Aetherius y dejaré atrás
+ este cascarón terrenal. Mientras el Tótem exista,
+ es un peligro para todo Tamriel. Tráeme el
+ Tótem y yo protegeré al mundo.
+    No te ofreceré oro ni gemas. Te ofreceré
+ lo que solo yo puedo dar: Fama. Tu reputación
+ por todo Tamriel se elevará.
+ 
+<ce>                        Señor de los Nigromantes,
+<ce>                            Rey de los Gusanos
+
+Message:  1024
+%pcn,
+ 
+ Hace siglos, Tiber Septim gobernó la tierra
+ y forjó un imperio con el gran Numidium. El
+ secreto del poder del Numidium reside en su
+ corazón, dentro de la Mantella. Es el corazón
+ del mago de batalla de Tiber Septim. Es mi
+ corazón. Es mi Mantella. Es mi Tótem. Me
+ pertenece a mí, y a nadie más.
+ 
+ He ganado y perdido un imperio. No tengo deseos
+ de interferir más en asuntos mortales. Poseo
+ el _artifact2_, uno de los artefactos más
+ grandes del mundo. Puedes tenerlo a cambio
+ del Tótem.
+ 
+ Mi agente más leal esperará tu llegada en
+ __temple_ de ____temple_,
+ en _temple_.
+ 
+<ce>                                 Rey Bajo
+
+Message:  1025
+%pcn,
+ 
+ Si estás leyendo esto, debes haber obtenido
+ el Tótem y escapado de las mazmorras del
+ Castillo de Salto de la Daga. Estoy en
+ __newplace_, de ____newplace_ en _newplace_.
+ Trae el Tótem allí lo antes posible.
+ 
+<ce>                            -- Lady Brisienna
+
+Message:  1030
+<ce>           Un paje vestido con la librea de Sentinel te
+<ce>              entrega una carta y se aleja en silencio.
+
+Message:  1031
+<ce>          Un hombre robusto con el estandarte de Sentinel
+<ce>             se te acerca con una carta. Su expresión
+<ce>            sombría nunca cambia, y no dice ni una palabra.
+<ce>             Se marcha tan silenciosamente como llegó.
+
+Message:  1032
+<ce>           Una figura con una pesada capa se te acerca.
+<ce>            Mientras te preparas para defenderte, una mano
+<ce>           verde y nudosa surge con una carta. Atónito, no
+<ce>             haces nada mientras la figura se aleja.
+
+Message:  1033
+<ce>          Una mano te sujeta la muñeca por detrás. Al girar,
+<ce>           abres la boca para gritar a los guardias. Una
+<ce>          mano esquelética te mete una carta en la boca. El
+<ce>          esqueleto con túnica suelta tu muñeca y se da la
+<ce>           vuelta, pasando desapercibido para los demás.
+
+Message:  1034
+<ce>             Una carta flota por el aire hacia ti.
+<ce>           Curiosamente, nadie más parece darse cuenta.
+<ce>             La carta se guarda sola en tu mochila.
+
+Message:  1040
+<ce>            Entrega el Tótem o te masacraremos donde
+<ce>            estás. ¿Y bien? ¿Vas a dárnoslo o vas a
+<ce>                   hacer que te lo quitemos?
+
+Message:  1041
+<ce>                   Entonces tendremos que tomarlo.
+
+Message:  1042
+<ce>                Cobarde. Ahora lárgate. Ah, sí. Me
+<ce>                 dijeron que deberías ir a ver a
+<ce>                    Nulfaga, sea quien sea.
+
+Message:  1043
+<ce>            ¡Ni siquiera lo tienes! Ahora voy a matarte
+<ce>                    solo por diversión.
+
+Message:  1050
+<ce>             ¡El Tótem de Tiber Septim! Es un artefacto
+<ce>             inestimable. Lo guardaré bien y mantendré
+<ce>             a raya los poderes rebeldes de Salto de la
+<ce>             Daga y Sentinel. Toma tu recompensa, %pcf.
+<ce>             Te la has ganado con creces. Debes mantener
+<ce>             tus ojos bien abiertos por la Mantella. Cualquier
+<ce>             rumor debe ser investigado con vigor. Sin la
+<ce>                 Mantella, el Tótem no tiene utilidad.
+
+Message:  1051
+<ce>             ¡Necio! ¿De verdad creíste que te pagaría
+<ce>                    por el Tótem? ¡Matad a quien %ra!
+
+Message:  1052
+<ce>              Una nación de orcos está a mi alcance. Has
+<ce>              dado a mi pueblo una oportunidad de libertad,
+<ce>                 %pcn. Si alguna vez recuperas la
+<ce>              Mantella, te recompensaré el triple por ella.
+
+Message:  1053
+<ce>             Veo que has entrado en razón. Debería hacer
+<ce>           que te mataran, pero tengo más honor que eso.
+<ce>           En su lugar te recompensaré. Toma _goldgoth_
+<ce>           piezas de oro por tu lealtad recobrada. Tráeme
+<ce>             la Mantella, y mi confianza en ti será una
+<ce>                        vez más restaurada.
+
+Message:  1054
+<ce>                ¡El Tótem! Al fin está a mi alcance.
+<ce>                Has cumplido bien, %pcf. Recordaré
+<ce>                esto cuando me haya transformado.
+<ce>                Busca ahora la Mantella. Sin ella,
+<ce>                el Tótem no vale nada. Mientras tanto,
+<ce>                   disfruta de la adoración del mundo.
+
+Message:  1055
+<ce>                 El Rey Bajo estará muy complacido.
+<ce>               Ha buscado este objeto perdido durante
+<ce>               muchas vidas. Se me ha ordenado darte
+<ce>               este objeto. Úsalo sabiamente. Si alguna
+<ce>               vez localizas la Mantella, el Rey Bajo
+<ce>                      estaría muy agradecido.
+
+Message:  1056
+<ce>             Tu Emperador estará muy agradecido. El Tótem
+<ce>             podría haber iniciado una guerra civil en las
+<ce>               manos equivocadas. Gracias, %pcf. Ahora
+<ce>             debes ir con Nulfaga. Ella tiene la clave de
+<ce>             la Mantella. Libera la Mantella y el Emperador
+<ce>             controlará al Gran Numidium mediante el Tótem.
+
+Message:  1060
+<ce>              La inconfundible voz de Nulfaga habla
+<ce>             suavemente en tu cabeza: "Veo que el Tótem
+<ce>             ha llegado a las manos de alguien con sangre
+<ce>             real. Creo que es hora de que me hagas otra
+<ce>              visita aquí en Shedungent, %pcn. Tu labor
+<ce>                      aún no ha terminado".
+
+Message:  1070
+<ce>               Una joven alegre te entrega una carta
+<ce>                y luego se aleja mientras silba.

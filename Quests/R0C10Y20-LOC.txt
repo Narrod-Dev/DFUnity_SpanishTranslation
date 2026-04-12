@@ -1,0 +1,93 @@
+Quest: R0C10Y20
+DisplayName: Un ingrediente poco común
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 ¿Te gustaría recibir una recompensa:
+<ce>                    _reward_ de mi tesoro, %pcf?
+<ce>                 Mi alquimista ha pedido un ingrediente
+<ce>                 muy raro que necesita para un importante
+<ce>                   experimento y necesitamos a alguien
+<ce>                   que vaya a recogerlo. ¿Crees que
+<ce>                           podrías encargarte, %pcf?
+
+RefuseQuest:  [1001]
+<ce>                       Vaya, qué extraño. Deberías
+<ce>                    intentar no tener un corazón tan
+<ce>                             mercenario, %pcf.
+
+AcceptQuest:  [1002]
+<ce>                        Excelente, %pcf, sabía que
+<ce>                       te apuntarías. Lleva esto:
+<ce>                       _item1_ hasta __contact_
+<ce>                        en ___contact_. Allí hay
+<ce>                           quien sirve de =contact_
+<ce>                        bajo el nombre de _contact_.
+<ce>                    Pide que se te entregue el _item2_
+<ce>                        que trajeron del sur. Asegúrate
+<ce>                    de ir y volver en =1stparton_ días.
+<ce>                    Muy bien entonces, %pcf. Confío en
+<ce>                            ti. No hagas que
+<ce>                              me arrepienta.
+
+QuestFail:  [1003]
+<ce>                          ¿Y el _item2_, %pcf?
+<ce>                      ¿Lo recuerdas? Y no te entretengas.
+
+QuestComplete:  [1004]
+<ce>                     Justo a tiempo, %pcf. Mi alquimista
+<ce>                    estará muy feliz; es un ejemplar de
+<ce>                    _item2_ excelente. Como prometí,
+<ce>                          aquí tienes tu _reward_.
+<ce>                           Bonito, ¿no es así?
+
+RumorsDuringQuest:  [1005]
+El alquimista de _questgiver_ una vez rechazó un trozo de ebonio; decía que no estaba "fresco".
+<--->
+El alquimista de _questgiver_ siempre exige elementos muy frescos. No sé por qué.
+
+RumorsPostfailure:  [1006]
+_questgiver_ está teniendo problemas con su alquimista. He oído que tiene mucho temperamento.
+<--->
+Hubo que tirar todo un lote de pociones del alquimista de _questgiver_.
+
+RumorsPostsuccess:  [1007]
+Últimamente salen olores muy extraños del palacio de _questgiver_, ¿te has fijado?
+<--->
+Vi una columna de humo rojo salir del palacio de _questgiver_ como si fuera un pájaro.
+
+QuestorPostsuccess:  [1008]
+No pienses ni por un momento que me he olvidado de ti, %pcf. ¿Cómo estás, camarada?
+<--->
+Mi alquimista quería agradecértelo personalmente, %pcf, pero está ocupado. ¿Cómo va todo?
+
+QuestorPostfailure:  [1009]
+<ce>                     Si mi alquimista estuviera aquí, te
+<ce>                         exigiría el _item2_ que
+<ce>                  debías recuperar, y luego te daría un
+<ce>                  golpe con él. Pero, tal como están las
+<ce>                   cosas, tómalo como una advertencia.
+<ce>                    No me falles en el futuro si vuelvo
+<ce>                         a necesitar tus servicios.
+<ce>                               Eso es todo.
+
+QuestLogEntry:  [1010]
+<ce>                       Y tú debes ser %pcf, por orden
+<ce>                          de _questgiver_, ¿verdad?
+<ce>                       Bien, aquí tienes el _item2_ que
+<ce>                    %g quería. Mejor vuelve rápido con
+<ce>                  ello; su alquimista es muy exigente con
+<ce>                    la frescura de los ingredientes. Una
+<ce>                    idea absurda, claro. El _item2_ no se
+<ce>                    echa a perder. Pero ya sabes lo que
+<ce>                    dicen de los gustos... Ahora date prisa.
+
+Message:  1015
+%qdt:
+Recibiré una recompensa: _reward_
+ de _questgiver_ de __questgiver_,
+ ___questgiver_, si consigo un
+ ejemplar fresco de _item2_ para %g2 de
+ parte de _contact_ en =1stparton_ días o
+ menos. _contact_ está en __contact_
+ en ___contact_.

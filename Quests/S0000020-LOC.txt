@@ -1,0 +1,99 @@
+Quest: S0000020
+DisplayName: Tratado Orco
+QRC:
+
+QuestorOffer:  [1000]
+<ce>               Así que Morgiah dice que Gortwog tiene la
+<ce>               carta del emperador. Muy interesante. Creo que
+<ce>              tengo una forma de lograr que Gortwog entregue
+<ce>               esa carta. ¿Tienes la valentía para adentrarte
+<ce>                  en las profundidades de Orsinium y recuperarla?
+
+RefuseQuest:  [1001]
+<ce>                 Es evidente que no guardas tanta lealtad al
+<ce>                       imperio como pensaba. Márchate.
+
+AcceptQuest:  [1002]
+<ce>               Gortwog desea con ansias recibir el reconocimiento
+<ce>               del imperio. Significará el comienzo de la paz
+<ce>                entre los orcos y las otras razas del imperio.
+<ce>               Presenta esta carta a Gortwog. Con suerte, esto
+<ce>                          servirá para que coopere.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Mynisera, Reina Madre del Rey Gothryd
+ de Salto de la Daga, me ha pedido recuperar
+ la carta robada que le envió el emperador.
+ Debo ir al salón de Orsinium, en Orsinium,
+ y entregarle a Gortwog, el caudillo orco,
+ una carta de su parte.
+
+Message:  1015
+Vaya, parece que Mynisera busca endulzarme
+ el oído. ¡Bah! Su carta ya no tiene valor
+ alguno para mí. Puede quedarse con ella.
+ Sin embargo, puede que mi gente no sea tan
+ indulgente con alguien de sangre %ra que
+ deambula por los salones de Orsinium. Si logras
+ sobrevivir a mi reino y hallar la carta,
+ llévasela de vuelta. En ese caso, consideraré
+ que tienes un espíritu %ra digno.
+
+Message:  1020
+Lord Gortwog,
+ Rey de los Orcos,
+ Caudillo de los Reinos Subterráneos
+ 
+    Salud y larga vida, Rey Gortwog. Por mucho
+ tiempo tú y el pueblo orco habéis buscado el
+ reconocimiento formal del imperio. Mi difunto
+ esposo, el Rey Lysandus, apoyó vuestra demanda
+ de soberanía. Ahora deseo ayudaros en vuestra
+ causa. Lamentablemente, se ha extraviado una
+ misiva menor del emperador. Para que mi palabra
+ sea escuchada por el Emperador Uriel Septim,
+ necesito recuperar esa nota. Si pudierais poner
+ en manos de mi mensajero esta carta sin valor,
+ podré defender mejor vuestra petición ante el
+ emperador y su corte.
+ 
+ La Reina Viuda Mynisera,
+ Reina Madre del Rey Gothryd de Salto de la Daga
+
+Message:  1021
+Reina Mynisera,
+ 
+    Tengo noticias graves. El Tótem de Tiber
+ Septim ha sido hallado. Ya sabes lo que esto
+ significa. El poder que respaldó a Tiber Septim
+ podría desatarse sobre Tamriel otra vez. Los
+ rumores dicen que Lord Woodborne, un señor menor
+ de Salto del Centinela, lo tiene en su poder.
+ Sin duda lo "perderá" pronto. Debes persuadirle
+ para que te lo entregue a ti o a Lady Brisienna.
+ La corte de Salto del Centinela no aprecia al
+ Rey Lysandus, pero aún conservas influencia allí.
+ Te pido que la uses en mi nombre.
+ 
+ Uriel Septim
+ Emperador de Tamriel
+
+Message:  1030
+<ce>                    %pcf, esta carta es peligrosa.
+ Gortwog sin duda ha vendido copias de ella a
+ todo el mundo, desde Salto del Centinela hasta
+ el Rey de los Gusanos. Al fin y al cabo, si las
+ potencias de la Bahía de Iliac se ven envueltas
+ en una guerra por el Tótem, él tiene mucho que
+ ganar.
+ 
+ Vete ahora. Has cumplido tu labor. Tengo la
+ certeza de que el Tótem se cruzará en tu vida
+ de alguna forma. Parece que tienes un don para
+ estas cosas. Solo recuerda: el único dueño
+ seguro para el Tótem es el emperador.
+
+Message:  1040
+<ce>               Aún no sabes dónde está la carta del
+<ce>               emperador. Vuelve cuando lo hayas averiguado.

@@ -1,0 +1,140 @@
+Quest: S0000015
+DisplayName: La venganza de Lysandus
+QRC:
+
+RumorsDuringQuest:  [1005]
+Hubo unos hombres extraños por aquí preguntando por %ra llamado %pcn.
+<--->
+No me gustó el aspecto de esos matones. Gracias a %god que se marcharon.
+
+RumorsPostfailure:  [1006]
+Las estrellas predicen sueños que nunca se harán realidad.
+<--->
+Hay presagios peligrosos que los oráculos de %reg han previsto.
+
+RumorsPostsuccess:  [1007]
+He oído que las cosas se están poniendo difíciles en Wayrest.
+<--->
+¡He oído que han encontrado el cuerpo del rey Lysandus!
+
+QuestLogEntry:  [1010]
+Parece el diario privado de Lord Woodborne.
+<--->
+Diario privado de Lord Woodborne.
+
+Message:  1011
+Página 7
+ 
+ desde la infancia. Sé que Gothryd no negaría
+ su ayuda, pero debo esperar el momento para pedirla.
+ Después de todo, Elysana sigue siendo la heredera de
+ Wayrest y yo soy su prometido. Así que sucederá que
+ cuando Eadwyre muera (lo cual hará, más temprano que tarde)
+ yo seré el rey.
+    Si no fuera por esa reina perra y sus mocosos,
+ podría y sabría ser paciente. Nunca te fíes de un elfo
+ oscuro, dice el viejo refrán, pues no puedes leer la
+ verdad en sus ojos. Si Barenziah se sale con la suya,
+ Helseth será el heredero y a Elysana la casarán en algún
+ reino lejano. Morgiah ya está prometida al heredero de
+ Firsthold, pero la mantienen cerca para esparcir su veneno
+ contra Elysana y, especialmente, contra mí.
+    Barenziah no confía en mí, lo noto.
+ Me encargaré de ella tal como hice con Lysandus.
+ El necio debió aceptar apoyarme. Gortwog y sus orcos
+ casi logran salvarle. Me encargaré de esos subhumanos
+ una vez me siente en el trono de Wayrest.
+    Primero es importante consolidar mi base de poder.
+ Puedo confiar (casi con total certeza) en que Gothryd
+ apoyará mi ascenso al trono si Helseth es nombrado heredero.
+ Poseo una red de espionaje que iguala a la de Eadwyre,
+ Gothryd, Akorith-i o el Emperador. Quizás las redes de los
+ Nigromantes y del Rey Bajo sean más extensas, pero lo dudo.
+ El problema es el poder físico puro. No tengo un ejército
+ permanente. Necesito el oro para reclutarlo...
+
+Message:  1018
+%qdt:
+ He encontrado un par de páginas muy comprometedoras
+ en la Mansión Woodborne. Estoy seguro de que Lord
+ Woodborne se pondría furioso si cayeran en las
+ manos equivocadas.
+
+Message:  1019
+%qdt:
+ El fantasma de Lysandus se me apareció y me dijo
+ que solo la muerte o la humillación de su asesino,
+ Lord Woodborne, permitiría que su alma descanse.
+ Lord Woodborne es un noble de Wayrest y prometido
+ de la princesa Elysana. Tiene un castillo en las
+ tierras salvajes de Wayrest.
+
+Message:  1021
+He oído que Lord Woodborne fue decapitado por traición.
+<--->
+Atraparon a Lord Woodborne y lo juzgaron por traición.
+
+Message:  1022
+He oído que una bandada de Daedra descendió sobre Lord Woodborne y se lo llevó.
+<--->
+¡Cosas del más allá se alzaron y asaltaron la Mansión Woodborne!
+<--->
+He oído que Lord Woodborne estafó al Gremio de Magos. Enviaron demonios para matarlo.
+
+Message:  1024
+He oído que Lord Woodborne se casará con la princesa Elysana.
+<--->
+Lord Woodborne goza de gran favor estos días en el Castillo de Wayrest.
+
+Message:  1030
+<ce>              Esto significa poco para mí. Es basura solo
+<ce>             apta para el fuego. Gothryd y Woodborne conspirando
+<ce>                para matar a Lysandus. ¡Por favor! Vete.
+
+Message:  1031
+<ce>              ¡Esto es atroz! ¡Después de todo el afecto que
+<ce>           volcamos sobre ese necio de Woodborne! Casi casamos
+<ce>            a ese cerdo villano con Elysana... ¡casi entregamos
+<ce>           el trono de Wayrest a un canalla de primera clase!
+<ce>            Buen %pcf, traer esto ante nosotros fue lo correcto.
+<ce>            Ten por seguro que Lord Woodborne será arrestado y
+<ce>            ejecutado por su traición, su nombre borrado de los
+<ce>            libros de honor, sus conocidos interrogados y su
+<ce>            fortuna confiscada. Como regalo, permíteme darte
+<ce>             _reward_ piezas de oro como tu parte de las
+<ce>                        confiscaciones de sus bienes.
+
+Message:  1032
+<ce>                 Lord Woodborne es el asesino de mi querido
+<ce>                Lysandus. ¡Habrá justicia, y vendrá de mi
+<ce>                propia mano! Harías bien en mantenerte lejos
+<ce>                de la Mansión Woodborne y de Wayrest por un
+<ce>                          tiempo, %pcn.
+
+Message:  1033
+<ce>                Esta información es muy valiosa, %pcf.
+<ce>               Permíteme darte _gold_ de oro por entregármela.
+<ce>               Esto será muy útil en el conflicto que se
+<ce>                            avecina.
+
+Message:  1034
+<ce>                Hiciste lo correcto al traerme esto a mí.
+<ce>                De lo contrario, podría haber salido a la luz
+<ce>                y dañar a Lord Woodborne.
+<ce>                        ¡Guardias! ¡Matad a este %ra!
+
+Message:  1040
+<ce>                       ¡Tú! Eres ese %ra %pcn.
+<ce>               Has sido una espina en mi costado durante
+<ce>               mucho tiempo. Un %ra más sabio habría dejado
+<ce>               descansar a los reyes muertos. Especialmente
+<ce>               cuando me he esforzado tanto por matarlos. Sí,
+<ce>               %pcf, yo maté al rey Lysandus. Y ahora será
+<ce>                un placer acabar contigo. ¡En garde!
+
+QuestTimeLapse:  [1045]
+<ce>                   "Estoy... acabado. Ahora todo... queda
+<ce>                   en manos de Gothryd. Que te... pudras en
+<ce>                   el infierno, %pcn. Yo... ciertamente lo haré".
+<ce>                                     
+<ce>                         Lord Woodborne ha muerto.

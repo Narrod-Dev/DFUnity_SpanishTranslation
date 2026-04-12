@@ -1,0 +1,85 @@
+Quest: O0B10Y05
+DisplayName: Obra de arte valiosa
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                             ¡Eh, %pcf!
+<ce>                       ¿Te acuerdas de mí, _qgiver_?
+<ce>                        ¿Te hace un trabajo del gremio
+<ce>                        hoy? Tengo uno aquí que te
+<ce>                         viene como anillo al dedo.
+
+RefuseQuest:  [1001]
+<ce>                            Quizá la próxima.
+
+AcceptQuest:  [1002]
+<ce>                        Un tipo rico acaba de hacerse
+<ce>                            con una pintura que
+<ce>                      podría valer una buena pasta. La
+<ce>                        escondió en _townhouse_,
+<ce>                            en __townhouse_.
+<ce>                        Tráela y recibirás la paga
+<ce>                       del gremio: _gold_ monedas de
+<ce>                       oro. Ah, sí, la necesito en
+<ce>                         un plazo de =traveltime_ días.
+
+QuestComplete:  [1004]
+<ce>                      Ni un rasguño. Siento lo del
+<ce>                      guardián. No sabíamos que se
+<ce>                     había molestado en poner uno.
+<ce>                            Aquí tienes tu paga.
+
+RumorsDuringQuest:  [1005]
+_townhouse_ es una auténtica galería de arte.
+
+RumorsPostfailure:  [1006]
+El otro día me salió un divieso... pero ya curó.
+<--->
+He pasado tres horas hablando sobre el tiempo.
+<--->
+El tiempo es el habitual para esta época del año.
+<--->
+Parece que refresca un poco en %cn para esta temporada.
+<--->
+Hoy hace mucho más calor que el año pasado por estas fechas.
+<--->
+Mi tía abuela va a ir a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora empieza a oscurecer por aquí.
+<--->
+Deberíamos levantar una estatua de guerra por aquí.
+<--->
+La juventud de hoy en día con su magia... %oth, no sé yo.
+<--->
+Anoche tuve un sueño de lo más extraño.
+<--->
+He oído un chiste buenísimo. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Me lo puedes explicar?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y sus puntos malos.
+
+RumorsPostsuccess:  [1007]
+Robaron en _townhouse_, a pesar de que tenía un guardián poderoso.
+<--->
+Quienquiera que robara en _townhouse_ debía de saber lo que hacía.
+
+QuestorPostsuccess:  [1008]
+Esa pintura alcanzó un gran precio en el mercado negro, %pcf.
+
+QuestorPostfailure:  [1009]
+<ce>                      Bueno, te veo a ti, pero no veo
+<ce>                      la pintura que debías traer.
+<ce>                      ¿Para qué me habré molestado
+<ce>                        siquiera en hablar contigo?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ me envió a robar una
+ pintura en _townhouse_,
+ en __townhouse_. Tengo
+ =traveltime_ días para llevársela a
+ _qgiver_, al Gremio de Ladrones en
+ ___qgiver_.

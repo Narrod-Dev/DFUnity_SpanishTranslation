@@ -1,0 +1,246 @@
+Quest: C0B00Y02
+DisplayName: El Niño Poseído
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 ¿Estarías dispuesto a ayudar en un
+<ce>                            exorcismo, %pct?
+                                     <--->
+<ce>                      _guardian_, un caballero local,
+<ce>                          nos ha suplicado que
+<ce>                  ayudemos a su pupilo/a, quien ha estado mostrando
+<ce>                signos de posesión daédrica. ¿Estarías
+<ce>                dispuesto a ayudar con el exorcismo,
+<ce>                si la situación lo requiere?
+
+RefuseQuest:  [1001]
+<ce>                   Es una pena. Espero que podamos
+<ce>                        encontrar a alguien más entonces.
+
+AcceptQuest:  [1002]
+<ce>                      ¿Lo harías? %oth, tienes un
+<ce>                      corazón tan grande como %reg, %pct.
+<ce>                     El niño/la niña se llama _child_,
+<ce>                          es un/a =child_ que vive
+<ce>                     en _house_ aquí en __house_,
+<ce>               pero la persona con la que debes hablar
+<ce>                      es su tutor/a, _guardian_
+<ce>                         en _tavern_. Si,
+<ce>                 basándote en lo que te diga, crees
+<ce>                 que es necesario un exorcismo, ve a ver
+<ce>                         a _priest_ en _house3_
+<ce>                       de __house3_. Espero que
+<ce>                  todo este desafortunado asunto se
+<ce>                 resuelva en =queston_ días y verte
+<ce>                       aquí entonces. Buena suerte,
+<ce>                           que %god esté contigo.
+
+QuestComplete:  [1004]
+<ce>                      Gracias a %god que la situación
+<ce>                  se resolvió. Nunca se puede saber
+<ce>                  desde el principio si un exorcismo
+<ce>       es realmente necesario o no. Lo has hecho bien, %pcf. Acepta
+<ce>                       este/a _reward_ como una pequeña
+<ce>                 muestra de nuestro agradecimiento.
+
+RumorsDuringQuest:  [1005]
+Pobre _child_. Y pobre _guardian_ teniendo que ver sufrir así a su pupilo/a.
+<--->
+El corazón de ___house_ se ha volcado con _child_ y su terrible crisis.
+
+RumorsPostfailure:  [1006]
+_child_ y _guardian_ se fueron de ___guardian_.
+<--->
+Nunca sabremos si _child_ estaba realmente poseído/a.
+
+RumorsPostsuccess:  [1007]
+Todos agradecen a %god por el/la %ra que salvó la vida del pequeño/a _child_.
+<--->
+Todo salió bien para _child_, así que quizá %god sí se preocupa.
+
+QuestorPostsuccess:  [1008]
+Ayudaste a __qgiver_ en ese exorcismo. ¿Qué puedo hacer por ti?
+
+QuestorPostfailure:  [1009]
+Dejaste que ese niño/a sufriera. No tengo nada que decirte.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de ___qgiver_
+ quiere que compruebe si un/a =child_ llamado/a
+ _child_ en _house_
+ es víctima de posesión, y, de ser así,
+ que lo/la cure. Primero debo hablar con su
+ tutor/a, _guardian_ de _tavern_.
+
+Message:  1011
+<ce>                  ¿Vienes de __qgiver_? Por favor,
+<ce>                 dime que puedes ayudar al pequeño/a _child_,
+<ce>                  no soporto verlo/la sufrir así.
+<ce>               No sé qué hacer con él/ella. Por favor,
+<ce>                échale un vistazo y luego intenta convencer a
+<ce>                      _priest_ de que ayude. _child_ siempre
+<ce>                      ha sido un/a niño/a tan dulce,
+<ce>                pero ahora... Si quieres verlo/la, está
+<ce>                        en _house_. No
+<ce>                       sé qué más puedo hacer.
+
+Message:  1012
+<ce>                     ¿Vienes de __qgiver_? Gracias
+<ce>                    a %god que estás aquí. Dicen que
+<ce>                         puedes hablar con _priest_,
+<ce>                       el exorcista en _house3_,
+<ce>                    y que tiene un/a _item_ especial
+<ce>                  para casos de posesión como este. No puedo
+<ce>                         convencer a _priest_ de
+<ce>                     que me dé el _item_, pero
+<ce>                  alguien como tú, con la autoridad
+<ce>                       de __qgiver_, sí podría. Ve a
+<ce>                     __house3_ y habla con %g2. Sé
+<ce>                      que podrás convencerlo/la.
+
+Message:  1013
+%qdt:
+ _guardian_,
+ el/la tutor/a de _child_,
+ me pidió que examinara al niño/a y
+ luego viera si _priest_
+ de _house3_, __house3_
+ necesita realizar un exorcismo o
+ no. _child_ está en
+ _house_.
+
+Message:  1014
+%qdt:
+ _guardian_,
+ el/la tutor/a de _child_
+ me pidió que fuera a _house3_
+ en __house3_ para pedirle a
+ _priest_ un/a _item_ especial
+ para exorcizar el espíritu daédrico
+ del niño/la niña.
+
+Message:  1015
+<ce>                      "=daedra_... oh, %oth...
+<ce>                       =daedra_ ha salido de mí...
+<ce>                       pero... aún está aquí."
+<ce>                          _child_ sale corriendo.
+<ce>                  Y puedes sentir claramente una
+<ce>                         presencia extraña en _house_.
+
+Message:  1016
+<ce>                          Oh, %oth, %oth...
+<ce>                      Me siento... mucho mejor.
+<ce>                          _guardian_ me dijo
+<ce>                         que el/la _item_ nos
+<ce>                          ayudaría, y tenía
+<ce>                       razón. Oh, gracias, amable
+<ce>                            %pct. Guardaré
+<ce>                      este/a _item_ para protección.
+<ce>                               ¡Adiós!
+
+Message:  1017
+<ce>                  Gruh, mortal bizco y repugnante,
+<ce>                    abriría todas tus venas y
+<ce>                  nadaría en tu sangre humeante. Me
+<ce>                         llaman =daedra_, el
+<ce>                       que lame excrementos de gato.
+                                     <--->
+<ce>                         Pobre pequeño/a _child_,
+<ce>                   se está pudriendo en Oblivion, y nadie
+<ce>                  lo/la ayudará, salvo el amable, amable,
+<ce>                     amable, amable, amable, amable, amable,
+<ce>                     amable, amable, amable, amable, amable,
+<ce>                         amable, amable =daedra_.
+                                     <--->
+<ce>                  Había una vez una niña llamada Vivian,
+<ce>                     que conoció a =daedra_ de Oblivion,
+<ce>                         decidieron aparearse,
+<ce>                          y luego se comieron
+<ce>                    a _child_, su hijo/a, ñam, ñam.
+
+Message:  1018
+<ce>                        Lo siento, %pcf, pero
+<ce>                       no puedo dar el/la _item_ a cualquiera
+<ce>                que sospeche conocer a una víctima
+<ce>                 de posesión. Es demasiado raro y
+<ce>                 costoso. Tendrás que al menos
+<ce>                 ver al niño/la niña antes de que acceda
+<ce>                       a entregarte el/la _item_.
+
+Message:  1019
+<ce>                         ¿=daedra_? ¿_child_
+<ce>                      mencionó el nombre =daedra_?
+<ce>                Bueno, si esta posesión es una farsa,
+<ce>                  al menos está bien documentada.
+<ce>                       Aquí tienes el/la _item_.
+<ce>                  Solo llévalo contigo cuando hables
+<ce>                 con el/la niño/a la próxima vez. Pero cuidado,
+<ce>                       el daedra que mencionó
+<ce>                  es un Daedroth de gran poder. Cuando
+<ce>                   el exorcismo se complete, abandonará
+<ce>                    su cuerpo y aparecerá en otro lugar
+<ce>                      en _house_. Prepárate para
+<ce>                    una batalla cuando eso ocurra. Buena suerte,
+<ce>                        %pcf. Que %god esté contigo.
+
+Message:  1020
+%qdt:
+ No sé quién es =daedra_, pero ese fue el nombre
+ que _child_ pronunció
+ cuando lo/la vi. Ese/a niño/a
+ está poseído/a, loco/a o es el/la mejor
+ actor/actriz de ___house_. Quizá sea
+ buen momento para ver al exorcista
+ en __house3_, _priest_
+ en _house3_.
+
+Message:  1021
+<ce>                       Buen %pcf, no puedo agradecerte
+<ce>                   lo suficiente por lo que has hecho
+<ce>                           por _child_. Ahora
+<ce>                      es un/a niño/a feliz y normal
+<ce>                       otra vez. Ya le he dicho a
+<ce>                       _qgiver_ en tu __qgiver_
+<ce>                    y está deseando felicitarte.
+<ce>                      Una vez más, gracias.
+
+Message:  1022
+<ce>                       Puedo decirte dónde ese/a
+<ce>                        =guardian_, _guardian_,
+<ce>                  se fue, claro. Pero hasta que no tengas
+<ce>                    cincuenta monedas de oro para pagar
+<ce>                      la información, no diré nada.
+
+Message:  1023
+<ce>                        Buen día, %pct.
+<ce>                   Probablemente estés buscando a ese/a
+<ce>                        =guardian_, _guardian_,
+<ce>                     que se largó de aquí después de
+<ce>                   presumir de haber robado algún tipo
+<ce>                       de _item_ de __qgiver_.
+<ce>                   Si tienes cincuenta monedas de oro
+<ce>                    para un amigo, podría decirte
+<ce>                         a dónde fue _guardian_.
+<ce>                        ¿Qué dices?
+
+Message:  1024
+<ce>                     Un placer hacer negocios contigo,
+<ce>                           %pcf. Encontrarás
+<ce>                         a ese/a =guardian_ en
+<ce>                             _house2_.
+
+Message:  1025
+<ce>                      "¡No me hagas daño!" _guardian_
+<ce>                         te entrega el/la _item_
+<ce>                              y huye.
+
+Message:  1026
+%qdt:
+ _hooker_, un/a =hooker_ en
+ _tavern_ me dijo (por cincuenta monedas de oro)
+ que _guardian_ huyó a
+ _house2_ después de que _child_
+ me robara el/la _item_. La posesión era obviamente
+ una farsa, y _priest_ y
+ _qgiver_ querrán recuperar el/la _item_.

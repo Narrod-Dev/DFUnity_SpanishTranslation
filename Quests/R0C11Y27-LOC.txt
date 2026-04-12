@@ -1,0 +1,103 @@
+Quest: R0C11Y27
+DisplayName: Una sustancia especial
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 Me preguntaba si podrías hacerme un
+<ce>                 pequeño favor. Verás, tengo una amistad
+<ce>                  que requiere que se le entregue cierto
+<ce>                  cargamento de cierta sustancia en un
+<ce>                  determinado momento. Confío en que me
+<ce>                 estoy explicando con claridad.
+<ce>               ¿Estás disponible para tal encargo,
+<ce>             a cambio de un pago de, digamos, _reward_ piezas de oro?
+
+RefuseQuest:  [1001]
+<ce>               Bueno, ciertamente me decepciona.
+<ce>                Habría esperado un poco más de entusiasmo.
+<ce>                 En fin, supongo que son estos tiempos los que
+<ce>                  fomentan la pereza y la indolencia.
+
+AcceptQuest:  [1002]
+<ce>                  Así que estás disponible. Bueno, eso es
+<ce>                  fantástico, debo decir. Bien, pues aquí tienes
+<ce>                        este cachivache, un _item1_.
+<ce>                  Debe ser llevado ante alguien dedicado a la
+<ce>                  alquimia que conozco, de nombre _npc1_.
+<ce>                        Encontrarás a %g2 en __npc1_
+<ce>                        en ___npc1_. Con suerte, %g
+<ce>                 tendrá algo para que se lo lleves a mi
+<ce>                        amistad, _npc2_. Bueno,
+<ce>                        será mejor que te marches. _npc1_
+<ce>                      me dijo que necesitaba el _item1_
+<ce>                       en un plazo de =1stparton_ días o menos.
+<ce>                    Gracias y que tengas un buen viaje.
+
+QuestFail:  [1003]
+<ce>                 Tendremos tiempo de sobra para charlar más
+<ce>                  una vez que hayas completado tu encargo.
+
+QuestComplete:  [1004]
+<ce>                    %oth, me preguntaba cuándo
+<ce>                         llegarías. ¿Eres %pcf?
+<ce>                             Soy _npc2_, y
+<ce>                 eso, creo yo, es mi _item2_.
+<ce>                  Si no lo has probado antes, realmente
+<ce>                  deberías hacerlo. El efecto es celestial.
+<ce>                En fin, aquí tienes tus _reward_ piezas de oro.
+<ce>                          Muchas gracias, %pcf.
+<ce>                          Me has salvado la vida.
+
+RumorsDuringQuest:  [1005]
+He oído que _npc2_ tiene adicción al _item2_, pero no he visto ninguna prueba.
+<--->
+Dicen que es difícil preparar una buena dosis de _item2_, requiere años de estudio.
+
+RumorsPostfailure:  [1006]
+Resulta que _npc2_ sí tenía adicción al _item2_ después de todo. Atraparon a %g2 comprándolo.
+<--->
+Me pregunto quién suministraba a _npc1_ los ingredientes que %g necesitaba.
+
+RumorsPostsuccess:  [1007]
+_npc2_ finalmente recibió el cargamento que %g esperaba. Está más feliz que una arpía.
+<--->
+_questgiver_ parece muy complacido con alguien de raza %ra que servía de mercenario, pero no dirá por qué.
+
+QuestorPostsuccess:  [1008]
+Hiciste un buen trabajo con esa entrega, camarada. ¿Qué puedo hacer por ti?
+<--->
+%oth, me alegra verte de nuevo, %pcf. Hiciste un buen trabajo en aquel... pequeño asunto.
+
+QuestorPostfailure:  [1009]
+<ce>                       Según recuerdo, fallaste en el
+<ce>                       último encargo que te di.
+<ce>                      No veo mucho sentido en hablar
+<ce>                             contigo ahora.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Estoy llevando a _npc1_
+ de __npc1_, ___npc1_ un _item1_ a
+ cambio de cierto objeto que
+ _questgiver_ quiere que sea
+ entregado a una tercera parte.
+ Tengo =1stparton_ días para cumplir
+ la primera parte de esta entrega.
+
+Message:  1011
+%qdt:
+ _npc1_ me envió ante _npc2_,
+ la tercera parte en ___npc2_, con
+ algo de _item2_. Reconoceré a
+ _npc2_ como quien es =npc2_
+ en __npc2_, siempre que se lo
+ entregue en =2ndparton_ días.
+
+Message:  1012
+<ce>                      Encantador, %pcf, encantador. Ahora,
+<ce>                        aquí está el _item2_ que
+<ce>                       debe ser entregado a _npc2_
+<ce>                       allá en __npc2_ en ___npc2_.
+<ce>                         No te entretengas, %pct.
+<ce>                      _npc2_ lo necesita en un plazo de
+<ce>                             =2ndparton_ días o menos.

@@ -1,0 +1,119 @@
+Quest: S0000010
+DisplayName: La fortaleza de los Cuchillas
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       Buen día, %pcf. Mi nombre es
+<ce>                      _agentuk_. Debo admitir que
+<ce>              me sorprende verte. ¿Eres capaz, tal vez,
+<ce>               de ayudar al Rey Bajo en una empresa
+<ce>               contra los Nigromantes? Te recompensaremos
+<ce>              generosamente por este servicio, y te daremos
+<ce>               información que probablemente no podrás
+<ce>                           encontrar en otro lugar.
+
+RefuseQuest:  [1001]
+<ce>                          No. Ya veo. Muy bien.
+
+AcceptQuest:  [1002]
+<ce>              Lo harás. Hmm. Notable. Los Nigromantes
+<ce>                han tomado un objeto nuestro, un _reward_
+<ce>                de cierto valor. El valor es de importancia
+<ce>              secundaria. El verdadero problema es que han
+<ce>              maldito este objeto y se lo han entregado a
+<ce>              los Cuchillas. Por si no lo sabes, los Cuchillas
+<ce>              fueron una vez la guardia de honor de Tiber
+<ce>              Septim. Hoy son leales al imperio y al código
+<ce>                de Tiber, pero no siempre al emperador
+<ce>              actual. El Rey Bajo tiene razones para no desear
+<ce>                daño alguno a los Cuchillas. Queremos que te
+<ce>                infiltres en el Castillo Llugwych, en Ykalon,
+<ce>                          y retires el _reward_.
+<ce>              Por favor, hazlo en =itemindung_ días si
+<ce>                  quieres tu información y tu recompensa.
+
+QuestFail:  [1003]
+<ce>                        Sin _reward_, como dicen,
+<ce>                         no hay información, %pcf.
+
+QuestComplete:  [1004]
+<ce>                      Bien hecho, %pcf. Déjame lanzar
+<ce>                      este hechizo sobre el _reward_
+<ce>                    ... ya está. El _reward_ es ahora
+<ce>                        seguro y puedes conservarlo.
+<ce>                                     
+<ce>                Ni siquiera la muerte puede ocultar a un
+<ce>                descendiente real de Tiber Septim del Rey
+<ce>                Bajo. El rey Lysandus no murió en la batalla
+<ce>                de Cryngaine. Fue asesinado por traición antes
+<ce>                de esta. El monumento en su honor en Roca Alta
+<ce>                es una tumba vacía. Sus restos fueron llevados
+<ce>                en secreto a una antigua tumba en Menevia, la
+<ce>                cual te revelaré ahora. Desconozco quién
+<ce>                traicionó a Lysandus, ni por qué su espíritu
+<ce>                vaga por la ciudad de Salto de la Daga y no por
+<ce>                el campo de batalla de Cryngaine. He cumplido
+<ce>                mi parte del trato, y te has ganado la
+<ce>                        gratitud del Rey Bajo.
+
+RumorsDuringQuest:  [1005]
+Se supone que el Rey de los Gusanos y el Rey Bajo son el mismo ser.
+<--->
+Supuestamente el Rey Bajo está muerto, pero sus agentes siguen cumpliendo sus objetivos.
+
+RumorsPostfailure:  [1006]
+Robar al Rey Bajo es una profesión de lunáticos. Pregúntale a ese %ra mercenario.
+<--->
+¿Te has enterado de quien intentó robar al Rey Bajo? Pobre idiota.
+
+RumorsPostsuccess:  [1007]
+Hubo extraños presagios en las estrellas anoche. Pasiones airadas de un semidiós.
+<--->
+Se dice que los nigromantes están recorriendo el campo buscando un _reward_.
+
+QuestorPostsuccess:  [1008]
+%qdt:
+ Un agente del Rey Bajo me ha enviado al
+ Castillo Llugwych en Ykalon para encontrar un
+ _reward_ que los nigromantes robaron al
+ Rey Bajo. Tengo =itemindung_ días para encontrar
+ y devolver el _reward_.
+
+QuestLogEntry:  [1010]
+<ce>                Interfieres con los planes del Rey de
+<ce>                 los Gusanos. ¡Teme por tu vida mortal!
+                                     <--->
+<ce>                 El Rey de los Gusanos exige venganza.
+<ce>                Robaste lo que era suyo por derecho. Ahora
+<ce>                 debes unirte al reino de los muertos.
+                                     <--->
+<ce>                 Necedad de carne y hueso. No desafíes
+<ce>                al Señor de los Muertos. El Rey de los
+<ce>                    Gusanos obtendrá su venganza.
+                                     <--->
+<ce>                  Nunca deberías haber tocado ese
+<ce>                    _reward_. Es una puerta hacia
+<ce>                la tierra de los muertos. Ahora debes
+<ce>                    unirte a nosotros. ¡Prepárate!
+
+Message:  1021
+Estimado %pcn:
+ 
+    La reina Akorithi de Sentinel habló muy bien de ti,
+ describiéndote como alguien valiente, capaz y sin
+ prejuicios. Sus palabras exactas fueron "un héroe".
+ Durante algún tiempo, hemos estado buscando a alguien así.
+    No te mentiré sobre nuestras lealtades. Servimos
+ al Rey Bajo. Si crees en cuentos de hadas y consideras
+ al Rey Bajo como la fuerza definitiva del mal, pedimos
+ disculpas por haberte juzgado mal. De lo contrario,
+ necesitamos tu ayuda. Puedes encontrarme en _agentplace_
+ de __agentplace_, en Sentinel. Esperaré un mes.
+ 
+ 
+<ce>                               -- _agentuk_
+
+Message:  1022
+<ce>                   Un joven mensajero te entrega una
+<ce>                  carta con frialdad y luego se marcha
+<ce>                        sin decir una sola palabra.

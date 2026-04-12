@@ -1,0 +1,60 @@
+Quest: O0B10Y06
+DisplayName: El robo de joyas
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Aquí tengo algo que te va
+<ce>                      como anillo al dedo. Se está
+<ce>                       preparando un robo de joyas.
+<ce>                        ¿Quieres participar en ello?
+<ce>                         La paga estándar del gremio:
+<ce>                          _gold_ piezas de oro.
+
+RefuseQuest:  [1001]
+<ce>                        Nos vemos. Tengo que buscar
+<ce>                         a alguien del gremio que
+<ce>                          quiera este encargo.
+
+AcceptQuest:  [1002]
+<ce>                         %oth, brillante, joder.
+<ce>                            Ve a la _mansion_
+<ce>                             en __mansion_.
+<ce>                            Busca _jewelry_
+<ce>                          y tráelo de vuelta aquí.
+<ce>                         Mantén los ojos abiertos.
+<ce>                        Se supone que hay algún tipo
+<ce>                         de guardián en ese antro.
+
+QuestComplete:  [1004]
+<ce>                             Buen trabajo %pcn.
+<ce>                         Aquí tienes la paga del gremio.
+
+RumorsDuringQuest:  [1005]
+Dicen que _mansion_ es impenetrable.
+
+RumorsPostfailure:  [1006]
+Alguien intentó entrar en _mansion_, pero fracasó.
+
+RumorsPostsuccess:  [1007]
+Han robado en _mansion_. Parece casi inconcebible.
+<--->
+Si pueden robar en _mansion_, ningún sitio es seguro.
+
+QuestorPostsuccess:  [1008]
+¿Cómo vas, %pcf? No te habrás gastado ya esas _gold_ de oro, ¿verdad?
+
+QuestorPostfailure:  [1009]
+<ce>                      %oth, eres tú. Quien posee
+<ce>                      _mansion_ ya ha trasladado
+<ce>                    _jewelry_, así que todo ha acabado.
+<ce>                     Muchas gracias por todo tu
+<ce>                      supuesto "esfuerzo".
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ en ___qgiver_
+ me ha contratado por libre para
+ sustraer _jewelry_ de
+ _mansion_ en ___mansion_.
+ Tengo =traveltime_ días para
+ entregárselo a %g2.

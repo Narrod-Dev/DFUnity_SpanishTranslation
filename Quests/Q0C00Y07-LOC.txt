@@ -1,0 +1,87 @@
+Quest: Q0C00Y07
+DisplayName: La Bruja Encarcelada
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                   Nuestra hermana _witch_
+<ce>                  ha sido encarcelada. Necesitamos
+<ce>                 a alguien como tú para rescatarla.
+<ce>                       ¿Tienes voluntad?
+
+RefuseQuest:  [1001]
+<ce>                    Tienes un corazón de hielo,
+<ce>                        %pcf. Qué vergüenza.
+
+AcceptQuest:  [1002]
+<ce>                 Si haces esto por nosotras, estaremos
+<ce>                 muy agradecidas. Dale esta ropa para
+<ce>                  que se disfrace cuando la encuentres
+<ce>                          en ___mondung_.
+<ce>                 Os esperamos de vuelta a ambos aquí
+<ce>                  en =queston_ días, si no antes.
+
+QuestComplete:  [1004]
+<ce>                          _witch_, me
+<ce>                alegra el corazón verte aquí y bien.
+<ce>                    %pcf, hoy te has ganado
+<ce>                        el respeto de
+<ce>                         ==qgiver_.
+
+RumorsDuringQuest:  [1005]
+En cuanto terminen de interrogar a _witch_, será pasto de las llamas.
+<--->
+Pronto habrá un ahorcamiento o una quema para _witch_.
+
+RumorsPostfailure:  [1006]
+La ejecución de _witch_ fue todo un espectáculo. Diversión para toda la familia.
+<--->
+_witch_ ahora es solo ceniza. Sus hechizos no pudieron ayudarla.
+
+RumorsPostsuccess:  [1007]
+_witch_ escapó. Dicen que ==qgiver_ estuvo detrás de todo.
+<--->
+_witch_ nunca fue llevada ante la justicia. Ni siquiera la torturaron de verdad.
+
+QuestorPostsuccess:  [1008]
+_witch_ se está recuperando bien, %pcf, te alegrará saberlo.
+
+QuestorPostfailure:  [1009]
+<ce>                   Nuestra hermana _witch_
+<ce>                  ha muerto, quemada viva. Quizás
+<ce>                  pudiste salvarla, quizás no. Pero
+<ce>                 no eres alguien de agrado aquí. No
+<ce>                   por un tiempo considerable.
+
+QuestLogEntry:  [1010]
+%qdt:
+ ==qgiver_ me ha enviado
+ a ___mondung_, donde
+ _witch_, una hermana del
+ aquelarre, está prisionera.
+ Debo entregarle _clothes_
+ para que se disfrace y volver
+ con ==qgiver_ antes de que
+ pasen =queston_ días.
+
+Message:  1011
+<ce>                       ¿Te envía ==qgiver_?
+<ce>                       ¡Alabanza a ==daedra_!
+<ce>                        Me pondré la ropa de
+<ce>                    _clothes_ y saldremos de aquí.
+
+Message:  1012
+<ce>                          "¡Es _witch_, la
+<ce>                        prisionera! ¡Alto! ¡Bruja!"
+                                     <--->
+<ce>                        "¡Se acabó la prisión,
+<ce>                         _witch_! ¡Directo a la
+<ce>                       ejecución esta vez!"
+                                     <--->
+<ce>                              "¡Alto! ¡Eres
+<ce>                                _witch_!"
+
+Message:  1013
+<ce>                      "Creo que puedo volver con
+<ce>                        ==qgiver_ desde aquí".
+<ce>                         _witch_ te da las gracias
+<ce>                          y sigue su camino.

@@ -1,0 +1,123 @@
+Quest: S0000006
+DisplayName: La Túnica de Elysana
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                      Hola, %pcf. Soy Elysana,
+<ce>                hija del Rey Eadwyre y heredera aparente de
+<ce>                 Wayrest. Quizás podrías ayudarme con un
+<ce>                 pequeño y vergonzoso dilema. El miembro de
+<ce>                mayor rango del consejo de ancianos, el buen
+<ce>                amigo de mi padre Lord Castellian, se ha ido
+<ce>                de la corte de vacaciones y olvidé devolverle
+<ce>                una capa que me prestó. Si no es mucha molestia,
+<ce>                 ¿te importaría llevársela a ___casfort_?
+<ce>                     Podría ofrecerte una hermosa _jewelry_
+<ce>                               como pago.
+
+RefuseQuest:  [1001]
+<ce>                               ¿No? Oh, %oth.
+
+AcceptQuest:  [1002]
+<ce>                Qué terriblemente amable por tu parte ayudar a
+<ce>               una chica tonta como yo. Aquí tienes la túnica.
+<ce>                Ahora, es muy importante que milord Castellian
+<ce>                tenga la túnica pronto. Está en una de sus
+<ce>                      casas, _casfort_ en ___casfort_.
+<ce>                Lord Castellian no debería ser difícil de
+<ce>                encontrar, pregunta por él o por _casfort_
+<ce>                y entrégale la túnica. Te agradezco mucho
+<ce>                esto, %pcf. No debería tomarte más de
+<ce>                =queston_ días ir a ___casfort_ y volver,
+<ce>                         así que nos vemos entonces.
+
+QuestFail:  [1003]
+<ce>                 Sé que Lord Castellian aún no tiene su
+<ce>                 túnica, y no es un hombre paciente.
+
+QuestComplete:  [1004]
+<ce>               Oh, qué maravilla de persona eres. Toma, deja
+<ce>                que te dé la _jewelry_ que te prometí. Espero
+<ce>               que Lord Castellian aprecie el trabajo extra
+<ce>                que puse en la túnica. Ahora llama mucho la
+<ce>               atención. Déjame darte algo más que la mera
+<ce>                _jewelry_, %pcf. Mi padre está muy interesado
+<ce>               en una antigua reliquia llamada el Tótem de
+<ce>               Tiber Septim. Tiene espías por todas partes
+<ce>               buscándolo. Cuando lo encuentren, necesitará
+<ce>               a alguien que lo asegure. Obviamente, quien
+<ce>               él elija será fabulosamente recompensado. Le
+<ce>                daré tu nombre. Es lo menos que puedo hacer.
+
+RumorsDuringQuest:  [1005]
+Lord Castellian está respaldando una legislación que convertirá a Helseth en heredero aparente.
+<--->
+La Princesa Elysana no goza del favor del miembro de mayor rango del consejo de ancianos.
+
+RumorsPostfailure:  [1006]
+Lord Castellian regresó al Castillo Wayrest desde _casfort_. Se acabaron las vacaciones.
+<--->
+La Princesa Elysana no parece feliz de ver a Lord Castellian de vuelta de sus vacaciones.
+
+RumorsPostsuccess:  [1007]
+Lord Castellian ha desaparecido de _casfort_, donde estaba de vacaciones.
+<--->
+El Rey Eadwyre sospecha de juego sucio en la desaparición de Lord Castellian.
+
+QuestorPostsuccess:  [1008]
+Túnicas hermosas. Nada particularmente inusual en ellas.
+<--->
+Excelente artesanía. Alguien puso mucho corazón en el bordado.
+
+QuestorPostfailure:  [1009]
+Algún tipo de encantamiento daédrico bordado en la tela.
+<--->
+Un ritual de invocación de daedras ha sido bordado en esta túnica.
+
+QuestLogEntry:  [1010]
+%qdt:
+ La Princesa Elysana me ha pedido que lleve una
+ túnica al miembro de mayor rango del Consejo
+ de Ancianos de Wayrest, Lord Castellian, en
+ su mansión de ___casfort_, _casfort_.
+ Debo estar de vuelta en el Castillo Wayrest
+ en =queston_ días.
+
+Message:  1020
+<ce>                      ¡Necedad! Alguna alma emprendedora
+<ce>                        te ha dado una túnica que me ha
+<ce>                        invocado para matarte.
+<ce>                             ¡Qué delicioso!
+
+Message:  1021
+<ce>                        ¡Muerte al traidor que
+<ce>                     asesinó a Lord Castellian!
+                                     <--->
+<ce>                        Pagarás por haber matado
+<ce>                            a mi señor feudal.
+                                     <--->
+<ce>                        ¡Asesinato! Lord Castellian era
+<ce>                     el mejor de los hombres. Morirás
+<ce>                            por lo que has hecho.
+
+Message:  1022
+<ce>                    "Un regalo de Lady Elysana. Gracias,
+<ce>                       %pcn. Me queda como un guante".
+<ce>                                     
+<ce>                    Sientes un sonido de rasgado, como si
+<ce>                    el tejido de la realidad estuviera
+<ce>                          siendo desgarrado.
+
+Message:  1023
+<ce>                       Vete de este lugar, pequeña %ra.
+<ce>                       Hemos venido a reclamar a Lord
+<ce>                      Castellian. Has cumplido tu parte
+<ce>                      entregando su mortaja funeraria,
+<ce>                         la cual nos ha invocado.
+
+Message:  1030
+Lord Castellian es el miembro más poderoso del consejo de Wayrest.
+<--->
+Dicen que la Princesa Elysana siente poco amor por Lord Castellian.
+<--->
+Lord Castellian no oculta su deseo de casarse con la Princesa Elysana.

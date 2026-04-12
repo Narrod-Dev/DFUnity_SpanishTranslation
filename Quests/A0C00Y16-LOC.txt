@@ -1,0 +1,163 @@
+Quest: A0C00Y16
+DisplayName: Caso de Persona Desaparecida
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                     Mi nombre es _questgiver_. ¿Puedes
+<ce>                   ayudarme a encontrar a mi amigo? Solo
+<ce>                       puedo pagarte _gold_ oro.
+                                     <--->
+<ce>               Por favor, ayúdame. Mi amigo _missingperson_
+<ce>               ha desaparecido. Me temo que %g podría haber
+<ce>                 resultado herido. Te pagaré _gold_ piezas de oro
+<ce>                        si encuentras a %g2.
+
+RefuseQuest:  [1001]
+<ce>             Buen día, %ra. Buscaré a alguien más.
+                                     <--->
+<ce>                     ¿Nadie está dispuesto a ayudarme?
+                                     <--->
+<ce>                     Mil disculpas. Te confundí
+<ce>                      con un aventurero heroico.
+
+AcceptQuest:  [1002]
+<ce>            Mis oraciones han sido escuchadas. _missingperson_
+<ce>             no ha sido visto durante cuatro días, y estoy muy
+<ce>             preocupado por %g2. %g ha sido visto relacionándose
+<ce>                   con _friend1_ y _friend2_. Podrías
+<ce>              empezar por ellos. Si no puedes
+<ce>                 encontrar a _missingperson_ en dos días,
+<ce>                    no será necesario seguir buscando.
+
+QuestComplete:  [1004]
+<ce>                Aquí tienes el oro _gold_ que te prometí.
+
+RumorsDuringQuest:  [1005]
+<ce>                  Dicen que _questgiver_ está buscando
+<ce>                     frenéticamente a _missingperson_.
+
+RumorsPostfailure:  [1006]
+<ce>                    Nadie ha visto a _missingperson_
+<ce>                 desde hace días. Se da a %g por muerto.
+<ce>                  Dicen que _questgiver_ está destrozado
+<ce>                           por ello.
+
+RumorsPostsuccess:  [1007]
+<ce>                 Oye, ¿no eres tú ese %ra que ayudó
+<ce>                   a _questgiver_ a encontrar a _missingperson_?
+
+QuestorPostsuccess:  [1008]
+<ce>                   ¿Cómo podría negarme al %ra que
+<ce>                     encontró a _missingperson_ por mí?
+
+QuestorPostfailure:  [1009]
+<ce>                 Sé que no fue tu culpa que no pudieras
+<ce>                     encontrar a _missingperson_
+<ce>                por mí. Encontraron el cuerpo de %g2 en una alcantarilla.
+
+QuestLogEntry:  [1010]
+En %qdt,
+ acepté ayudar a _questgiver_ a encontrar a
+ _missingperson_. %g ha estado desaparecido
+ durante cuatro días. Mis únicas pistas son que
+ %g fue visto con _friend2_
+ y _friend1_ recientemente. Si
+ no tengo éxito en dos días,
+ no recibiré pago.
+
+Message:  1021
+<ce>                  ¿Buscas a _missingperson_?
+<ce>                Bueno, %g se está escondiendo en _hidingplace_,
+<ce>                      pero no se lo digas a _questgiver_.
+<ce>                      _missingperson_ ha jurado
+<ce>                      no volver a hablar con _questgiver_
+<ce>                        nunca más. No me preguntes por qué.
+
+Message:  1022
+<ce>                  ¿He visto a _missingperson_ últimamente?
+<ce>                  Claro. Los guardias atraparon a %g2 robando
+<ce>                    en un templo. _questgiver_ se pondrá furioso
+<ce>                      cuando %g se entere.
+
+Message:  1023
+<ce>                    ¿_questgiver_ te mandó a hacer
+<ce>                    esto? Eso pensé. %oth, %g tuvo
+<ce>                        una fuerte pelea con
+<ce>                         _missingperson_ hace unos
+<ce>                       días. _missingperson_
+<ce>               dejó la ciudad y no ha sido visto desde entonces. No,
+<ce>                      no sé a dónde fue %g.
+
+Message:  1024
+<ce>                       ¿_missingperson_? Sí,
+<ce>                       sé qué le pasó a %g2.
+<ce>                      %g fue asesinado, eso pasó.
+<ce>                       Mi amigo Smiley le pidió a %g2
+<ce>                      muy amablemente su oro, y
+<ce>                        %g no quiso entregarlo.
+<ce>                     Deberías conocer a Smiley
+<ce>                     y a mis otros amigos. ¡Atrapen al
+<ce>                              %ra, Smiley!
+
+Message:  1031
+<ce>                     ¿_missingperson_? No. No he
+<ce>                     visto a %g2 desde hace un par de días.
+<ce>                     Intenta preguntarle a _friend3_. Puede que %g
+<ce>                                 lo sepa.
+
+Message:  1032
+<ce>                 %oth. No he visto a _missingperson_
+<ce>              desde anteayer. Podrías
+<ce>                      preguntarle a _friend4_ o a _friend1_.
+<ce>                        Uno de ellos podría saber algo.
+
+Message:  1033
+<ce>                      ¿_friend1_ te dijo que yo podría
+<ce>                 saber algo sobre _missingperson_?
+<ce>                   Me temo que no. Todo lo que sé es que %g salió
+<ce>                 a beber anoche. Espero que nada malo
+<ce>                          le haya pasado a %g2.
+
+Message:  1034
+<ce>               Lo siento, no he visto a _missingperson_ en
+<ce>                       un tiempo. No sé por qué
+<ce>                        _friend2_ te enviaría
+<ce>                        conmigo... ¿Has intentado con
+<ce>                               _friend1_?
+
+Message:  1040
+<ce>                      ¿Qué haces aquí? Yo
+<ce>                         no quiero volver a ver a
+<ce>                      _questgiver_ nunca más. ¡Oye! ¡Suéltame!
+<ce>                     ¡No puedes arrastrarme por las
+<ce>                      calles hasta %g2!
+
+Message:  1050
+<ce>                       ¡_missingperson_! No esperaba
+<ce>                    que realmente trajeras a %g2
+<ce>                      aquí, %pcn. _missingperson_,
+<ce>                     ¿dónde has estado? He estado
+<ce>                        preocupado por ti. %pcf,
+<ce>                        yo me encargo a partir de aquí.
+
+Message:  1051
+<ce>                    Entonces, _missingperson_ está escondido,
+<ce>                     ¿eh? Iré a sacar a ese miserable
+<ce>                    de su escondite. Has sido
+<ce>                        de gran ayuda, %pcn.
+
+Message:  1052
+<ce>                    ¿En la cárcel? ¡Tengo que irme de inmediato!
+<ce>                      Tal vez pueda sobornar al
+<ce>                              magistrado.
+
+Message:  1053
+<ce>                        Entonces _missingperson_
+<ce>                    se fue de la ciudad? No tenía
+<ce>                    por qué hacerlo. Yo habría perdonado a %g2.
+
+Message:  1054
+<ce>                     ¿¡Muerto!? ¿Cómo puede ser?
+<ce>                      Espero que hayas hecho sufrir a Smiley,
+<ce>                         %pcn. Este es un día de
+<ce>                          gran tristeza para mí.

@@ -1,0 +1,140 @@
+Quest: N0B00Y16
+DisplayName: Abrir un cofre
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                    %pct, necesito a alguien que sea
+<ce>                   capaz de lanzar el hechizo Abrir.
+<ce>                    Dime, por favor, que ya lo has
+<ce>                         aprendido a estas alturas.
+
+RefuseQuest:  [1001]
+<ce>                  En serio, debes dedicarte más a tus
+<ce>                   estudios si esperas llegar a algún
+<ce>                         lado dentro del Gremio.
+
+AcceptQuest:  [1002]
+<ce>                  Bueno, es un comienzo. El trabajo que
+<ce>                  tengo es bastante simple. Probablemente
+<ce>                 hasta un infante podría hacerlo, pero te
+<ce>                 tengo a ti. Alguien que se dedica al
+<ce>                 comercio local, _merchant_, compró un
+<ce>                 cofre antiguo, pero no ha podido abrirlo.
+<ce>                 Quienes mejor ejercen la cerrajería en
+<ce>                      __shop_ lo han intentado sin éxito,
+<ce>                así que se nos ha pedido ayuda. En realidad,
+<ce>              no tenemos tiempo para asuntos tan insignificantes,
+<ce>                pero al Gremio le vendría bien el patrocinio
+<ce>                de esa persona, así que acepté enviar a alguien.
+<ce>                Por lo que me han dicho, suena a una de las
+<ce>                   cajas de broma de _mage_. Esa persona
+<ce>                 hizo cientos en su día, principalmente como
+<ce>                 regalo para sus amistades, y todavía
+<ce>                 aparecen de vez en cuando, ya que la mano
+<ce>                 de obra es realmente excepcional... ¿por dónde
+<ce>                 iba? Ah, sí, bueno, el secreto de estas cajas
+<ce>                es que son casi imposibles de abrir de cualquier
+<ce>               forma que no sea mediante el uso del sencillo
+<ce>                y estándar hechizo Abrir. _mage_ las hizo
+<ce>               específicamente resistentes a los hechizos
+<ce>               alternativos que tanto gustaban a sus amistades.
+<ce>              Sí, solía desperdiciar su considerable talento en
+<ce>               bromas como esta. Una verdadera lástima. En fin,
+<ce>                               anda, vete ya.
+
+QuestFail:  [1003]
+<ce>                 %pct, déjame en paz y sigue tu camino.
+<ce>                     Tengo trabajo que hacer y tú también,
+<ce>                          si no me equivoco.
+
+QuestComplete:  [1004]
+<ce>                  ¿Eh? ¿Qué quieres? Ah, sí, la caja de
+<ce>                    broma. Confío en que no te diera
+<ce>                    ninguna dificultad. Un poco de buena
+<ce>                     publicidad para el Gremio de Magos
+<ce>                      y toda esa palabrería. Muy bien.
+
+RumorsDuringQuest:  [1005]
+<ce>        ¿Te has enterado de lo de _merchant_? Compró un cofre
+<ce>             viejo y ahora no puede abrirlo. ¡Qué risa!
+
+RumorsPostfailure:  [1006]
+<ce>_merchant_ finalmente se rindió con su caja mágica y se la vendió a otra persona.
+
+RumorsPostsuccess:  [1007]
+<ce>  _merchant_ logró que el Gremio de Magos abriera su caja de broma,
+<ce>            ¡y resultó estar vacía! Al menos eso es lo que oí.
+
+QuestorPostsuccess:  [1008]
+<ce>        Hola, %pcn. Te recuerdo. La caja mágica de _mage_, ¿verdad?
+
+QuestorPostfailure:  [1009]
+<ce>         ¡Por el amor de los cielos! ¿Qué quieres ahora? Eres el alma
+<ce>      necia que ni siquiera pudo abrir la caja de broma de _merchant_.
+
+Message:  1020
+%qdt:
+ _questgiver_ del Gremio de Magos
+ de ___questgiver_ me ha pedido
+ abrir un cofre viejo para _merchant_,
+ alguien que comercia en la zona.
+ _questgiver_ cree que es
+ probablemente una caja de broma que
+ solo se abrirá con un hechizo
+ estándar de Abrir. Supongo que
+ debería volver a verle cuando
+ haya terminado.
+
+Message:  1030
+<ce>                ¿Te envía el Gremio de Magos? Excelente.
+<ce>                   Sabía que mi viejo contacto _questgiver_
+<ce>                    no me fallaría. Aquí está la caja.
+<ce>                    Espero que tengas alguna idea de cómo
+<ce>                   abrirla. Estoy al borde de la desesperación.
+
+Message:  1040
+<ce>                  Al lanzar Abrir sobre el cofre, la
+<ce>                 tapa se abre de golpe y sale un diablillo.
+<ce>                                     
+<ce>                "¡Feliz cumpleaños, =mage2_, viejo zopenco!"
+<ce>                  grazna el diablillo con una voz
+<ce>                   antinaturalmente profunda y ronca.
+
+Message:  1041
+<ce>                  Escuchas el clic de la cerradura al lanzar
+<ce>                  Abrir sobre el cofre. Dentro hay una vara
+<ce>                  con la inscripción: "Para =mage3_ en tu
+<ce>                  centésimo décimo cumpleaños. ¡Úsame para
+<ce>                    un adelanto de tu cumpleaños 120!".
+
+Message:  1042
+<ce>                 El humo sale a chorros del cofre al lanzar
+<ce>                Abrir sobre él. La tapa se abre, revelando
+<ce>                           una tarjeta grabada:
+<ce>                                     
+  Querido =mage4_,
+ 
+  Espero que te guste el nuevo lugar. ¿Te
+  acordaste de llamar al exterminador
+  antes de mudarte?
+ 
+  Tu camarada,
+ 
+  _mage_
+
+Message:  1043
+<ce>                     La tapa del cofre se abre.
+<ce>                      Dentro no hay nada más que unos
+<ce>                        pocos restos de confeti desteñido.
+
+Message:  1050
+<ce>                     Dile a _questgiver_ que agradezco
+<ce>                    que te enviara para ayudar... supongo.
+<ce>                      ¡Por supuesto, si hubiera sabido qué
+<ce>                       había dentro, puede que no tuviera
+<ce>                        tantas ganas de abrirlo!
+
+Message:  1051
+<ce>                      Si no puedes abrirlo, mejor
+<ce>                         quédatelo. Ya no me
+<ce>                           sirve para nada.

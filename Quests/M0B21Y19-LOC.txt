@@ -1,0 +1,161 @@
+Quest: M0B21Y19
+DisplayName: Protección estándar
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                    ¿Cómo va eso, %pcf? Si necesitas
+<ce>                    curro, tengo algo para ti. Un trabajo
+<ce>                 de protección estándar. ¿Te interesa?
+
+RefuseQuest:  [1001]
+<ce>                Claro, ahora solo buscas trabajos de
+<ce>                      alta alcurnia, ¿no es eso?
+
+AcceptQuest:  [1002]
+<ce>                   Muy bien. El cliente se llama
+<ce>                   _victim_, y está en _victimhouse_,
+<ce>                justo al final de la calle. Quiere que
+<ce>                vayas para allá de inmediato. Parecía
+<ce>                muy inquieto, ya conoces el tipo. Te
+<ce>                dará todos los detalles cuando llegues.
+
+QuestFail:  [1003]
+<ce>                 ¿Muerto? Eso es malo. Tienes que llegar
+<ce>                al fondo de esto de una forma u otra,
+<ce>                         así que no lo dejes.
+
+QuestComplete:  [1004]
+<ce>                 No sé cómo podré agradecerte que me hayas
+<ce>                  salvado la vida, además de vengar la
+<ce>                 muerte de mi padre. Por favor, acepta esta
+<ce>                _reward_. Pertenecía a mi padre y me gustaría
+<ce>                          que la tuvieras tú.
+
+QuestorPostsuccess:  [1008]
+<ce>     Lástima lo de _victim_, ¿eh? Por lo visto corría más peligro
+<ce>                           del que creía.
+
+QuestorPostfailure:  [1009]
+<ce>     Sé que no fue culpa tuya, pero ese asunto con _victim_ me
+<ce>        sigue dejando mal cuerpo. Supongo que debería haberme
+<ce>                tomado al pobre diablo más en serio.
+
+Message:  1015
+<ce>    Creo que _darkb_ vive en ___darkb_. Siempre anda rodeándose
+<ce>    de tipos siniestros, así que no vayas a buscarle a menos
+<ce>                       que busques problemas.
+                                     <--->
+<ce>              _darkb_ suele merodear por ___darkb_.
+
+Message:  1016
+<ce>      _darkb_ es uno de los líderes locales de la Hermandad Oscura.
+<ce>             Su cuartel general está en __darkb_, en ___darkb_.
+
+Message:  1020
+%qdt:
+ El Gremio de Luchadores de ___questgiver_
+ me ha enviado a _victimhouse_ para
+ reunirme con un cliente, _victim_,
+ que necesita protección. _victim_ me
+ dará todos los detalles en persona.
+
+Message:  1021
+%qdt:
+ Llegué demasiado tarde. Sorprendí a los
+ asesinos en _victimhouse_, pero
+ _victim_ ya estaba muerto.
+ 
+
+Message:  1022
+%qdt:
+ He recibido una nota de _daughter_,
+ que dice ser la hija de _victim_.
+ Me pidió que fuera a visitarla a
+ _daughterhouse_, en __daughterhouse_,
+ si tengo la oportunidad.
+
+Message:  1023
+%qdt:
+ Fui a reunirme con _daughter_, pero
+ resultó ser una emboscada. Logré salir
+ con vida y ahora me dirijo a _safehouse_,
+ en __safehouse_, con _daughter_.
+
+Message:  1024
+%qdt:
+ _victim_ fue asesinado por la Hermandad Oscura.
+ El rastro se ha enfriado por ahora.
+
+Message:  1030
+Esto es lo que les pasa
+ a los que no hacen caso
+ a mis advertencias.
+ 
+<ce>                                 _darkb_
+
+Message:  1031
+Querido/a %pcn:
+ 
+   Mi nombre es _daughter_, hija
+ de _victim_. Cuando me enteré de tu
+ heroica acción al vengar la muerte
+ de mi padre, quise agradecértelo
+ personalmente. Te agradecería mucho
+ que vinieras a verme si tienes tiempo.
+ 
+<ce>                                _daughter_
+<ce>                             _daughterhouse_,
+<ce>                             __daughterhouse_
+
+Message:  1035
+<ce>                Atrás, colega, o te pasará lo mismo
+<ce>                  que a _victim_, el que está ahí.
+
+Message:  1036
+<ce>                      Deberías pasar tanto tiempo
+<ce>                      afilando tu ingenio como pasas
+<ce>                        afilando tu espada, %pcn.
+<ce>                       Nada es más sencillo que
+<ce>                      tenderles una emboscada a los
+<ce>                    matones del Gremio de Luchadores.
+
+Message:  1040
+<ce>        ¿Te has enterado de lo de _victim_? Le liquidaron a plena
+<ce>                     luz del día en su propia casa.
+                                     <--->
+<ce>          Todo el mundo sabe que la Hermandad Oscura mató a
+<ce>           _victim_, pero nadie está dispuesto a mover un dedo.
+
+Message:  1041
+<ce>            La Hermandad Oscura está furiosa con alguien %ra que
+<ce>                  acabó con uno de sus altos cargos.
+                                     <--->
+<ce>          La Hermandad Oscura ha jurado rastrear a quienquiera
+<ce>            que asaltara su cuartel general en ___darkb_.
+<ce>               Me alegra no ser yo a quien persiguen.
+
+Message:  1050
+<ce>                ¿Sí...? Un momento, tú eres ese matón del
+<ce>                 Gremio de Luchadores en el que el pobre
+<ce>                  _victim_ confió para que le protegiera,
+<ce>                 ¿no? ¡¿Quién ha dejado entrar a este/a %ra?!
+
+Message:  1051
+<ce>                             ¡%pcn, cuidado!
+<ce>                             ¡Es una trampa!
+
+Message:  1052
+<ce>                     Gracias por rescatarme de esos
+<ce>                      asesinos. Si pudieras llevarme
+<ce>                      a _safehouse_, en __safehouse_,
+<ce>                    podré huir de %reg por mi cuenta
+<ce>                            desde allí.
+
+Message:  1070
+<ce>                     Un mensajero polvoriento te detiene.
+<ce>                      "¿%pcn? Gracias a %god, por fin.
+<ce>                         Esta carta es para ti."
+
+Message:  1071
+<ce>                        Gracias por tu ayuda,
+<ce>                    pero seguiré por mi cuenta desde aquí.

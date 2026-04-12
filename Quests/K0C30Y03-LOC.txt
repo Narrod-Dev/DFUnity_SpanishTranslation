@@ -1,0 +1,362 @@
+Quest: K0C30Y03
+DisplayName: Las deudas de un noble
+QRC:
+
+QuestorOffer:  [1000]
+<ce>            Ah, mi camarada. Lamento admitir que tomé una
+<ce>            mala decisión empresarial, pero los hechos son los
+<ce>            que son. Presté cierta suma de oro a un noble de
+<ce>                  nombre _patsy_, de quien puede que hayas
+<ce>            oído hablar. La garantía del préstamo era la
+<ce>             escritura de una propiedad valiosa. Ahora, tanto
+<ce>                    _patsy_ como la escritura han
+<ce>            desaparecido. Se rumorea que pasa por un bache
+<ce>             financiero, pero mis empresas no pueden digerir
+<ce>             fácilmente la suma que presté. Enredarse con
+<ce>                    alguien como _patsy_ será
+<ce>             probablemente peligroso, pero necesito un paladín.
+<ce>             ¿Me ayudarás, camarada, a cambio de un
+<ce>                        gran diamante en bruto?
+
+RefuseQuest:  [1001]
+<ce>                 Lamento oír eso. Lo entiendo, por
+<ce>                  supuesto, pero es decepcionante.
+
+AcceptQuest:  [1002]
+<ce>             Me alegra oírlo. Bien, tengo treinta días antes
+<ce>             de que me vea obligado a echar mano de mi capital.
+<ce>             La escritura fue robada de un establecimiento
+<ce>                    local llamado _bank_ en
+<ce>             __bank_ junto con otros objetos de valor, pero
+<ce>             la coincidencia entre la huida de _patsy_ y la
+<ce>             desaparición de la escritura merece una investigación.
+<ce>             La antigua residencia de _patsy_ era _house2_,
+<ce>                    en __house2_, que tengo entendido que
+<ce>             ahora está vacía. Aparte de eso, no tengo pistas.
+<ce>              O bien necesito el oro que _patsy_ tomó prestado,
+<ce>             la escritura de la casa, o la cabeza de ese aristócrata
+<ce>             en una pica en treinta días. No me falles, %pcf.
+
+QuestFail:  [1003]
+<ce>                         Al menos podrías haber
+<ce>                       intentado cumplir tu promesa.
+
+QuestComplete:  [1004]
+<ce>                 El truco de _patsy_ no funcionó, ¿verdad,
+<ce>                 %pcf? Aquí tienes el diamante prometido.
+<ce>                         Bien hecho, camarada.
+
+RumorsDuringQuest:  [1005]
+_qgiver_ no fue la única víctima de _patsy_. Muchos otros le prestaron oro.
+<--->
+_patsy_ se marchó de __house2_ de repente, dejando atrás deudas y corazones rotos.
+
+RumorsPostfailure:  [1006]
+Parece que _patsy_ se salió con la suya. Dicen que está en el norte con una fortuna.
+<--->
+Se supone que _patsy_ ha muerto. No me lo creo ni por un segundo.
+
+RumorsPostsuccess:  [1007]
+Nadie intentará estafar a _qgiver_ de nuevo, no después de lo de _patsy_.
+<--->
+Lo de _patsy_ demostró que no es sabio intentar engañar a alguien como _qgiver_.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Tengo treinta días
+ para encontrar la escritura que _qgiver_,
+ de __qgiver_, en ___qgiver_, recibió
+ como aval de un préstamo a un noble llamado
+ _patsy_, o encontrar el oro que _qgiver_
+ le prestó, o, si todo lo demás falla,
+ encontrar al desaparecido _patsy_.
+ El aval estaba en _bank_, en __bank_,
+ antes de que el banco fuera robado.
+ El otro lugar que mencionaron es _house2_,
+ la antigua residencia de _patsy_
+ en __house2_.
+ Si tengo éxito en cualquiera de estos objetivos
+ en treinta días, _qgiver_ me
+ dará un gran diamante en bruto.
+
+Message:  1011
+¿Le das el oro a _hooker_?
+
+Message:  1012
+<ce>            Gracias, cielo. He oído que eres alguien decente,
+<ce>            y pensé en darte un respiro. _patsy_ me contrató
+<ce>                    hace unas semanas... y no por la
+<ce>          razón que estás pensando. Todo lo que tuve que hacer
+<ce>          fue coquetear con un vejete y convencerle para que
+<ce>          me invitara a cenar un día concreto. Supongo que era
+<ce>          para sacarle de su casa, porque luego me enteré de que
+<ce>            robaron en su hogar mientras estábamos fuera. Se
+<ce>          llevaron muchas cosas. El viejo era dulce y me sentí
+<ce>            mal por ello. Quizá quieras hablar con él. Se llama
+<ce>             _gaffer_. O podrías ir al sitio donde conocí a
+<ce>                    ese _patsy_, _house2_ en __house2_,
+<ce>             y ver si alguien allí sabe algo. Espero que esto
+<ce>             ayude, %pcf. A mí también me gustaría ver al viejo
+<ce>                        _patsy_ entre rejas.
+
+Message:  1013
+%pcn,
+ 
+ Si anticipas una carrera larga y saludable en la zona de
+ la Bahía, te aconsejo que abandones este acoso inútil y
+ condenado al fracaso. La tragedia es el único resultado
+ posible, y esa tragedia será la tuya.
+ No me atraparán, %pcf. Tengo demasiado dinero
+ para que me atrapen.
+ 
+ 
+ 
+ Atentamente,
+ 
+ 
+ _patsy_
+
+Message:  1014
+<ce>                     Tu objetivo es %pcn, de raza %ra,
+<ce>             un aventurero y mercenario. Ten extrema precaución
+<ce>                     y prepárate para luchar.
+<ce>
+<ce>                         No es ningún cobarde.
+<ce> 
+<ce>
+             _patsy_
+
+Message:  1015
+_banker_ trabaja en el _bank_ de __bank_. Alguien de lo más respetable.
+<--->
+Un banquero de un tedio típico. _banker_ trabaja en el _bank_ de __bank_.
+
+Message:  1016
+<ce>                  Te diré lo mismo que le dije a _patsy_.
+<ce>                __banker_ reembolsará todo el oro perdido
+<ce>                en el robo hasta el último penique.
+<ce>                 Solo queremos que se respondan ciertas
+<ce>                 preguntas sobre el robo en sí. Cosas
+<ce>                   que sería mejor no discutir con un
+<ce>                         desconocido, ¿comprendes?
+
+Message:  1017
+<ce>                      Ah, me alegra verte, %pcf. Ha habido
+<ce>                cierto revuelo últimamente con el robo y todo
+<ce>                eso. Solo fueron a por ciertas cuentas y
+<ce>                depósitos, así que _guard_, nuestro agente
+<ce>                 de seguridad, está investigando a los titulares
+<ce>                 de esas cuentas. Quizá pueda darte más
+<ce>                        información, %pcf. _guard_
+<ce>                       está en __guard_, en ___guard_.
+
+Message:  1018
+<ce>              Me temo que no puedo discutir este asunto contigo,
+<ce>                 %pcn. Este asunto solo concierne a _patsy_
+<ce>              y a mí mismo, a nadie más. Si de verdad te
+<ce>              interesa ayudar, ve a hablar con _hooker_, una
+<ce>              prostituta que tuvo algún tipo de relación con
+<ce>              nuestro amigo _patsy_. Querrá diez piezas de
+<ce>              oro para colaborar; la encontrarás en __house1_,
+<ce>                     en un sitio llamado _house1_. Suerte.
+<ce>               Puede que no esté aquí cuando vuelvas, pero
+<ce>               estás capacitado para continuar las
+<ce>                     investigaciones por tu cuenta.
+
+Message:  1019
+<ce>                 Ah, %pcn, camarada. Creo que podemos
+<ce>            ayudarnos mutuamente en este asunto. Sé a dónde
+<ce>                    ha ido _patsy_, pero sus aliados
+<ce>            están dificultando llegar hasta allí. Millones de
+<ce>            piezas de oro pueden comprar amigos poderosos.
+<ce>            Necesito que cortes esa conexión, y luego te
+<ce>            reúnas conmigo para que podamos acabar con
+<ce>                    _patsy_ juntos de una vez por todas.
+<ce>            Lleva esta carta a la fortaleza de sus aliados
+<ce>            en ___mondung_ y luego ven a ___mondung2_. Con
+<ce>            suerte, la carta distraerá a esos soldados para
+<ce>            que _patsy_ esté relativamente indefenso, salvo
+<ce>                por su guardia personal, claro. Muy bien,
+<ce>                       %pcf, nos veremos pronto.
+
+Message:  1020
+_guard_ se ha marchado de __guard_. Al parecer sabe dónde ha ido _patsy_.
+<--->
+_guard_ no se habría ido de __guard_ a menos que supiera dónde se esconde _patsy_.
+<--->
+Todo el mundo intenta averiguar por qué _guard_ se fue de __guard_ tan de repente.
+
+Message:  1021
+<ce>            Cambio de planes, gente. Os necesito en ___qgiver_
+<ce>          de inmediato. Id allí y esperad mi respuesta.
+<ce>                No debería tardar más de unos días.
+<ce>
+<ce>
+<ce>
+<ce>                                _patsy_
+
+Message:  1023
+<ce>                        Sabes de inmediato que
+<ce>                         debe de ser _patsy_.
+
+Message:  1024
+<ce>                Has acabado con _patsy_, sin duda alguna.
+
+Message:  1025
+Voy a necesitar refuerzos si los rumores sobre
+ este %ra son ciertos. Mantened la escritura
+ oculta en ___mondung_, pero traed el oro y a
+ vuestros hombres aquí, a ___mondung2_.
+ Discutiremos esto más a fondo cuando lleguéis.
+ 
+ 
+          _patsy_
+
+Message:  1026
+<ce>                 Hay un sello en el trozo de _rock_
+<ce>                        en el que se lee ___mondung_.
+
+Message:  1027
+Solo un trozo de _rock_. Es extraño encontrarlo por ___house2_.
+<--->
+El _rock_ parece tener algún tipo de sello o grabado.
+<--->
+Parece el tipo de material que solían extraer de ___mondung_.
+
+Message:  1028
+El _rock_ dice ___mondung_; es una mina abandonada hacia el %di.
+<--->
+Esa _rock_ debió extraerse hace años, cuando ___mondung_ era una mina.
+
+Message:  1029
+<ce>                    Esta parece la escritura que _patsy_
+<ce>                      dio a _qgiver_ como garantía.
+
+Message:  1030
+<ce>                    Este parece ser el oro que
+<ce>                      _qgiver_ prestó a _patsy_.
+
+Message:  1031
+                                           Asilo del Lado Nocturno
+ 
+ 
+ Estimado %pcf,
+ 
+      Entendemos que buscas a _patsy_. Como te
+ respetamos a ti y a tu trabajo, hemos decidido ayudarte
+ en este asunto. _patsy_ requirió nuestros servicios hace
+ unas semanas, y recibimos los pagos a través de una pequeña
+ pero feroz banda de aliados acantonados en un campamento
+ llamado ___mondung_. Si de verdad te interesa encontrar a
+ _patsy_, sería inteligente empezar por allí.
+      Buena suerte y que Mephala guíe tu puntería.
+ 
+ 
+ 
+              La Hermandad
+
+Message:  1032
+<ce>         Ni siquiera te das cuenta de que el muchacho está a tu
+<ce>         lado hasta que sientes que te pone la carta en la mano.
+<ce>         Para cuando te giras, ha desaparecido, escabulléndose tan
+<ce>          rápido que no tienes ninguna esperanza de atraparle.
+
+Message:  1033
+%pcn,
+ 
+      _patsy_ es un ladrón, pero no uno de los nuestros.
+ Nos gustaría que también fuera capturado. Por favor, acepta esta
+ contribución para tus gastos, y esta otra información:
+ _patsy_ no trabaja en solitario. Hay una banda de mercenarios
+ bajo su mando en un lugar llamado ___mondung_. Parte de su
+ tesoro podría estar guardado allí también, aunque no creo
+ que _patsy_ se encuentre en ese lugar.
+      Buena suerte, %pcf, y camina con Baan Dar.
+ 
+ 
+<ce>                                El Gremio
+
+Message:  1034
+<ce>            Ah, %pcf, camarada. De nuevo, he sido seducido y
+<ce>          traicionado. Realmente debería unirme a un monasterio. Mi
+<ce>             vida sería más sencilla sin mujeres, %oth.
+<ce>          Toma, acepta este oro como mi contribución para la
+<ce>                captura de esa malvada persona. Ojalá
+<ce>          pudiera dar más, pero tras lo sucedido, estoy en la
+<ce>            miseria. Para tu información, _patsy_ tiene dos
+<ce>                    escondites en %reg, uno en
+<ce>               ___mondung_ y otro en ___mondung2_. No sé
+<ce>          cuál de ellos se usa actualmente, pero te aconsejo
+<ce>            preparar tu mejor acero. _patsy_ no caerá
+<ce>            fácilmente. Buena suerte y que %god te acompañe.
+
+Message:  1035
+<ce>         ¿Por qué iba a decirte nada de lo que sé? No eres
+<ce>            más que un títere de _qgiver_ que me jodería
+<ce>          igual que me jodió _patsy_ o como me jodió esa
+<ce>            maldita _hooker_. Busca algún agujero como
+<ce>            ___mondung_ para arrastrarte, marchitarte y
+<ce>             morir, hijo de una prostituta sifilítica.
+
+Message:  1036
+Querido %pcn,
+ 
+      Puede que tenga información que ayude en tu búsqueda
+ de esa rata de _patsy_. Si te interesa, pregunta por mí en
+ __house1_, en un tugurio llamado _house1_. Y trae 10 piezas
+ de oro contigo. Esta información no es gratis.
+ 
+<ce>                                _hooker_
+
+Message:  1037
+<ce>                    "Esto es de parte de _hooker_", susurra
+<ce>            una voz y un joven mensajero te entrega una nota.
+<ce>                Antes de que puedas reaccionar, se escabulle.
+
+Message:  1055
+<ce>                Lo siento cielo, mi conocimiento tiene un precio.
+
+Message:  1038
+%qdt:
+ _banker_ me dijo que viera a
+ _guard_, en __guard_,
+ en ___guard_, quien está investigando
+ actualmente el robo al banco
+ y a _patsy_ para _bank_.
+
+Message:  1039
+%qdt:
+ Me he reunido con _guard_. Ha descubierto
+ la ubicación de _patsy_ en ___mondung2_.
+ Para distraer a sus soldados, debo dejar
+ una carta en la fortaleza de sus aliados,
+ ___mondung_, y luego reunirme con _guard_
+ en ___mondung2_ para atrapar a _patsy_.
+
+Message:  1040
+%qdt:
+ Me he reunido con _guard_. Me dijo
+ que _patsy_ tenía una relación con
+ _hooker_, una prostituta en __house1_.
+ La encontraré en _house1_ allí.
+
+Message:  1041
+%qdt:
+ _hooker_ me dijo que _patsy_ la contrató
+ para distraer a alguien llamado _gaffer_ una
+ noche. Puedo encontrarle en _tavern_, en
+ __tavern_.
+
+Message:  1042
+%qdt:
+ _gaffer_ me dijo que _patsy_ tiene dos
+ escondites: uno es ___mondung_ y el
+ otro es ___mondung2_.
+
+Message:  1050
+Este documento atestigua la propiedad de
+ _house3_ de __house3_ en %reg. Que todos
+ los que lean esto sepan que _patsy_ es
+ el único y legítimo dueño de la citada
+ propiedad.
+ 

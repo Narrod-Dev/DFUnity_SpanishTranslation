@@ -1,0 +1,79 @@
+Quest: B0C00Y05
+DisplayName: El Traidor
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  Aún no eres un miembro de confianza de
+<ce>                       nuestra orden de caballería, %pcn.
+<ce>                   Sin embargo, creo saber una forma de
+<ce>                     ganarte nuestra confianza. Hay un
+<ce>                  traidor a la orden en ___qgiver_,
+<ce>                     un despreciable _monster_ que nos ha
+<ce>                   traicionado ante nuestros enemigos. La muerte
+<ce>                   es un castigo justo para la traición,
+<ce>                       ¿no crees, %pcn? ¿Harás esto
+<ce>                       por la orden?
+
+RefuseQuest:  [1001]
+<ce>                     No esperes favores de
+<ce>                   esta orden de caballería en un buen tiempo.
+
+AcceptQuest:  [1002]
+<ce>                      El traidor es un _monster_
+<ce>                     llamado =monster_ que se esconde
+<ce>                        como un cobarde miserable en
+<ce>                              ___mondun_.
+<ce>                        Si no has regresado
+<ce>                    en =queston_ días, perderás nuestra confianza
+<ce>                     y otro ocupará tu lugar.
+
+QuestFail:  [1003]
+<ce>                 El _monster_ no está muerto. No intentes
+<ce>                       convencerme de lo contrario.
+
+QuestComplete:  [1004]
+<ce>                       Tal vez no eres tan malo
+<ce>                         como dicen. %pcn, has
+<ce>                      ganado algo de respeto
+<ce>                       con esta orden de caballería.
+
+RumorsDuringQuest:  [1005]
+Ese _monster_ huyó a ___mondun_ como si los sabuesos del infierno lo persiguieran.
+<--->
+_qgiver_ no puede simplemente dejar ir a =monster_ después de lo que %g hizo a la orden.
+
+RumorsPostfailure:  [1006]
+Al parecer, =monster_ es más duro de lo que _qgiver_ pensaba. Vaya escape.
+<--->
+He oído que =monster_ se movió al norte, pero el recuerdo de %g3 aún atormenta a la orden.
+
+RumorsPostsuccess:  [1007]
+La historia de =monster_ lo demuestra. No se juega con ==qgiver_.
+<--->
+Siempre pensé que la Orden sería más misericordiosa con un idiota como =monster_.
+
+QuestorPostsuccess:  [1008]
+Estaré encantado de ayudarte en lo que pueda, asesino.
+
+QuestorPostfailure:  [1009]
+Tu corazón es demasiado blando, %pcf. No me hagas perder el tiempo.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de ___qgiver_
+ me ha enviado a encontrar y matar a un _monster_
+ llamado =monster_ que merodea
+ por ___mondun_. Tengo
+ =queston_ días para lograrlo.
+
+Message:  1011
+<ce>               Has matado a =monster_, el _monster_.
+<ce>                   La orden de caballería estará orgullosa.
+
+Message:  1080
+<ce>                    Como muestra de nuestro agradecimiento,
+<ce>                 acepta este mapa hacia ___newdung_,
+<ce>                  un lugar repugnante infestado de alimañas,
+<ce>                   según dicen. Justo el tipo de sitio
+<ce>                     que un caballero en formación debería
+<ce>                              disfrutar limpiando.

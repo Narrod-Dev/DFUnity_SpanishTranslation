@@ -1,0 +1,138 @@
+Quest: K0C00Y09
+DisplayName: La Recompensa
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Mi antiguo socio aquí en
+<ce>                        __qgiver_, un _enemy_, se ha
+<ce>              llevado más de lo que le correspondía de las
+<ce>                   ganancias y ha huido de ___qgiver_.
+<ce>               No soy alguien vengativo, pero agradecería
+<ce>                que me traigas a ese _enemy_ de vuelta,
+<ce>               para que pueda explicarme este comportamiento
+<ce>               tan peculiar. Te pagaré _gold_ piezas de oro
+<ce>                si vuelve con vida, y _lessgold_ de oro
+<ce>                     si muere "accidentalmente".
+                                     <--->
+<ce>                Ese despreciable _enemy_ se ganó mi
+<ce>                confianza, me engañó vilmente y luego
+<ce>             se marchó sin decir palabra, llevándose gran
+<ce>              parte de mis ahorros. El dinero me molesta,
+<ce>              pero no tanto como la traición. Quiero que
+<ce>               le rastrees y me lo traigas aquí; estoy
+<ce>                 dispuesto a pagar _gold_ piezas de oro
+<ce>                    por ello. ¿Eres capaz de hacerlo?
+                                     <--->
+<ce>                  Busco a alguien que sepa dar caza, o,
+<ce>                  específicamente, a un cazador de _enemy_.
+<ce>                Verás, alguien huyó de la ciudad sin pagar
+<ce>                el oro que me debe. Es una cuestión de
+<ce>                principios. No me importa pagarte _gold_
+<ce>                piezas de oro por su captura, pero mi
+<ce>                reputación se arruinaría si dejo que mis
+<ce>                deudores se vayan de ___qgiver_ así.
+<ce>                ¿Atraparás a ese moroso por mí?
+
+RefuseQuest:  [1001]
+<ce>                      ¿No? Bueno, iré al Gremio de
+<ce>                      Luchadores y contrataré a
+<ce>                             alguien más.
+                                     <--->
+<ce>                     Es una lástima. Avísame si
+<ce>                          cambias de opinión.
+
+AcceptQuest:  [1002]
+<ce>                       Bien. El nombre de ese _enemy_ es
+<ce>                      =enemy_, y los rumores dicen que
+<ce>                      se oculta en ___mondung_ por
+<ce>               =queston_ días como máximo. Esa será la
+<ce>               fecha límite en la que espero noticias tuyas.
+<ce>                         Recuerda: =enemy_ es de clase
+<ce>                _enemy_ y es difícil, así que ten cuidado,
+<ce>                pero intenta no matarle. Quiero que esté con
+<ce>                        vida, no bajo tierra. Suerte, %pcf.
+                                     <--->
+<ce>                 Está bien entonces. Mis fuentes dicen
+<ce>                    que ese _enemy_ se ha refugiado
+<ce>                     en ___mondung_ y probablemente
+<ce>                esté allí unos =queston_ días. Espero que
+<ce>                        =enemy_ (así se llama), dé
+<ce>                pelea, pero intenta no matarle. Te espero
+<ce>                de vuelta en =queston_ días. Buena suerte.
+                                     <--->
+<ce>                     Espléndido por tu parte, %pcf.
+<ce>              He indagado y parece que nuestro amigo _enemy_
+<ce>               está merodeando por las inmediaciones de
+<ce>                     ___mondung_, sin guardia y a solas,
+<ce>               salvo por los brutos habituales del lugar.
+<ce>                         =enemy_ es su nombre y
+<ce>              espero que esté ante mí en =queston_ días,
+<ce>              preferiblemente con vida. No me decepciones.
+
+QuestComplete:  [1004]
+<ce>                         Ah, buen día, =enemy_.
+<ce>               Parece que tenemos ciertos asuntos que
+<ce>                   discutir, ¿verdad? %pcf, te agradezco
+<ce>                    que el viaje de este _enemy_ haya
+<ce>                 sido lo más cómodo posible. Aquí tienes
+<ce>                         el oro (_gold_) prometido.
+
+RumorsDuringQuest:  [1005]
+_qgiver_ fue idiota al hacer negocios con alguien como =enemy_.
+<--->
+_qgiver_ nunca debió confiar en =enemy_; es alguien con fama de ladrón.
+
+RumorsPostfailure:  [1006]
+Parece que =enemy_ se salió con la suya. Y _qgiver_ está que echa chispas.
+
+RumorsPostsuccess:  [1007]
+_qgiver_ está practicando antiguas técnicas de tortura %ra con =enemy_.
+<--->
+No me gustaría estar en el lugar de _enemy_ ahora mismo... en manos de _qgiver_.
+
+QuestorPostsuccess:  [1008]
+Oh, hola, %pcf. =enemy_ también te saludaría... si aún conservase la lengua.
+
+QuestorPostfailure:  [1009]
+<ce> ¿De verdad crees que tendría algo que decirte, %pcf?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de
+ __qgiver_, ___qgiver_
+ me ha enviado a ___mondung_
+ para encontrar a un _enemy_ errante llamado
+ =enemy_ y traerle de vuelta
+ a __qgiver_. Tengo
+ =queston_ días para lograrlo,
+ y _qgiver_ recalcó
+ que quiere que =enemy_
+ esté con vida.
+
+Message:  1011
+<ce>                             _qgiver_ quería a
+<ce>                            =enemy_ con vida, pero
+<ce>                               le has matado.
+
+Message:  1012
+<ce>                               ¡Ay! %oth, ¡me
+<ce>                                  rindo!
+                                     <--->
+<ce>                                ¡Me rindo!
+<ce>                                ¡Me rindo!
+                                     <--->
+<ce>                             ¡No me mates!
+<ce>                               ¡Me rindo!
+
+Message:  1013
+<ce>                          =enemy_ se escabulle
+<ce>                       cuando no miras. Da igual. Ya
+<ce>                        es demasiado tarde para cobrar
+<ce>                         la recompensa de todos modos.
+
+Message:  1014
+<ce>                       Bueno, quería a =enemy_ con
+<ce>                 vida, pero supongo que habría acabado con
+<ce>              su vida yo mismo tarde o temprano. Aquí tienes
+<ce>              _lessgold_ piezas de oro. No es el total, pero
+<ce>                             te lo agradezco.

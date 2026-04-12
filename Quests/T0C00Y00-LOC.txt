@@ -1,0 +1,104 @@
+Quest: T0C00Y00
+DisplayName: La misión de Lady Azura
+QRC:
+
+QuestorOffer:  [1000]
+<ce>              ¿Osáis convocar a Azura de la Puerta Carmesí,
+<ce>                suplicando poder? No sé si vuestra presencia
+<ce>                es digna de tal favor. De hecho, lo dudo
+<ce>                mucho. Supongo que si os exigiera asesinar
+<ce>                a un sacerdote que ha estado diciendo cosas
+<ce>                muy, muy groseras sobre mí, rechazaríais incluso
+<ce>                 esa pequeña y sencilla petición. ¿Haríais
+<ce>                           eso por mí?
+
+RefuseQuest:  [1001]
+<ce>                 ¡No! ¡Se supone que teníais que decir que sí!
+<ce>                 Se supone que teníais que decir: "Sí, hermosa
+<ce>                  Azura, mataría encantadamente al chasquido
+<ce>                        de vuestros dedos de marfil".
+<ce>                                 ¡Rudo!
+<ce>                                ¡Intolerante!
+<ce>                               ¡Bárbaro!
+<ce>                        Ahora, debo irme antes de que
+<ce>                    olvide que soy una dama y diga algo
+<ce>                         de lo que me arrepienta...
+
+AcceptQuest:  [1002]
+<ce>                 ¡Lo haríais! Oh, qué maravilla. Bueno, este
+<ce>                sacerdote perfectamente horroroso también es un
+<ce>                Sanador, si es que eso significa algo. ¿No es
+<ce>               típico? Como suele pasar con estos tipos tan
+<ce>                 santurrones, =monster_ se ha recluido en
+<ce>                 ___mondung_, purificándose o alguna de esas
+<ce>                cosas ridículas. En fin, ¿por qué no os dais
+<ce>                un salto por allí y le claváis una espada o
+<ce>                algo parecido? Y luego corred hacia
+<ce>                 ___qgfriend_ y buscad a mi queridísimo
+<ce>                _qgfriend_, quien os entregará mi Estrella.
+<ce>               Es poder suficiente para cualquiera. Creo que
+<ce>                =1stparton_ días es tiempo suficiente para
+<ce>               esto, ¿no creéis? Oh, bien. Daos prisa entonces,
+<ce>               %pcf. Y no os distanciéis. Dadle recuerdos a
+<ce>                   _qgfriend_ de mi parte. Vale, adiós.
+
+QuestFail:  [1003]
+<ce>                               ¿Mmm? ¿Qué?
+<ce>                             ¿Os conozco de algo?
+
+QuestComplete:  [1004]
+<ce>                         Oh. ¡Oh, %pcn! ¿Lleváis aquí mucho
+<ce>                  tiempo? Lo siento, estaba soñando despierto
+<ce>                  con mi señora, Lady Azura. Esa vela me ha
+<ce>                  recordado al centelleo de sus ojos, ¿sabéis?
+<ce>                  Qué tontería por mi parte. Bueno, aquí está
+<ce>                  _artifact_. Ella no le da esto a cualquiera,
+<ce>                  así que no dejéis que se os suba a la cabeza.
+<ce>                         Ella fue mía primero.
+
+RumorsDuringQuest:  [1005]
+¿Oíste el discurso de =monster_ sobre el pecado de la vanidad cuando %g vino a la ciudad?
+<--->
+Si hablas con =monster_, reconocerás que el egoísmo es el peor de los pecados.
+
+RumorsPostfailure:  [1006]
+=monster_ se ha marchado, pero su mensaje sobre las virtudes de la humildad perdura.
+<--->
+He oído que =monster_ ha dejado %reg, aún difundiendo sus mensajes sobre la vanidad.
+
+RumorsPostsuccess:  [1007]
+Lo de =monster_ no es una tragedia real; quiero decir, %g era de un puritano insoportable.
+<--->
+<ce>No me alegra que =monster_ haya muerto, pero su mensaje era... bueno, algo extremo,
+ ¿no creéis?
+
+Message:  1011
+_qgfriend_ es ese =qgfriend_ que vi soñando despierto en __qgfriend_, hacia el %di.
+<--->
+_qgfriend_ es ese =qgfriend_ de ojos soñolientos en __qgfriend_, al %di de aquí.
+
+Message:  1012
+_qgfriend_ es uno de los amantes de Lady Azura y un agente suyo en %reg.
+<--->
+_qgfriend_ es un =qgfriend_ a quien Lady Azura ha hechizado hasta convertirlo en un virtual esclavo.
+
+Message:  1013
+Azura es una de las Regentes Daédricas de Oblivion. Su esfera es la vanidad.
+<--->
+Lady Azura es la Princesa Daedra de la Vanidad y el Egoísmo.
+
+Message:  1014
+_artifact_ puede transformar a criaturas vivientes en estatuas para siempre.
+
+Message:  1020
+%qdt:
+ He llegado a un acuerdo con una de las
+ Princesas Daedra, Azura. Si mato a un
+ monje que vive en un templo desierto,
+ ___mondung_, y me reúno con su contacto,
+ _qgfriend_ de ___qgfriend_ antes de
+ =1stparton_ días, recibiré _artifact_.
+
+Message:  1030
+<ce>                       Habéis matado al _monster_
+<ce>                    =monster_, como prometisteis a Azura.

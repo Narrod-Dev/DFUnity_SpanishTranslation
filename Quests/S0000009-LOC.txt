@@ -1,0 +1,133 @@
+Quest: S0000009
+DisplayName: La traición de Elysana
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  Eres incluso más impresionante en persona
+<ce>                  de lo que Lord Woodborne dijo. ¡Me encanta
+<ce>                  hablar con gente de acción!
+<ce>                    Sé que estás buscando un objeto
+<ce>                    determinado, %pcf. ¿Un tótem o algo así?
+<ce>                  Bueno, una amistad mía, alguien encantador
+<ce>                        llamado =contact_, tiene algo
+<ce>                    que podría ayudarte. Si escoltaras a
+<ce>                        mi pariente _foil_ hasta donde está
+<ce>                        _contact_, podrías tenerlo.
+<ce>                    ¿Harías este pequeñísimo favor
+<ce>                              por mí?
+
+RefuseQuest:  [1001]
+<ce>                    ¿No? ¡Qué espantoso! Mi pobre pariente
+<ce>                    se sentirá muy decepcionante. No eres
+<ce>                  ni de lejos tan divertido como Lord Woodborne
+<ce>                            dijo que serías.
+
+AcceptQuest:  [1002]
+<ce>                    ¡Qué emocionante! Será una verdadera
+<ce>                    aventura. A _foil_ le encanta viajar
+<ce>                y se moría de ganas por pasar algo de tiempo
+<ce>                        con _contact_. Ve a
+<ce>                      ___contact_ de ____contact_,
+<ce>                      a un lugar llamado __contact_.
+<ce>                %g te pagará =reward_ piezas de oro por
+<ce>                      traer a %g2 _foil_. ¿A que te
+<ce>                encantan estas misiones tan peligrosas?
+
+QuestFail:  [1003]
+<ce>                  No tengo nada que discutir contigo.
+
+QuestComplete:  [1004]
+<ce>                      ¡%pcf! Cómo has... quiero decir, me
+<ce>                      alegra verte. Y a _foil_ también.
+<ce>                Aquí tienes el oro. ¿Objeto? ¿Qué es un
+<ce>                tótem? Bueno, ha sido un placer hablar
+<ce>                        contigo. ¡Tengo que irme!
+
+RumorsDuringQuest:  [1005]
+Un grupo de personajes sombríos estuvo aquí hace poco, buscando a alguien que trabaje de mercenario.
+<--->
+He oído que la princesa Elysana ha pasado mucho tiempo en las tierras salvajes de Salto de la Daga.
+
+RumorsPostfailure:  [1006]
+¿Te has enterado de la banda que emboscó a ese personaje? Un asunto muy raro, si me preguntas.
+<--->
+Esos tipos que emboscaron a esa persona no eran de por aquí. Eran asesinos a sueldo.
+
+RumorsPostsuccess:  [1007]
+Dicen que un hombre misterioso está contratando asesinos para matar a %ra mercenario.
+<--->
+_contact_ estaba que echaba chispas. Uno pensaría que %g se alegraría de ver a su pariente.
+
+QuestLogEntry:  [1010]
+%qdt:
+ La princesa Elysana me ha pedido que escolte
+ a su pariente _foil_ hasta ___contact_
+ de ____contact_ para reunirse con _contact_. %g me
+ pagará =reward_ de oro y me dará algo
+ relacionado con el Tótem.
+
+Message:  1011
+<ce>                    _foil_ huye de repente, sus pies no
+<ce>                hacen ruido mientras desaparece entre las
+<ce>                              sombras.
+
+Message:  1012
+<ce>                        ¡%pcf, no fue culpa mía!
+<ce>                 ¡Me contrataron para tenderte una trampa!
+<ce>                 Toma, quédate las _reward_ de oro. Un tipo
+<ce>                 con una capa gris me pagó exactamente eso
+<ce>                  por hacerlo. _foil_ no era más que una
+<ce>                  prostituta pagada para ir contigo. Sabes,
+<ce>                  acabo de recordar que tengo _bribe_ de oro
+<ce>                    que ya pesan demasiado para cargarlas.
+<ce>                  ¿Por qué no las tomas y yo me largo?
+
+Message:  1013
+Matad a %pcn antes de que
+ sepa demasiado. Usad cualquier medio.
+<ce>                                    
+<ce>                                  -- W.
+
+Message:  1015
+<ce>                    Un pilluelo callejero llega corriendo y
+<ce>                         grita: "¡Mensaje para %pcn del
+<ce>                  hombre de gris!". El niño sale huyendo antes
+<ce>                  de que puedas atraparlo, dejándote con una
+<ce>                            nota en la mano.
+
+Message:  1016
+%pcn,
+ 
+ Mi buen amigo Lord Woodborne dice
+ que eres alguien en quien se puede confiar.
+ Te estaría verdaderamente agradecida si
+ te pasaras algún día para charlar.
+ Quizás incluso podrías hacer algo
+ por mí. Estaría muy, muy agradecida.
+ 
+<ce>                             Princesa Elysana
+<ce>                         Castillo de Salto de la Daga
+
+Message:  1018
+%pcf,
+ 
+ Si no quieres acabar tan cadáver como
+ Lysandus, detén tus investigaciones de
+ inmediato. ¿De verdad quieres arriesgar
+ tu vida por un muerto? Te estamos
+ vigilando.
+
+Message:  1019
+%pcn debe morir. Sin excusas.
+<ce>                                    
+<ce>                                  -- W.
+
+Message:  1020
+<ce>                      _foil_ dice: "¿Quiénes eran esos
+<ce>                  bárbaros? ¡Casi te matan! Quizás deberías
+<ce>                    olvidarte del fantasma de Lysandus".
+
+Message:  1021
+<ce>                        _foil_ dice: "Eres mucho más
+<ce>                          temible de lo que Elysana
+<ce>                          dijo que serías".

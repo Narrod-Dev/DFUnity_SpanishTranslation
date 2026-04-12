@@ -1,0 +1,123 @@
+Quest: N0B20Y02
+DisplayName: Proteger a una eminencia de la magia
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Soy _qgiver_, sirviente
+<ce>                    de la eminencia _sleepingmage_.
+<ce>                       He recibido la orden de
+<ce>                    encontrar miembros del gremio
+<ce>                      que protejan a %g2 mientras
+<ce>                    yace en un trance de hechizo.
+<ce>                      _sleepingmage_ sospecha
+<ce>                        que alguien rival de %g3
+<ce>                      podría enviar asesinos para
+<ce>                       matar a %g2 en su estado
+<ce>                            de indefensión.
+<ce>                    %g te entregará un objeto mágico
+<ce>                              _magicitem_
+<ce>                          encantado si logras
+<ce>                 detener el ataque. ¿Aceptarás la misión?
+                                     <--->
+<ce>                     Es un honor muy grande, %pcf,
+<ce>                           recibir la elección
+<ce>                       para ayudar a la celebridad
+<ce>                          _sleepingmage_, de quien
+<ce>                   confío que habrás oído hablar antes.
+<ce>                     Sí, %g ha solicitado específicamente
+<ce>                     que te encargues de la guardia de
+<ce>                   %g2 durante su sueño. Obviamente, con
+<ce>                    tal estatus, tiene enemigos con celos
+<ce>                    de %g3 enorme poder. ¿Confío en que
+<ce>                        aceptarás este gran honor?
+
+RefuseQuest:  [1001]
+<ce>                        Hmmm. Quienes pertenecen al
+<ce>                      gremio suelen mostrar más ayuda.
+<ce>                        Estoy con la certeza de que
+<ce>                      _sleepingmage_ recordará esto.
+
+AcceptQuest:  [1002]
+<ce>                    Como esperaba. _sleepingmage_
+<ce>                está comenzando su trance de tres horas,
+<ce>                 así que debes vigilar _magesguild_ durante
+<ce>                 ese tiempo y protegerle mientras sea
+<ce>                 vulnerable. Al final de su trance, se
+<ce>                producirá su transporte al Aetherius.
+<ce>                  Una vez a salvo, el Gremio enviará
+<ce>                       a alguien con tu recompensa.
+
+QuestComplete:  [1004]
+<ce>                   Una joven con túnicas azul oscuro
+<ce>                        hace una profunda reverencia.
+<ce>                                    
+ "El Gremio te envía sus cumplidos por un
+ trabajo bien hecho. _sleepingmage_
+ te está muy agradecido. Aquí tienes el
+ _magicitem_ que %g te prometió".
+
+RumorsDuringQuest:  [1005]
+_sleepingmage_ es una leyenda en ___sleepingmage_.
+<--->
+_sleepingmage_ ha estado descansando tras lanzar un hechizo poderoso.
+
+RumorsPostfailure:  [1006]
+Algo le ocurrió a _sleepingmage_ mientras %g dormía. Creo que %g podría haber muerto.
+<--->
+_sleepingmage_ ha desaparecido. Nadie sabe si %g vive o no.
+
+RumorsPostsuccess:  [1007]
+_sleepingmage_ despertó tras %g3 largo sueño, como si nada.
+<--->
+Atacaron a _sleepingmage_ mientras %g dormía, pero recibió defensa por parte de una guardia.
+
+QuestorPostsuccess:  [1008]
+Por lo que has hecho por _sleepingmage_, por supuesto, me complace ayudarte.
+
+QuestorPostfailure:  [1009]
+<ce>                    _sleepingmage_ ha desaparecido,
+<ce>                    y tú debías proteger a %g2, %pcf.
+<ce>                     No tengo nada que decirte.
+<ce>                        Al menos, nada bueno.
+
+QuestLogEntry:  [1010]
+%qdt: 
+ He aceptado proteger a
+ _sleepingmage_ en
+ _magesguild_ mientras
+ %g yace indefenso en un trance.
+ Debo vigilar a %g2 durante 3 horas
+ comenzando de inmediato.
+
+Message:  1011
+<ce>                    ¡Apártate, aprendiz de pacotilla!
+<ce>                   Nuestra intención es acabar con
+<ce>                     _sleepingmage_ antes de que
+<ce>                    despierte. Muévete o acabaremos
+<ce>                          contigo también.
+
+Message:  1012
+<ce>                     ¡Idiota! Deberías saber que no
+<ce>                      se debe molestar a nadie en
+<ce>                      pleno trance de hechizo. ¡Vas
+<ce>                       a pagar por esto! Abandona
+<ce>                      esta sala del gremio ahora.
+<ce>                       Llevaré este asunto ante
+<ce>                           el Círculo.
+
+Message:  1013
+<ce>                      ¡Si me matas, recibirás la
+<ce>                     expulsión del Gremio de Magos!
+<ce>                        Vete ahora o sufre las
+<ce>                             consecuencias.
+
+Message:  1014
+<ce>                      Reclamo la recompensa por quien
+<ce>                       ha traicionado su juramento al
+<ce>                      Gremio de Magos, por la muerte
+<ce>                           de _sleepingmage_.
+
+Message:  1030
+<ce>                     ¡Alertad al Archimagistrado! ¡Este
+<ce>                atentado de %ra ha matado a _sleepingmage_!
+<ce>                   ¡Cerrad las puertas! ¡A las armas!

@@ -1,0 +1,111 @@
+Quest: Q0C00Y03
+DisplayName: Relaciones públicas
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        ==qgiver_ en verdad podría
+<ce>                  usar tu ayuda en un asunto de lo más
+<ce>                  absurdo y, sin embargo, serio. No te
+<ce>                 hagas ilusiones, las brujas de %reg
+<ce>                   somos despreciadas. Nadie confía en
+<ce>                  nosotras por mucho tiempo, pues nuestro
+<ce>                  poder y soledad nos hacen una fuerza
+<ce>                  difícil de manipular. Hemos descubierto
+<ce>                  una trampa que pronto se cerrará sobre
+<ce>                  nosotras, y necesitamos a alguien como
+<ce>                  tú para desactivarla. ¿Te interesa tal
+<ce>                   misión a cambio de una _gem_?
+
+RefuseQuest:  [1001]
+<ce>                         ¿Acaso no lo harás? %oth,
+<ce>                        ==qgiver_ ya está habituada a
+<ce>                      la cobardía de nuestros aliados.
+
+AcceptQuest:  [1002]
+<ce>                    ¿Lo harás? Toma entonces a este infante,
+<ce>                        _child_ dice que es su nombre.
+<ce>                Lo encontramos hace unos días, abandonado
+<ce>                por su gente. Claramente, lo han puesto
+<ce>                aquí para que nuestros enemigos prueben
+<ce>                que estamos involucradas en... ¿qué te
+<ce>                imaginas? ¿Sacrificios humanos? ¿Corrupción
+<ce>                de inocentes? Nada tan mundano como un
+<ce>                secuestro, apuesto yo. _child_ nos dice que
+<ce>                sus padres viven en _home_, en __home_.
+<ce>                Llévalo de vuelta, pero ten cuidado. Nuestros
+<ce>                queridos enemigos preferirían asesinaros a
+<ce>                ambos antes que permitir que regrese a casa.
+<ce>                Vuelve con nosotras en =queston_ días o menos
+<ce>                        y tendremos tu _gem_ lista
+<ce>                          para ti. Buena suerte.
+
+QuestComplete:  [1004]
+<ce>                         Es bueno que _child_ esté
+<ce>                   en casa. Quizás la bondad que mostró
+<ce>                          ==qgiver_ disipe algunos
+<ce>                   mitos de nuestra iniquidad para la
+<ce>                   próxima generación. Aquí tienes tu
+<ce>                         _gem_. Gracias te sean
+<ce>                            dadas, %pcf.
+
+RumorsDuringQuest:  [1005]
+Se rumorea que las de ==qgiver_ son mucho peores que unos secuestradores.
+<--->
+Si no encuentran a ese infante, ==qgiver_ arderá.
+
+RumorsPostfailure:  [1006]
+Dicen que ==qgiver_ secuestró a un infante. Pobre criatura.
+<--->
+==qgiver_ no puede desmentir que secuestraron a un infante.
+
+RumorsPostsuccess:  [1007]
+==qgiver_ no secuestró a _child_; la propia criatura dice que no lo hicieron.
+<--->
+Si puedes confiar en la palabra de _child_, ==qgiver_ le ayudó en lugar de herirle.
+
+QuestorPostsuccess:  [1008]
+Por tu amabilidad con _child_ y con ==qgiver_, me complace hablar contigo.
+
+QuestorPostfailure:  [1009]
+<ce>                    Te pedimos que escoltaras a la pequeña
+<ce>                         criatura a su casa, pero
+<ce>                    has fallado. No era una petición
+<ce>                   baladí, ni las recriminaciones serán
+<ce>                        leves. Abandona a ==qgiver_
+<ce>                           ahora, %ra maldito.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Estoy llevando de vuelta a su hogar a un infante
+ que fue abandonado en el aquelarre de ==qgiver_.
+ _child_ vive en _home_, en __home_.
+ Se me ha dicho que los enemigos de las brujas
+ preferirían matarnos antes que dejar que regrese
+ a salvo. Luego debo volver con ==qgiver_ para
+ recibir mi recompensa de manos de _qgiver_.
+
+Message:  1011
+<ce>                    "¡Aquí es donde vivo! ¡Este es
+<ce>                            mi hogar!" _child_
+<ce>                      te da un beso en la mejilla,
+<ce>                        "¡Muchas gracias, %pcf!"
+
+Message:  1012
+<ce>                        "¡Amante de brujas! ¡Engendro
+<ce>                           de _daedra_!", chilla
+<ce>                               una voz.
+                                     <--->
+<ce>                        "¡No permitáis que vivan la prole
+<ce>                      de ==daedra_ ni ==qgiver_!",
+<ce>                            grita alguien.
+                                     <--->
+<ce>                         "¡Que %god fortalezca mi
+<ce>                      mano contra el peón y el engendro
+<ce>                      de los seres infernales, las de
+<ce>                        ==qgiver_!", clama una voz.
+
+Message:  1013
+<ce>                      "Seguiré el resto del camino
+<ce>                    por mi cuenta", dice la criatura,
+<ce>                        escapándose y desapareciendo
+<ce>                        con sorprendente agilidad.

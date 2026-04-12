@@ -1,0 +1,103 @@
+Quest: C0C00Y12
+DisplayName: El Objeto Robado
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       Normalmente no daría trabajo
+<ce>                         a alguien que no sea
+<ce>                          miembro de __qgiver_.
+<ce>                      Sin embargo, ahora nos falta
+<ce>                       personal. Un ladrón audaz
+<ce>                          robó un _religitem_
+<ce>                       del templo. Un sacerdote
+<ce>                    pudo ver bien al criminal.
+<ce>                    Era un ladrón común, un
+<ce>                         =thief_ llamado _thief_
+<ce>                   que estuvo en el templo ese día,
+<ce>                         fingiendo rezar.
+<ce>                  Encuentra a ese ladrón y devuelve
+<ce>                     nuestro _religitem_, y hablaré
+<ce>                    bien de ti en el futuro.
+
+RefuseQuest:  [1001]
+<ce>                      Te doy una oportunidad y me
+<ce>                      desprecias. No vengas luego
+<ce>                       a pedirme favores.
+
+AcceptQuest:  [1002]
+<ce>                        Debes recuperarlo dentro
+<ce>                       de =traveltime_ días.
+<ce>                       Para entonces nuestra orden
+<ce>                        podrá enviar un grupo de
+<ce>                      búsqueda y habrás perdido
+<ce>                         tu oportunidad.
+
+QuestComplete:  [1004]
+<ce>                       Todas las alabanzas para ti, %pcn.
+<ce>                          El _religitem_ ha sido
+<ce>                      devuelto al templo.
+<ce>                       Has ganado el favor
+<ce>                                de %god.
+
+RumorsDuringQuest:  [1005]
+<ce>     _thief_ está escondido en _thiefplace_ en __thiefplace_. Un buen
+<ce>                     lugar para ocultarse de __qgiver_.
+
+RumorsPostfailure:  [1006]
+__qgiver_ parece que nunca recuperará ese _religitem_.
+
+RumorsPostsuccess:  [1007]
+_thief_ fue llevado ante la justicia, y __qgiver_ recuperó su _religitem_.
+
+QuestorPostsuccess:  [1008]
+No creas que he olvidado quién nos devolvió el _religitem_, %pcf.
+
+QuestorPostfailure:  [1009]
+Nuestro _religitem_ se ha perdido para siempre y quieres hablar. Increíble.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_, de __qgiver_
+ en ___qgiver_, me ha dado
+ la oportunidad de encontrar el _religitem_
+ que fue robado por un
+ =thief_ llamado _thief_.
+ Tengo =traveltime_ días para recuperarlo.
+
+Message:  1011
+<ce>                       %oth! ¿El templo contrató a un
+<ce>                       cazarrecompensas solo para
+<ce>                   recuperar su inútil _religitem_?
+<ce>                       %oth, no vale la pena morir por eso.
+<ce>                      Toma, llévatelo.
+<ce>                      Ahora veremos si crees
+<ce>                        que vale la pena morir por ello...
+<ce>                       ¡Ayuda! ¡Este %ra se está
+<ce>                           llevando nuestro botín!
+
+Message:  1012
+<ce>                      ¡Intruso! ¡Den la alarma!
+<ce>                      ¡Hay un intruso en el
+<ce>                               edificio!
+
+Message:  1013
+<ce>      _thief_... El nombre me suena, pero no logro ubicarlo.
+<ce>     Quizá alguien que vi en __thiefplace_... Lo siento,
+<ce>                        no puedo ayudar más.
+                                     <--->
+<ce>          ¿Un =decoy_? Claro, conozco a %g2. Vive en ___decoy_.
+                                     <--->
+<ce>   Si hablas de un =thief_, suena como un tipo escurridizo
+<ce>          de __thiefplace_ que una vez intentó robarme.
+
+Message:  1014
+<ce>  Claro, conozco a ese escurridizo. Busca en _thiefplace_
+ en __thiefplace_.
+<ce>                                   
+<ce> ¿_thief_? Sí, %g se está "escondiendo" en _thiefplace_ en __thiefplace_.
+<ce> No se oculta muy bien, ya que tú y yo sabemos dónde está.
+
+Message:  1020
+<ce>                  _thief_ te lanza el _religitem_,
+<ce>                    y luego desaparece en las sombras.
+<ce>                        ¡Ahora escapa!

@@ -1,0 +1,103 @@
+Quest: L0B00Y02
+DisplayName: Competencia desagradable
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Hay otro grupo de asesinos brotando en
+<ce>                   %reg, el cual debe ser aplastado antes
+<ce>                de que florezca. Quiero que vayas, ajustes
+<ce>                las cuentas del asesino, y luego las del hombre
+<ce>                o mujer que ordenó el asesinato. Tienes tiempo
+<ce>                       para este esfuerzo, ¿verdad?
+                                     <--->
+<ce>                La Hermandad Oscura ha sido el único gremio
+<ce>                de asesinos en Tamriel desde la Segunda Era.
+<ce>                Tenemos la intención de mantener ese monopolio.
+<ce>                Hay un asesino por cuenta propia que ha estado
+<ce>                desafiándonos durante algún tiempo, pero la
+<ce>                       suerte de =assassin_ se ha acabado.
+<ce>                Quiero que le des una lección permanente, y
+<ce>                luego repitas la lección con su insensato cliente.
+
+RefuseQuest:  [1001]
+<ce>                     ¿No? Qué extraño e inquietante.
+
+AcceptQuest:  [1002]
+<ce>                Bien. Pues bien, sabemos que el asesino,
+<ce>                       =assassin_, ha perseguido a su
+<ce>                presa hasta una mazmorra llamada ___mondung_.
+<ce>                Si no has encontrado pistas sobre el paradero
+<ce>                del cliente, regresa aquí. Preferiría, por
+<ce>                supuesto, que ajustaras las cuentas de
+<ce>                =assassin_ y de su cliente por igual, pero me
+<ce>                daría por satisfecho con la mera muerte del
+<ce>                mercenario. No tardes más de =queston_ días
+<ce>                       para ambos ajustes de cuentas.
+
+QuestComplete:  [1004]
+<ce>                        Excelente, %pct. Habríamos estado
+<ce>                satisfechos con la simple eliminación de
+<ce>                       =assassin_, pero ahora los conocidos
+<ce>                de =boss_ sabrán que la Hermandad Oscura no
+<ce>                tolera bien la competencia de aficionados.
+
+RumorsDuringQuest:  [1005]
+Ese tal =assassin_ lleva años siendo asesino por cuenta propia en %reg.
+<--->
+=assassin_ no es el mejor en el negocio, pero le pone mucho entusiasmo.
+
+RumorsPostfailure:  [1006]
+=assassin_ solo demuestra que se puede trabajar fuera de la Hermandad.
+<--->
+Aparentemente, la Hermandad no puede detener a todos los mercenarios de Tamriel.
+
+RumorsPostsuccess:  [1007]
+=boss_ pensó que podría ahorrarse unas monedas de oro contratando a =assassin_... idiota.
+<--->
+Simplemente no sale a cuenta usar asesinos que no sean de la Hermandad, pregúntale a =boss_.
+
+QuestorPostsuccess:  [1008]
+¿Y cómo estás, verdugo del asesino renegado?
+
+QuestorPostfailure:  [1009]
+<ce>              Eres ese matón inútil que no puede ajustar las
+<ce>              cuentas de un mercenario chapucero como =assassin_.
+<ce>                  ¿Por qué debería gastar mi aliento contigo?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de la Hermandad Oscura en ___qgiver_
+ me ha pedido que haga una visita a =assassin_,
+ un asesino de la competencia, que está completando
+ un contrato en ___mondung_. Si puedo encontrar pistas
+ sobre el cliente de =assassin_, debo ajustar sus cuentas
+ también. Sea como sea, todo este sangriento asunto debe
+ terminarse en =queston_ días.
+
+Message:  1011
+Tras ejecutar a %n, ve a ___stronghold_,
+ en las tierras salvajes de %reg, para
+ recibir tu recompensa.
+ 
+ 
+ =boss_
+
+Message:  1012
+%qdt:
+ He encontrado una nota en el cuerpo de =assassin_.
+ Su cliente es =boss_, y su fortaleza
+ es ___stronghold_.
+
+Message:  1013
+<ce>                        Has ejecutado a =assassin_.
+<ce>                   La Hermandad estará complacida.
+
+Message:  1014
+<ce>                    =boss_ se ha unido a su empleado.
+<ce>                   La Hermandad estará complacida.
+
+Message:  1015
+<ce>                Habríamos preferido que hubieras ajustado las
+<ce>                cuentas del jefe de =assassin_ también. Pero
+<ce>                basta con saber que =assassin_ ya no puede ser
+<ce>                      contado como parte de la competencia.

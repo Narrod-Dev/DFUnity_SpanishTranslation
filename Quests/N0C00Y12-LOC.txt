@@ -1,0 +1,83 @@
+Quest: N0C00Y12
+DisplayName: El diablillo mascota fugitivo
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Puedes llamarme _qgiver_.
+<ce>               Normalmente solo doy trabajo a miembros del
+<ce>              gremio. Sin embargo, uno de mis estudiantes tiene
+<ce>             un pequeño problema que resultaría vergonzoso
+<ce>               si saliera a la luz. No puedo pagarte,
+<ce>             pero si tienes disposición para dar caza a
+<ce>              un experimento fugado, con poco riesgo para
+<ce>               ti, te agradecería lo suficiente como para
+<ce>             hablar bien de ti a otros miembros del gremio.
+
+RefuseQuest:  [1001]
+<ce>               Entonces, ¿por qué me pediste trabajo?
+<ce>                A veces realmente no puedo entender a
+<ce>                        quienes viven de la aventura.
+
+AcceptQuest:  [1002]
+<ce>                 Bien. Mi estudiante tiene un diablillo
+<ce>                como mascota. Estas criaturas mágicas no
+<ce>                son muy peligrosas, pero esto podría ser
+<ce>                potencialmente vergonzoso para él. Nuestra
+<ce>                adivinación ha determinado que el diablillo
+<ce>                   ha huido hacia ___mondung_.
+<ce>                 Mata a la criatura e infórmame
+<ce>                        en un plazo de =1stparton_ días.
+
+QuestFail:  [1003]
+<ce>                He usado la visión hoy mismo. El diablillo
+<ce>                 sigue vivo. ¿Qué estás haciendo aquí?
+
+QuestComplete:  [1004]
+<ce>                 Qué alivio. Te debo un pequeño favor,
+<ce>                   %pcn. Has mejorado tu reputación
+<ce>                       con el Gremio de Magos.
+
+RumorsDuringQuest:  [1005]
+He oído que algo escapó del laboratorio del Gremio de Magos la otra noche.
+<--->
+%oth, vi una silueta pequeña acechando en las sombras anoche.
+
+RumorsPostfailure:  [1006]
+Bueno, hay un pequeño escándalo sobre la seguridad del laboratorio del Gremio de Magos.
+<--->
+Parece que el Gremio de Magos perdió otro experimento.
+
+RumorsPostsuccess:  [1007]
+¡He oído que torturan diablillos en los laboratorios del Gremio de Magos!
+<--->
+<ce>                    Esos diablillos tienen mala leche.
+<ce>                  La casa de %nam se llenó de ratones,
+<ce>                solo por perseguir a uno con una escoba.
+                                     <--->
+<ce>                 Oí que un diablillo familiar escapó del
+<ce>                Gremio de Magos. Dicen que un mago que
+<ce>                 pierde a su familiar es vulnerable a
+<ce>                      los hechizos de sus enemigos.
+
+QuestorPostsuccess:  [1008]
+¿Cómo estás, %pcf? No más problemas con diablillos, espero, ¿eh?
+
+QuestorPostfailure:  [1009]
+<ce>                 Te envié a por ese diablillo, si mal no
+<ce>               recuerdas. No veo razón alguna para volver
+<ce>                     a malgastar mi tiempo contigo.
+
+QuestLogEntry:  [1010]
+<ce>                       "Preferiría morir antes que
+<ce>                        volver al laboratorio del
+<ce>                          Gremio de Magos".
+
+Message:  1020
+%qdt:
+ El Gremio de Magos de ___qgiver_
+ me ha contratado para encontrar a un
+ diablillo que escapó de su laboratorio.
+ Al parecer se oculta en ___mondung_.
+ Debo acabar con la criatura y estar de
+ vuelta en ___qgiver_ en =1stparton_ días.
+ 

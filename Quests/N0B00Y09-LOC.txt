@@ -1,0 +1,216 @@
+Quest: N0B00Y09
+DisplayName: Notas de investigación
+QRC:
+
+QuestorOffer:  [1000]
+<ce>            Como la principal institución de investigación en el Imperio
+<ce>             de Tamriel, el Gremio de Magos emplea a gran cantidad de
+<ce>                  místicos y eruditos por todo el territorio.
+<ce>            Si logramos que alguien en representación del Gremio vaya
+<ce>            a un lugar a una distancia razonable de aquí, la eminencia
+<ce>                en la materia, _scholar_, ha aceptado compartir
+<ce>                 sus investigaciones. ¿Tendrías disponibilidad
+<ce>                            para este encargo?
+                                     <--->
+<ce>                      El Gremio de Magos de ___qgiver_
+<ce>            tiene una oportunidad emocionante para beneficiarse de la
+<ce>             obra de quien goza de gran renombre en la investigación,
+<ce>                   _scholar_. %g ha accedido a donar parte de
+<ce>             sus estudios al Gremio si enviamos a alguien a ___scholar_
+<ce>             para recogerlos. Como es de esperar, %g teme la intervención
+<ce>              de los Nigromantes. Supongo que te emociona tanto como
+<ce>                      a mí esta posibilidad, ¿verdad, %pct?
+
+RefuseQuest:  [1001]
+<ce>                 Es bastante decepcionante, %pct.
+<ce>             Si yo estuviera en mejor forma, no dejaría pasar la
+<ce>                 oportunidad de conocer a la gran eminencia _scholar_.
+<ce>                     Estás desperdiciando tu juventud, %pct.
+
+AcceptQuest:  [1002]
+<ce>                    Estupendo, simplemente estupendo. Escucha, _scholar_
+<ce>                  se quedará en ___scholar_, en un lugar llamado
+<ce>                   __scholar_, por solo unos pocos días. El peligro
+<ce>              son los Nigromantes. Esos reprobables lanzaconjurios están
+<ce>               interesados en dar caza a _scholar_ y a sus hallazgos.
+<ce>              Te daré =queston_ días para ir hasta donde está _scholar_
+<ce>                    y volver antes de que envíe a otra persona. Suerte.
+
+QuestComplete:  [1004]
+<ce>              Oh, esto es material brillante. Supongo que esos
+<ce>                malditos Nigromantes no fueron tan difíciles de
+<ce>                manejar, al menos no para ti. Un trabajo espléndido,
+<ce>                                     %pct.
+
+RumorsDuringQuest:  [1005]
+Quizás ese tal _scholar_ sea una celebridad para los intelectuales, pero para mí solo es alguien que ejerce de =scholar_.
+<--->
+Es un honor para ___scholar_ albergar la visita de la eminencia _scholar_ a %reg.
+
+RumorsPostfailure:  [1006]
+Los Nigromantes serán el poder mágico dominante en Tamriel en unos pocos años.
+<--->
+El Gremio de Magos es incapaz de defenderse contra los Nigromantes.
+
+RumorsPostsuccess:  [1007]
+La investigación de _scholar_ ayudará al Gremio de Magos de diversas formas.
+<--->
+Parece que los Nigromantes no pusieron sus manos sobre _scholar_... ¿o sí lo hicieron?
+
+QuestorPostsuccess:  [1008]
+Vaya, pero si es quien nos trajo aquel manuscrito. ¿Cómo va todo?
+
+QuestorPostfailure:  [1009]
+<ce>                 Ya que no tienes el manuscrito que juraste
+<ce>                 recuperar, no veo mucho sentido en seguir
+<ce>                   conversando. Lleva tus asuntos a otra
+<ce>                                parte.
+
+QuestLogEntry:  [1010]
+%qdt:
+ El Gremio de Magos de ___qgiver_ me ha enviado a ___scholar_, donde
+ _scholar_, alguien de gran renombre en la academia, se hospeda en
+ un lugar llamado __scholar_. Debo evitar a los agentes de los
+ Nigromantes, obtener los documentos de investigación de %g2 y
+ volver al Gremio de Magos en no más de =queston_ días.
+
+Message:  1011
+                                 __db_
+                                  ___db_
+ 
+ 
+ 
+ Estimada amistad %pcf,
+ 
+      Bien hecho, %pcf. _scholar_ se mostró con su habitual
+ terquedad sobre entregarnos sus notas de investigación, pero 
+ %g se mostraría de lo más feliz de dárselas a alguien que 
+ represente al recto Gremio de Magos.
+ 
+      Tendrás una buena cantidad de oro esperándote aquí en
+ ___db_ cuando llegues con las notas.
+ 
+ 
+ 
+                                 Atentamente,
+ 
+ 
+                                 _db_
+
+Message:  1012
+%pcn,
+ 
+ 
+      No te enemistes con la Hermandad Oscura. Podemos ser de
+ gran ayuda mutua, pero no querrías tenernos de enemigos. Cuando
+ tengas el documento de investigación de _scholar_, tráemelo
+ aquí, a __db_ en ___db_.
+ 
+      No falles, o que la ira de Mephala, Reina del Olvido,
+ caiga sobre ti.
+ 
+ 
+                                 _db_
+
+Message:  1013
+<ce>                  Eres el contacto que envió el Gremio de Magos
+<ce>                para proteger mi obra, ¿no? Es una maravilla
+<ce>                conocerte, joven. Aquí tienes el dichoso asunto.
+<ce>                 Buena suerte pasando de largo de esos infernales
+<ce>                   Nigromantes con esto. Yo, desde luego,
+<ce>                           no podría hacerlo.
+
+Message:  1014
+<ce>                        ¿Entregas la obra de _scholar_
+<ce>                          a _db_, de la Hermandad
+<ce>                               Oscura?
+
+Message:  1015
+La manera en la que la presión diastólica de cualesquiera dos bienes
+ escasos (creando un tipo de propulsión sin partes móviles y un
+ silencio virtual) ha sido postulada por matemáticos thiriónicos
+ durante muchos años. En el pensamiento convencional, los parámetros
+ por defecto de cualquier fórmula (hablando objetivamente, es
+ esencial recordar que la objetividad es, de hecho, subjetiva)
+ siempre regresarán a lo que Mornthaur llamó el "medio de retorno".
+ Sin embargo, comenzando con una red de números complejos que cubre
+ con creces el círculo unitario y tres raíces cúbicas de uno, podemos
+ rastrear hacia atrás, siguiendo los "medios números" negativos, y
+ crear una cuenca infinita con naturalezas duales de negrura y blancura.
+ La tasa de enfriamiento o calentamiento adiabático en aire no saturado
+ puede, por tanto, hacerse directamente proporcional a la cuarta
+ potencia de su temperatura absoluta.
+
+Message:  1016
+Cuando la luz blanca pasa a través de un gas bajo un gas de densidad
+ media a una temperatura alta, ocurre una inestabilidad térmica
+ dinámica. Dado que la magicka suele ser una fuente de iluminación
+ muy tenue, los gases, bajo una presión mucho mayor, se ven obligados
+ a combinarse con materia degenerada, creando fuerzas duales, más
+ allá y más acá. El resultado final es un chonolito cuasi-horizontal
+ compuesto por ductolitos anastomosados, cuyos extremos distales se
+ curvan como un harpolito, se adelgazan como un esfenolito o se abultan
+ discordantemente como un akmolito o etmolito. Existen, por tanto,
+ cinco elementos que deben contribuir a una confederación universal
+ de lo que Galerion Vanus llamó "materia gris": percepción, evidencia,
+ esencia, moralidad y extracción.
+
+Message:  1017
+_scholar_ es simplemente una de las eminencias más respetadas de Tamriel.
+<--->
+_scholar_ es alguien que ejerce de =scholar_, con gran respeto en la academia.
+<--->
+_scholar_ solo estará de visita en %reg por poco tiempo.
+<--->
+Una de las mentes más finas de la Tercera Era, eso dicen.
+<--->
+_scholar_ definitivamente estaría de acuerdo en que %g es un genio.
+<--->
+_scholar_ es el típico intelectual. No tiene ni idea de lo que pasa fuera.
+<--->
+_scholar_ tiene mucha inteligencia, pero a veces se le sube a la cabeza.
+<--->
+Habla con _db_ allá en ___db_; %g también ha estado preguntando por _scholar_.
+<--->
+Alguien con el rango de =db_ en __db_ preguntaba por _scholar_ también.
+
+Message:  1018
+<ce>                  Qué regalo tan considerado. Espero que tus
+<ce>                camaradas del Gremio de Magos no se enfaden mucho
+<ce>                 por perderlo. ¿Qué sabrán ellos sobre la
+<ce>                aplicación práctica de una investigación tan seca,
+<ce>                de todos modos? Toma, recibe _dbgold_ de oro por
+<ce>                 tus molestias. Cómprate algo bonito.
+
+Message:  1019
+<ce>                  Qué amable. La Hermandad Oscura te ofrece con
+<ce>                gratitud _dbgold_ piezas de oro por tu servicio.
+<ce>                Además, aquí tienes algo que improvisé y que
+<ce>                debería evitar que te metas en problemas con
+<ce>                 _qgiver_ y los demás miembros del Gremio.
+<ce>                Todas las notas de investigación se parecen,
+<ce>                después de todo. Cuando no den resultados, el
+<ce>                Gremio simplemente enviará a más asistentes o
+<ce>                abandonará el proyecto por pura vergüenza. El
+<ce>                Gremio de Magos es simplemente un tedioso grupo
+<ce>                de investigadores que no tienen que preocuparse
+<ce>                 por el oro y, por tanto, nunca son más felices
+<ce>                   que cuando hacen un trabajo inútil.
+
+Message:  1020
+%qdt:
+ He recibido una carta amenazante de _db_, de la Hermandad Oscura,
+ diciéndome que lleve el documento de investigación de _scholar_ a
+ __db_, en ___db_, en lugar de al Gremio de Magos.
+
+Message:  1021
+%qdt:
+ _db_, de la Hermandad Oscura, me envió una carta felicitándome por
+ mi astucia y diciéndome que %g estaría en un lugar llamado __db_,
+ en ___db_, con una recompensa en oro por llevarle el documento a
+ %g2 en lugar de al Gremio de Magos.
+
+Message:  1022
+<ce>                      Un muchacho de mirada feroz te
+<ce>                       entrega una carta y sale
+<ce>                      corriendo hacia los callejones.

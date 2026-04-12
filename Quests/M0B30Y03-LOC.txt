@@ -1,0 +1,79 @@
+Quest: M0B30Y03
+DisplayName: Caza de un Daedroth
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                   Ha surgido algo. No sé quién más
+<ce>                 podría encargarse sino tú, %pcf. Hay
+<ce>                   una bicha mala en ___mondung_, un
+<ce>                 Daedroth. No te voy a mentir: nadie
+<ce>                 sabe por qué está ahí, pero todos
+<ce>                 quieren que desaparezca. Por _reward_
+<ce>                 oro, ¿crees que podrías ocuparte del
+<ce>                         asunto, %pcf?
+
+RefuseQuest:  [1001]
+<ce>                        No te culpo, %pcf. Yo
+<ce>                      tampoco querría enfrentarme
+<ce>                         a un Daedroth.
+
+AcceptQuest:  [1002]
+<ce>                 Eh, está bien, tú verás si quieres morir,
+<ce>                %pcf. Escucha, despacha a ese Daedroth y
+<ce>                vuelve aquí en =1stparton_ días para tu
+<ce>                recompensa. No sé cuánto tiempo se quedará
+<ce>                esa cosa por allí, así que vas a tener que
+<ce>                mover el culo. Y hazme caso en esto, %pcf:
+<ce>                 ve con preparación para una pelea de mil
+<ce>                          demonios.
+
+QuestFail:  [1003]
+<ce>                   ¿Estás esperando a que el Daedroth
+<ce>                    se muera de viejo, %pcf?
+
+QuestComplete:  [1004]
+<ce>                     Oye, eres mejor %ra que yo, %pcf.
+<ce>                    Matador/a de Daedroths. Me gusta.
+<ce>                          Aquí tienes tu oro.
+
+RumorsDuringQuest:  [1005]
+No sé qué es ese lagarto gigante de ___mondung_, pero no me gusta nada.
+<--->
+Todo el mundo habla de esa cosa enorme y asquerosa de ___mondung_.
+
+RumorsPostfailure:  [1006]
+No sé qué habrá pasado con ese Daedroth. Sigue por aquí en alguna parte.
+<--->
+Prefería cuando sabía dónde estaba el Daedroth. Ahora no sé qué lugar es seguro.
+
+RumorsPostsuccess:  [1007]
+Gracias a %god que el Gremio de Luchadores está para encargarse de los Daedroths.
+<--->
+Me pregunto qué sería ese lagarto gigante y asqueroso después de todo.
+
+QuestorPostsuccess:  [1008]
+<ce>                 Eres el/la %ra que mató al Daedroth en
+<ce>                    ___mondung_ por mí. Deja que te
+<ce>                         estreche la mano.
+
+QuestorPostfailure:  [1009]
+<ce>                  El fracaso no se toma a la ligera en el
+<ce>                Gremio de Luchadores. Si no podías con un
+<ce>                Daedroth, no deberías haber aceptado el
+<ce>                trabajo. Tengo cosas mejores que hacer que
+<ce>                 perder mi tiempo hablando contigo.
+
+Message:  1020
+<ce>                         El Daedroth ha muerto.
+
+Message:  1030
+%qdt:
+ El Gremio de Luchadores de ___questgiver_
+ me pagará _reward_ piezas de oro si mato
+ al Daedroth en ___mondung_ en un plazo de
+ =1stparton_ días o menos.
+
+Message:  1080
+<ce>                 Como ni pestañeaste al liquidar a un
+<ce>                Daedroth, toma este mapa de ___newdung_.
+<ce>                 Diversión de sobra para un/a %pct como tú.

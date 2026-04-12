@@ -1,0 +1,62 @@
+Quest: O0B2XY09
+DisplayName: El mercader rico
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Puedes llamarme _qgiver_.
+<ce>                      Me he enterado de un envío de
+<ce>                       _coastal_ que ese cerdo de un
+<ce>                        mercader acaba de comprar.
+<ce>                        Quiero que lo mangues y me
+<ce>                       lo traigas. Te pagaré _gold_
+<ce>                        piezas de oro. ¿Te interesa?
+
+RefuseQuest:  [1001]
+<ce>                            Sigue tu camino, %pcn.
+<ce>                           Necesito encontrar a alguien
+<ce>                           que sea digno del nombre.
+
+AcceptQuest:  [1002]
+<ce>                          En __mansion_, ve hacia
+<ce>                         _mansion_. No debería ser
+<ce>                        muy difícil encontrar ese
+<ce>                         alijo de _coastal_. Tráelo
+<ce>                      en =traveltime_ días y te pagaré.
+<ce>                        ¿Sin preguntas? Bien.
+
+QuestComplete:  [1004]
+<ce>                        ¡Oh, jo! Este cargamento es
+<ce>                        mejor de lo que esperaba.
+<ce>                        Aquí tienes tus _gold_ de oro,
+<ce>                         %pcn. No te lo gastes todo
+<ce>                           en bebida o vicios.
+
+RumorsDuringQuest:  [1005]
+Ha llegado un nuevo cargamento de _coastal_ a __mansion_. Nadie sabe exactamente dónde.
+
+RumorsPostfailure:  [1006]
+Alguien debe haber encontrado el _coastal_ en __mansion__. Lo están enviando fuera de nuevo.
+
+RumorsPostsuccess:  [1007]
+Resulta que el lugar donde guardaban el _coastal_ fue saqueado el otro día.
+
+QuestorPostsuccess:  [1008]
+Dime, no estarás gastando ese oro en bebida o vicios, ¿verdad, %pcf?
+
+QuestorPostfailure:  [1009]
+<ce>                  ¿Qué quieres? Te dije dónde encontrar
+<ce>                  el _coastal_, pero perdiste el tiempo
+<ce>                hasta que ya no le servía a nadie de nada.
+<ce>                    Lárgate, %pcf. Me estás dando
+<ce>                            dolor de cabeza.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ del
+ Gremio de Ladrones me ha contratado
+ para robar un envío de _coastal_
+ en _mansion_, en
+ __mansion_. Tengo que
+ devolvérselo a __qgiver_
+ en ___qgiver_ en =traveltime_
+ días para recibir mi pago.

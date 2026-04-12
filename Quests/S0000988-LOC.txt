@@ -1,0 +1,115 @@
+Quest: S0000988
+DisplayName: El Mantella revelado
+QRC:
+
+QuestLogEntry:  [1010]
+Estimado %pcf:
+ 
+ Probablemente no hayas oído el cuento de hadas
+ sobre el Numidium, pero es necesario que lo hagas.
+ 
+ La leyenda se remonta a los inicios de la
+ Tercera Era.
+ 
+ Se decía que el Numidium era un gigante tan grande
+ que sus manos podían derribar las lunas del cielo.
+ No recuerdo por las historias si se suponía que
+ el Numidium era bueno o malo, pero las leyendas
+ solían asustarme cuando era joven.
+ 
+ Los mitos son, de hecho, ciertos. Hubo un
+ Numidium y, si las cosas siguen así, volverá
+ a caminar. El Tótem de Tiber Septim se utiliza
+ para controlar al Numidium. Sin embargo, la leyenda
+ dice que el gran Numidium perdió su corazón de
+ Mantella, sea lo que sea eso, en la batalla final
+ contra el Mago de Batalla de Tiber Septim. Hasta
+ que se encuentre su corazón, el Tótem es inútil.
+ 
+<ce>                                 Un amigo
+
+Message:  1011
+Estimado %pcf:
+ 
+ El Numidium fue el arma secreta de Tiber Septim en
+ su lucha por el poder supremo: un autómata de mil
+ pies de altura, una especie de gólem o atronach
+ impulsado por una gema llamada el Mantella. El
+ Mantella estaba imbuido con la fuerza vital del
+ Mago de Batalla Imperial de Tiber Septim y, con él,
+ Septim aplastó a todo el que se interpuso en su
+ camino. Tras la derrota total de sus oponentes,
+ Septim empezó a usar al Numidium para destruir a
+ las familias reales neutrales de Tamriel, de modo
+ que pudiera entronizar solo a personas que supiera
+ que le eran leales. Su Mago de Batalla, furioso por
+ este uso de su creación, luchó para recuperar el
+ Mantella. En la batalla resultante, tanto el creado
+ como el creador fueron vencidos: el corazón que
+ compartían fue expulsado de esta realidad hacia el
+ inframundo que llaman Aetherius. El cuerpo del
+ Numidium fue esparcido por todo Tamriel y el Mago
+ de Batalla Imperial, privado de su fuerza vital,
+ cayó en un semi-letargo en una cripta subterránea.
+ En los siglos siguientes, los soldados de élite del
+ Emperador, generación tras generación, reunieron las
+ piezas del Numidium y pasaron a ser conocidos como
+ los Cuchillas. El Mago de Batalla de Tiber Septim
+ pasó a ser conocido como el Rey del Inframundo, y
+ envió a sus fuerzas a buscar el Mantella.
+ 
+ Quedas bajo aviso. Aquellos que buscan el Tótem de
+ Tiber Septim buscan el mecanismo que el primer
+ Emperador de Tamriel usó para controlar al Numidium.
+ Si el Numidium regresara, quien posea el Tótem
+ controlará el destino de Tamriel.
+ 
+<ce>                                 Un amigo
+
+Message:  1012
+Estimado %pcf:
+ 
+ Debo hablarte sobre el Tótem de Tiber Septim, el cual
+ todos codician. Debes conocer la verdad sobre lo que
+ se te pide.
+ 
+ El Tótem fue fabricado por el Mago de Batalla Imperial
+ original de Tamriel, por orden de Tiber Septim. Es,
+ esencialmente, un medio para controlar a una criatura
+ gigantesca llamada el Numidium. Sin él, el Numidium
+ simplemente no funcionaría. El Mago de Batalla puso
+ un sello en el Tótem para que cualquiera que no fuera
+ del linaje de Septim o no poseyera una afinidad
+ sobrenatural especial, como él mismo, muriera al
+ instante si intentaba usarlo. El Tótem, junto con el
+ resto del Numidium, se perdió durante la épica batalla
+ entre el Mago de Batalla Imperial y su propia creación.
+ 
+<ce>                                 Un amigo
+
+Message:  1020
+<ce>        Se te acerca un joven paje que sonríe al reconocerte
+<ce>         y no te pregunta el nombre antes de entregarte una
+<ce>          carta a tu nombre. A todas tus preguntas, solo
+<ce>                responde con una mirada vacía y una sonrisa.
+                                     <--->
+<ce>               Te ponen una carta en la mano. Te giras
+<ce>             para ver quién te la dio. Llegas a vislumbrar
+<ce>                 una librea que se desvanece entre la multitud.
+                                     <--->
+<ce>               Un paje da un paso al frente diciendo: "Una
+<ce>                     carta para ti, %pcn", y te entrega una nota.
+                                     <--->
+<ce>               Un mensajero se te acerca con una carta en la
+<ce>                mano. "Me dijeron que entregara esta carta a
+<ce>                alguien que encajara con tu descripción", dice
+<ce>                el mensajero. Al tomarla, el mensajero se da
+<ce>                     la vuelta y se aleja rápidamente.
+                                     <--->
+<ce>                Al buscar algo de comer en tu mochila, ves
+<ce>               una nota. No estaba allí antes.
+                                     <--->
+<ce>               Un mensajero acalorado te sobresalta con un grito:
+<ce>                  "¡Carta para %pcn! Eh, debes de ser tú.
+<ce>                  Toma esto. Me voy, tengo otras entregas
+<ce>                         que hacer".

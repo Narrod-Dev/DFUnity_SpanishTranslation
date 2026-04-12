@@ -1,0 +1,220 @@
+Quest: P0B00L06
+DisplayName: Conocimiento mortal
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 llamado.
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 llamado.
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 llamado.
+
+QuestFail:  [1003]
+Error: Questtext 1003 llamado.
+
+QuestComplete:  [1004]
+<ce>                      Encantador. ¿Has leído esto? Por
+<ce>                    supuesto que sí. Menuda basura. Hubo
+<ce>                     otro mago con opiniones similares
+<ce>                     sobre las tribus vampíricas, pero
+<ce>                      no recuerdo su nombre. Lo has hecho
+<ce>                      bien, joven. Realmente muy bien.
+
+RumorsDuringQuest:  [1005]
+_mage_ está involucrado en un trabajo terriblemente importante allá en ___mondung_.
+<--->
+___mondung_ es un lugar lúgubre, pero ideal para que _mage_ termine su trabajo en paz.
+
+RumorsPostfailure:  [1006]
+Al parecer, el trabajo de =mage_ sobre los vampiros ha llamado la atención del Gremio de Magos.
+<--->
+El mismísimo Archimagíster del Gremio de Magos está estudiando el trabajo de _mage_.
+
+RumorsPostsuccess:  [1007]
+Puede que Tamriel nunca sepa en qué estaba trabajando tan duro el pobre _mage_.
+<--->
+_mage_ fue asesinado; dicen que porque estaba trabajando en un encantamiento contra los daedra.
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 llamado. Uy.
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 llamado. Culpa mía.
+
+QuestLogEntry:  [1010]
+                      __vamp_
+                       ___vamp_
+
+
+ Estimado %pcn:
+
+      Esos bárbaros chochos y sumidos en la
+ ignorancia que se hacen llamar Gremio de
+ Magos están involucrados en otra de sus
+ tareas inútiles. Esta vez, sin embargo,
+ podrían estar —aunque sea por accidente—
+ en el camino de romper las sombras y
+ exponer a %vam. Parece inconcebible que el
+ Gremio de Magos logre algo realmente, pero
+ debemos tomar medidas ante tal eventualidad.
+
+       Ven a verme lo antes posible a la
+ dirección indicada arriba.
+
+                     Tuyo en la muerte,
+
+
+                     _vamp_
+
+Message:  1011
+%qdt:
+ He recibido una carta de _vamp_,
+ de %vam, en ___vamp_.
+ Debo reunirme con %g2 en un
+ lugar llamado __vamp_ lo
+ antes posible.
+
+Message:  1012
+<ce>                Buenas noches, pariente. Los necios del
+<ce>                Gremio de Magos han tropezado a ciegas con
+<ce>                algunos hechos escuetos en sus disecciones
+<ce>                sin rumbo. Es poco probable que lleguen a
+<ce>                 alguna parte, pero el mago que lidera la
+<ce>                investigación es al menos lo bastante sabio
+<ce>                como para esconderse. Eso, de por sí, es
+<ce>                suficiente para preocuparnos. Por supuesto,
+<ce>                es inútil esconderse de %vam en cualquier
+<ce>                parte de %reg. _mage_ está en ___mondung_,
+<ce>                 en una especie de laboratorio. Quiero que
+<ce>                consigas las notas de esta investigación y
+<ce>                me las traigas. Tengo entendido que _mage_
+<ce>                lleva las notas encima, bajo la ridícula
+<ce>                idea de que allí están seguras. Ve y hazle
+<ce>                  ver el error de su razonamiento, %pcf.
+
+Message:  1013
+Mi querido y viejo %pcn:
+
+    Siempre que te encuentres en las
+ proximidades de ___mg_, tu presencia
+ en __mg_ sería de lo más eficaz para
+ nuestras necesidades actuales. A cambio
+ de tu apoyo en esta empresa, puedo
+ ofrecerte la gratificación de la prosperidad
+ económica personal y el placer más sublime
+ de ayudar a tus colegas del Gremio de Magos.
+
+     Espero verte muy pronto.
+
+
+
+     Tuyo y todo eso,
+
+
+     _mg_
+
+Message:  1014
+<ce>                     Un mensajero ataviado con túnicas
+<ce>                    de color azul intenso te entrega una
+<ce>                      carta y, tras una reverencia,
+<ce>                                desaparece.
+
+Message:  1015
+<ce>                      ¡Oh, oh, %oth! %pcn, ¿verdad?
+<ce>                    Tengo entendido que eres la persona
+<ce>                   adecuada para esto, al ser lo bastante
+<ce>                    valeroso, vigoroso y, en resumen,
+<ce>                   poderoso para ayudar a _mage_, un
+<ce>                   hechicero que teme que su investigación
+<ce>                  haya atraído la, ah, atención inquisitiva
+<ce>                   de una tribu local de vampiros. El exceso
+<ce>                    de trabajo ha vuelto al pobre hechicero,
+<ce>                    bueno, hipersensible. Si pudieras ir un
+<ce>                    momento a su laboratorio, ___mondung_,
+<ce>                   y traer esas valiosas notas, te estaría
+<ce>                   muy, pero que muy, ah, agradecido. Ten
+<ce>                   cuidado con el viejo _mage_; está un
+<ce>                       poco, ah, agitado, según sé.
+
+Message:  1016
+<ce>                       ¡%oth! ¡Mis valiosas notas!
+<ce>                       ¡Atrás, sangrador! ¡Atrás!
+
+Message:  1017
+<ce>                       ¡Espera un momento! ¿Eres el
+<ce>                        %ra al que se supone que
+<ce>                        debía entregar las notas?
+
+Message:  1018
+<ce>                      Mis sinceras disculpas, %pcn.
+<ce>                   He estado muy nervioso últimamente.
+<ce>                   Aquí tienes las notas. Pero ten mucho
+<ce>                    cuidado. No confíes en nadie. Los
+<ce>                   vampiros de %vam podrían ser cualquiera.
+
+Message:  1019
+%qdt:
+ _mg_ de __mg_, en ___mg_,
+ quiere que vaya a ___mondung_
+ para arrebatar el trabajo de _mage_
+ de sus manos y traerlo a salvo
+ a ___mg_. Aunque _mage_ me espera,
+ puede que esté un poco nervioso...
+ después de todo, cualquiera podría
+ ser un vampiro...
+
+Message:  1020
+Los %vam son la tribu dominante
+ de %reg, aunque de ninguna manera
+ son la tribu dominante de toda la
+ región de la Bahía de Iliac. (Rellenar
+ esto sobre los Montalion, Vrasethi,
+ Ghulari, Selenu, etcétera, bla, bla).
+ Diferentes poderes pero básicamente
+ la misma estructura interna, bla, bla.
+ ¿Cómo se cura uno del vampirismo?
+ (buscar ese libro de "Vampiros de la
+ Bahía de Iliac", referencias a una
+ sociedad de antiguos vampiros). Matar
+ al miembro preeminente del mismo linaje,
+ por lo que he podido deducir de
+ entrevistas personales y demás.
+ (Nota para mí: ese tal =vamp_ en
+ ___vamp_ ha expresado interés en mi
+ trabajo. ¿Posible entrevistado o trampa?).
+ Vampiros infiltrándose en cortes reales,
+ la Hermandad Oscura, incluso el Gremio
+ de Magos en %reg y otros lugares.
+ ¿Está el %t de %reg bajo la influencia
+ de %vam o quizá algo más que eso?
+ Realizar la prueba estándar (pendiente
+ de patente) y ver qué pasa. Necesito
+ pelo de ninfa, un símbolo sagrado,
+ etcétera, etcétera, y que sea fresco
+ esta vez, por el amor de %god. Hablar
+ con _mg_ para aumentar la financiación.
+ No avanzo nada.
+
+Message:  1021
+%qdt:
+ Un hechicero llamado _mage_ ha
+ estado cerca de realizar grandes
+ descubrimientos sobre %vam y _vamp_
+ me ha enviado al laboratorio,
+ ___mondung_, para recuperar las notas.
+ Es probable que _mage_ las lleve
+ encima, como si eso fuera protección
+ suficiente contra mí.
+
+Message:  1022
+<ce>                    ¿Es esto lo que _mage_ quería
+<ce>                   proteger? Las divagaciones sin sentido
+<ce>                    de un loco. Aun así, supongo que no
+<ce>                    es culpa tuya. Aquí tienes _mggold_
+<ce>                    monedas de oro por tu propicio porte.
+
+Message:  1023
+<ce>                    Un joven pálido te entrega una carta
+<ce>                    y huye despavorido como una rata.

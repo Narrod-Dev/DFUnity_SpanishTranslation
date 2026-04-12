@@ -1,0 +1,70 @@
+Quest: M0C00Y14
+DisplayName: Una Plaga de Ratas
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Mi nombre es _qgiver_.
+<ce>             Solo damos trabajos a miembros del gremio. Sin embargo,
+<ce>              de vez en cuando surgen tareas demasiado serviles
+<ce>               como para que las acepten los guerreros del
+<ce>               gremio. Tengo una de esas. Si la aceptas,
+<ce>             demostrarás que realmente quieres estar de nuestra
+<ce>                   parte. ¿Qué me dices al respecto?
+
+RefuseQuest:  [1001]
+<ce>                   Es evidente que no sientes aprecio por
+<ce>                  el Gremio de Guerreros. Me aseguraré de
+<ce>                   decirles lo que piensas en realidad.
+
+AcceptQuest:  [1002]
+<ce>                   Ratas gigantes han infestado _house_.
+<ce>                Puede que haya hasta media docena de ellas.
+<ce>                 Ve allí y acaba con todas; veré qué hilos
+<ce>                puedo mover en tu favor. Solo puedo darte
+<ce>                           un día de plazo.
+
+QuestComplete:  [1004]
+<ce>                    Matar ratas, incluso gigantes, no
+<ce>                   requiere mucha habilidad. Aun así, te
+<ce>                   hace ganar nuestro favor. Buen trabajo.
+
+RumorsDuringQuest:  [1005]
+<ce>                Cierto idiota compró cuatro barriles de
+<ce>                queso. Ahora tiene ratas gigantes en su
+<ce>                            casa.
+
+RumorsPostfailure:  [1006]
+<ce>               Una mujer tuvo que abandonar su hogar. Estaba
+<ce>               invadido por ratas gigantes y no tenía oro
+<ce>                suficiente para pagar al Gremio de Guerreros
+<ce>                         para eliminarlas.
+
+RumorsPostsuccess:  [1007]
+<ce>               He oído que el Gremio de Guerreros envió a
+<ce>               alguien de la estirpe %ra para matar a las
+<ce>               ratas en casa de esa mujer. Ni siquiera le
+<ce>                         cobraron por ello.
+
+QuestorPostsuccess:  [1008]
+<ce>                Así que mataste a las ratas. No te des
+<ce>               demasiados aires. Solo eran ratas.
+
+QuestorPostfailure:  [1009]
+<ce>                No pudiste ni encargarte de unas ratas
+<ce>                 gigantes. No tienes remedio, %pcn.
+
+QuestLogEntry:  [1010]
+El %qdt:
+ El Gremio de Guerreros de
+ ___qgiver_ me ha
+ ofrecido limpiar _house_ de
+ una plaga de ratas gigantes.
+ Tengo un día para lograrlo.
+
+Message:  1011
+<ce>    Este edificio huele terriblemente a ratas.
+<ce>   Tu entrada probablemente las haya alterado.
+
+Message:  1020
+<ce>                Ya van casi todas. El Gremio de
+<ce>               Guerreros no pondrá pegas por el resto.

@@ -1,0 +1,107 @@
+Quest: Z0C00Y00
+DisplayName: La misión de Mephala
+QRC:
+
+QuestorOffer:  [1000]
+<ce>              Podría haber imaginado que seríais vos. Nunca
+<ce>            debería responder a estas convocatorias. Bueno, tal
+<ce>               vez sea natural que un gusano quiera
+<ce>               evolucionar a avispa. Muy bien, %pcf, os
+<ce>             daré poder, pero antes debéis hacer algo por mí.
+<ce>             Necesito que alguien asesine a cierto noble menor
+<ce>             problemático. ¿Puedo confiar en vuestra mano
+<ce>                           para tal tarea?
+
+RefuseQuest:  [1001]
+<ce>                Mejor así. Tengo mejores formas de emplear
+<ce>                 mi tiempo que construyendo una base de poder
+<ce>                 para granujas desagradecidos y perezosos.
+
+AcceptQuest:  [1002]
+<ce>             Bueno, al menos es algo. Podéis encontrar a este
+<ce>                   molesto oficial, _enemy_, en __palace_,
+<ce>              cómodo y seguro en su palacio, o eso cree él.
+<ce>              No sé cómo vais a lograr entrar, pero tal vez
+<ce>              se os ocurra alguna idea. Tal vez. Si no os
+<ce>               matáis en el intento, id a ___qgfriend_ y
+<ce>              organizaré que un sirviente os traiga vuestra
+<ce>              nueva fuente de poder, _artifact_. Le pediré
+<ce>              a mi sirviente _qgfriend_ que os espere durante
+<ce>              =1stparton_ días en __qgfriend_. Por favor,
+<ce>                    no tardéis. Eso es todo.
+
+QuestFail:  [1003]
+<ce>                       ¡No, no, no, no! ¡Primero matáis
+<ce>                         al caballero en __palace_
+<ce>                       y luego venís a verme a mí!
+<ce>                        Por %oth, Mephala tenía razón.
+
+QuestComplete:  [1004]
+<ce>                     Buen día, %pcf, soy _qgfriend_.
+<ce>            Mephala me dijo que podríais aparecer, aunque
+<ce>             expresó dudas sobre vuestras posibilidades de
+<ce>             sobrevivir al encuentro con _enemy_. Bueno, es
+<ce>            una suerte que haya traído la Hoja, entonces,
+<ce>             ¿verdad? Siento si Mephala os dio un mal trato.
+<ce>             Con _enemy_ muerto, ella debería estar de mucho
+<ce>             mejor humor. Y solo por eso, os doy las gracias.
+
+RumorsDuringQuest:  [1005]
+_enemy_ dice que puede encontrar el camino a la sede de la Hermandad Oscura.
+<--->
+La Hermandad Oscura debe de estar aterrorizada con _enemy_ actuando contra ellos.
+
+RumorsPostfailure:  [1006]
+¡La Hermandad Oscura envió a alguien a por _enemy_, pero no pudieron matarlo!
+<--->
+Tras ese intento fallido de asesinato, _enemy_ se ha marchado de __palace_.
+
+RumorsPostsuccess:  [1007]
+_enemy_ debe de haber estado demasiado cerca de encontrar la ubicación del Asilo de Nightside.
+<--->
+Supongo que la Hermandad Oscura se enteró de las ambiciones de _enemy_.
+
+Message:  1011
+_qgfriend_ es esa persona de la clase =qgfriend_ tan estirada que frecuenta __qgfriend_, al %di de aquí.
+<--->
+_qgfriend_ es el nombre de ese =qgfriend_ que está al %di de aquí, en __qgfriend_.
+
+Message:  1012
+_qgfriend_ es uno de los agentes de Mephala en %reg, y opera desde __qgfriend_.
+<--->
+_qgfriend_ es un peón de Mephala; es un =qgfriend_ en __qgfriend_.
+
+Message:  1013
+Mephala es la Regente Daedra del Asesinato y Patrona de la Hermandad Oscura.
+<--->
+Mephala es una de las Princesas de Oblivion cuya esfera es el Asesinato.
+
+Message:  1014
+<ce> El _artifact_ es un artefacto de poder vampírico que drena la vida
+ de su víctima al mismo tiempo que alimenta a su portador.
+
+Message:  1020
+%qdt:
+ He hecho un contrato con una de las Princesas
+ Daedra, Mephala: asesinaré a un oficial llamado
+ _enemy_ y ella me dará un artefacto llamado
+ _artifact_. Su contacto _qgfriend_ me esperará
+ durante =1stparton_ días en __qgfriend_, en
+ ___qgfriend_. La única complicación es que
+ Mephala dice que _enemy_ vive en el palacio de
+ __palace_. Podría ser difícil llegar hasta esa
+ persona.
+
+Message:  1030
+<ce>                        Mephala estaría orgullosa:
+<ce>                        _enemy_ ha muerto. Es hora de
+<ce>                             emprender la huida.
+
+Message:  1040
+<ce>               ¿Quién sois y qué estáis haciendo aquí?
+
+Message:  1041
+<ce>           Vosotros, los asesinos sigilosos, sois todos
+<ce>           iguales. Por eso decidí buscarme algo de
+<ce>           protección real. ¡=bodyguard_! Despierta,
+<ce>           pedazo de alcornoque. ¡Mata!

@@ -1,0 +1,172 @@
+Quest: K0C00Y04
+DisplayName: Dos cobardes
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 Me encuentro en una situación embarazosa,
+<ce>                       me temo. _lover_ y yo hemos
+<ce>                tenido... un entendimiento, pero la pareja de %g3
+<ce>                 está siendo molestamente anticuada
+<ce>                 al respecto. Me han desafiado a un
+<ce>                     duelo. Por suerte, _competitor_,
+<ce>                 ese es el nombre de mi rival, no sabe
+<ce>                 cómo soy. Podrías hacerte pasar
+<ce>                 por mí. Por _gold_ piezas de oro,
+<ce>                      ¿lo harías? Te lo agradecería mucho.
+                                     <--->
+<ce>                        Este =competitor_ aquí
+<ce>                   en %cn me ha enviado un desafío. Creo
+<ce>                  que se ha corrido la voz de que
+<ce>                 he arruinado el honor de la pareja de %g3,
+<ce>                        _lover_. No es que la mayoría
+<ce>                     de %reg no haya estado antes con
+<ce>                       el viejo _lover_. Básicamente,
+<ce>                necesito a alguien como tú para que
+<ce>                   se haga pasar por mí en el duelo.
+<ce>                   ¿Te interesan _gold_ piezas de oro?
+
+RefuseQuest:  [1001]
+<ce>                      ¿No? Qué lástima. Bueno,
+<ce>                     probablemente debería buscar a alguien
+<ce>                        que se parezca más a mí
+<ce>                                de todos modos.
+
+AcceptQuest:  [1002]
+<ce>                      Excelente, %pcf. Lleva esta
+<ce>                     respuesta a _competitor_. Lo
+<ce>                    encontrarás en __competitor_.
+<ce>                   Te esperaré de vuelta en =queston_
+<ce>                      días, victorioso, para darte
+<ce>                        tu merecida recompensa. Buena suerte,
+<ce>                              amigo.
+
+QuestComplete:  [1004]
+<ce>                    El honor ha sido restaurado, ¿eh,
+<ce>                        mi buen %ra? Aquí tienes tus _gold_
+<ce>                   piezas de oro. Y ahora, debería ir
+<ce>                          a visitar a _lover_
+<ce>                  y contarle la historia... con
+<ce>                   ciertas modificaciones, por supuesto.
+
+RumorsDuringQuest:  [1005]
+Dicen que _lover_ ha causado más muertes que cualquier plaga.
+<--->
+El último amante de _lover_ murió en brazos de %g3, intentando satisfacer su... apetito.
+<--->
+Si _lover_ descubre que están organizando un duelo por %g2... %oth, será el fin.
+
+RumorsPostfailure:  [1006]
+_lover_ también ha dejado a _competitor_ y a _qgiver_.
+<--->
+Se acabó todo entre _lover_, _competitor_ y _qgiver_.
+
+RumorsPostsuccess:  [1007]
+_lover_ y _qgiver_ están juntos otra vez. Es tan romántico.
+<--->
+_qgiver_ mató a un =competitor_, todo por el amor de _lover_.
+
+QuestorPostsuccess:  [1008]
+Será un honor ayudarte, %pcf. Y todos sabemos de honor, ¿no?
+
+QuestorPostfailure:  [1009]
+¡Se suponía que debías hacerte pasar por mí, idiota! ¿O no lo recuerdas?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_
+ de __qgiver_, ___qgiver_
+ ha sido desafiado a un duelo y me ha
+ enviado a hacerme pasar por %g2. Debo
+ llevar su respuesta al desafío de _competitor_
+ y luchar en el duelo. Puedo encontrar a este
+ _competitor_ en __competitor_
+ aquí en ___competitor_. Después
+ del duelo, debo regresar y cobrar mi
+ recompensa de _qgiver_ en
+ __qgiver_. Todo por el
+ amor de _lover_.
+
+Message:  1011
+<ce>                      Yo, _qgiver_ de ___qgiver_,
+<ce>                   respondo por la presente a tu desafío.
+<ce>                                    
+<ce>                  Según mi derecho bajo las reglas formales
+<ce>                   del combate, elegiré el lugar
+<ce>                  donde nos encontraremos. Ese lugar es
+<ce>                       aquí y el momento es ahora.
+<ce>                                    
+<ce>                   Este acuerdo es legalmente vinculante.
+<ce>                    Rechazarlo sin disculpa formal
+<ce>                     supone renunciar al honor para siempre.
+<ce>                                    
+<ce>                        _qgiver_ de ___qgiver_
+
+Message:  1012
+<ce>                       Eh... ¿eres _qgiver_? Tú
+<ce>                 debes estar buscando a la otra persona
+<ce>                         llamada _competitor_, un
+<ce>                      auténtico, eh, _duelist_ duro.
+<ce>                      Lo encontrarás en _arena_.
+<ce>                        Buena suerte, _qgiver_.
+<ce>                             ¡Espero que ganes!
+                                     <--->
+<ce>                        Si eres _qgiver_...
+<ce>                       %oth, te veré en
+<ce>                       _arena_. Déjame solo,
+<ce>                       eh, ponerme mi atuendo de
+<ce>                       _duelist_. ¡Adiós!
+
+Message:  1013
+<ce>                          Estás en _arena_,
+<ce>                      donde _competitor_ dijo que %g
+<ce>                            te encontraría.
+
+Message:  1014
+<ce>                       Bajo la apariencia de _qgiver_,
+<ce>                     has derrotado a un _duelist_ bajo
+<ce>                      la apariencia de _competitor_.
+<ce>                     Solo debes regresar con
+<ce>                      quien te contrató y el honor
+<ce>                               será restaurado.
+
+Message:  1015
+<ce>                  ¡Esto es absurdo! Por un lado,
+<ce>                       _competitor_ es un completo
+<ce>                      patán por desafiar a _qgiver_
+<ce>                a un duelo. Por otro, qué cobarde
+<ce>                        es _qgiver_ por enviarte
+<ce>                  en su lugar. Gracias por traerme esto.
+<ce>                  Ninguno de los dos me tendrá, pero tú
+<ce>                 puedes quedarte con _lovgold_ piezas de oro,
+<ce>                       ya que ese necio prometió pagarte.
+                                     <--->
+<ce>                 ¡Esto es demasiado romántico! Imagina —
+<ce>                       _competitor_ y _qgiver_
+<ce>               destrozándose mutuamente por alguien como yo.
+<ce>                   %oth, aunque es un gesto considerado,
+<ce>                no puedo permitirlo. Me marcharé de ___lover_
+<ce>                       para siempre, pero antes acepta
+<ce>                  _lovgold_ piezas de oro en lugar de
+<ce>                   lo que _qgiver_ te ofreció. No puedo permitir
+<ce>             que te quedes sin nada porque no habrá duelo.
+<ce>                         Que te vaya bien, %pcf.
+                                     <--->
+<ce>                A ver si entiendo. Ese idiota de
+<ce>                      _competitor_ está celoso de
+<ce>                        mí y de _qgiver_ y ha
+<ce>              desafiado a %g2 a un duelo. ¿Y ese maldito
+<ce>                     cobarde de _qgiver_ te ha enviado
+<ce>               para hacerte pasar por %g2 en este duelo?
+<ce>               ¿Cómo no voy a dejar de quererlos?
+<ce>                 Yo me encargaré de esto. Aquí tienes
+<ce>                 _lovgold_ piezas de oro en lugar de lo que
+<ce>                         _qgiver_ te ofreció.
+<ce>                        No habrá duelo.
+
+Message:  1016
+%qdt:
+ _competitor_ salió corriendo cuando
+ le entregué la respuesta a su desafío.
+ El duelo aún debe tener lugar,
+ de una forma u otra,
+ en _arena_ aquí en __arena_.

@@ -1,0 +1,68 @@
+Quest: B0C00Y10
+DisplayName: Problemas con Orcos
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Soy _qgiver_. Tú no eres
+<ce>                  miembro de esta orden de caballería.
+<ce>                 Aún no estamos seguros de poder confiar
+<ce>                  en ti. Si mataras al líder
+<ce>                  de la banda de orcos bandidos que está causando
+<ce>                  problemas en nuestra zona, podría cambiar nuestra opinión.
+<ce>                 ¿Tienes el valor para ese trabajo?
+
+RefuseQuest:  [1001]
+<ce>                        ¿Por qué no me sorprende?
+<ce>                      Vuelve cuando estés listo
+<ce>                          para ganarte nuestro respeto.
+
+AcceptQuest:  [1002]
+<ce>                     Mata a tantos orcos como puedas,
+<ce>                       pero asegúrate de matar a su
+<ce>                           líder, =monster_.
+<ce>                     Esa asquerosa banda se esconde en
+<ce>                         ___dungeon_. Si no regresas
+<ce>                      en =2dung_ días, sabré que eres
+<ce>                      el cobarde que todos dicen que eres.
+
+QuestComplete:  [1004]
+<ce>                    Hmmm. Tal vez deberíamos considerar
+<ce>                     darte membresía. Nada mal,
+<ce>                           %pcn.
+
+RumorsDuringQuest:  [1005]
+Esa tribu de orcos ha eludido a los caballeros hasta ahora.
+<--->
+Esa tribu de orcos estaría perdida sin su líder.
+
+RumorsPostfailure:  [1006]
+Los orcos volverán. Su líder sigue vivo.
+
+RumorsPostsuccess:  [1007]
+Un %ra apareció de la nada, mató al líder orco y se fue.
+
+QuestorPostsuccess:  [1008]
+¿Qué puedo hacer por ti, mata orcos?
+
+QuestorPostfailure:  [1009]
+No vales mi tiempo, amante de orcos.
+<--->
+¿Por qué hablaría con un miserable amante de orcos?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de
+ la orden de caballería en ___qgiver_
+ me dio la tarea de acabar
+ con una banda de orcos que tiene
+ su base en ___dungeon_.
+ En particular debo eliminar
+ al líder, un tal =monster_.
+ Necesito regresar con %g2 en
+ =2dung_ días o %g asumirá
+ que estoy muerto.
+
+Message:  1011
+<ce>                          =monster_ ha muerto.
+<ce>                      Sin un líder, estos orcos
+<ce>                  nunca serán más que una molestia.

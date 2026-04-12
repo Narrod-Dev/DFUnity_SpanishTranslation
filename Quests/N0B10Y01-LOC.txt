@@ -1,0 +1,99 @@
+Quest: N0B10Y01
+DisplayName: Caza de atronachs
+QRC:
+
+QuestorOffer:  [1000]
+<ce>          Resulta vergonzoso, pero uno de nuestros experimentos
+<ce>            ha escapado prematuramente de nuestro laboratorio.
+<ce>              Peor aún, se fue antes de ser alimentado, por lo
+<ce>               que sin duda estará de mal humor. Por suerte,
+<ce>                es una criatura prescindible, un atronach
+<ce>                 común. Por otro lado, no necesitamos que
+<ce>                 nuestra reputación se vea manchada por el
+<ce>                frenesí de un atronach enloquecido. Si tienes
+<ce>                voluntad para rastrear a la pobre bestia y
+<ce>                 poner fin a su miseria, y a la nuestra,
+<ce>                podríamos ofrecerte, digamos, _reward_
+<ce>                      oro a cambio. ¿Te interesa?
+                                     <--->
+<ce>                A decir verdad, hemos tenido algo de agitación
+<ce>                en este aburrido lugar últimamente. En una clase
+<ce>                 rutinaria sobre atronachs, uno de los sujetos
+<ce>                  logró... bueno, los detalles no son
+<ce>                   importantes. Lo que sí lo es, es que hay un
+<ce>                     atronach suelto en %reg
+<ce>               que puede rastrearse fácilmente hasta este Gremio
+<ce>                y nuestra mala gestión. Eres alguien capaz
+<ce>                   de poner fin a este asunto con el
+<ce>                     mínimo de vergüenza, ¿verdad?
+
+RefuseQuest:  [1001]
+<ce>                Una lástima, desde luego. En fin, supongo
+<ce>                   que alguien con más espíritu aventurero nos ayudará.
+
+AcceptQuest:  [1002]
+<ce>                   ¿Lo harás? %oth, qué alivio. La
+<ce>                miserable criatura parece haberse instalado
+<ce>                en un sucio y pequeño agujero que llaman
+<ce>                    ___mondung_. Por el bien de nuestra
+<ce>                 reputación, es esencial que esto se haga
+<ce>                  rápido y en silencio; si no logras
+<ce>               despachar al atronach en =1stparton_
+<ce>                días, no te molestes en volver por tu
+                           recompensa. Buen día.
+
+QuestFail:  [1003]
+<ce>                 ¿Acaso llevo un sombrero ridículo y
+<ce>                sonrío de forma estúpida? ¿No? ¿Entonces
+<ce>                 por qué me tomas por alguien idiota? Sé
+<ce>                  perfectamente que el atronach sigue vivo.
+<ce>                   En el futuro, no pidas trabajos que no
+<ce>                         puedas o no quieras cumplir.
+
+QuestComplete:  [1004]
+<ce>               ¡Aquí llega quien caza! Nos has ahorrado una
+<ce>                  considerable incomodidad con tu rápida
+<ce>                solución a nuestra crisis con el atronach.
+<ce>                  Un trabajo de primera clase, sin duda.
+                    Acepta tu oro y mi gratitud.
+
+RumorsDuringQuest:  [1005]
+He oído que algo escapó del laboratorio del Gremio de Magos la otra noche.
+<--->
+%oth, vi una silueta acechando en las sombras justo en ese momento.
+
+RumorsPostfailure:  [1006]
+Bueno, hay un pequeño escándalo sobre la seguridad del laboratorio del Gremio de Magos.
+<--->
+Parece que el Gremio de Magos ha perdido otro experimento.
+
+RumorsPostsuccess:  [1007]
+¡He oído que descubrieron que ese atronach fue creado con el alma del hermano de %t!
+<--->
+Mucha gente se siente más segura sabiendo que ese atronach ha muerto.
+<--->
+¿Todo el mundo está hablando de ese atronach que %ra cazó?
+
+QuestorPostsuccess:  [1008]
+No me he olvidado de la crisis del atronach, si eso es lo que te preocupa.
+
+QuestorPostfailure:  [1009]
+<ce>                  Te envié a detener a ese atronach y
+<ce>                      fallaste. Sin excusas, %pcf.
+<ce>                    Déjame a solas con mi melancolía.
+
+QuestLogEntry:  [1010]
+<ce>                       "Preferiría morir antes que
+<ce>                        volver al laboratorio del
+<ce>                       Gremio de Magos". La vida se
+<ce>                        desvanece de los ojos del atronach.
+
+Message:  1020
+%qdt:
+ El Gremio de Magos de ___questgiver_
+ me ha contratado para encontrar a un atronach
+ que escapó de su laboratorio.
+ Se ha guarecido en ___mondung_.
+ Debo acabar con la criatura y estar de vuelta
+ en ___questgiver_ en =1stparton_ días.
+ 

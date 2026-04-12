@@ -1,0 +1,66 @@
+Quest: N0B30Y15
+DisplayName: Diablillo Rebelde
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Mi nombre es _questgiver_.
+<ce>                     Necesitamos a alguien que mate a un
+<ce>                   diablillo rebelde por nosotros. ¿Te
+<ce>                   interesa? El trabajo paga _gold_ oro.
+
+RefuseQuest:  [1001]
+<ce>                                Una lástima.
+                                     <--->
+<ce>                                 Qué pena.
+                                     <--->
+<ce>                      Ya veo. Pues lárgate a otra parte
+<ce>                             entonces, %pcn.
+
+AcceptQuest:  [1002]
+<ce>                      Buena actitud, %pcn. Hay una
+<ce>                    cosa que no te he mencionado. Este
+<ce>                   diablillo era el familiar de un mago
+<ce>                    de muy alto rango. Parece ser que
+<ce>                   cayó en un hechizo experimental y ha
+<ce>                  sido imbuido con todo tipo de poderes
+<ce>                   mágicos. Encontrarás a la criatura
+<ce>                      en _palace_ de __palace_.
+<ce>                   Al parecer, cree que es apto para
+<ce>                   gobernar. Ten cuidado, %pcn. Si no
+<ce>                 vuelves en =traveltime_ días, asumiremos
+<ce>                            que has muerto.
+
+QuestComplete:  [1004]
+<ce>                   Un pequeño mendigo difícil, ¿eh?
+<ce>                  Bueno, ciertamente has ganado tu paga.
+
+RumorsDuringQuest:  [1005]
+Algo está pasando en _palace_ de __palace_. Algo extraño.
+<--->
+Todo el mundo en __palace_ se pregunta qué está pasando allí en _palace_.
+
+RumorsPostfailure:  [1006]
+Alguna clase de criatura salió volando de _palace_ de __palace_ hacia el sur.
+
+RumorsPostsuccess:  [1007]
+Gracias a %god que esa persona mercenaria %ra estaba en __palace_ para matar a ese diablillo.
+<--->
+Ese diablillo podría haber causado mucho daño en __palace_ si %ra no hubiera ayudado.
+
+QuestorPostsuccess:  [1008]
+No te he olvidado, %pcf. Eres quien mató a ese molesto diablillo.
+
+QuestorPostfailure:  [1009]
+<ce>                    __palace_ casi fue destruido
+<ce>                  por ese diablillo, y no hiciste nada
+<ce>                    para ayudar. Eso, para mí, es
+<ce>                      bastante despreciable, %pcf.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _questgiver_ del Gremio
+ de Magos de ___questgiver_ me ha
+ encomendado la tarea de destruir
+ a un diablillo rebelde. La bestia
+ acecha en _palace_ de __palace_.
+ Tengo =traveltime_ días para lograrlo.

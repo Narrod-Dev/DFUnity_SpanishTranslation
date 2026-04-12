@@ -1,0 +1,89 @@
+Quest: Q0C00Y06
+DisplayName: Problemas con Vampiros
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  Me temo que tenemos un problema.
+<ce>                 Un antiguo vampiro que odia a las
+<ce>                  brujas se ha instalado en un castillo
+<ce>                  abandonado en nuestro territorio. Es
+<ce>                   una situación que debemos remediar,
+<ce>                        ¿no crees tú, %pcf?
+
+RefuseQuest:  [1001]
+<ce>                    Puedo entender tu temor. Solo
+<ce>                   alguien muy capaz o muy necio
+<ce>                    aceptaría dar caza a un vampiro
+<ce>                               anciano.
+
+AcceptQuest:  [1002]
+<ce>                    ¿Lo harías? Aun así, un vampiro
+<ce>                   anciano no es un adversario débil.
+<ce>                    No vayas a la batalla sin haberte
+<ce>                     preparado. Esta criatura se llama
+<ce>                             =vamprival_,
+<ce>                   y su nuevo santuario es ___mondung_.
+<ce>                    Lo encontrarás en ____mondung_.
+<ce>                     Espero tu regreso aquí dentro de
+<ce>                      =1stparton_ noches. No permitas
+<ce>                        que te maten, %pcf.
+
+QuestFail:  [1003]
+<ce>                      ¿Quizás esperabas que
+<ce>                        =vamprival_ se
+<ce>                       suicidara? Improbable.
+<ce>                       Debes ser tú quien ejecute
+<ce>                           la muerte de %g3.
+
+QuestComplete:  [1004]
+<ce>                  Casi pudimos oír los gritos de ese
+<ce>                   ser anciano desde aquí, %pcf.
+<ce>                  Tienes la gratitud de las brujas.
+
+RumorsDuringQuest:  [1005]
+Ha habido mucha actividad en ___mondung_, pero ha estado abandonado por años.
+<--->
+Ese tal =vamprival_ es de la aristocracia. Dicen que %g está limpiando ___mondung_ y %reg.
+
+RumorsPostfailure:  [1006]
+He oído que =vamprival_ finalmente se mudó de ___mondung_. No es lugar para un noble.
+<--->
+Ahora que =vamprival_ se fue de ___mondung_, se ve mucho a %g por el palacio.
+
+RumorsPostsuccess:  [1007]
+¡Resulta que el amable =vamprival_ era un vampiro! ¡No tenía ni idea!
+<--->
+Gracias a %god que alguien tan increíble como %ra acabó con el vampiro de ___mondung_.
+
+QuestorPostsuccess:  [1008]
+No hemos olvidado lo de =vamprival_, %pcf. ¿Qué podemos hacer por ti?
+
+QuestorPostfailure:  [1009]
+<ce>                         =vamprival_ aún camina
+<ce>                  por la noche, alimentándose de nuestras
+<ce>                  hermanas. Deberías haber dicho que no
+<ce>                   podías derrotarle. Márchate de aquí.
+<ce>                    No deseamos hablar más contigo.
+
+Message:  1011
+_witch_ es alguien muy amable e inteligente en __witch_.
+<--->
+_witch_ es esa persona dedicada a la brujería que hallarás en __witch_, al %di de aquí.
+
+Message:  1012
+_witch_ pertenece al aquelarre de ___witch_.
+<--->
+_witch_ es de ___witch_, alguien con artes de brujería.
+
+Message:  1015
+%qdt:
+ _witch_ de
+ ___witch_ me ha enviado a matar
+ a un vampiro anciano que busca destruir
+ a las brujas de %reg. He
+ prometido que la criatura no muerta
+ de ___mondung_ estará muerta para siempre
+ en =1stparton_ días y volveré a ___witch_.
+
+Message:  1020
+<ce>                        Has abatido a =vamprival_.

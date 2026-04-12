@@ -1,0 +1,95 @@
+Quest: Q0C4XY04
+DisplayName: El Corazón del Daedra
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 ==questgiver_ debe acudir una vez
+<ce>                 más a tu bondad y tu fuerza. Para
+<ce>                  nuestra magia necesitamos el corazón
+<ce>                  de un daedra, pero el corazón debe
+<ce>                  ser extraído recientemente y por ti.
+<ce>                   ¿Podrías buscar y matar a un daedra
+<ce>                      para tus queridas tías?
+
+RefuseQuest:  [1001]
+<ce>                       ¿No? Oh, noche de pesar.
+
+AcceptQuest:  [1002]
+<ce>                  La Diosa nos sonríe, %pcn, pues
+<ce>                 hay una mazmorra cerca con una plaga
+<ce>                 daédrica. Nos sirve cualquier corazón
+<ce>                 de daedra, salvo el de un Lord, pues
+<ce>                 esos están podridos de gusanos. Ve a
+<ce>                   ___mondung_, %pcn, mata para
+<ce>                 nosotras a un daedra y tráelo antes
+<ce>                 de que el sol se ponga en =1stparton_
+<ce>                            días.
+
+QuestFail:  [1003]
+<ce>                        El corazón, %pcn,
+<ce>                        está en ___mondung_,
+<ce>                     en el pecho de un daedra.
+<ce>                       No lo busques aquí.
+
+QuestComplete:  [1004]
+<ce>                 ¡Mira, observa cómo todavía humea y
+<ce>                   late en la mano ensangrentada de
+<ce>                 %pcn! A la sopa salobre va, antes de
+<ce>                 que pierda su calor. Ah, %pcn, toma
+<ce>                   esta recompensa de _reward_ por
+<ce>                        las molestias.
+<ce>                Eres alguien muy noble con nosotras.
+
+RumorsDuringQuest:  [1005]
+Los daedra de ___mondung_ deben de tramar algo. ¡Qué congregación!
+<--->
+%god nos ha maldecido. ¿Por qué otra razón habrían caído los daedra sobre ___mondung_?
+
+RumorsPostfailure:  [1006]
+Alabado sea %god, los daedra han abandonado ___mondung_. ¡No he podido dormir en noches!
+<--->
+Los daedra dejaron ___mondung_ tan misteriosamente como llegaron. Buen viaje les deseo.
+
+RumorsPostsuccess:  [1007]
+Cuando las estrellas se oscurecen como anoche, es para marcar la muerte de un daedra.
+<--->
+¿Oíste música en el bosque anoche? Las brujas deben de estar celebrando algo.
+
+QuestorPostsuccess:  [1008]
+Amistad de ==questgiver_, ¿cómo te va con tu recompensa de _reward_?
+
+QuestorPostfailure:  [1009]
+<ce>                  Esperábamos un corazón para nuestro
+<ce>                   guiso, %pcf. Si tenías demasiado
+<ce>                   trabajo, debiste decírnoslo. Teníamos
+<ce>                   planes hechos que hubo que destruir.
+<ce>                   Eres nuestra amistad, pero aun así...
+<ce>                         estamos con pesar.
+
+Message:  1011
+_questgiver_ es alguien con el rango de =questgiver_ y pertenece a ==questgiver_.
+<--->
+Es una de las brujas que habitan en %reg.
+
+Message:  1012
+He oído que ___mondung_ es una guarida de vampiros.
+<--->
+La gente de la noche vive en ___mondung_. Nunca salen durante el día.
+<--->
+¿___mondung_? ¿No es eso una fortaleza de orcos?
+<--->
+Los muertos vivientes deambulan por los pasillos de ___mondung_. Yo me mantendría lejos.
+
+Message:  1015
+%qdt:
+ _questgiver_ de
+ ==questgiver_ me ha enviado a
+ ___mondung_ para tomar el corazón
+ de un daedra de cualquier seductora,
+ daedroth, o daedra de fuego o escarcha.
+ El corazón debe estar de vuelta en
+ ___questgiver_ en =1stparton_ días o menos.
+
+Message:  1040
+<ce>                  Extraes un corazón perfecto del
+<ce>                   cadáver que aún se estremece.

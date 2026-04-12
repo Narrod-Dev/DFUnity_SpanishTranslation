@@ -1,0 +1,92 @@
+Quest: Y0C00Y00
+DisplayName: La misión de Mehrunes Dagon
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                ¿Así que queréis poder? Sí, muchos codician
+<ce>                 el poder, sí, pero muy pocos saben por qué.
+<ce>                  ¿Queréis _artifact_? Es muy especial,
+<ce>                  _artifact_. Muy agradable, sí, sí. Solo
+<ce>                 haced una cosa, y lo tendréis, mmmm. Tengo
+<ce>                 un vástago que necesita ser castigado, sí.
+<ce>                  Haréis esto por el encantador, el muy
+<ce>                   encantador _artifact_, ¿verdad?
+
+RefuseQuest:  [1001]
+<ce>                ¡Scruh! ¡Criatura mortal dice no a Mehrunes
+<ce>                Dagon! Criatura mortal, sabed que vuestro
+<ce>                tiempo no significa nada para Dagon; él
+<ce>                recuerda el insulto, sí. Hamita es demasiado
+<ce>                oscuro para Criatura mortal, no, yo...
+<ce>                      os... recordaré... %pcn.
+
+AcceptQuest:  [1002]
+<ce>               Mmm, Criatura mortal valiente, bueno, bueno.
+<ce>                Ahora, id a ___mondung_, matad al daedra
+<ce>                de escarcha allí. Cree que está a salvo, ja,
+<ce>                masacraremos su carne gélida por todas partes.
+<ce>                Matadlo e id a ver a =contact_, %g2
+<ce>                 _contact_ en __tavern_. Tengo el muy bueno,
+<ce>                bueno _artifact_ para vos. Matad al daedra
+<ce>                de escarcha y ved a _contact_ antes de que
+<ce>                pasen =1stparton_ noches mundanas.
+<ce>                      Id ahora, %pcn. Dagon espera.
+
+QuestFail:  [1003]
+<ce>                         Hola. ¿%pcn, supongo?
+<ce>                      Soy _contact_. Si me permitís un
+<ce>                consejo: Mehrunes Dagon puede parecer un sapo
+<ce>                sin seso, pero no lo es. Él sabe que el daedra
+<ce>                de escarcha aún no ha muerto, y haríais bien
+<ce>                      en cumplir vuestro contrato con él.
+
+QuestComplete:  [1004]
+<ce>                         Ah, vos sois %pcn, ¿sí?
+<ce>                      Aquí _contact_. Tengo entendido que
+<ce>                corregisteis con éxito a uno de los vástagos
+<ce>                extraviados de Mehrunes Dagon. Excelente.
+<ce>                Bueno, aquí tenéis _artifact_, tal como se
+<ce>                os prometió. Disfrutadlo. No creo que volvamos
+<ce>                      a vernos. Adiós.
+
+RumorsDuringQuest:  [1005]
+Soplan vientos fríos desde la dirección de ___mondung_.
+<--->
+Hace bastante más frío últimamente.
+
+RumorsPostfailure:  [1006]
+Un =contact_ loco pasó por aquí, gritando sobre alguien de la clase %ra que va de aventurero.
+<--->
+Las estrellas de Mehrunes Dagon brillan intensamente esta noche.
+
+RumorsPostsuccess:  [1007]
+Hace bastante más calor de lo que ha hecho últimamente.
+<--->
+El clima ya no es tan mordaz como solía serlo.
+
+Message:  1011
+Mehrunes Dagon es el Señor de la Destrucción, el más violento de los Daedra.
+<--->
+Dagon parece un bruto ignorante, pero en realidad es bastante astuto.
+
+Message:  1012
+Cierto =contact_ muy inquietante llamado _contact_; lo vi en _tavern_.
+<--->
+Al %di de aquí hay un lugar llamado _tavern_. Buscad allí.
+
+Message:  1013
+<ce>                 No tengo ni idea de qué hace _artifact_.
+
+Message:  1020
+%qdt: 
+ El Príncipe Daédrico Mehrunes Dagon quiere
+ que mate a un daedra de escarcha en
+ ___mondung_. Una vez completada la
+ exterminación, tengo =1stparton_ días
+ para reunirme con _contact_ y recibir
+ _artifact_ por haber matado al daedra de
+ escarcha para Mehrunes Dagon. Me esperará
+ en _tavern_, en __tavern_.
+
+Message:  1030
+La presa de Dagon regresa a Oblivion.

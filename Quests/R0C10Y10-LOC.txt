@@ -1,0 +1,76 @@
+Quest: R0C10Y10
+DisplayName: Suministro de Armas
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Si te interesa ganar _reward_ piezas de
+<ce>                    oro por no hacer nada más que
+<ce>                    entregar un pequeño paquete a un
+<ce>                      agente mío, dilo ahora mismo.
+                                     <--->
+<ce>                Me vendrían bien los servicios de alguien
+<ce>                con talento moderado, discreción por encima
+<ce>                 de la media y disposición para asumir el
+<ce>                puesto de mensajería humilde por _reward_
+<ce>                    piezas de oro. ¿Eres esa persona?
+
+RefuseQuest:  [1001]
+<ce>                  ¿En serio? ¿Demasiado orgullo, quizá?
+<ce>                             Tú te lo pierdes.
+
+AcceptQuest:  [1002]
+<ce>                      Excelente. Aquí tienes el _weapon_.
+<ce>                    Ahora, _contact_ necesita tenerlo
+<ce>                      en ___contact_ en =queston_
+<ce>            días. Eso debería ser tiempo suficiente, espero.
+<ce>                    Reconocerás a _contact_ --
+<ce>                        simplemente busca a un =contact_.
+<ce>                        Buena suerte y gracias.
+
+QuestFail:  [1003]
+<ce>             ¿No pudiste cumplir con una entrega tan simple,
+<ce>               %pcf? Ciertamente espero que no estuvieras
+<ce>                         esperando una recompensa.
+
+QuestComplete:  [1004]
+<ce>                    Ah, me alegra verte, %pcf. Y el
+<ce>                  _weapon_ también. Excelente. Aquí tienes
+<ce>                 las _reward_ piezas de oro que creo que
+<ce>                        te prometió _questgiver_.
+
+RumorsDuringQuest:  [1005]
+He oído que _questgiver_ sigue en el negocio del contrabando.
+<--->
+Ha habido un aumento extraordinario del contrabando últimamente.
+
+RumorsPostfailure:  [1006]
+Alguien encontró un _weapon_ muy interesante por aquí hace poco.
+<--->
+He oído que _questgiver_ tiene un cabreo monumental con alguien de la estirpe %ra.
+
+RumorsPostsuccess:  [1007]
+Alguien de nombre _contact_ ha estado presumiendo de un _weapon_.
+<--->
+Al parecer, el contrabando de artefactos religiosos es el nuevo gran crimen.
+
+QuestorPostsuccess:  [1008]
+Oh, pero si es mi antiguo correo. Qué encanto. ¿En qué puedo ayudarte?
+<--->
+Me resultas familiar. Hiciste una pequeña entrega para mí hace poco, ¿verdad?
+
+QuestorPostfailure:  [1009]
+<ce>                      Te pareces muchísimo a alguien
+<ce>                       de la estirpe %ra que me falló
+<ce>                      en una entrega. Curioso. Lárgate.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _questgiver_ de
+ __questgiver_, ___questgiver_
+ me ha enviado a entregar un _weapon_
+ a una alianza llamada _contact_.
+ Necesito que el _weapon_ esté en manos
+ de _contact_ en =queston_
+ días. Al parecer, se puede encontrar
+ a la persona (=contact_) en un lugar llamado
+ __contact_ en ___contact_.

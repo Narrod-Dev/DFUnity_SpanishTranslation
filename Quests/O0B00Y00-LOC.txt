@@ -1,0 +1,99 @@
+Quest: O0B00Y00
+DisplayName: Una Piedra Caliente
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Escucha, %pcf, alguien de nuestra
+<ce>                  familia tiene problemas. ¿Tienes
+<ce>                   un par de días para ayudar a un
+<ce>                        miembro de la familia?
+
+RefuseQuest:  [1001]
+<ce>                   Está bien. Supongo que confías
+<ce>                   en no verte nunca en un aprieto
+<ce>                         por tu propia cuenta.
+
+AcceptQuest:  [1002]
+<ce>                Bien %ra. Tenemos a alguien con gran
+<ce>                talento para el robo en ___contact_
+<ce>               que se oculta en un nido de ratas llamado
+<ce>                __contact_. Encima de su persona lleva
+<ce>               una piedra caliente que %g robó del palacio.
+<ce>                Corre el rumor de que alguien la vio en
+<ce>                posesión de %g2, y la guardia vigila el
+<ce>               lugar. Por respeto a quien sea titular de
+<ce>               __contact_, esperarán =1stparton_ días
+<ce>                antes de entrar. Ve hasta __contact_
+<ce>                 y entrega a _contact_ este trozo de
+<ce>               _metal_ a cambio de las _gems_, y luego
+<ce>                tráelas de vuelta. ¿Entiendes? Bien.
+<ce>                  Ahora date prisa, no hay tiempo.
+
+QuestFail:  [1003]
+<ce>                   Me alegra verte, %pcf, pero no
+<ce>                 deberías venir con las manos vacías.
+<ce>                   Se supone que traerías las _gems_,
+<ce>                           ¿lo recuerdas?
+
+QuestComplete:  [1004]
+<ce>                 Buen trabajo, %pcf. Me dicen que
+<ce>                 _contact_ mostró a la guardia el
+<ce>               trozo de _metal_ que confundieron con
+<ce>                unas _gems_, y le invitaron a una copa
+<ce>               como disculpa. Te lo digo, no hay vida
+<ce>                como la de un bribón. Aquí tienes tu
+<ce>                parte por las _gems_: _reward_ de oro.
+<ce>                     Te lo has ganado, %pcf.
+
+RumorsDuringQuest:  [1005]
+Bueno, todo el mundo sabe que _contact_ robó esa joya. ¿Por qué no van a por %g2?
+<--->
+Hay mucha gente importante en __contact_. La guardia no es bienvenida allí.
+
+RumorsPostfailure:  [1006]
+La guardia atrapó finalmente a _contact_. Supongo que %g no podía resistir para siempre.
+<--->
+Sí, encontraron las _gems_ de %t y arrestaron a =contact_.
+
+RumorsPostsuccess:  [1007]
+Tuvieron que dejar libre a _contact_ después de todo. Resulta que %g era inocente.
+<--->
+¿Pero cómo se puede confundir _metal_ con unas _gems_? Ambas son piedras, ¡pero por favor!
+
+QuestorPostsuccess:  [1008]
+¿Qué pasa, %pcf? ¿Quieres que te devuelva las _gems_? ¡Seguro que sí!
+
+QuestorPostfailure:  [1009]
+<ce>                   ¿No recuerdas que debías traer
+<ce>                esas _gems_ de _contact_ y entregarle
+<ce>                 a %g2 el _metal_ que te di? ¡Por %oth!
+<ce>                 Cualquiera diría que es ingeniería.
+
+QuestLogEntry:  [1010]
+<ce>                Por %oth, %pcf, me salvas la vida.
+<ce>                 Resulta que alguien me vio con las
+<ce>              _gems_ y creen que es la gema robada. Este
+<ce>               trozo de _metal_ será mi salvoconducto.
+<ce>                Recuérdame que te invite a algo luego.
+<ce>                  Ahora vuelve pronto con _questgiver_.
+<ce>                Sospecharán mucho si no regresas en
+<ce>                        =1stparton_ días.
+
+Message:  1015
+%qdt:
+ _questgiver_ del
+ Gremio de Ladrones en ___questgiver_
+ me ha enviado a ___contact_,
+ a un antro llamado __contact_.
+ Llevo un _metal_ que debo
+ entregar a _contact_ a cambio de
+ la piedra robada con la que vieron
+ a %g. Tengo =1stparton_ días
+ para completar la tarea.
+
+Message:  1020
+<ce>                  Tengo información de buena tinta
+<ce>                   de que posees las _gems_ que
+<ce>                        _contact_ robó.
+<ce>                   Entrégalas y dejaré que te
+<ce>                      marches sin daños.

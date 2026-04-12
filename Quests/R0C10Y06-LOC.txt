@@ -1,0 +1,83 @@
+Quest: R0C10Y06
+DisplayName: La Reliquia Familiar
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 Tengo un objeto (_item_) que es muy preciado
+<ce>               para mí. Ha pasado de generación en generación
+<ce>                en mi familia. Sabiendo esto, una pequeña
+<ce>                banda de orcos bandidos lo ha robado y pide
+<ce>                un rescate por él. No tengo intención de
+<ce>                recompensarles por este ultraje. Por otro lado,
+<ce>                te pagaré a ti la suma total del rescate,
+<ce>               _reward_ piezas de oro, si vas a su guarida
+<ce>                          y recuperas mi _item_.
+<ce>                                ¿Lo harás?
+
+RefuseQuest:  [1001]
+<ce>                     ¡%oth! ¿No harás esto por mí?
+<ce>                   Entonces tendré que pagar el rescate.
+<ce>                     Me has decepcionado, %pcf.
+
+AcceptQuest:  [1002]
+<ce>                  Bien. Ahora, tengo entendido que el
+<ce>                 escondite de los orcos está en la vieja ruina,
+<ce>                       ___itemdung_. Allí es donde,
+<ce>                  supongo, guardan también mi _item_.
+<ce>                Si no regresas en =1stparton_ días, presumiré
+<ce>                 que no has encontrado el objeto y daré el
+<ce>                dinero de tu recompensa a los orcos como
+<ce>                 rescate. No me falles en esto, %pcf. Suerte.
+
+QuestFail:  [1003]
+<ce>                        No quiero hablar, %pcf.
+<ce>                       Quiero mi _item_. Ve a por él.
+
+QuestComplete:  [1004]
+<ce>                  De algún modo sabía que encontrarías mi
+<ce>                  _item_, %pcf. Con gusto te daré el oro
+<ce>                   que estaba ahorrando para el rescate
+<ce>                   del objeto. No puedo agradecértelo
+<ce>                              lo suficiente.
+
+RumorsDuringQuest:  [1005]
+Hay un grupo de orcos merodeando por ___itemdung_.
+<--->
+Esos orcos de ___itemdung_ creen que se harán de oro a costa de _questgiver_.
+
+RumorsPostfailure:  [1006]
+Los orcos de ___itemdung_ se largaron después de que _questgiver_ les pagara.
+<--->
+Parece que _questgiver_ tiene un cabreo monumental con alguien de la estirpe %ra.
+
+RumorsPostsuccess:  [1007]
+<ce>                 Unos orcos se quejan de que _questgiver_
+<ce>                     les robó una reliquia suya.
+                                     <--->
+<ce>                ___itemdung_ no parece ser un escondite
+<ce>                   tan seguro como se podría pensar.
+
+QuestorPostsuccess:  [1008]
+<ce>            Hola de nuevo, joven camarada. No he olvidado
+<ce>                  lo ocurrido con los orcos, ya sabes.
+                                     <--->
+Espero que no hayas gastado ya todo el oro de la recompensa, camarada.
+
+QuestorPostfailure:  [1009]
+<ce>                          Vete al Oblivion, %pcf.
+<ce>                    No he olvidado que fallaste en aquella
+<ce>                             misión mía.
+
+QuestLogEntry:  [1010]
+%qdt:
+_questgiver_ de
+ __questgiver_ en ___questgiver_
+ me ha enviado a ___itemdung_ para encontrar
+ una antigua reliquia familiar, un _item_
+ robado por una banda de orcos. Si no lo
+ devuelvo a manos de _questgiver_ en
+ =1stparton_ días, %g pagará el rescate
+ y mi recompensa desaparecerá.
+
+Message:  1011
+Has encontrado el _item_.

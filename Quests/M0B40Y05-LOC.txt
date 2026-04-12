@@ -1,0 +1,124 @@
+Quest: M0B40Y05
+DisplayName: Caza de una Spriggan
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Unos leñadores han contratado al
+<ce>                 gremio para matar a una spriggan.
+<ce>                 Parece que el monstruo les ataca
+<ce>                 cuando están en el bosque talando.
+<ce>                ¿Quieres intentar darle un tajo, %pcn?
+
+RefuseQuest:  [1001]
+<ce>                  Me parece bien. Lárgate. Tengo
+<ce>                  que encontrar a alguien que acepte
+<ce>                         este trabajo.
+
+AcceptQuest:  [1002]
+<ce>                 Dos intentos de emboscada han
+<ce>                 fallado. Esa spriggan es demasiado
+<ce>                 lista. Tendrás que ir a su guarida,
+<ce>                 en ___dungeon_. Vuelve a verme en
+<ce>                 =2dung_ días y tendré _gold_ de oro
+<ce>                        esperando por ti.
+
+QuestFail:  [1003]
+<ce>                 ¿La spriggan se ha vuelto leña?
+<ce>                 Estás demostrando ser alguien
+<ce>                   bastante fiable, %pct.
+
+QuestComplete:  [1004]
+<ce>                  Aquí tienes tus _gold_ de oro
+<ce>                      como te prometí.
+
+RumorsDuringQuest:  [1005]
+<ce>                He oído que _woodsman_ está incitando
+<ce>               a los leñadores contra las spriggans. Es
+<ce>               curioso; nunca supe que las spriggans nos
+<ce>                 causaran problemas anteriormente.
+
+RumorsPostfailure:  [1006]
+<ce>                Otro leñador ha muerto. He oído que
+<ce>                fue _woodsman_. El resto de ellos ha
+<ce>                decidido ir a talar a otra parte.
+
+RumorsPostsuccess:  [1007]
+<ce>                No he oído nada de esa spriggan
+<ce>                últimamente. Debe de haber abandonado
+<ce>                         la zona.
+
+QuestorPostsuccess:  [1008]
+<ce>                  Buen trabajo con esa spriggan.
+
+QuestorPostfailure:  [1009]
+<ce>                 Las spriggans no son tan duras. ¿Qué
+<ce>                 pasó? ¿Te asustaste y te escondiste?
+
+QuestLogEntry:  [1010]
+El %qdt,
+ el Gremio de Guerreros de ___qgiver_
+ me contrató para matar a una spriggan
+ que está hostigando a los leñadores.
+ Se oculta en ___dungeon_.
+ Me dieron =2dung_ días para
+ completar el trabajo.
+
+Message:  1011
+<ce>                       La spriggan ha muerto.
+<ce>                   Esos leñadores ya pueden talar
+<ce>                        con seguridad.
+
+Message:  1020
+<ce>                   Me atacas sin motivo, %ra. Sí,
+<ce>                   me he vengado de quienes asesinan
+<ce>                   la madera. Sabe que han matado a
+<ce>                   retoños míos. ¿Te quedarías sin hacer
+<ce>                   nada mientras alguien mata a tus
+<ce>                   crías? No tengo conflicto contigo.
+<ce>                   Convence a los leñadores de podar con
+<ce>                   cuidado, y les dejaré en paz. ¿Vas a
+<ce>                        aceptar esta misión?
+
+Message:  1021
+<ce>                 La culpa es de _woodsman_, que tala
+<ce>                 árboles sin cuidado. Ve ante __woodsman_
+<ce>                 en ___woodsman_ y obtén su promesa. No
+<ce>                 vuelvas a visitarme. Sabré de tu éxito o
+<ce>                 fracaso por cómo trabajen los leñadores.
+
+Message:  1022
+<ce>                 Debí haberlo imaginado antes que
+<ce>                 confiar en una criatura de carne.
+<ce>                    Ahora no tendré piedad.
+
+Message:  1023
+<ce>                 Así que la criatura árbol quiere hacer
+<ce>                 un trato, ¿eh? Bueno, supongo que puedo
+<ce>                 convencer a los muchachos para talar solo
+<ce>                 los árboles grandes. Pero si los de su
+<ce>                 clase nos atacan de nuevo, ¡quemaremos
+<ce>                 cada brote que encontremos! Tenemos un
+<ce>                          trato, %pcn.
+
+Message:  1025
+<ce>                 ¿Has logrado que los leñadores y la
+<ce>                 spriggan dejen de pelear? Muy astuto,
+<ce>                 %pcn. Llegarás lejos si mantienes ese
+<ce>                        ingenio afilado.
+
+Message:  1030
+%qdt:
+ La spriggan me ha convencido de que
+ no es el villano. Al parecer, alguien de la
+ leñería llamado _woodsman_ en
+ __woodsman_, ___woodsman_ ha estado
+ talando sus árboles sin control. Si logro que
+ _woodsman_ acepte talar el bosque con más
+ cuidado, todo esto podrá resolverse sin
+ derramamiento de sangre.
+
+Message:  1080
+<ce>               Por cierto, como me siento generoso,
+<ce>             toma este mapa de un agujero llamado ___newdung_.
+<ce>             Lleno de monstruos que matar, tesoros que
+<ce>                saquear y demás. Pásatelo bien.

@@ -1,0 +1,85 @@
+Quest: L0B20Y02
+DisplayName: Un Caballero Sin Honor
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  Ah, aquí hay algo que apelará al
+<ce>                       romántico en ti, %pcf: un
+<ce>                   caballero canalla ha mancillado el
+<ce>                  honor de una bella dama y se niega a
+<ce>                  luchar contra quien la defienda. La
+<ce>                 pobre chica hizo lo único que podía
+<ce>                 hacer, y ahora tenemos cuentas que
+<ce>                  saldar. Te interesa, ¿no es así?
+
+RefuseQuest:  [1001]
+<ce>                      ¿No? Hubiera pensado que esto
+<ce>                    sería de tu agrado. Bueno, ya
+<ce>                     tenemos bastantes ejecutores
+<ce>                     con debilidad por las jóvenes
+<ce>                               corruptas.
+
+AcceptQuest:  [1002]
+<ce>                Como pensaba. Creemos que el caballero
+<ce>                 aún no sabe nada del contrato, pues se
+<ce>                 encuentra atrincherado en una fortaleza
+<ce>                      llamada ___mondung_. Obviamente,
+<ce>                 este guerrero malnacido no quiere que
+<ce>                esto sea fácil. Bueno, el contrato
+<ce>              exige que el ajuste de cuentas sea en =1stparton_
+<ce>                 días y que informes de vuelta aquí
+<ce>                    dentro de ese plazo. Ve a por ello,
+<ce>                  %pcf. Defiende a esa pobre damisela.
+
+QuestFail:  [1003]
+<ce>                     No escucho los agradecimientos
+<ce>                    de nuestra clienta, así que supongo
+<ce>                    que el caballero sigue vivo. Date
+<ce>                     prisa y corrige ese descuido, %pcf.
+
+QuestComplete:  [1004]
+<ce>                    Así que el caballero renegado ha
+<ce>                entrado en el más allá, ¿no? Quizás en
+<ce>                 su próxima encarnación tenga la sabiduría
+<ce>                 de mantener su espada envainada. Bien
+<ce>                          hecho, como siempre, %pcf.
+
+RumorsDuringQuest:  [1005]
+Ese soldado es un perro sarnoso, te lo digo yo. No tiene honor alguno.
+<--->
+He oído que esa dama intentó seducir al caballero y falló. Por eso está tan disgustada.
+
+RumorsPostfailure:  [1006]
+Ese guerrero se ha marchado a nuevas tierras para corromper a las gentiles mujeres de allí.
+<--->
+El soldado ha dejado ____questgiver_ como un huracán, dejando corazones rotos a su paso.
+
+RumorsPostsuccess:  [1007]
+Ese soldado recibió lo que se merecía, si me preguntas a mí. ¡Qué canalla!
+<--->
+Es bueno que alguien no tenga miedo de defender a una damisela. Maldito pícaro abominable.
+
+QuestorPostsuccess:  [1008]
+Estaría encantado de ayudar al matador de caballeros en lo que pueda.
+
+QuestorPostfailure:  [1009]
+<ce>                   ¿Qué te hace pensar que tendría
+<ce>                   interés en hablar con un %ra que
+<ce>                    ni siquiera puede abatir a un
+<ce>                    miserable caballero? Fuera de mi
+<ce>                           vista de inmediato.
+
+Message:  1020
+%qdt:
+ _questgiver_, de la Hermandad Oscura
+ en ___questgiver_, me ha enviado a
+ ___mondung_ para buscar y matar a un
+ caballero. El trabajo debe hacerse en
+ =1stparton_ días.
+
+Message:  1021
+<ce>                       "Dile a _damsel_... que puede
+<ce>                    compartir su honor... manchado con
+<ce>                     cada granjero... de %reg", dice
+<ce>                   el caballero mientras le ajustas las
+<ce>                   cuentas. El contrato se ha cumplido.

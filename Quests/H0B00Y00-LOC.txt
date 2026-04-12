@@ -1,0 +1,78 @@
+Quest: H0B00Y00
+DisplayName: Un Espíritu Poderoso
+QRC:
+
+QuestorOffer:  [1000]
+<ce>              Toda la filosofía de la Benevolencia de
+<ce>                 Mara nos prohíbe dañar a cualquier ser
+<ce>                vivo de forma voluntaria. Sin embargo,
+<ce>                tenemos una situación que requiere una
+<ce>                acción directa y letal. Si aceptamos
+<ce>              pagarte _reward_ piezas de oro, ¿estarías
+<ce>                  dispuesto a destruir un espíritu impuro
+<ce>                  que acecha uno de nuestros santuarios?
+
+RefuseQuest:  [1001]
+<ce>                  Es una tarea bastante peligrosa,
+<ce>                 pero me decepciona que ni siquiera
+<ce>                       consideres aceptarla.
+
+AcceptQuest:  [1002]
+<ce>                 Hay un templo abandonado, no muy
+<ce>                   lejos de aquí, llamado ___mondung_.
+<ce>               Ha sido sagrado para nuestra Benevolencia
+<ce>                durante siglos. No rendimos culto allí,
+<ce>             pero intentamos mantenerlo libre de influencias
+<ce>                malignas. Por desgracia, el espíritu que lo
+<ce>                habita es demasiado poderoso para nosotros.
+<ce>                Si no regresas en =1stparton_ días,
+<ce>               asumiremos que has fallado y enviaremos
+<ce>               a los Caballeros de Mara. En ese caso,
+<ce>                  perderás tu recompensa. Ve con la
+<ce>                      bendición de la Diosa.
+
+QuestFail:  [1003]
+<ce>                       ¿Por qué te demoras, %pcf?
+<ce>                El espíritu aún profana nuestro templo.
+
+QuestComplete:  [1004]
+<ce>                 Has prestado un gran servicio a la
+<ce>                       Benevolencia de Mara, %pcf.
+<ce>                     Un favor que no será olvidado
+<ce>                  pronto. Disfruta tus _reward_ piezas de oro
+<ce>                           — las mereces.
+
+RumorsDuringQuest:  [1005]
+Ese ___mondung_ siempre ha sido inquietante. Ahora dicen que está embrujado.
+<--->
+En mi opinión, mejor dejar ese lugar en paz. Nadie se acerca de todos modos.
+
+RumorsPostfailure:  [1006]
+Ojalá hubieran dejado ___mondung_ en paz. Ahora el espectro anda por aquí.
+<--->
+Lo de siempre. Expulsan a los fantasmas y luego causan problemas fuera.
+
+RumorsPostsuccess:  [1007]
+Aunque ___mondung_ ya esté libre de fantasmas, yo no pienso ir.
+<--->
+La Benevolencia de Mara está contenta de que su ___mondung_ esté limpio otra vez.
+
+QuestorPostsuccess:  [1008]
+Después de atravesar ___mondung_ por nosotros, lo mínimo es saludarte.
+
+QuestorPostfailure:  [1009]
+___mondung_ sigue maldito por espíritus, maldita sea, %pcf.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _questgiver_ de
+ ___questgiver_ me pidió
+ limpiar ___mondung_, un lugar sagrado
+ para la Benevolencia de Mara,
+ de un espíritu que lo acecha.
+ Tengo =1stparton_ días para purificar
+ ___mondung_ de su presencia.
+
+Message:  1020
+<ce>                  "Mi espíritu por fin descansará en paz."
+<ce>                     ___mondung_ ha sido purificado.

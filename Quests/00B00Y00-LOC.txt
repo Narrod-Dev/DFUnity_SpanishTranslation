@@ -1,0 +1,69 @@
+Quest: 00B00Y00
+DisplayName: El Precio del Conocimiento
+QRC:
+
+QuestorOffer:  [1000]
+<ce>      Tenemos una sola regla en la Escuela de Julianos: el conocimiento
+<ce>        debe compartirse. Desafortunadamente, tenemos a un antiguo miembro
+<ce>        de nuestra orden que ha abandonado esta regla y necesita ser
+<ce>        castigado. Si te ofreciéramos _reward_ piezas de oro, ¿perseguirías
+<ce>        y matarías a este antiguo miembro de nuestra Escuela?
+
+RefuseQuest:  [1001]
+<ce>       Decepcionante. Bueno, sin duda encontraremos a alguien más.
+
+AcceptQuest:  [1002]
+<ce>                      Bien. El descarriado es un
+<ce>                      nightblade llamado =monster_
+<ce>                que se ha refugiado en su laboratorio,
+<ce>                      ___mondung_. Si no has
+<ce>             regresado en =1stparton_ días con la sangre de _monster_
+<ce>      en tus manos, asumiremos que has fallado o que te has
+<ce>                       unido a =monster_ y tu
+<ce>        recompensa será entregada a alguien que no falle. Confío
+<ce>          en haber sido claro. Buena suerte y adiós.
+
+QuestFail:  [1003]
+Mientras ese nightblade siga con vida, no estoy interesado en hablar de ningún tema, %pcf.
+
+QuestComplete:  [1004]
+<ce>                           Muy bien, %pcf.
+<ce>              Muy bien en verdad. Aquí tienes tus _reward_ piezas
+<ce>                  de oro. Te estamos muy agradecidos.
+
+
+RumorsDuringQuest:  [1005]
+He oído que hay un nightblade en ___mondung_, vendiendo hechizos por dinero.
+<--->
+Los lanzadores de hechizos renegados son muy peligrosos. Espero que atrapen a ese _monster_.
+
+RumorsPostfailure:  [1006]
+Se dice que =monster_ se ha marchado, todavía vendiendo hechizos por dinero.
+<--->
+He oído que la Escuela de Julianos ha enviado a los Caballeros Mentor tras alguien.
+
+RumorsPostsuccess:  [1007]
+Por fin atraparon a ese _monster_. No se puede permitir que magos indisciplinados anden sueltos.
+<--->
+Qué lástima que hayan atrapado a ese _monster_. He oído que tenía mucha información interesante.
+
+QuestorPostsuccess:  [1008]
+<ce>              Tú eres %pcn. Buen trabajo con ese =monster_,
+<ce>                ¿recuerdas?, el lanzador de hechizos renegado.
+
+QuestorPostfailure:  [1009]
+<ce>                Hmmph. Realmente arruinaste ese trabajo de matar
+<ce>            al lanzador de hechizos renegado =monster_, ¿verdad?
+
+Message:  1030
+%qdt:
+ La Escuela de Julianos en ___questgiver_
+ me ha contratado para matar a un descarriado
+ _monster_ de su templo,
+ =monster_. Tengo =1stparton_ días para
+ llegar a su escondite, ___mondung_,
+ y regresar a la Escuela.
+
+Message:  1031
+<ce>                       Has matado a =monster_.
+<ce>                       La Escuela estará orgullosa.

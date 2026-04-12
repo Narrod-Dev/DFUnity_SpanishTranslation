@@ -1,0 +1,72 @@
+Quest: A0C01Y01
+DisplayName: El Guardaespaldas
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                    %pcn, temo por mi propia vida.
+<ce>                    ¿Me protegerías? _villains_s
+<ce>              han amenazado con matarme esta noche porque
+<ce>                me he negado a vender mi tierra. Puedo pagarte
+<ce>                            _gold_ oro.
+                                     <--->
+<ce>               Me encuentras en una situación desesperada, mi querido
+<ce>                  %ra. He recibido aviso de algunos
+<ce>                 matones %cn que planean saquear
+<ce>                mi casa esta noche. No supongo que
+<ce>                  estarías disponible para hacer un poco de
+<ce>                 "reajuste facial creativo" a esos sujetos, ¿verdad?
+
+RefuseQuest:  [1001]
+<ce>                    No temas por mi seguridad, %pcn.
+<ce>                Encontraré otro protector... de alguna manera.
+
+AcceptQuest:  [1002]
+<ce>             ¡Gracias, que los dioses te bendigan! Atacarán en
+<ce>                 _qgiverhome_ durante las tres horas antes
+<ce>              de la medianoche. Estate allí y espera conmigo
+<ce>               ese momento. Una vez sean derrotados, volveré
+<ce>                          a estar a salvo.
+
+QuestComplete:  [1004]
+<ce>                 Has salvado mi vida, %pcf. Con gusto
+<ce>                 te pagaré la cantidad acordada.
+
+RumorsDuringQuest:  [1005]
+<ce>                    _qgiver_ tiene problemas con el
+<ce>                Gremio de Ladrones. Dicen que van a
+<ce>                             darle una paliza a %g2.
+
+RumorsPostfailure:  [1006]
+<ce>                    Vi a _qgiver_ recientemente. %g fue
+<ce>                        golpeado por unos matones.
+
+RumorsPostsuccess:  [1007]
+<ce>                        ¿No eres tú el %ra que
+<ce>                  ahuyentó a esos matones que intentaron
+<ce>                           golpear a _qgiver_?
+
+QuestorPostsuccess:  [1008]
+<ce>                 Aún recuerdo lo que hiciste por mí,
+<ce>                     %pcf. Ahuyentar a esos matones
+<ce>                        me deja en deuda contigo.
+
+QuestorPostfailure:  [1009]
+<ce>                Aún tengo las cicatrices de cuando esos
+<ce>                 matones me encontraron. Te contraté para protegerme
+<ce>                 y fallaste. Aléjate de mí.
+
+QuestLogEntry:  [1010]
+En %qdt,
+ _qgiver_ de ___qgiver_ me pidió
+ que protegiera a %g2. _villains_s han
+ amenazado con atacar a %g2 entre
+ las 9 y la medianoche en _qgiverhome_.
+
+Message:  1011
+<ce>               Este no es tu problema, forastero. Déjanos
+<ce>                   a _qgiver_ o te derribaremos
+<ce>                         donde estás!
+
+Message:  1013
+<ce>                  Este debe ser el lugar. Coincide con la
+<ce>                     descripción que te dio _qgiver_.

@@ -1,0 +1,211 @@
+Quest: N0B21Y14
+DisplayName: Oráculo
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                ¿Eres %pcn? ¿Quien llaman %pct?
+
+RefuseQuest:  [1001]
+<ce>                     Muy bien, perdona el error.
+
+AcceptQuest:  [1002]
+<ce>                  Ah, bien. Tengo una carta para ti.
+<ce>                  Al parecer, algo más que el azar
+<ce>                           te trajo aquí.
+
+QuestComplete:  [1004]
+<ce>                  Eres un honor para el gremio, %pcf.
+
+RumorsDuringQuest:  [1005]
+_noble_ es ciertamente de la mayor nobleza en %reg.
+<--->
+Si algo le pasara a _noble_, me estremezco de solo pensarlo.
+
+RumorsPostfailure:  [1006]
+Las estrellas anoche hablaron de calamidad y muerte.
+
+RumorsPostsuccess:  [1007]
+Las estrellas anoche hablaron de un desastre evitado por poco.
+<--->
+El Acólito pasó por la ciudad hace poco. Me pregunto qué quería.
+
+Message:  1011
+                     _temple_
+                      __temple_
+ 
+ 
+ Estimado/a %pcn,
+ 
+      He venido de lejos para hablar contigo en
+ nombre de la Oráculo, la mujer sabia de
+ Hammerfell. El Archimagister del Gremio de
+ Magos ha hablado muy bien de ti como alguien
+ honorable con gran talento para la magia.
+ Por favor, ven a verme lo antes posible;
+ el tiempo es un bien escaso.
+      Sin tu ayuda, la oscura profecía de la
+ Oráculo se cumplirá en =queston1_ días,
+ y todo %reg llorará.
+      Debo verte pronto.
+ 
+                      Cordialmente,
+ 
+ 
+                      El Acólito
+
+Message:  1012
+Se dice que el Acólito era de la nobleza antes de ser discípulo de la Oráculo.
+<--->
+El Acólito hace todo el trabajo de campo de la Oráculo. Comprensible a su edad.
+<--->
+El Acólito solía ser un noble, pero ahora se dedica a servir a la Oráculo.
+<--->
+El Acólito es ese =acolyte_ que está en _temple_.
+<--->
+El Acólito ha sido sirviente de la Oráculo por años, desde que era muy joven.
+<--->
+Cuando la Oráculo le entregue su profecía al Acólito, él finalmente la dejará.
+
+Message:  1013
+La Oráculo no tiene ojos, pero dicen que es la mujer más sabia de Tamriel.
+<--->
+La Oráculo ha sido tradicionalmente consejera de los monarcas de Sentinel.
+<--->
+La Oráculo aconsejó al Rey Camaron no entrar en guerra con Daggerfall.
+<--->
+El Rey Camaron no escuchó el consejo de la Oráculo contra la guerra con Daggerfall.
+<--->
+La Oráculo sabía que Sentinel perdería la guerra contra Daggerfall.
+<--->
+Si Camaron de Sentinel hubiera escuchado a la Oráculo, hoy estaría vivo.
+
+Message:  1014
+%qdt:
+ Recibí una carta del Acólito 
+ pidiendo una reunión.
+ Se hospeda en _temple_
+ en __temple_.
+
+Message:  1015
+<ce>                       Gracias por venir, %pcf.
+<ce>                La Oráculo ha previsto la muerte de alguien
+<ce>                   de la gran nobleza de __temple_,
+<ce>                    quien ostenta el nombre de _noble_, y como
+<ce>               una piedra en un estanque, su muerte
+<ce>             traerá una gran calamidad a %reg. He intentado
+<ce>                hablar con _noble_, pero no se me permite
+<ce>                 entrar en su compañía en _noblehouse_.
+<ce>              Mi señora, la Oráculo, tiene la intención de venir a
+<ce>                       __temple_ para hablar con su
+<ce>                Excelencia, y supe que estaba en
+<ce>                  __oracletemple_. No conozco estas
+<ce>                tierras, así que no sé qué tan lejos
+<ce>                está eso. Necesito que hables con
+<ce>               _noble_ y le convenzas de protegerse,
+<ce>                o que halles a la Oráculo cerca de
+<ce>               __oracletemple_ y la traigas a verle.
+<ce>        Queda muy poco tiempo. Por favor, te lo ruego, date prisa.
+
+Message:  1016
+%qdt:
+ El Acólito me dijo que
+ intenta convencer a
+ _noble_ de dejar _noblehouse_
+ para evitar su muerte y que,
+ con ello, llegue la desgracia
+ a %reg. Se me ha pedido
+ hablar con _noble_ personalmente
+ o ir a __oracletemple_ para
+ escoltar a la Oráculo, la señora
+ del Acólito, hasta aquí. Ella
+ podría convencer a _noble_, 
+ aunque yo también podría.
+
+Message:  1017
+<ce>                         Eres %pcn, la persona %ra
+<ce>                     que mi Acólito envió para escoltarme ante
+<ce>                           _noble_. Entregué mis
+<ce>                  ojos a los dioses, como verás, y vi
+<ce>                 tu llegada a través de ellos. Ahora,
+<ce>                     de prisa a _noblehouse_ en
+<ce>                     __noblehouse_ antes de que el
+<ce>                            destino de _noble_ se selle.
+
+Message:  1018
+<ce>                       La Oráculo habla con _noble_,
+<ce>                y sus tonos calmados y persuasivos hacen
+<ce>                 magia. Solo toma unos momentos para que
+<ce>               se reconozca la sabiduría en su consejo,
+<ce>                y _noble_ accede a ocultarse unos
+<ce>                    días por el bien de %reg. La
+<ce>                 Oráculo te agradece la escolta y
+<ce>                dice que te recomendará ante la
+<ce>                 corte de Sentinel por tu valentía
+<ce>                           y determinación.
+
+Message:  1019
+<ce>                       _noble_ y _love_ se abrazan,
+<ce>                 y entonces se le ruega que, por el bien
+<ce>                    de todo %reg, _noble_ debe ir a
+<ce>                  escondite con sus guardias de confianza.
+<ce>                  Al instante, acepta, pero no sin antes
+<ce>                    darte _gold_ piezas de oro en
+<ce>                    gratitud por rescatar a su amor.
+
+Message:  1020
+<ce>                Como le dije a ese maldito Acólito, no me
+<ce>                interesa esconderme porque una vieja
+<ce>                loca tuvo un mal sueño sobre mí.
+<ce>                Da la casualidad de que espero noticias
+<ce>                          sobre mi amor, _love_,
+<ce>                que fue secuestrado/a. Escucharé sus
+<ce>                consejos sobre esto, pero no iré a un
+<ce>                escondite mientras siga en peligro.
+<ce>                 Nunca debí permitir que se acercara
+<ce>                      a cien pies de ___mondung_
+<ce>               sin escolta, pero no abandonaré a mi amor
+<ce>                ahora. Ahí tienes tu respuesta, %pct.
+
+Message:  1021
+%qdt:
+ _noble_ se niega a
+ esconderse hasta saber
+ que su amor, _love_,
+ ha sido libre de sus captores.
+ Si rescato a esa persona
+ de ___mondung_, _noble_
+ podría entrar en razón.
+
+Message:  1022
+<ce>                        ¿Vienes de parte de _noble_
+<ce>                     a rescatarme? %oth, démonos
+<ce>                  prisa entonces. He tenido un terrible --
+<ce>               y temo que profético -- sueño sobre _noble_.
+
+Message:  1023
+<ce>                      Es demasiado tarde. Ha llegado
+<ce>                     la hora en que el destino venció
+<ce>                    a la voluntad humana. El viento mismo
+<ce>                            susurra que _noble_
+<ce>                           ha muerto. Todo %reg
+<ce>                               temblará.
+
+Message:  1024
+                     _temple_
+                      __temple_
+ 
+ 
+ Estimado/a %pcn,
+ 
+      Es imperativo que hable contigo lo antes
+ posible. Represento a la Oráculo de Hammerfell.
+ Durante los próximos días me hospedaré en
+ _temple_. Quedan solo =queston2_ días antes de
+ que el futuro se fije irrevocablemente, así que
+ debo verte pronto.
+      Este asunto es grave de verdad. Por favor,
+ no faltes a nuestra cita.
+ 
+ 
+ 
+                    El Acólito

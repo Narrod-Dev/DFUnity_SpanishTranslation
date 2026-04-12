@@ -1,0 +1,92 @@
+Quest: R0C10Y04
+DisplayName: El Mago Malvado
+QRC:
+
+QuestorOffer:  [1000]
+<ce>              La gente que trabaja mis tierras cerca de
+<ce>                    ___mondung_ lleva tiempo quejándose
+<ce>                 sobre magia maligna practicada en esa
+<ce>                mazmorra. Parece que esta vez podrían
+<ce>                 tener razón. Necesito a alguien para el
+<ce>                 puesto de asesino con tiempo para viajar a
+<ce>                      ___mondung_ y destruir al
+<ce>               hechicero nigromante de allí. Estoy bajo la
+<ce>             disposición de pagar _reward_ piezas de oro.
+<ce>                           ¿Te interesa?
+
+RefuseQuest:  [1001]
+<ce>            ¿En serio? Habría pensado que este era tu tipo
+<ce>                  de encargo. Qué inconveniente.
+
+AcceptQuest:  [1002]
+<ce>                 %oth, grandioso. Necesito que este
+<ce>          mago sea eliminado en =1stparton_ días, así que
+<ce>           probablemente quieras ponerte en camino ahora
+<ce>                   mismo. Suerte, %pcf, y no tengas piedad.
+
+QuestFail:  [1003]
+<ce>            No quiero volver a verte hasta que ese hechicero
+                                 esté muerto.
+
+QuestComplete:  [1004]
+<ce>          ¡Regresa la gran figura heroica! El campesinado está
+<ce>             eufórico porque su tierra es libre de magia negra,
+<ce>           y yo comparto su alegría. Acepta las _reward_ piezas
+<ce>                       de oro, %pcf, con mi gratitud.
+
+RumorsDuringQuest:  [1005]
+Casi se puede sentir cómo aumenta la magicka malévola.
+<--->
+Cierto hechicero ha jurado reducir las tierras de _questgiver_ a escombros.
+
+RumorsPostfailure:  [1006]
+Ese hechicero en ___mondung_ parece que se ha marchado.
+<--->
+Al parecer, alguien con actitud aventurera asustó al hechicero de ___mondung_.
+
+RumorsPostsuccess:  [1007]
+La figura del Mago Loco de ___mondung_ fue abatida por alguien de la estirpe %ra.
+<--->
+Si ese hechicero hubiera sobrevivido, _questgiver_ habría estado en graves apuros.
+
+QuestorPostsuccess:  [1008]
+Ah, la persona que abatió al mago loco ha vuelto. ¿Cómo estás, camarada?
+<--->
+Un placer verte de nuevo, oh cazador de magos locos.
+
+QuestorPostfailure:  [1009]
+<ce>                   Espero que no esperaras recompensa por
+<ce>                  tu fracaso al matar a ese mago.
+<ce>                    Tienes suerte de que no ordene
+<ce>                               que te azoten.
+                                     <--->
+<ce>                         Vaya, regresa la estirpe %ra.
+<ce>                   Igual que, imagino, el mago que no
+<ce>                    pudiste abatir. Lárgate ahora.
+
+Message:  1011
+<ce>              _questgiver_ es de la nobleza y tiene un gran odio
+<ce>                    por un hechicero llamado _fakename_.
+                                     <--->
+<ce>             _questgiver_ es de la nobleza y sufre el acoso
+<ce>                     de un hechicero llamado _fakename_.
+
+Message:  1012
+El mago _fakename_ ha muerto.
+
+Message:  1015
+%qdt:
+_questgiver_
+ de __questgiver_ en ___questgiver_
+ me ha enviado a ___mondung_,
+ donde debo matar a un mago loco.
+ Si puedo cumplir la hazaña
+ y regresar ante %g2 en =1stparton_ días,
+ ganaré mi oro.
+
+Message:  1020
+<ce>                    Debes de ser el último pobre necio
+<ce>                     que _questgiver_ ha contratado para
+<ce>                   intentar matarme. ¡Tus huesos pronto se
+<ce>                  unirán a los de tus compatriotas, que están
+<ce>                    esparcidos por toda mi mazmorra!

@@ -1,0 +1,141 @@
+Quest: P0B00L01
+DisplayName: La carta del vampiro
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                                 ¿Tienes
+<ce>                        algunas noches libres
+<ce>                               para %vam?
+
+RefuseQuest:  [1001]
+<ce>                        "No" no era la respuesta que
+<ce>                       esperaba. Intenta dedicar algo
+<ce>                        de tiempo y esfuerzo a %vam
+<ce>                        en el futuro, cachorro. No
+<ce>                         te gustaría que te
+<ce>                               abandonáramos.
+
+AcceptQuest:  [1002]
+<ce>                       %pcf, necesito que entregues
+<ce>                       una carta a un aliado de %vam.
+<ce>                _pawn_ te esperará no más de
+<ce>                 =1stparton_ noches en __pawn_, en
+<ce>                 ___pawn_. No faltes a la cita.
+<ce>            Espero que estés de vuelta aquí en =1stparton_ noches.
+<ce>                                Adiós.
+
+QuestFail:  [1003]
+<ce>                          Hasta que mi carta esté
+<ce>                          en las sudorosas manos
+<ce>                        de _pawn_, no me interesa
+<ce>                            hablar, %pcf.
+
+QuestComplete:  [1004]
+<ce>                 Gracias por entregar esa carta tan
+<ce>                  pronto, %pcf. Era bastante importante.
+<ce>                    Yo también he estado ocupado.
+<ce>                     Toma este _reward_ como regalo
+<ce>                       por un trabajo bien hecho.
+
+RumorsDuringQuest:  [1005]
+Ese =pawn_ en __pawn_ está esperando a alguien. Alguien que llegará por la noche.
+<--->
+Dicen que %t finalmente va a hacer algo respecto a la amenaza vampírica.
+
+RumorsPostfailure:  [1006]
+Ese nervioso =pawn_ finalmente se fue de __pawn_. Debe haber perdido su cita nocturna.
+<--->
+Ese =vampire_ en __vampire_ estaba refunfuñando sobre ese %ra con el que siempre está %g.
+
+RumorsPostsuccess:  [1007]
+Parece que %rt cambió de opinión sobre la existencia de vampiros en %reg.
+<--->
+%rt iba a poner más guardias por la noche, pero cambió de opinión.
+
+QuestorPostsuccess:  [1008]
+Saludos, %pcf. Espero que _pawn_ haya sido suficientemente educado contigo.
+
+QuestorPostfailure:  [1009]
+<ce>                       Cuando te envié con _pawn_,
+<ce>                    esperaba que fueras a verle, %pcf.
+<ce>                          No... me hagas enfadar.
+
+QuestLogEntry:  [1010]
+<ce>                         Sí, mi nombre es _pawn_.
+<ce>                           T-tú debes de ser %pcn.
+<ce>                           Dile a _vampire_ que
+<ce>                    yo me encargaré de todo. Asegúrate
+<ce>                    de que %g sepa que soy leal. Nada ha
+<ce>                    cambiado. Gracias. Me aseguraré de
+<ce>                         que todo salga bien.
+
+Message:  1011
+¿_vampire_? Un =vampire_ muy encantador que se aloja en __vampire_, creo.
+<--->
+_vampire_ es ese =vampire_ en __vampire_.
+
+Message:  1012
+_vampire_ es uno de los vampiros de %vam.
+<--->
+_vampire_ es un mentor, un miembro bastante joven del linaje %vam.
+
+Message:  1013
+_pawn_,
+
+    Hemos oído que, una vez más, %t
+ está considerando aumentar el número de
+ patrullas en %reg durante la noche
+ para combatir los ataques inexplicables. %t
+ %rt recibirá una visita de
+ %vam, por lo que esta situación se
+ resolverá razonablemente.
+    Por favor, ayuda en este asunto según
+ el plan habitual. En %vam no nos hace
+ ninguna gracia tener que abordar
+ continuamente este mismo problema potencial.
+    La familia de %t ha crecido bastante
+ sana, por cierto. No es coincidencia.
+ Ni una situación sin remedio.
+
+                                -- _vampire_
+
+Message:  1014
+_pawn_ es un =pawn_ nervioso en __pawn_, al %di de aquí.
+<--->
+_pawn_ es el nombre de ese =pawn_ que vi en __pawn_. Está hacia el %di.
+
+Message:  1015
+_pawn_ es un peón de los vampiros de %vam que opera desde __pawn_.
+<--->
+Ese =pawn_ es un aliado de los vampiros de %vam; %g vive en __pawn_.
+
+Message:  1020
+%pcn,
+    %vam te convoca
+ a ___vampire_. Búscame
+ allí y presenta esta
+ carta.
+
+ Con mi último aliento,
+<ce>                                _vampire_
+
+Message:  1021
+<ce>                       Has recibido una carta.
+
+Message:  1025
+%qdt:
+ _vampire_ de %vam en
+ __vampire_, ___vampire_
+ me ha enviado a llevar una carta
+ a una especie de =pawn_ en
+ ___pawn_ con el desafortunado
+ nombre de _pawn_. Al parecer, es de
+ gran importancia que me reúna con %g2
+ en __pawn_ a más tardar dentro de
+ =1stparton_ noches.
+
+Message:  1026
+%qdt:
+ _vampire_ de ___vampire_
+ me ha convocado a __vampire_
+ para asuntos de %vam.

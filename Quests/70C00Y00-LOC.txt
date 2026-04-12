@@ -1,0 +1,99 @@
+Quest: 70C00Y00
+DisplayName: La misión de Sanguine
+QRC:
+
+QuestorOffer:  [1000]
+<ce>               El poder es una palabra tan encantadora, ¿no crees? Se
+<ce>               desliza por la lengua como miel. Si el poder
+<ce>                es tu afrodisíaco, estaría encantado
+<ce>                    de presentarte _artifact_.
+<ce>                 Todo lo que tienes que hacer a cambio es
+<ce>               castigar a un sacerdote absolutamente detestable que se atrevió
+<ce>                  a desafiarme. ¿Te suena bien?
+
+RefuseQuest:  [1001]
+<ce>                        Una plaga sobre ti, %pcn. ¿Cómo
+<ce>                 te atreves a invocarme y rechazar mi
+<ce>                generosa oferta? Reza para que te perdone,
+<ce>                          %pcf. Sanguine es un
+<ce>                        enemigo que nadie debería tener.
+
+AcceptQuest:  [1002]
+<ce>                     No te arrepentirás de esto, %pcf,
+<ce>                  siempre que cumplas tu parte de nuestro
+<ce>                  acuerdo. Este monje santurrón no es
+<ce>                       inofensivo; =monster_ es
+<ce>                    su nombre y %g quemó a mis adoradores
+<ce>                    hasta dejarlos reducidos a cenizas. Ve al
+<ce>                    templo abandonado donde se oculta,
+<ce>                          ___mondung_, y arráncale
+<ce>                      el corazón de su pecho. Mi
+<ce>                         agente, _contact_, te
+<ce>                       esperará en ___contact_.
+<ce>                        A _contact_ no le gusta
+<ce>                  esperar, así que cumple el asesinato en
+<ce>                  =1stparton_ días o menos. Tengo la
+<ce>                 deliciosa sensación de que nos veremos
+<ce>                        de nuevo, %pcf. Eso espero.
+
+QuestFail:  [1003]
+<ce>                  Ese reaccionario pietista sigue
+<ce>                      vivo y lo sabes, %pcf.
+<ce>                 No juegues con Sanguine, %pct.
+<ce>                       No te gustarán las reglas.
+
+QuestComplete:  [1004]
+<ce>                      Encantado de conocerte, %pcn.
+<ce>                        Soy _contact_. Sanguine
+<ce>                 debe estar bastante fascinado contigo. Él
+<ce>                      reservó _artifact_ para
+<ce>                  sus discípulos favoritos. Y ahora es
+<ce>                 tuyo. Espero que lo disfrutes enormemente.
+
+RumorsDuringQuest:  [1005]
+Todas esas orgías que solían ocurrir han sido eliminadas por =monster_.
+<--->
+No hay mucho que hacer desde que =monster_ prendió fuego a las orgías.
+
+RumorsPostfailure:  [1006]
+=monster_ se ha marchado — ahora %g busca guaridas de decadencia hacia el norte.
+<--->
+Todos tienen miedo de hacer cualquier cosa divertida con gente como =monster_ cerca.
+
+RumorsPostsuccess:  [1007]
+Mucha gente está feliz por la muerte de =monster_. Su merecido para gente de su calaña.
+<--->
+Las orgías han comenzado de nuevo ahora que =monster_ ya no está.
+
+Message:  1011
+Sanguine es el Príncipe Daedra del Deseo. Todo en exceso es su lema.
+<--->
+El Príncipe Daedra de la perversión y de las relaciones antinaturales, por supuesto.
+
+Message:  1012
+Solo un lascivo =contact_ %di de por aquí en __contact_.
+<--->
+_contact_ es el nombre de un travieso =contact_ en __contact_.
+
+Message:  1014
+<ce>La Rosa de Sanguine invoca a un daedra para luchar por ti. Una propuesta
+<ce>                                arriesgada en el mejor de los casos.
+<--->
+<ce>Se dice que el portador de la Rosa de Sanguine tiene el poder de invocar
+<ce>                    ayuda desde el plano de Oblivion.
+
+Message:  1015
+<ce>                          =monster_ está muerto.
+<ce>                       Sanguine estará extasiado,
+<ce>                               eso esperas.
+
+Message:  1020
+%qdt:
+ Sanguine quiere que asesine a un
+ monje llamado =monster_ a cambio de
+ _artifact_. El monje
+ está en ___mondung_ y debe morir en
+ =1stparton_ días o menos, y debo estar
+ en ___contact_ en
+ =1stparton_ días para reunirme con _contact_
+ en un lugar llamado __contact_.

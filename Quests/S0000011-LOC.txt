@@ -1,0 +1,308 @@
+Quest: S0000011
+DisplayName: El libro de Barenziah
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Gracias por responder a mi carta,
+<ce>                      %pcf. Es muy difícil
+<ce>                para la reina de una nación poderosa, y una
+<ce>                reina cuyo hogar está tan lejos, confiar
+<ce>                en cualquier mercenario. Por eso, cuando mi
+<ce>                querido hijo Helseth me habló de ti, me
+<ce>                apresuré a escribirte. Se está gestando una
+<ce>                situación bastante delicada y necesito a
+<ce>                  alguien de confianza para corregir a unos
+<ce>              revolucionarios descarriados. Por _reward_ piezas
+<ce>                de oro, ¿realizarías tal servicio para mí?
+<ce>                También estoy dispuesta a recompensarte con
+<ce>            información, además de las _reward_ piezas de oro.
+
+RefuseQuest:  [1001]
+<ce>                Es una lástima, ciertamente. El príncipe
+<ce>                Helseth suele acertar en su valoración de
+<ce>                las personas, pero parece ser que se ha
+<ce>                         equivocado esta vez.
+
+AcceptQuest:  [1002]
+<ce>         Me alegra oírlo. Hace algunos años, un escriba mío
+<ce>             descontento, y posiblemente trastornado, escribió
+<ce>             una biografía sobre mí que mi peor enemigo llamaría
+<ce>             cruel y difamatoria. Como el libro también era
+<ce>             excesivamente crítico con el Imperio y la familia
+<ce>             imperial Septim, fue sabiamente suprimido y su
+<ce>             autor ejecutado. Por desgracia, capítulos del
+<ce>         libro resurgen de vez en cuando. Tengo razones para
+<ce>         creer que un capítulo ha sido adquirido por los orcos
+<ce>             de Orsinium, que están intentando publicarlo.
+<ce>         Necesito que sea retirado de su fortaleza, también
+<ce>             llamada Orsinium. El tiempo es esencial. Estoy
+<ce>         segura de que Gortwog no esperará mucho. Una vez que
+<ce>             el capítulo esté a salvo, hablaremos más sobre
+<ce>             tus ambiciones.
+
+QuestFail:  [1003]
+<ce>                  Necesito ese capítulo del libro antes
+<ce>                        de que hablemos, %pcf.
+
+QuestComplete:  [1004]
+<ce>                          Muy bien hecho, %pcf.
+
+RumorsDuringQuest:  [1005]
+Se dice que la reina Barenziah está de mal humor. Aunque con ella nunca se sabe.
+<--->
+Va a salir un libro con la verdadera historia de la antigua reina de Mournhold.
+
+RumorsPostfailure:  [1006]
+Supuestamente los nigromantes tienen algo con lo que están chantajeando a Barenziah.
+<--->
+Los hombres de la reina Barenziah buscan a alguien llamado el Rey de los Gusanos.
+
+RumorsPostsuccess:  [1007]
+Parece ser que ese libro sobre la reina Barenziah nunca llegó a la imprenta.
+<--->
+La reina Barenziah no para de elogiar a %ra aventurero que contrató.
+
+QuestorPostsuccess:  [1008]
+
+
+QuestorPostfailure:  [1009]
+
+
+QuestLogEntry:  [1010]
+%qdt:
+ La reina Barenziah me ha contratado
+ para encontrar un capítulo de un libro difamatorio
+ sobre ella que ha estado circulando por la bahía.
+ Cree que se encuentra en las mazmorras de Orsinium,
+ hogar del señor de la guerra orco Gortwog.
+
+Message:  1014
+<ce>                         El príncipe Helseth no
+<ce>                  exageró tus virtudes. Aquí tienes las
+<ce>                    _reward_ piezas de oro que prometí.
+<ce>                                     
+
+Message:  1015
+Capítulo 6
+ 
+ "Bailas al borde de un volcán, niña", regañó Drelliane,
+ mientras Barenziah admiraba el anillo de esmeralda que
+ su amante le había regalado para celebrar su primer mes.
+ 
+ "¿Por qué? Nos hacemos felices. No dañamos a nadie.
+ Symmachus me pidió ser selectiva y discreta. ¿A quién
+ mejor podría elegir? Y hemos sido de lo más discretos.
+ Me trata como a una hija en público". Las visitas
+ nocturnas de Tiber Septim eran a través de un pasaje secreto.
+ 
+ "Él te desea como un perro a su cena. ¿No has notado
+ la frialdad de la emperatriz y su hijo hacia ti?".
+ 
+ Barenziah se encogió de hombros. Incluso antes de que
+ ella y Septim se hicieran amantes, no había recibido de
+ su familia más que una cortesía mínima. Una cortesía
+ desgastada. "¿Qué importa? Es Tiber quien tiene el poder".
+ 
+ "Es su hijo quien tiene el futuro. No sometas a su madre
+ al desprecio público, te lo ruego".
+ 
+ "¿Puedo evitarlo si esa mujer seca no puede mantener el
+ interés de su marido ni en la charla de la cena?".
+ 
+ "Ten menos que decir en público. Es todo lo que pido. Ella
+ importa poco, salvo porque sus hijos la aman, y no quieres
+ tenerlos como enemigos. A Tiber Septim no le queda mucho
+ de vida. Quiero decir", enmendó rápidamente Drelliane ante
+ el ceño fruncido de Barenziah, "los humanos son todos de
+ vida corta. Temporales, como decimos los elfos. Vienen y
+ van como las estaciones, pero las familias de los poderosos
+ perduran un tiempo. Debes ser una amiga de la familia si
+ quieres ver un beneficio duradero de tu relación. ¡Ah,
+ cómo puedo hacer que lo veas de verdad, tú que eres tan
+ joven y además criada por humanos! Si tienes cuidado, tú
+ y Mournhold viviréis para ver la caída de la dinastía de
+ Septim, si es que realmente ha fundado una, tal como has
+ visto su ascenso. Es el camino de la historia humana.
+ Fluyen y refluyen como las mareas. Sus ciudades e incluso
+ sus imperios florecen como flores de primavera, solo para
+ marchitarse y morir bajo el sol del verano".
+ 
+ Barenziah simplemente se rió. Sabía que abundaban los
+ rumores sobre ella y Tiber Septim. Disfrutaba de la
+ atención, pues todos salvo la emperatriz y su hijo parecían
+ cautivados por ella. Los bardos cantaban sobre su belleza
+ oscura y su encanto. Estaba de moda y enamorada, y si era
+ algo temporal, bueno, ¿qué no lo era? Era feliz por primera
+ vez que recordaba, cada día lleno de alegría y placer,
+ y las noches aún mejores.
+ 
+ "¿Qué me pasa?", se lamentó Barenziah. "Mira, ¿ni una sola
+ de mis faldas me queda bien? ¿Qué ha sido de mi cintura?
+ ¿Me estoy poniendo gorda?". Barenziah observó sus brazos
+ y piernas delgados y su cintura innegablemente engrosada
+ en el espejo con desagrado.
+ 
+ Drelliane se encogió de hombros. "Parece que estás encinta,
+ joven como eres. El emparejamiento constante con un humano
+ te ha traído una fertilidad temprana. No veo otra opción
+ que hables con él al respecto. Estás bajo su poder. Sería
+ lo mejor, creo, que fueras directamente a Mournhold si él
+ accede, y que tengas al niño allí".
+ 
+ "¿Sola?". Barenziah puso sus manos sobre su vientre hinchado,
+ con lágrimas formándose en sus ojos. Todo en ella anhelaba
+ compartir el fruto de su amor con su amante. "Él nunca
+ accederá a eso. No se separará de mí ahora. Ya verás".
+ 
+ Drelliane sacudió su cabeza gris. Aunque no dijo nada más,
+ una mirada de simpatía y dolor había reemplazado su habitual
+ desprecio frío. Esa noche Barenziah se lo contó a Tiber
+ Septim cuando él acudió a ella.
+ 
+ "¿Encinta?". Parecía conmocionado. Atónito. "¿Estás segura?
+ Me dijeron que las elfas no concebían tan jóvenes".
+ 
+ Barenziah sonrió inquieta, "¿Cómo puedo estar segura? Nunca..."
+ 
+ "Traeré a mi sanador".
+ 
+ El sanador, un alto elfo de mediana edad, confirmó que
+ Barenziah estaba efectivamente embarazada y que tal cosa
+ nunca antes se había conocido. Era un testimonio de la
+ potencia de Su Excelencia, dijo el sanador servilmente.
+ Tiber Septim le gruñó. "Esto no puede ser", dijo.
+ "Deshazlo". 
+ 
+ "Señor", el sanador se quedó boquiabierto. "No puedo..."
+ 
+ "Por supuesto que puedes", espetó. "Te ordeno que lo hagas".
+ 
+ Barenziah, con los ojos muy abiertos por un terror súbito,
+ se incorporó en la cama. "¡No!", gritó. "¡No! ¿Qué estás
+ diciendo?".
+ 
+ "Mi querida niña", Tiber Septim se sentó a su lado con su
+ sonrisa ganadora. "Lo siento mucho. De verdad. Pero esto no
+ puede ser. Tu hijo podría ser una amenaza para mi hijo y
+ sus hijos. No lo diré más claramente que eso".
+ 
+ "¡El hijo que llevo es tu hijo!", gimió ella.
+ 
+ "No. No es más que una posibilidad, un 'podría ser', aún no
+ dotado de alma ni animado a la vida. No permitiré que sea
+ así". Le lanzó al sanador otra mirada dura y el elfo empezó
+ a temblar.
+ 
+ "Es el hijo de ella. Los hijos son pocos entre los elfos.
+ Ninguna mujer concibe más de cuatro y eso es muy raro. Dos
+ es el número asignado. Algunas no tienen ninguno, otras
+ solo uno. Si le quito este, puede que no vuelva a concebir".
+ 
+ "Me dijiste que ella no concebiría de mí. Tengo poca fe en
+ tus pronósticos".
+ 
+ Barenziah saltó desnuda de su cama y corrió hacia la puerta,
+ sin saber a dónde iba, solo que no podía quedarse. Nunca
+ llegó a la puerta, pues la oscuridad la envolvió.
+ 
+ Barenziah despertó con dolor y vacío. Drelliane estaba allí
+ para calmar el dolor y limpiar la sangre que se acumulaba
+ bajo sus piernas, pero no había nada que llenara el vacío.
+ Tiber Septim envió regalos y flores, y acudió para visitas
+ cortas, siempre bien acompañado. Barenziah recibía estas
+ visitas con agrado, pero él no volvió más de noche ni ella
+ lo deseaba. Después de un mes, cuando estuvo recuperada
+ físicamente, se anunció que Symmachus había solicitado que
+ ella fuera a Mournhold antes de lo planeado, y que partiría
+ de inmediato. Se le dio un espléndido séquito, un guardarropa
+ digno de una reina y una salida ceremonial por las puertas
+ de la Ciudad Imperial.
+
+Message:  1016
+                                 Castillo de Sentinel
+ 
+ Estimada %pcn:
+ 
+ Mi amado hijo me ha mencionado tu nombre y ha
+ sugerido que podríamos tener algunos asuntos que
+ discutir. Entiendo que tenemos un interés mutuo.
+ Por favor, visítame en el Castillo de Sentinel lo
+ antes posible.
+ 
+ Atentamente,
+ 
+<ce>                                Barenziah
+<ce>                        Reina del Reino de Sentinel
+
+Message:  1017
+<ce>             Un paje con los colores y la rosa amarillo
+<ce>            pálido de Sentinel aparece en silencio a tu lado.
+<ce>              Te entrega una carta y desaparece tan
+<ce>                      silenciosamente como llegó.
+
+Message:  1020
+<ce>                Gracias a Boethiah lo encontraste antes de
+<ce>                que esos horribles orcos pudieran recuperarlo.
+<ce>                Me enteré de que perdieron el capítulo ante
+<ce>                 el Rey de los Gusanos. %god, qué crisis
+<ce>                  habría sido si lo hubieran publicado.
+<ce>                  Aquí tienes _reward_ piezas de oro por
+<ce>                            tus servicios.
+
+Message:  1030
+<ce>                       Quizás no sepas esto, pero
+<ce>                Gortwog no solo posee esa carta que el
+<ce>                Emperador perdió hace meses, sino que
+<ce>                también compite por una antigua reliquia
+<ce>                llamada el Tótem de Tiber Septim. Si ese
+<ce>                caníbal pone sus verrugosas manos en el
+<ce>                Tótem, podría significar el fin de Sentinel,
+<ce>                y posiblemente de toda la civilización de
+<ce>                la Bahía de Iliac. Es posible que necesitemos
+<ce>                     tus valiosos servicios de nuevo, %pcf.
+
+Message:  1050
+<ce>                       Hola, %pcn. Parece ser que
+<ce>             tenemos un antagonista común en el Rey de los
+<ce>             Gusanos. Soy Gortwog, Rey de los Orcos y Señor
+<ce>             de Orsinium. Estoy dispuesto a darte una joya
+<ce>                  _jewelry_ si recuperas el capítulo del
+<ce>             libro de Barenziah de Túmulo del Azote, en las
+<ce>             Montañas de la Cola del Dragón, donde el Rey y
+<ce>                 sus nigromantes lo han llevado. ¿Trato?
+
+Message:  1051
+<ce>             Qué lástima. En fin, contrataremos a algún
+<ce>                           otro mercenario.
+
+Message:  1052
+<ce>                       Muy bien. En marcha, pues.
+
+Message:  1054
+<ce>                       Aquí tienes tu _jewelry_.
+<ce>              No importa lo que yo haga con este capítulo.
+<ce>             Sin embargo, yo me mantendría lejos de la reina
+<ce>                  Barenziah por un tiempo si fuera tú.
+
+Message:  1060
+%qdt:
+ El señor de la guerra orco, Gortwog de Orsinium,
+ me ha contratado para continuar la misión que la
+ Reina de Sentinel comenzó: encontrar el capítulo
+ perdido de su biografía. El rumor dice que se
+ encuentra en la fortaleza de los Nigromantes,
+ Túmulo del Azote, en las Montañas de la Cola del Dragón.
+
+Message:  1061
+<ce>           Una forma brumosa surge en tu mente. ¡Un chamán orco!
+<ce>             Da paso a un orco regio, que porta una corona.
+ 
+ "El libro que buscas ya no está en Orsinium. Los
+ Nigromantes nos lo han robado. Si estás disponible,
+ nos interesa unir nuestros recursos contra este
+ enemigo común. Por favor, no seas tan necio como para
+ asumir que los orcos son tu enemigo simplemente
+ porque somos orcos. Si te interesa, ven a verme al
+ Salón de Orsinium, en Orsinium".
+ 
+<ce>           El rostro se desvanece, dejándote solo un recuerdo.

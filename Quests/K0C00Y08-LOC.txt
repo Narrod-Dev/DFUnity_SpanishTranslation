@@ -1,0 +1,127 @@
+Quest: K0C00Y08
+DisplayName: Un libro poco común
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        ¿Has oído hablar de _book_?
+<ce>                Es un tomo muy raro, casi nunca visto,
+<ce>                pero he localizado una copia enterrada en una
+<ce>                    mazmorra aquí en %reg. Te daré
+<ce>            _upfront_ piezas de oro ahora y otras _gold_
+<ce>                   cuando el libro esté en mis manos.
+<ce>                                ¿Trato hecho?
+                                     <--->
+<ce>                Busco un libro muy especial, uno que
+<ce>             no está disponible en ninguna tienda, al menos no
+<ce>            por un precio que no sea astronómico. Hace poco,
+<ce>            he oído que ha aparecido una copia no muy lejos
+<ce>            de aquí, en una mazmorra. Si aceptas este encargo
+<ce>             de encontrar el tomo, te daré _upfront_ piezas
+<ce>             de oro ahora y otras _gold_ piezas de oro
+<ce>                    cuando regreses. ¿Tenemos un
+<ce>                          trato entonces, %pcf?
+
+RefuseQuest:  [1001]
+<ce>                      Muy bien. Buscaré a un
+<ce>                       mercenario diferente entonces.
+
+AcceptQuest:  [1002]
+<ce>             Bien. Te daré =queston_ días para sacar el
+<ce>                      libro de ___mondung_ y
+<ce>             regresar. Pasado ese tiempo, las _gold_ piezas
+<ce>                 de oro se perderán. El nombre del libro es
+<ce>                            _book_. Buena suerte,
+<ce>                                  %pcf.
+
+QuestComplete:  [1004]
+<ce>                    Ah, maravilloso. Aquí tienes las
+<ce>                 _gold_ piezas de oro que prometí. Muchas
+<ce>                            gracias, %pcf.
+
+RumorsDuringQuest:  [1005]
+Me salió un bulto el otro día... pero ya sanó.
+<--->
+Acabo de tener una conversación de tres horas sobre el clima.
+<--->
+El tiempo es bastante normal para esta época del año.
+<--->
+Parece un poco fresco en %cn para esta temporada.
+<--->
+Seguro que hoy hace mucho más calor que el año pasado por estas fechas.
+<--->
+Mi tía abuela va a ver a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos levantar una estatua de guerra por estos lados.
+<--->
+Los niños de hoy con su magia... %oth, no lo sé.
+<--->
+Tuve un sueño de lo más extraño anoche.
+<--->
+He oído un chiste buenísimo. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Podrías explicármelo?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y malos.
+
+RumorsPostfailure:  [1006]
+Me salió un bulto el otro día... pero ya sanó.
+<--->
+Acabo de tener una conversación de tres horas sobre el clima.
+<--->
+El tiempo es bastante normal para esta época del año.
+<--->
+Parece un poco fresco en %cn para esta temporada.
+<--->
+Seguro que hoy hace mucho más calor que el año pasado por estas fechas.
+<--->
+Mi tía abuela va a ver a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos levantar una estatua de guerra por estos lados.
+<--->
+Los niños de hoy con su magia... %oth, no lo sé.
+<--->
+Tuve un sueño de lo más extraño anoche.
+<--->
+He oído un chiste buenísimo. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Podrías explicármelo?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y malos.
+
+RumorsPostsuccess:  [1007]
+_qgiver_ está con una alegría inmensa por su nueva adquisición.
+
+QuestorPostsuccess:  [1008]
+¿Qué puedo hacer por ti, noble %ra que me trajo _book_?
+
+QuestorPostfailure:  [1009]
+<ce>                       Como _book_ se ha perdido
+<ce>                    de nuevo, me parece de dudoso
+<ce>                     gusto que vengas a molestarme.
+<ce>                          Lárgate de aquí.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de
+ __qgiver_, ___qgiver_ me ha
+ enviado a ___mondung_ en
+ busca de _book_,
+ un libro muy poco común. Recibiré _gold_
+ piezas de oro si regreso en =queston_ días o menos.
+
+Message:  1011
+<ce>                               Has recogido
+<ce>                                 _book_.
+
+Message:  1012
+<ce>                            _qgiver_ se va a
+<ce>                    enfadar. Ha pasado el plazo en el
+<ce>                     que debías traerle el libro.

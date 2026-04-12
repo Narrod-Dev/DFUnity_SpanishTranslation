@@ -1,0 +1,101 @@
+Quest: R0C10Y00
+DisplayName: Contrabando de Joyas
+QRC:
+
+QuestorOffer:  [1000]
+<ce>             Si estás disponible para un trabajo, necesito a alguien
+<ce>            fiable para llevar a cabo una misión secreta.
+<ce>            Podría llevar bastante tiempo, pero te aseguro
+<ce>             que recibirás una compensación adecuada. ¿Te
+<ce>                            interesa?
+
+RefuseQuest:  [1001]
+<ce>              ¿En serio? Quizás demasiado orgullo. Es una pena.
+
+AcceptQuest:  [1002]
+<ce>            Muy bien. Te entrego una esmeralda para que se la
+<ce>                       des a mi contacto, _npc1_ de
+<ce>                    ___npc1_. %g estará esperando en
+<ce>                     __npc1_. El objeto debe
+<ce>               estar allí en =1stparton_ días. Eso es muy
+<ce>                importante. Una vez que hayas llegado allí,
+<ce>                        _npc1_ tendrá más
+<ce>            instrucciones. Confío en tu discreción,
+<ce>                     %pcf, y habrá vigilancia sobre ti.
+<ce>                        Buena suerte y gracias.
+
+QuestFail:  [1003]
+<ce>            No creo que tengamos nada más que discutir
+<ce>                                justo ahora.
+                                     <--->
+<ce>                             ¿Te conozco?
+
+QuestComplete:  [1004]
+<ce>                    Ah, me alegra verte, %pcf. Y el
+<ce>          _item2_ también. Excelente. Aquí tienes una recompensa
+<ce>           en oro por tu esfuerzo y, debo añadir, por tu
+<ce>             discreción. Tu nombre no será olvidado.
+
+RumorsDuringQuest:  [1005]
+<ce>       He oído que _questgiver_ sigue en el negocio del contrabando.
+                                     <--->
+<ce>      Ha habido un aumento extraordinario del contrabando últimamente.
+
+RumorsPostfailure:  [1006]
+<ce>      He oído que _questgiver_ tiene un cabreo monumental con alguien de la estirpe %ra.
+
+RumorsPostsuccess:  [1007]
+<ce>      Nadie sabe quién lidera el contrabando de _item2_.
+
+QuestorPostsuccess:  [1008]
+<ce>             Ah, mi contrabandista ocasional. ¿En qué puedo ayudarte?
+                                     <--->
+<ce>       Hola de nuevo. Me temo que no necesito más entregas.
+
+QuestorPostfailure:  [1009]
+<ce>                 Vuelves arrastrándote para pedir perdón
+<ce>                por fallar en esa misión, ¿eh? Pues es tarde.
+                                     <--->
+<ce>                       Tú eres esa persona %ra que falló
+<ce>                    en la misión de entrega, ¿no es así?
+<ce>                             Vete al Oblivion.
+
+QuestLogEntry:  [1010]
+<ce>                 Ah, bien. El último mensajero que _questgiver_
+<ce>            contrató nunca me encontró y tuvimos que darle caza.
+<ce>             Muy desagradable. Aquí tienes el _item2_. Debe ir
+<ce>                         para _npc2_, este =npc2_
+<ce>                          en ___npc2_. Tienes
+<ce>              que llevarlo allí en menos de =2ndparton_ días.
+<ce>                             Buena suerte, %pcf.
+
+Message:  1011
+%qdt:
+ _questgiver_ de __questgiver_
+ en ___questgiver_ me ha enviado a
+ __npc1_ en ___npc1_
+ para entregar una esmeralda a _npc1_.
+ Tengo =1stparton_ días para lograrlo.
+ Una vez allí, recibiré más instrucciones.
+
+Message:  1012
+%qdt:
+ _npc1_ me envió
+ a ___npc2_ con un _item2_
+ para llevárselo a _npc2_ en un lugar
+ llamado __npc2_. _npc1_
+ describió a _npc2_ como un
+ =npc2_. _npc2_ me
+ dará mi recompensa si llego ante %g2
+ en =2ndparton_ días.
+
+Message:  1020
+<ce>                     El Gremio de Ladrones sabe que
+<ce>                      llevas una piedra preciosa de
+<ce>                    considerable valor. Entrégala
+<ce>                       y dejaré que te marches sin daño.
+
+Message:  1021
+<ce>                     Como quitarle el oro a un infante.
+<ce>                      Ahora, fuera de mi vista,
+<ce>                          infame mensajero.

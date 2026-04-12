@@ -1,0 +1,129 @@
+Quest: A0C00Y17
+DisplayName: La Escolta
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                          Soy _questgiver_.
+<ce>              Necesito una escolta. ¿Podrías protegerme
+<ce>                  en mi viaje a __destination_?
+<ce>               Está a menos de =traveltime_ días de aquí.
+                                     <--->
+<ce>                       Mi nombre es _questgiver_.
+<ce>                  Tengo que salir de ___questgiver_
+<ce>             de inmediato. Quiero contratarte para que me protejas en
+<ce>                     mi viaje a __destination_.
+<ce>                   Puedo pagarte _gold_ piezas de oro.
+                                     <--->
+<ce>             ¡Tienes que ayudarme! Mi nombre es _questgiver_.
+<ce>                 Necesito llegar a __destination_ dentro de
+<ce>                =traveltime_ días y necesito una escolta.
+
+RefuseQuest:  [1001]
+<ce>                   Supongo que tendré que encontrar a alguien
+<ce>                   más que me proteja en mi viaje.
+                                     <--->
+<ce>                            ¡Qué insensible!
+
+AcceptQuest:  [1002]
+<ce>                       Bendiciones para ti, %pcn.
+<ce>                  Viajo ligero, así que estoy listo para partir.
+<ce>                    Sé que no trabajas gratis.
+<ce>                      Llévame a _destination_ en
+<ce>              __destination_ y te pagaré _gold_ oro
+<ce>                           cuando lleguemos.
+
+QuestComplete:  [1004]
+<ce>                        ¡Ah! ¡_destination_! Has
+<ce>                    cumplido tu parte del trato.
+<ce>                      Aquí tienes el oro que te
+<ce>                             prometí.
+
+RumorsDuringQuest:  [1005]
+<ce>                   Dicen que los guardias están buscando a
+<ce>                 _questgiver_. %g tuvo que huir de la ciudad.
+                                     <--->
+<ce>                 ¿No lo sabes? El Gremio de Ladrones está
+<ce>                   tras _questgiver_. ¿O era la
+<ce>                      Hermandad Oscura? No lo recuerdo.
+                                     <--->
+<ce>                     Escuché que _questgiver_ ha sido
+<ce>                   obligado a casarse. %g tiene que llegar a
+<ce>                       __destination_ antes de que
+<ce>                       el embarazo empiece a notarse.
+
+RumorsPostfailure:  [1006]
+<ce>                     Capturaron a _questgiver_. %g
+<ce>                      será juzgado la próxima semana.
+
+RumorsPostsuccess:  [1007]
+<ce>                    ¿Supiste? Un %ra sacó de contrabando a
+<ce>                     _questgiver_ fuera de la ciudad justo
+<ce>                   a tiempo. De lo contrario le habrían
+<ce>                         cortado la cabeza a %g2.
+
+QuestorPostsuccess:  [1008]
+<ce>                   Gracias por sacarme de esa
+<ce>                     ciudad, %pcf. Te he recomendado
+<ce>                     a varios de mis amigos.
+
+QuestorPostfailure:  [1009]
+<ce>                    ¡Tú! Por no ayudarme a salir
+<ce>                    de la ciudad, el Gremio de Ladrones
+<ce>                      se quedó con mi tienda. Vete.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Conocí a _questgiver_
+ en ___questgiver_. %g
+ me pagará por escoltar a %g2 hasta
+ _destination_ en __destination_.
+ En particular, %g necesita llegar a _destination_
+ dentro de =traveltime_ días.
+
+Message:  1019
+<ce>                        _questgiver_ dice: "¡Ja!
+<ce>                     Contraté a este %ra para protegerme
+<ce>                        de esto. %pcn, ¿vas a
+<ce>                        entregarme?"
+
+Message:  1020
+<ce>                    ¡Alto! Tengo una orden de arresto para
+<ce>                     _questgiver_ en nombre de %reg.
+<ce>                    No te queremos a ti,
+<ce>                    solo a %g2. Entrégalo y podrás irte.
+
+Message:  1021
+<ce>                   No hay necesidad de que peleemos.
+<ce>                   Nuestra disputa es con _questgiver_.
+<ce>                    El Gremio de Magos no tolera
+<ce>                     la traición. Entréganos a %g2 y
+<ce>                     podrás seguir tu camino.
+
+Message:  1022
+<ce>                      Apártate, %ra. Queremos a
+<ce>                         _questgiver_, y tú
+<ce>                   no puedes detenernos. Solo entrégalo.
+<ce>                         Oye, _questgiver_. ¿De verdad
+<ce>                    pensaste que podías engañar al
+<ce>                    Gremio de Ladrones y seguir con vida?
+
+Message:  1023
+<ce>                           Hazte a un lado, %ra.
+<ce>                       _questgiver_ es buscado por
+<ce>                       la Hermandad Oscura. No serás tan
+<ce>                      tonto como para intentar
+<ce>                        protegerlo, ¿verdad?
+
+Message:  1030
+<ce>                         _questgiver_ es asesinado
+<ce>                        ante tus ojos.
+
+Message:  1040
+<ce>                  Como quieras. ¡Mátenlos a ambos!
+
+Message:  1050
+<ce>                          ¿Estás perdido, %pcn?
+<ce>                      Supongo que tendré que encontrar mi
+<ce>                       propio camino a __destination_.
+<ce>                     Gracias por nada, inútil
+<ce>                                miserable.

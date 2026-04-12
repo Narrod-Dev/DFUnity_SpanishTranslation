@@ -1,0 +1,103 @@
+Quest: B0B70Y14
+DisplayName: Invasión desde Oblivion
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                           %pcf, tenemos una
+<ce>               emergencia. El Gremio de Magos ha descubierto
+<ce>                una grieta en la barrera entre Oblivion y
+<ce>               nuestra dimensión, Mundus. No pretendo
+<ce>                entender exactamente qué significa eso, pero
+<ce>               es malo. Todo tipo de seres daédricos están
+<ce>                entrando en nuestro mundo. El Gremio de Magos
+<ce>               dice que puede sellar la brecha, pero nos
+<ce>                  corresponde a nosotros matar a los Daedra que
+<ce>                  ya han cruzado. ¿Aceptarás
+<ce>                      esta misión, no por oro,
+<ce>                             sino por gloria?
+                                     <--->
+<ce>                         El fin, %pct, puede estar
+<ce>                 aquí al fin. Durante siglos, profetas
+<ce>                    han hablado del día en que los
+<ce>                   muros etéreos que separan nuestra
+<ce>                 dimensión, Mundus, de Oblivion, la
+<ce>                tierra de los Daedra, se romperán.
+<ce>                 El Gremio de Magos intentará reparar
+<ce>                la brecha, pero necesitan que matemos a las
+<ce>                  criaturas infernales que ya han
+<ce>                   atravesado. ¿Podemos contar contigo
+<ce>                            para esto, %pct?
+
+RefuseQuest:  [1001]
+<ce>                        Nuestro mundo pende de un
+<ce>                       hilo y tú solo puedes pensar
+<ce>                         en ti mismo. Me avergüenza
+<ce>                       saber que eres un
+<ce>                               ==qgiver_.
+
+AcceptQuest:  [1002]
+<ce>                    Ve rápido a ___dungeon_.
+<ce>                     No tenemos forma de saber cuántos
+<ce>                     Daedra vagan por sus
+<ce>                     pasillos. El Gremio de Magos dice
+<ce>                      que mates a todo ser daédrico que
+<ce>                      encuentres. Te contactarán
+<ce>                     por hechizo cuando detecten
+<ce>                     que el último invasor ha sido eliminado.
+<ce>                     Date prisa, porque en =2dung_ días
+<ce>                              será demasiado tarde.
+
+QuestComplete:  [1004]
+<ce>                Así que mataste a los Daedra, ¿eh? En realidad,
+<ce>                 esto es algo vergonzoso. Resulta que
+<ce>                   fuimos engañados por una maga rebelde.
+<ce>                  Ella había invocado a un Daedra que
+<ce>                 no podía controlar y quería que lo
+<ce>                  elimináramos antes de que el Gremio se enterara.
+<ce>                   Pensó que con su historia
+<ce>                lo haríamos gratis en lugar de tener que
+<ce>                pagar al Gremio de Guerreros. Normalmente nuestra
+<ce>                   orden no paga a sus miembros por
+<ce>                   sus servicios. Esta es una situación
+<ce>               inusual. Toma estas _gold_ piezas de oro.
+
+RumorsDuringQuest:  [1005]
+Si la gente de %reg supiera lo que sabe el Gremio de Magos, todos entrarían en pánico.
+
+RumorsPostfailure:  [1006]
+Gracias a que %kno no ayudó, el fin de Tamriel casi ocurre.
+
+RumorsPostsuccess:  [1007]
+He oído que el Gremio de Magos le debe una a %kno por ese fiasco en ___dungeon_.
+
+QuestorPostsuccess:  [1008]
+Bueno, %pcf, ya que más o menos salvaste el mundo, ¿qué puedo hacer por ti?
+
+QuestorPostfailure:  [1009]
+Todo Tamriel estuvo a punto de ser destruido, %pcf. Y estoy algo molesto contigo.
+<--->
+No creo que puedas culparme por no confiar en ti después de tu último desastre.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de
+ ==qgiver_ en ___qgiver_
+ dice que los Daedra están entrando
+ a través de una grieta dimensional.
+ Debo ir a ___dungeon_
+ y matarlos a todos. Me
+ contactarán por hechizo cuando
+ haya acabado con el último.
+ Tengo =2dung_ días antes de que
+ sea demasiado tarde.
+
+Message:  1011
+<ce>                      Una voz del más allá resuena
+<ce>                        en tu mente, diciendo...
+<ce>                                    
+<ce>                       "El último Daedra ha muerto.
+<ce>                        Con su muerte, Tamriel está
+<ce>                        a salvo otra vez. ¡Oye, qué
+<ce>                        estás haciendo! ¡Suelta mis
+<ce>                        brazos! ¡Soy una maga del gremio!
+<ce>                        ¡No apagues eso..."

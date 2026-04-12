@@ -1,0 +1,94 @@
+Quest: P0A01L00
+DisplayName: El rito de aceptación
+QRC:
+
+QuestorOffer:  [1000]
+Estimado %pcn:
+
+    Te hemos estado observando durante algún tiempo. De hecho,
+ te hemos vigilado desde que recibiste la impía bendición del
+ vampirismo. Has tenido tus momentos extraños y torpes, pero
+ no estamos descontentos con el vampiro en el que te has convertido.
+    Ha llegado el momento de que conozcas tu herencia, el orgulloso
+ linaje de %vam, la más grande de las estirpes vampíricas. Sin
+ embargo, para demostrar tu lealtad, requerimos un sacrificio.
+     Hay un refugio cercano donde se aloja un miembro de un linaje
+ inferior. Ve al lugar llamado ___mondung_ y acaba con =monster_,
+ ese asqueroso insulto a nuestra raza. Cuando la tarea esté
+ completada, ven a __questgiver_ en ___questgiver_ y búscame.
+ Soy reconocible al instante: busca a alguien con apariencia de
+ =questgiver_.
+     Esperaré durante =1stparton_ días, %pcf. Pasado ese tiempo,
+ me marcharé. Espero que no nos perdamos el uno al otro.
+
+                                _questgiver_
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called!
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called!
+
+QuestFail:  [1003]
+<ce>                    Mira, no quiero ser maleducado,
+<ce>                     pero espero a alguien, así que
+<ce>                           simplemente lárgate.
+
+QuestComplete:  [1004]
+<ce>                     Excelente, %pcf. Serás un gran
+<ce>                    miembro de %vam. Te damos la bienvenida
+<ce>                    a la familia. Se me conoce como _questgiver_.
+<ce>                    %vam seguirá vigilando tu progreso, y
+<ce>                   puede que te contactemos de vez en cuando
+<ce>                          para asuntos de la familia.
+<ce>                    Aquí tienes un anillo que te distingue
+<ce>                           como uno de los nuestros.
+
+RumorsDuringQuest:  [1005]
+Dicen que ___mondung_ está habitado de nuevo por algo o alguien.
+<--->
+Hay un ser extraño con aspecto de =questgiver_ por __questgiver_.
+
+RumorsPostfailure:  [1006]
+Gracias a %god que ese extraño =questgiver_ se fue de __questgiver_.
+<--->
+Parece que ___mondung_ ha sido abandonado una vez más.
+
+RumorsPostsuccess:  [1007]
+Mucha gente se pregunta qué podría haber aniquilado a un _monster_.
+<--->
+Me pregunto si ese _monster_ fue eliminado por algo mucho peor que él.
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called. Not sposed to be.
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called. Not sposed to be.
+
+QuestLogEntry:  [1010]
+¿_questgiver_? Nunca he oído hablar de %g2. ¿Vive %g por aquí?
+
+Message:  1011
+Ese =questgiver_ es mentor del linaje vampírico %vam.
+<--->
+_questgiver_ es un miembro orgulloso y capaz del linaje %vam.
+
+Message:  1015
+%qdt:
+ He recibido una carta de un miembro
+ de mi "familia". Se me ha ordenado
+ acabar con un "miembro de un linaje
+ inferior", presuntamente alguien ajeno
+ a %vam, en un lugar llamado ___mondung_.
+ Luego debo ir a ___questgiver_, a
+ __questgiver_, y ver a un =questgiver_
+ llamado _questgiver_ antes de que
+ %g se marche en =1stparton_ días.
+
+Message:  1020
+<ce>                     Un infante pálido y demacrado te
+<ce>                      entrega una carta y se aleja raudo.
+
+Message:  1030
+<ce>                      Has acabado con la vida del vampiro
+<ce>                                 =monster_.

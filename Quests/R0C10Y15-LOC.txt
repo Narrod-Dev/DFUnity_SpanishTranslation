@@ -1,0 +1,94 @@
+Quest: R0C10Y15
+DisplayName: El Cuarto Hombre
+QRC:
+
+QuestorOffer:  [1000]
+<ce>              Tengo una misión algo complicada que requiere
+<ce>               la intervención de un cuarto hombre. Podría
+<ce>                tomar un par de días cumplirla, pero eso
+<ce>           significará unas _reward_ piezas de oro en tu bolsillo.
+<ce>                             ¿Suena intrigante?
+
+RefuseQuest:  [1001]
+<ce>                           Es una decepción.
+<ce>                               En fin.
+
+AcceptQuest:  [1002]
+<ce>                   Tengo un contacto en ___npc1_ que posee
+<ce>             cierto objeto necesario para otra de mis alianzas
+<ce>                        en ___npc2_. Por supuesto,
+<ce>                    _npc1_, mi contacto en ___npc1_,
+<ce>                      necesita que se le pague por su
+<ce>                objeto. Por eso necesito que le lleves este
+<ce>                   diamante como pago a _npc1_. El
+<ce>                    diamante debe estar en su posesión
+<ce>              en =1stparton_ días. Una vez hayas llegado a
+<ce>                __npc1_, _npc1_ te dará más instrucciones.
+<ce>                     Gracias, %pcf, y que %god te acompañe.
+
+QuestFail:  [1003]
+<ce>                    Sé que era complicado, %pcf, pero
+<ce>                 asumí que tenías al menos un pequeño
+<ce>                 cerebro dentro de ese cráneo tan duro.
+<ce>                  Espero que tomaras notas, porque no
+<ce>                   tengo por costumbre repetirme.
+
+QuestComplete:  [1004]
+<ce>                             Ah, el _item2_.
+<ce>                   Temía que nunca llegara a su destino.
+<ce>              Bueno, aquí tienes tu _reward_ oro, como prometí.
+<ce>                    Dile a _npc1_ que estoy en deuda con
+<ce>                     %g2. Y gracias a ti también.
+
+RumorsDuringQuest:  [1005]
+_npc2_ en __npc2_ sigue chillando por su _item2_.
+<--->
+%oth, ese _npc1_ es un avaricioso. No ayudaría ni a su madre sin un pago previo.
+
+RumorsPostfailure:  [1006]
+He oído que _questgiver_ tiene un cabreo monumental con alguien de la estirpe %ra.
+<--->
+_npc2_ se marchó de __npc2_ enfurecido por una especie de objeto mágico que perdió.
+
+RumorsPostsuccess:  [1007]
+Me pregunto qué conexión habrá entre _questgiver_ y _npc2_.
+<--->
+He oído que _npc1_ vendió su _item2_. ¿Qué precio habrá tenido que pagar en todo Tamriel?
+
+QuestorPostsuccess:  [1008]
+Vaya, si es %pcn, la eminencia de la mensajería. ¿Cómo estás, camarada?
+<--->
+Me ayudaste cuando lo necesitaba, %pcf. ¿Qué puedo hacer por ti?
+
+QuestorPostfailure:  [1009]
+<ce>                         Supongo que has venido a
+<ce>                      disculparte por tu incompleto trabajo
+<ce>                            de mensajería, %pcf.
+<ce>                          Disculpa no aceptada.
+<ce>                               Déjame ahora.
+
+QuestLogEntry:  [1010]
+<ce>                      Gracias a %god que has llegado, %pcf.
+<ce>                Dame el diamante rápido. Ahora toma este _item2_
+<ce>                         y llévaselo a _npc2_ en
+<ce>                         __npc2_ -- eso es en ___npc2_.
+<ce>                         Una vez allí, %g te pagará.
+
+Message:  1015
+%qdt:
+ _questgiver_ de ___questgiver_
+ me ha enviado a ver a un contacto
+ suyo en ___npc1_, alguien de clase
+ =npc1_ con el nombre de _npc1_,
+ en __npc1_. Debo entregarle un
+ _item1_ y luego recibir más
+ instrucciones. Tengo =1stparton_ días
+ para llegar a ___npc1_.
+
+Message:  1016
+%qdt:
+ _npc1_ me ha enviado a ver a
+ _npc2_ en __npc2_, de
+ ___npc2_. Debo llevarle
+ un _item2_ en un plazo de
+ =2ndparton_ días.

@@ -1,0 +1,81 @@
+Quest: A0C00Y07
+DisplayName: El exterminador
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Necesito ayuda. _qgiver_ a tu servicio,
+<ce>                 aunque espero que tú estés al mío.
+<ce>                   _house_ está infestada de monstruos.
+<ce>                ¿Puedes matarlos por mí? Puedo pagarte
+<ce>                          _gold_ piezas de oro.
+
+RefuseQuest:  [1001]
+<ce>                 ¡Necesito ayuda! ¿Nadie va a ayudarme?
+
+AcceptQuest:  [1002]
+<ce>             ¡Gracias, gracias, gracias! Si no han
+<ce>            desaparecido para mañana a esta hora, estaré arruinado.
+
+QuestComplete:  [1004]
+<ce>                Qué alivio. Odio esas cosas. Has sido
+<ce>                     de gran ayuda, %pcn.
+<ce>                Aquí tienes las _gold_ piezas de oro que prometí.
+
+RumorsDuringQuest:  [1005]
+<ce>                   ¡Me parece divertidísimo! ¡La
+<ce>                  _house_ de _qgiver_ está infestada de bichos gigantes!
+                                     <--->
+<ce>                    Siento lástima por _qgiver_. Su
+<ce>                    _house_ ha sido prácticamente tomada
+<ce>                por ratas de 12 pies de largo con aguijones
+<ce>                venenosos. ¡Dicen que pueden convertir a un hombre en
+<ce>                      piedra con una sola mirada!
+
+RumorsPostfailure:  [1006]
+<ce>                     _qgiver_ tuvo que vender _house_.
+                                     <--->
+<ce>               Dicen que alguien del Gremio de Guerreros murió
+<ce>                   intentando limpiar la infestación de
+<ce>                          la _house_ de _qgiver_.
+
+RumorsPostsuccess:  [1007]
+<ce>                    ¿No eres tú el %ra que ayudó
+<ce>                     a _qgiver_ a deshacerse de las bestias
+<ce>                    que habían invadido su _house_?
+                                     <--->
+<ce>                       Dicen que _qgiver_ pagó
+<ce>                   a alguien para matar a todas las criaturas
+<ce>                     que habían invadido su _house_.
+
+QuestorPostsuccess:  [1008]
+<ce>                %pcf, te debo una gran deuda por
+<ce>                    limpiar mi _house_ de monstruos.
+                                     <--->
+<ce>                Todos, escuchen. Quiero que conozcan a
+<ce>             mi amigo, %pcn, exterminador extraordinario.
+<ce>               ¡%g liberó mi _house_ de tres docenas de monstruos!
+
+QuestorPostfailure:  [1009]
+<ce>                  ¡Tú! ¡Me arruinaste! Perdí mi _house_
+<ce>                 porque no pudiste encargarte
+<ce>                    de unos cuantos monstruos en ella.
+                                     <--->
+<ce>                  ¿No eres tú el %ra que me falló?
+<ce>                   Te contraté para matar unos monstruos
+<ce>                     que infestaban mi _house_, y tú
+<ce>                     simplemente no pudiste hacerlo. Vete.
+
+QuestLogEntry:  [1010]
+%qdt:
+ En ___qgiver_, conocí a _qgiver_.
+ %g me pidió que liberara de monstruos la _house_ en
+ __house_. Necesita que desaparezcan
+ en un día.
+
+Message:  1011
+<ce>  Eso debería ser suficiente.
+
+Message:  1012
+<ce>  Escuchas ruidos de arañazos provenientes de las paredes.
+<ce>  Las criaturas reaccionarán muy mal
+<ce>  a tu intrusión en su territorio.

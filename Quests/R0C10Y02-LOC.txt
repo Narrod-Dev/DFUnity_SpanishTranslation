@@ -1,0 +1,110 @@
+Quest: R0C10Y02
+DisplayName: Contrabando de Oro
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  Necesito a alguien para llevar un objeto a
+<ce>                    un contacto mío en ___contact_.
+<ce>               Recibirás otro objeto a cambio. Si me traes
+<ce>              ese objeto de vuelta, con gusto te recompensaré
+<ce>                    con _reward_ piezas de oro.
+<ce>                               ¿Aceptas?
+
+RefuseQuest:  [1001]
+<ce>                 ¿No? Qué pena. Estaba bajo la disposición
+<ce>                            de ser bastante generoso.
+
+AcceptQuest:  [1002]
+<ce>                   Muy bien. Toma este lingote de oro
+<ce>                  y llévaselo a alguien de clase =contact_
+<ce>                   llamado _contact_ en un lugar llamado
+<ce>                        __contact_ en ___contact_.
+<ce>              Tendrás que moverte rápido. Si no estás en
+<ce>               __contact_ en =1stparton_ días, _contact_
+<ce>                 se marchará, y nadie estará feliz.
+<ce>                Especialmente tú. Muy bien, buena suerte, %pcf.
+
+QuestFail:  [1003]
+<ce>                 O bien no has empezado todavía o has venido
+<ce>               a pedir disculpas por tu fracaso. ¿Es así, %pcf?
+<ce>               Bueno, estoy realmente decepcionado, gravemente
+<ce>                decepcionado. Tu ineptitud ha complicado las
+<ce>               cosas. Supongo que aprenderé la lección para la
+<ce>                próxima vez, ¿no? Ponte en marcha, %pcf. Ahora.
+
+QuestComplete:  [1004]
+<ce>                    Excelente, %pcf, has regresado con
+<ce>                    mi _item2_ como prometiste. Tu valor y
+<ce>              valentía son ciertamente grandes. Estoy seguro de
+<ce>              que agradeceremos tus servicios de nuevo en un
+<ce>                         futuro cercano. Gracias.
+
+RumorsDuringQuest:  [1005]
+<ce>   Alguien de clase =contact_ estuvo aquí hace poco preguntando por alguien de la estirpe %ra.
+                                     <--->
+<ce>   Alguien de clase =contact_ buscaba a alguien de la estirpe %ra con un _item1_ hace un tiempo.
+
+RumorsPostfailure:  [1006]
+<ce>               Bueno, he oído que _questgiver_ está furibundo
+                          con alguien de la estirpe %ra.
+                                     <--->
+<ce>              _questgiver_ sigue confiando en mercenarios y
+                     he oído que a %g le han salido mal las cosas.
+
+RumorsPostsuccess:  [1007]
+<ce>                He oído que _questgiver_ finalmente obtuvo
+                             el _item2_ que %g necesitaba.
+                                     <--->
+<ce>         _questgiver_ ha estado cantando las alabanzas de
+                      cierto mercenario de la estirpe %ra.
+
+QuestorPostsuccess:  [1008]
+Hola de nuevo, joven camarada. No he olvidado tus servicios.
+<--->
+Ah, %pcf. Es un placer verte de nuevo.
+
+QuestorPostfailure:  [1009]
+<ce>                        Vaya, pero si es la ineptitud %ra.
+<ce>                Tienes mucho descaro volviendo por aquí.
+                                     <--->
+<ce>                       Bueno, si no es el mensajero más
+<ce>                      inepto. ¿Por qué no te largas de
+<ce>                             aquí ahora, hmm?
+
+
+QuestLogEntry:  [1010]
+%qdt:
+_questgiver_
+ de ___questgiver_ me envió ante
+ un contacto, _contact_ de ___contact_
+ para entregar un lingote de oro en la base de
+ esta persona (=contact_) en __contact_.
+ El oro debe estar en manos de %g3 en
+ =1stparton_ días para que pueda recibir mi
+ recompensa.
+
+Message:  1011
+%qdt:
+Entregué el oro a
+ _contact_, quien me dio un _item2_
+ para llevar de vuelta a _questgiver_.
+
+Message:  1020
+<ce>                       Ese lingote de oro debe ser bastante
+<ce>                        pesado. ¿Qué tal si te alivio de
+<ce>                       esa carga? Solo entrégalo y te
+<ce>                          dejaré marchar.
+
+Message:  1021
+<ce>                       Qué mensajero tan valiente. Me
+<ce>                        aseguraré de contarle a mis
+<ce>                       amistades lo útil que puedes
+<ce>                              llegar a ser.
+
+Message:  1030
+<ce>                       Ah, tú debes ser el mensajero.
+<ce>                    Excelente, excelente. Ahora, lleva este
+<ce>                   _item2_ de vuelta a _questgiver_ de
+<ce>            inmediato, y %g te recompensará como prometió.
+<ce>                  ¡Un placer hacer negocios contigo,
+<ce>                                  %pcf!

@@ -1,0 +1,100 @@
+Quest: B0B70Y16
+DisplayName: El Mata Dragones
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                   ¡Shhh! No dejes que nadie más oiga
+<ce>                         esto, %pct. Acabo de recibir
+<ce>               noticias de que han visto un dragón. Bueno,
+<ce>                 no es un dragón adulto, solo un pequeño
+<ce>               dragoncito. No hay misión más heroica
+<ce>                 para un miembro de ==qgiver_ que matar
+<ce>               a un dragón. Sé dónde está, ve y mátalo.
+<ce>               Ambos podremos reclamar la gloria. ¿Es
+<ce>                             un trato?
+                                     <--->
+<ce>                    Es hora de que demuestres que
+<ce>                      realmente eres de ==qgiver_,
+<ce>                      %pct. Es momento de que
+<ce>                             mates a un dragón.
+
+RefuseQuest:  [1001]
+<ce>                      Si le cuentas esto a alguien más
+<ce>                     me aseguraré de que te expulsen
+<ce>                           de ==qgiver_.
+
+AcceptQuest:  [1002]
+<ce>                      El huevo de dragón acaba de
+<ce>                        eclosionar en ___dungeon_. No
+<ce>                      sé si hay otros dragoncitos
+<ce>                       allí o no. Puedo mantener esto
+<ce>                           en secreto por =2dung_ días.
+
+QuestComplete:  [1004]
+<ce>                         ¡Todos aclamen a %pcn,
+<ce>                      conocido desde ahora como
+<ce>                         mata dragones! ¡Todos aclamen
+<ce>                         a _qgiver_, fuerte brazo
+<ce>                       derecho y valioso confidente!
+
+RumorsDuringQuest:  [1005]
+No está pasando nada interesante.
+<--->
+Me salió un forúnculo el otro día... pero ya sanó.
+<--->
+Tuve una conversación de tres horas sobre el clima.
+<--->
+El clima es bastante normal para esta época del año.
+<--->
+Parece un poco fresco en %cn para esta época del año.
+<--->
+Hoy hace mucho más calor que en esta fecha el año pasado.
+<--->
+Mi tía abuela va a ver a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos levantar una estatua de guerra por aquí.
+<--->
+Los niños de hoy con su magia. %oth, no lo sé.
+<--->
+Tuve el sueño más extraño anoche.
+<--->
+Escuché un gran chiste. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Puedes explicarme eso?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y malos.
+
+RumorsPostfailure:  [1006]
+%kno estuvo merodeando en ___dungeon_ sin razón.
+
+RumorsPostsuccess:  [1007]
+¡El dragón en ___dungeon_ medía quince metros!
+<--->
+¡El dragón de ___dungeon_ medía treinta metros!
+<--->
+¡El dragón que %ra mató se comió cuarenta vacas en el almuerzo!
+
+QuestorPostsuccess:  [1008]
+¿Qué puedo hacer por mi compañero mata dragones?
+
+QuestorPostfailure:  [1009]
+Realmente me decepcionaste con ese dragón. Déjame en paz.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de
+ ==qgiver_ en ___qgiver_
+ me dijo que un huevo de dragón
+ eclosionó en ___dungeon_.
+ Tengo =2dung_ días para matar
+ a la bestia y disfrutar de la
+ gloria de la hazaña.
+
+Message:  1011
+<ce>                        El dragoncito está muerto.
+<ce>                       ¡Hablarán de esto en
+<ce>                          ==qgiver_ durante años!

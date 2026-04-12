@@ -1,0 +1,65 @@
+Quest: M0C00Y12
+DisplayName: Caza de una Araña Gigante
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Mi nombre es _qgiver_.
+<ce>             No me gusta dar trabajos a quienes no son miembros
+<ce>              del gremio. Sin embargo, pareces alguien de fiar.
+<ce>               Alguna pobre alma trajo a casa el huevo de una
+<ce>              araña gigante y este eclosionó. Al parecer, lo
+<ce>              confundieron con el capullo de un gusano de seda.
+<ce>              Esa pobre gente no puede permitirse pagarnos para
+<ce>               deshacerse de ella. Pero si te encargas gratis,
+<ce>              el gremio quedará bien y yo me aseguraré de que tú
+<ce>                      también. ¿Te interesa el trato?
+
+RefuseQuest:  [1001]
+<ce>                   Debí haber imaginado que no te
+<ce>                   tomabas el trabajo en serio.
+
+AcceptQuest:  [1002]
+<ce>                 Esta es tu oportunidad de llegar a lo
+<ce>                 más alto. La araña está atrapada en
+<ce>                 _house_. Mátala hoy mismo y hablaré
+<ce>                        bien de ti ante todos.
+
+QuestComplete:  [1004]
+<ce>                       Tienes agallas, %pcf.
+<ce>                  Sigue trabajando así y pronto serás
+<ce>                  de la estirpe que el Gremio de los
+<ce>                         Guerreros necesita.
+
+RumorsDuringQuest:  [1005]
+<ce>                ¿Te has enterado de ese idiota que trajo a
+<ce>                casa un huevo de araña gigante? ¡Ahora tiene
+<ce>                una mascota de ocho patas que está intentando
+<ce>                       cenárselo como plato principal!
+
+RumorsPostfailure:  [1006]
+<ce>               ¡A una pobre alma le picó una araña gigante
+<ce>               y casi muere en su propia casa nada menos!
+
+RumorsPostsuccess:  [1007]
+<ce>              ¿Tienes algo que ver con la muerte de esa araña
+<ce>             gigante? Deberías unirte al Gremio de Guerreros.
+
+QuestorPostsuccess:  [1008]
+<ce>                  Bien hecho con esa araña gigante.
+
+QuestorPostfailure:  [1009]
+<ce>                 Si no puedes lidiar con arañas, ¿cómo
+<ce>                 esperas manejar los otros trabajos que
+<ce>                  el gremio podría querer encargarte?
+
+QuestLogEntry:  [1010]
+El %qdt:
+ El Gremio de Guerreros de
+ ___qgiver_ me ha
+ ofrecido la oportunidad de matar
+ a una araña gigante que nació
+ en _house_.
+ Debe hacerse hoy mismo.
+
+Message:  1011
+<ce>                       El _monster_ ha muerto.

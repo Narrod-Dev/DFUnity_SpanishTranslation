@@ -1,0 +1,97 @@
+Quest: C0B00Y04
+DisplayName: El Sacerdote Loco
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        __qgiver_ a menudo se adentra
+<ce>                 en misterios de proporciones cósmicas,
+<ce>                  y en ocasiones juzgamos mal la
+<ce>                 estabilidad mental de uno de nuestros
+<ce>                 sacerdotes frente a la eternidad. En
+<ce>                 otras palabras, uno de nuestros sacerdotes
+<ce>                  ha perdido la razón. ¿Nos ayudarás a traer
+<ce>                       al lunático de vuelta a __qgiver_?
+                                     <--->
+<ce>                         El viejo =priest_ está otra vez
+<ce>                    fuera de control. Puede que haya
+<ce>                        vuelto a meterse en las bodegas
+<ce>                   de vino de __qgiver_. En cualquier caso,
+<ce>                    ¿puedes ayudarnos a traer de vuelta a ese
+<ce>                            viejo chiflado?
+
+RefuseQuest:  [1001]
+<ce>                        %oth, espero que cuando
+<ce>                     pierdas la razón, alguien sea
+<ce>                      lo bastante amable como para venir
+<ce>                             a rescatarte, %pct.
+
+AcceptQuest:  [1002]
+<ce>                     Bien por ti, %pct. Ahora,
+<ce>                       =priest_ ha huido a un
+<ce>                     lugar llamado ___mondung_. Intenta
+<ce>                 no hacerle demasiado daño al pobre demente.
+<ce>                         =priest_ no sabe lo que
+<ce>                  está haciendo ahora mismo. Solo dale
+<ce>                   un pequeño golpe en la cabeza y
+<ce>                tráelo/a de vuelta aquí. Esperaré =queston_
+<ce>                       días por ti. Ten cuidado.
+
+QuestComplete:  [1004]
+<ce>                     Me alegra verte de nuevo, %pct.
+<ce>                      No te preocupes por =priest_.
+<ce>                      Cuidaremos bien de %g2.
+
+RumorsDuringQuest:  [1005]
+Ese lunático =priest_ está atrincherado en ___mondung_. Solo un idiota iría allí.
+<--->
+___mondung_ es un lugar peligroso para la gente cuerda. _priest_ no durará mucho.
+
+RumorsPostfailure:  [1006]
+Al parecer, =priest_ nunca volverá a casa.
+<--->
+=priest_ sigue fuera de sí, vagando por ___mondung_.
+
+RumorsPostsuccess:  [1007]
+Un/a %ra rescató a ese loco =priest_. Si recuperó la cordura es otra cuestión.
+<--->
+=priest_ es o muy santo/a, muy borracho/a o muy loco/a. O quizá las tres cosas.
+
+QuestorPostsuccess:  [1008]
+Recuerdo que fuiste amable al rescatar a =priest_. ¿Qué puedo hacer por ti?
+
+QuestorPostfailure:  [1009]
+No tengo nada que decirte. Verás, yo sí recuerdo a =priest_.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de
+ __qgiver_, ___qgiver_
+ me ha enviado a encontrar a un/a sacerdote llamado/a
+ =priest_,
+ que enloqueció y huyó a
+ un lugar llamado ___mondung_.
+ Tengo =queston_ días para ir allí,
+ encontrar al demente y volver con
+ _qgiver_.
+
+Message:  1011
+<ce>                       "¡%oth, esa era mi cabeza!"
+<ce>                          =priest_ cae
+<ce>                    inconsciente y lo/la recoges.
+                                     <--->
+<ce>                        =priest_ pone los ojos en blanco
+<ce>                      de dolor y locura. Con un
+<ce>                        leve gemido, cae en
+<ce>                               tus brazos.
+
+Message:  1012
+<ce>                      Escuchas una leve risa
+<ce>                          maniática, y =priest_
+<ce>                    desaparece, como si se desvaneciera
+<ce>                           en el aire.
+                                     <--->
+<ce>                     "Tengo un reino que gobernar, no
+<ce>                    puedo pasarme el tiempo recogiendo
+<ce>                          maldita pelusa!" =priest_
+<ce>                    se zafa de tu agarre con sorprendente
+<ce>                           agilidad y huye.

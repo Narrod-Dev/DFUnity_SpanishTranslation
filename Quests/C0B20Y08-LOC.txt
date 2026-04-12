@@ -1,0 +1,72 @@
+Quest: C0B20Y08
+DisplayName: El Rito de Expiación
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 Me han dicho que eres bastante leal
+<ce>                 al templo. Necesito que realices una
+<ce>                   tarea vital para nosotros. %god se
+<ce>                 ha enfadado con nosotros. No necesitas
+<ce>                  preocuparte por el motivo. Nuestra única
+<ce>                esperanza es realizar un rito de expiación.
+<ce>                Necesitamos _ingredient_ para la ceremonia.
+<ce>                  Mis fuentes me dicen que se puede encontrar
+<ce>                 en ___dungeon_. ¿Lo traerás?
+
+RefuseQuest:  [1001]
+<ce>                      Tu lealtad al templo no es lo
+<ce>                        que pensaba que era,
+<ce>                               %pcn.
+
+AcceptQuest:  [1002]
+<ce>                       La ceremonia debe realizarse
+<ce>                     dentro de =traveltime_ días. El
+<ce>                         templo te recompensará con
+<ce>                       _gold_ piezas de oro por esto.
+<ce>                      Solo servirá _ingredient_ sin
+<ce>                        corromper. La bendición de %god
+<ce>                        está contigo para que puedas
+<ce>                         reconocerlo cuando lo
+<ce>                                encuentres.
+
+QuestComplete:  [1004]
+<ce>                      ¿Lo tienes? ¡_ingredient_!
+<ce>                         %god será apaciguado.
+<ce>                      Has hecho un buen trabajo. Aquí
+<ce>                              está tu recompensa.
+
+RumorsDuringQuest:  [1005]
+Las cosas han estado bastante... tensas en __qgiver_ últimamente.
+<--->
+Supuestamente hubo una orgía no autorizada en __qgiver_.
+<--->
+Alguien pronunció el nombre de %god al revés en una ceremonia en __qgiver_.
+
+RumorsPostfailure:  [1006]
+__qgiver_ sigue sin el favor de su dios.
+
+RumorsPostsuccess:  [1007]
+__qgiver_ ha recuperado el favor de su dios.
+
+QuestorPostsuccess:  [1008]
+Has apaciguado a %god, %pct. Claro, ¿en qué puedo ayudarte?
+
+QuestorPostfailure:  [1009]
+Mientras %god odie a __qgiver_, yo te odiaré a ti, %pct.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de __qgiver_,
+ en ___qgiver_, me dijo que su dios
+ estaba enfadado. %g necesita
+ _ingredient_ sin corromper de
+ ___dungeon_ para un rito de expiación.
+ Debe estar en manos de _qgiver_
+ en __qgiver_
+ dentro de =traveltime_ días.
+
+Message:  1011
+<ce>                      ¡Es esto! Puedo sentir la
+<ce>                      pureza del _ingredient_.
+<ce>                         Ahora debo llevarlo de vuelta a
+<ce>                               _qgiver_.

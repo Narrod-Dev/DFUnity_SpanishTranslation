@@ -1,0 +1,160 @@
+Quest: P0B10L08
+DisplayName: Una prueba de determinación
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 Called.
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called.
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called.
+
+QuestFail:  [1003]
+Error: Questtext 1003 Called.
+
+QuestComplete:  [1004]
+<ce>                         Has honrado a %vam
+<ce>                      esta noche, %pcf. ==daedra_
+<ce>                  nos respeta a nosotros y a ti como
+<ce>                ninguna otra tribu de vampiros ha logrado.
+<ce>                  Tu progenitor de sangre me pidió darte
+<ce>                esta _gem_ como símbolo de la permanencia
+<ce>                         de tu lugar en %vam.
+
+RumorsDuringQuest:  [1005]
+Cosas extrañas ocurren en ___mondung_. Diría que incluso más extrañas de lo habitual.
+
+RumorsPostfailure:  [1006]
+Las cosas se han calmado en ___mondung_. Pero las estrellas daédricas arden de noche.
+
+RumorsPostsuccess:  [1007]
+___mondung_ se ha calmado. Incluso las estrellas daédricas brillaron más tenue anoche.
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called.
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called.
+
+QuestLogEntry:  [1010]
+                    __vamp_
+                     ___vamp_
+ 
+ 
+ Estimable %pcn,
+ 
+      %vam te necesita.
+ Ven de inmediato.
+ 
+ 
+ 
+                    Tuyo en la muerte,
+ 
+                    _vamp_
+
+Message:  1011
+<ce>                   Ah, %pcf, has recibido mi carta.
+<ce>              El ancestro de nuestra tribu, tu progenitor,
+<ce>              ha pedido que investigues un asunto que
+<ce>               le perturba enormemente. Aquí hay una copia
+<ce>               de la carta que halló en un cuchillo en su
+<ce>               santuario. Obviamente, quien la envió posee
+<ce>                un gran poder y quiere poner a prueba la
+<ce>                      fuerza de %vam. Ve hacia la
+<ce>               mazmorra mencionada, en ___mondung_,
+<ce>                 busca a quien se hace llamar _daedra_
+<ce>               y demuéstrale que en %vam no somos gente
+<ce>                débil a la que se pueda amenazar o
+<ce>                 ridiculizar. El orgullo de %vam te
+<ce>                acompaña, %pcf. Te espero de vuelta en
+<ce>                    =queston_ días con este asunto
+<ce>                      resuelto. No nos falles, %pcf.
+
+Message:  1012
+%qdt:
+ _vamp_ de ___vamp_
+ me ha dado una carta de
+ un _daedra_ de
+ ___mondung_, insultando
+ a nuestra tribu, %vam. Debo
+ ir a ___mondung_ y hacer
+ que se trague sus palabras.
+ Tengo =queston_ días para
+ lograrlo y volver a
+ __vamp_.
+
+Message:  1013
+Esponja de Sangre,
+ 
+      Mi aquelarre me dice que tus monstruos,
+ tu extraña jauría de esperpentos que
+ sorben sangre, tienen el monopolio del
+ terror en %reg, y que mi propia
+ prole teme expandir su dominio por el
+ poder bruto de %vam. Los cobardes han
+ sido castigados y ahora mi aquelarre avanza.
+       Si esos vampiros complacientes que se
+ hacen llamar %vam tienen una pizca de la
+ potencia que mi aquelarre creía, acepta
+ mi desafío. De lo contrario, prepárate
+ para que haya menos espacio en %reg
+ para %vam y tus pequeñas criminalidades.
+       Soy _daedra_ del Aquelarre de
+ ==daedra_. Considera el guantelete lanzado.
+ Espero tu respuesta en ___mondung_.
+
+Message:  1014
+%qdt:
+ He recibido una carta de
+ _vamp_ de %vam, solicitando
+ mi presencia inmediata en un
+ lugar llamado __vamp_,
+ en ___vamp_.
+
+Message:  1015
+<ce>                         Te doy la bienvenida a
+<ce>                      ___mondung_, %pcn. ¿Supongo
+<ce>                            que vienes por %vam
+<ce>                    para reconocer que el Aquelarre de
+<ce>                      ==daedra_, Príncipe del Olvido,
+<ce>                      ¿es soberano absoluto en %reg?
+
+Message:  1016
+<ce>                         Cobarde chupasangre. No
+<ce>                      esperaba más, aunque tenía
+<ce>                        esperanzas. Vuelve con
+<ce>                            _vamp_, descendiente.
+
+Message:  1017
+<ce>                        ¿Osas desafiar la supremacía
+<ce>                        de ==daedra_ ante mi propia
+<ce>                      cara, gusano no muerto? ¡=daedroth_
+<ce>                      disfrutará triturando tus huesos
+<ce>                    impudentes! ¡Muéstrame a alguien
+<ce>                      de %vam que sepa luchar tan
+<ce>                            bien como fanfarronear!
+
+Message:  1018
+<ce>                          Escuchas a ==daedra_
+<ce>                      hablando dentro de tu cabeza:
+<ce>                      "Me has demostrado que en %vam
+<ce>                            sois dignos de
+<ce>                          respeto. Puedes decirle
+<ce>                            a _vamp_ que %reg
+<ce>                    os pertenece. Eres alguien con un
+<ce>                          perfil interesante, %pcn.
+<ce>                   Estoy con la certeza de que volveremos
+<ce>                             a vernos."
+
+Message:  1019
+<ce>                         Has fallado a %vam, %pcf.
+<ce>                      El Aquelarre de ==daedra_ nos
+<ce>                      desafió, y tu actuación fue una
+<ce>                  vergüenza. Es una noche de deshonor.
+
+Message:  1021
+<ce>                     Un muchacho de ojos desorbitados y
+<ce>                    terriblemente pálido te entrega una
+<ce>                     carta y desaparece en la oscuridad.

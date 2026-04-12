@@ -1,0 +1,102 @@
+Quest: S0000502
+DisplayName: Antiguo estudiante Parte II
+QRC:
+
+QuestComplete:  [1004]
+<ce>            Aquí tienes algo en lo que he estado trabajando.
+<ce>                    A ver qué te parece. ¡Me largo!
+
+Message:  1020
+%qdt:
+ _rebel_, quien se dedica a la magia rebelde
+ y que una vez fue mi objetivo, me ha pedido
+ reunirme con su mensajero en la taberna
+ _tavern_ de __tavern_, ____tavern_.
+
+Message:  1021
+%qdt:
+ Un atronach enviado por _rebel_ me informó
+ de que le gustaría contar con mi ayuda
+ para explorar la Torre Direnni en la Isla
+ de Balfiera. _rebel_ me esperará allí,
+ en algún lugar.
+
+Message:  1030
+%pcn: ¡Saludos!
+ 
+ Espero que esta nota te encuentre bien.
+ ¿Te interesa un poco de aventura? Si es
+ así, busca a mi mensajero en la taberna
+ _tavern_ de __tavern_, en ____tavern_.
+ 
+<ce>                 Tu contacto en la Magia No Autorizada,
+<ce>                                     
+<ce>                                 _rebel_
+
+Message:  1031
+<ce>                 Un tenue aroma a azufre te recibe al
+<ce>                      cruzar el umbral de la puerta.
+<ce>                 ¿Eso de allí es un atronach? ¿Tiene una
+<ce>                    nota clavada en la espalda que dice
+<ce>                          "GOLPÉAME"?
+
+Message:  1032
+<ce>                       El atronach entona fríamente:
+<ce>                                     
+<ce>                "Hola, %pcn. Soy =atronach_, la entidad al
+<ce>                    servicio de _rebel_. Me pregunta si
+<ce>                 tienes interés en explorar la Torre Direnni
+<ce>                  en la Isla de Balfiera en su compañía. Un
+<ce>                   lugar mágico lleno de maravillas más allá
+<ce>                 de lo imaginable. Quien me envía esperará
+<ce>                    en el interior durante =towertime_ días".
+<ce>                                     
+<ce>                   Tras esto, =atronach_ desaparece en
+<ce>                        una nube de humo.
+
+Message:  1040
+<ce>                     ¡%pcf, qué alegría verte de nuevo!
+<ce>                    Parece que te has adelantado sin mi
+<ce>                    presencia... ese cofre que llevas es
+<ce>                   exactamente lo que estaba buscando. No
+<ce>                    te importa si lo tomo prestado, ¿verdad?
+<ce>                          ¡Muchísimas gracias!
+
+Message:  1041
+<ce>                    %pcf, me alegra que te unas a mi
+<ce>                   pequeña expedición. Escucha, busco una
+<ce>                    cosa específica, un _item_ que creo
+<ce>                   que está en algún lugar de la Torre
+<ce>                  Direnni. Puedes quedarte con cualquier otra
+<ce>                  cosa que hallemos, solo quiero esa caja.
+<ce>                Bien, pues pongámonos en marcha, ¿te parece?
+
+Message:  1042
+<ce>                Ah, este es el _item_ que buscaba. Hmm,
+<ce>               esperaba que hubiera algún tipo de guardián...
+<ce>                         oh, oh...
+
+Message:  1043
+<ce>                        Bueno, ha sido divertido.
+<ce>                        Quizás podamos repetir esto
+<ce>                        en otro momento. ¡Adiós!
+
+Message:  1050
+<ce>                        ¡Toma esto! ¡Y esto! ¡Pedazo de
+<ce>                            trasto mohoso!
+
+Message:  1051
+<ce>                        ¡Ese es el espíritu! ¡Qué tal
+<ce>                        un poco de esto también!
+
+Message:  1052
+<ce>                         ¡Maldita sea, salgamos de aquí!
+<ce>                        Si tan solo pudiera hacer que
+<ce>                         este hechizo funcionara...
+
+Message:  1070
+<ce>                 Un cuervo vuela en círculos y se posa en
+<ce>                  tu hombro. De forma inusual, lleva una
+<ce>                 tarjeta grabada en el pico. Te observa con
+<ce>                  un ojo penetrante, mete la tarjeta en tu
+<ce>                   ropa y se aleja batiendo las alas.

@@ -1,0 +1,90 @@
+Quest: C0B10Y07
+DisplayName: Una Entrega
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       Bendiciones sobre ti, %pcn.
+<ce>                       __qgiver_ necesita que hagas
+<ce>                         un encargo para el templo.
+<ce>                          Este _religitem_ debe
+<ce>                       ser entregado a ___priest_
+<ce>                     dentro de =traveltime_ días. Tú
+<ce>                       recibirás una paga del templo
+<ce>                       de _gold_ piezas de oro. ¿Puedes
+<ce>                           hacerlo por nosotros?
+
+RefuseQuest:  [1001]
+<ce>                      Suspiro. Tendré que encontrar
+<ce>                       a otro servidor del templo
+<ce>                         para realizar esta tarea.
+
+AcceptQuest:  [1002]
+<ce>                       Aquí está el _religitem_.
+<ce>                          Llévalo a _priest_
+<ce>                      de __priest_ en ___priest_.
+<ce>                     Oh, casi olvido mencionar
+<ce>                        que un templo rival puede
+<ce>                      enviar matones para detenerte.
+
+QuestComplete:  [1004]
+<ce>                         El favor de %god contigo,
+<ce>                         %pcn. Este _religitem_
+<ce>                        es muy necesario aquí. Tengo
+<ce>                       entendido que se te debe
+<ce>                        entregar una paga del templo
+<ce>                          de _gold_ piezas de oro.
+
+RumorsDuringQuest:  [1005]
+Me salió un forúnculo el otro día... pero sanó.
+<--->
+Tuve una conversación de tres horas sobre el clima.
+<--->
+El clima es bastante normal para esta época del año.
+<--->
+Parece un poco fresco en %cn para esta época del año.
+<--->
+Hoy hace mucho más calor que en esta fecha el año pasado.
+<--->
+Mi tía abuela irá a ver a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos levantar una estatua de guerra por aquí.
+<--->
+La juventud de hoy y su magia. %oth, no lo sé.
+<--->
+Anoche tuve el sueño más extraño.
+<--->
+Escuché un gran chiste. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Puedes explicarme eso?
+<--->
+El sistema legal en %reg tiene puntos buenos y malos.
+
+RumorsPostfailure:  [1006]
+__qgiver_ ha estado maldiciendo el nombre de %pcn.
+
+RumorsPostsuccess:  [1007]
+_priest_ parece complacido con el regalo de %g3 de __qgiver_.
+
+QuestorPostsuccess:  [1008]
+_priest_ envía %g3 saludos, %pcf. ¿Qué puedo hacer por ti?
+
+QuestorPostfailure:  [1009]
+_priest_ nunca me perdonaría si hablara contigo.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de __qgiver_ me ha encargado
+ entregar el _religitem_
+ a _priest_ en __priest_ en
+ ___priest_. Debe estar allí
+ dentro de =traveltime_ días.
+
+Message:  1011
+<ce>                         Ese _religitem_ nunca
+<ce>                      llegará a __priest_.
+<ce>                        ¡En su lugar, entregaré
+<ce>                            tu cabeza!

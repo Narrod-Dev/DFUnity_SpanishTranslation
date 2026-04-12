@@ -1,0 +1,207 @@
+Quest: A0C01Y13
+DisplayName: Difamación
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Buen día. _giver_ es mi nombre. Puede que
+<ce>               hayas oído hablar de mí últimamente. Alguien ha estado
+<ce>                 llenando las calles con horribles mentiras
+<ce>                  sobre mi vida privada. Pagaré
+<ce>               _gold_ oro a quien logre ponerles fin.
+<ce>                       ¿Qué dices?
+                                     <--->
+<ce>                  Los maliciosos y claramente difamatorios
+<ce>                 rumores sobre mí deben cesar
+<ce>                 inmediatamente. Necesito a alguien anónimo
+<ce>                  que rastree estos rumores hasta su
+<ce>                   infernal origen. ¿Serán suficientes
+<ce>                      _gold_ piezas de oro para comprar tus
+<ce>                      habilidades de investigación en este
+<ce>                                asunto?
+
+RefuseQuest:  [1001]
+<ce>                  Supongo que también escuchaste el rumor de que
+<ce>                  no cumplo mis promesas. ¡Malditas mentiras!
+
+AcceptQuest:  [1002]
+<ce>                  ¿Lo harás? Excelente. Regresa cuando
+<ce>                  tengas pruebas de quién está detrás de
+<ce>                 todos estos desagradables rumores sobre mí. Entonces
+<ce>                 te daré el oro. Si no vuelves dentro de
+<ce>                   un mes, asumiré
+<ce>                         que has fallado.
+
+QuestFail:  [1003]
+%qdt:
+ Alguien ha estado difundiendo rumores en
+ ___giver_ sobre _giver_.
+ %g me ha contratado para ponerles fin
+ por _gold_ oro. Tengo 1 mes para
+ regresar con pruebas de mi éxito.
+
+QuestComplete:  [1004]
+<ce>              Has sido honorable, %pcn. Te lo agradezco.
+<ce>           Toma esta _magicsword_, mi posesión más preciada.
+<ce>          Es lo menos que puedo ofrecer. Somos amigos para siempre,
+<ce>                             y estoy en deuda contigo.
+<ce>                   Déjame a _giver_ y a _sister_,
+<ce>                   tengo algo planeado para ellos.
+
+RumorsDuringQuest:  [1005]
+<ce>                   ¡Dicen que _giver_ tiene esclavos!
+<--->
+<ce>                       _giver_ golpea a su pareja.
+
+RumorsPostfailure:  [1006]
+<ce>                    _giver_ es un paria. Nadie en la
+<ce>                ciudad quiere tener nada que ver con %g2. ¿Has
+<ce>                 oído todo lo que ha hecho?
+
+RumorsPostsuccess:  [1007]
+<ce>                 _lover_ fue rescatado de ___dungeon_
+<ce>                 por algún %ra. ¡Oye! ¿No eres tú ese %ra?
+
+QuestorPostsuccess:  [1008]
+<ce>                 Debes pensar que soy una persona horrible
+<ce>                 después de lo que le hice al amante de mi hermana,
+<ce>                   _lover_. Déjame compensártelo.
+
+QuestorPostfailure:  [1009]
+<ce>                  ¡Me fallaste! Mi hermana ya no
+<ce>                   me habla y es tu culpa.
+
+QuestLogEntry:  [1010]
+ %qdt:
+ He descubierto que _giver_ hizo un trato con
+ su hermana, _sister_, para secuestrar a su amante,
+ _lover_. Hay una carta recibida por
+ _giver_ que detalla el plan.
+
+Message:  1015
+_giver_,
+ Mis palabras serán breves. _lover_ es demasiado,
+ como has dicho, y un pequeño susto
+ puede ser lo que necesita. Me iré de viaje
+ esta noche, así que mañana al atardecer
+ deberías llevártelo. Me pondré en contacto de nuevo,
+ pero no creo que tengamos que continuar
+ por más de una semana.
+<ce>                               -_sister_
+
+Message:  1017
+<ce>                     ¿Qué dices? ¿_giver_?
+<ce>               He oído algo... pero debemos mantener
+<ce>                 la voz baja. Parece que su hermana,
+<ce>            _sister_, estaba teniendo problemas con su amante.
+<ce>             Creo que su nombre es _lover_. Sé que
+<ce>                hubo un acuerdo entre _giver_
+<ce>               y su hermana para deshacerse de _lover_.
+<ce>             No sé cómo, pero un joven que conocí dice
+<ce>             que entregó una carta de _sister_ explicando
+<ce>                          el plan a _giver_.
+
+Message:  1018
+%qdt:
+ Le he mostrado a _giver_ la carta
+ que describe el plan para secuestrar a _lover_,
+ y _giver_ ha revelado que
+ contrató a unos bandidos para encerrarlo en
+ ___dungeon_. Suplicó por su vida
+ y me pidió que rescatara a _lover_.
+
+Message:  1020
+<ce>                         ¡Mentiras, todas mentiras!
+<ce>                   Odio esos desagradables rumores callejeros.
+<ce>                ¡Por favor, date prisa y ponles fin!
+
+Message:  1021
+<ce>                     ¿¡Qué!? ¿Qué es esto? Oh, no...
+<ce>                     ¡Por favor, no me mates!
+<ce>                  Mi hermana me metió en esto... yo no
+<ce>                  quería hacer daño. Solo me pidió que
+<ce>                 lo asustara un poco, ya sabes, para que
+<ce>                la valorara más. Sé que no debí hacerlo.
+<ce>                Ahora estoy en un lío... verás,
+<ce>               pagué a unos bandidos para que se lo llevaran
+<ce>                 y lo encerraran en ___dungeon_.
+<ce>                Pensé que eso lo asustaría lo suficiente...
+<ce>               ¡pero no ha regresado! Me pasé... lo sé.
+<ce>             Por favor... debes rescatarlo. Pensé que
+<ce>               podría ocultarlo, pero ya no puedo.
+<ce>            Tienes que rescatarlo. Si no está de vuelta cuando
+<ce>           mi hermana regrese... bueno, ¡seguro me matará!
+
+Message:  1022
+<ce>                  _giver_ es tema de conversación estos días.
+                                     <--->
+<ce>              _giver_ se ha estado quedando en _givershouse_.
+                                     <--->
+<ce>                 El amante de la hermana de _giver_ ha desaparecido.
+                                     <--->
+<ce>               Normalmente puedes encontrar a _giver_ en __giver_.
+                                     <--->
+<ce>              ¿_giver_? Puedes encontrarlo en __giver_,
+<ce>                      o en su casa en _givershouse_.
+                                     <--->
+<ce>                  _giver_ es bien visto en ___giver_.
+                                     <--->
+<ce>                         Deberías probar en _inn_.
+<ce>                    Los mejores chismes están allí.
+                                     <--->
+<ce>       _giver_ suele ir de compras con su hermana, _sister_.
+                                     <--->
+<ce>                    _giver_ ha estado robando en
+<ce>                    _inn_. ¿O era otra persona?
+                                     <--->
+<ce>                     _giver_ asesinó a su hermana.
+                                     <--->
+<ce>                 El padre de _giver_ fue criado por orcos.
+                                     <--->
+<ce>                    _giver_ tiene un amante orco.
+                                     <--->
+<ce>              _giver_ ha estado robando en los templos.
+                                     <--->
+<ce>                  _giver_ está aliado con los orcos.
+                                     <--->
+<ce>                  Hay más rumores sobre _giver_
+<ce>                que sobre nadie más en ___giver_ esta semana.
+                                     <--->
+<ce>            _giver_ prometió secuestrar al amante de su hermana.
+                                     <--->
+<ce>         Hay tanto rumor por aquí que ya ni se sabe.
+                                     <--->
+<ce>                  _giver_ no cumple sus promesas.
+                                     <--->
+<ce>                _giver_ ha estado guardando secretos.
+                                     <--->
+<ce>              Todos por aquí tienen sus propias historias.
+                                     <--->
+<ce>                     Siempre hay chismes en _inn_.
+
+Message:  1030
+<ce>_lover_ es el amante de _sister_. No lo he visto por aquí últimamente.
+<--->
+<ce>_lover_ no ha sido visto en la ciudad desde hace días. Apostaría que _giver_ está detrás
+<ce>                              de eso de alguna manera.
+
+Message:  2000
+<ce>       ¡Gracias a %god alguien me ha encontrado! Pensé que nunca saldría
+<ce>             de aquí. He estado vagando por estos
+<ce>                pasillos durante días, intentando sobrevivir.
+<ce>                   ¿Qué dices? ¿_sister_ y
+<ce>                      _giver_ están detrás de todo esto?
+<ce>               Bueno, llévame de vuelta a _sistershouse_ en
+<ce>               __sistershouse_ y te recompensaré bien.
+<ce>                ¡Y luego me encargaré de esos dos!
+
+Message:  2001
+%qdt:
+ He encontrado a _lover_ y lo estoy escoltando
+ de vuelta a _sistershouse_
+ en __sistershouse_.
+
+Message:  2005
+<ce>                             _lover_ dice,
+<ce>                      "Gracias por tu ayuda, %pcn,
+<ce>                     pero encontraré mi propio camino a casa
+<ce>                              desde aquí."

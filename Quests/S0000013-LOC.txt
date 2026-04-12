@@ -1,0 +1,128 @@
+Quest: S0000013
+DisplayName: Las cartas de Mynisera
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                    %pcf, no sé ni siquiera cómo
+<ce>                abordar este tema. Necesito que me prometas
+<ce>                por el honor de tus ancestros que harás lo
+<ce>                que puedas para ayudarme y que nunca dirás
+<ce>                nada de lo que diga o de lo que veas a nadie
+<ce>                        en ningún lugar. ¿Lo juras?
+
+RefuseQuest:  [1001]
+<ce>                Supongo que sería peor que juraras y luego
+<ce>                no fueras fiel a tu palabra. Aun así, había
+<ce>                    esperado más galantería de tu parte.
+
+AcceptQuest:  [1002]
+<ce>                      Confiaré en ti entonces, %pcf.
+<ce>                El asunto concierne a mi suegra, la reina
+<ce>                viuda de Salto de la Daga y viuda de Lysandus,
+<ce>                Mynisera. Como encargada de las finanzas de
+<ce>                la casa, he notado que ella ha estado pagando
+<ce>                el mantenimiento de una fortaleza llamada
+<ce>                ___myndung_, con un gran pelotón de soldados.
+<ce>                Hace poco, desapareció con un paquete envuelto
+<ce>                en papeles y regresó días después con las manos
+<ce>                vacías. Recientemente se ha ido de nuevo con
+<ce>                otro fajo de cartas y mis espías han verificado
+<ce>                que ha ido a ___myndung_. Tendrás que confiar
+<ce>                en que mis sospechas son justificables, pues no
+<ce>                estoy en posición de ofrecer pruebas. Lo que
+<ce>                necesito que hagas es ir a ___myndung_ y
+<ce>                encontrar ese fajo de cartas o cualquier otra
+<ce>                información sobre sus actividades allí.
+<ce>                Mynisera regresará en =2myndung_ días. Me temo
+<ce>                que no puedes disponer de más tiempo. Suerte.
+
+QuestFail:  [1003]
+<ce>                      Necesito algún tipo de evidencia
+<ce>                    en =2myndung_ días o menos, %pcf.
+
+QuestComplete:  [1004]
+<ce>                 Qué triste. Para ser honesta, no es esto
+<ce>                lo que esperaba que contuvieran las cartas.
+<ce>                Pobre Mynisera. Todos en la corte saben que
+<ce>                su esposo, el difunto rey Lysandus, prefería
+<ce>                el rostro y la forma de otra mujer antes que
+<ce>                a ella, pero aún intenta ocultar toda prueba
+<ce>                de ello. Su lealtad a Lysandus es casi tan
+<ce>                grande como la necia lealtad de él hacia
+<ce>                                el emperador.
+<ce>                                     
+<ce>                Y esos pobres niños. Qué espantosa carnicería
+<ce>                de inocentes. Sabemos de la barbarie de los
+<ce>                orcos, pero seguramente ellos no merecían eso.
+<ce>                No es de extrañar que Mynisera no quisiera que
+<ce>                se supiera que su padre fue responsable de tan
+<ce>                grotesca empresa. Bien, te agradezco, %pcf,
+<ce>                tu valor y tu discreción. Por favor, acepta
+<ce>                este pequeño obsequio, no como un pago, sino
+<ce>                como un regalo. Que %god te bendiga.
+
+QuestorPostfailure:  [1009]
+<ce>                 Las cartas están muy quemadas, pero algunas
+<ce>                        palabras aún pueden leerse.
+
+QuestLogEntry:  [1010]
+<ce>                               (primera página)
+<ce>             ... estado lejos de ti demasiado tiempo, mi corazón...
+<ce>                                     
+<ce>                               (segunda página)
+<ce>      ... amas mis labios, pero olvidas las palabras que respiran...
+<ce>                                     
+<ce>                                (tercera página)
+<ce>       ... ella sospecha que la haces cornuda... y yo adoro y
+<ce>      venero cada parte de ti excepto tu corona hueca y tu anillo
+<ce>      de bodas hueco, esos dos círculos vacíos que te atrapan y
+<ce>      te traen dolor... si soy tan vanidosa como para ser la Medora
+<ce>      de Lysandus por siempre... cuerpo y sorber néctar de tu mano...
+<ce>      amor m... para siempre...
+<ce>                                     
+<ce>                               (cuarta página)
+<ce>      ...rcos. Pero asumieron lo peor del asentamiento, incluso
+<ce>      después de que todos los orcos sementales murieran y la for...
+<ce>      (pues las orcos hembras rara vez son más débiles que los machos en...
+<ce>        solo los viejos y enfermos quedaban en el rudo cam... que podía
+<ce>        hablar cyrodílico básico... rogó y pidió misericordia por los
+<ce>        niños, pero el príncipe Klaius dijo que los niños crecerían
+<ce>        fuertes y que solo un líder insensato mostraría piedad a los
+<ce>        subhumanos. Permitió a sus hombres divertirse matando a los
+<ce>        niños, y todos fueron asesinados de formas que no puedo
+<ce>        escribir. Lo presencié, mi señora, y aunque os pido perdón,
+<ce>        vuestro padre cometió un gran mal... la vergüenza mía por no
+<ce>        decir no... vergüenza para todos...
+<ce>                                     
+<ce>                                (quinta página)
+<ce>            ...abandonaré mis responsabilidades. Tú y...
+<ce>            juntos. Al diablo con el resto del mundo. Déjame
+<ce>            dejar esto... Betony atrás. Los aplastaré en
+<ce>            Cryngaine. Durante... muerto. Nadie sospechará
+<ce>                         que un rey renunciaría...
+
+Message:  1011
+%qdt:
+ La reina Aubk-i quiere que siga a su suegra, la
+ reina viuda de Salto de la Daga, hasta su fortaleza,
+ ___myndung_, para ver qué ocurre con los fardos de
+ papel que la vieja Mynisera ha estado llevando allí.
+ Solo tengo =2myndung_ días para volver con Aubk-i
+ y las cartas. Ella me ha prometido más información
+ a cambio de esto.
+
+Message:  1015
+<ce>              Una joven robusta con la librea de Salto de la
+<ce>              Daga te hace entrega de una carta. Girando
+<ce>              bruscamente, monta su caballo y se aleja.
+
+Message:  1020
+Estimado %pcn:
+ 
+ Necesito tu ayuda una vez más. Tu valor y discreción
+ fueron inestimables la última vez que me serviste en
+ el asunto con Nulfaga. Por favor, reúnete conmigo en
+ el Castillo de Salto de la Daga la próxima vez que pases.
+ 
+<ce>                                  Aubk-i
+<ce>                        Reina de Salto de la Daga

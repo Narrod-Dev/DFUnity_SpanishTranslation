@@ -1,0 +1,62 @@
+Quest: C0C00Y13
+DisplayName: Un Encargo
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       Bendiciones sobre ti, %pcn,
+<ce>                     aunque seas un pagano y no
+<ce>                        frecuentes nuestro
+<ce>                         templo. Soy _qgiver_.
+<ce>                      Así que buscas ganarte el
+<ce>                         favor de __qgiver_.
+<ce>                        Entrega este _religitem_
+<ce>                          a ___priest_ dentro de
+<ce>                      =traveltime_ días y podré
+<ce>                           hablar bien de ti.
+
+RefuseQuest:  [1001]
+<ce>                     Es tu pérdida. No pidas el
+<ce>                      favor de este templo en un
+<ce>                            buen tiempo, %pcn.
+
+AcceptQuest:  [1002]
+<ce>                       Aquí está el _religitem_.
+<ce>                          Llévalo a _priest_
+<ce>                      de __priest_ en ___priest_.
+<ce>                     Oh, casi olvido mencionar
+<ce>                        que un templo rival puede
+<ce>                      enviar matones para detenerte.
+
+QuestComplete:  [1004]
+<ce>                       El favor del dios contigo,
+<ce>                         %pcn. Este _religitem_
+<ce>                         es muy necesario aquí.
+
+RumorsDuringQuest:  [1005]
+Es una carrera entre dos templos por ese _religitem_.
+
+RumorsPostfailure:  [1006]
+_priest_ nunca recibió el _religitem_ y _qgiver_ está furioso.
+
+RumorsPostsuccess:  [1007]
+_priest_ y __qgiver_ lograron obtener el _religitem_ gracias a un valiente %ra.
+
+QuestorPostsuccess:  [1008]
+%god te bendiga, claro que recuerdo a %pcf. ¿Cómo estás, hijo?
+
+QuestorPostfailure:  [1009]
+_priest_ nunca recibió el _religitem_ y no estoy nada complacido.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_, de __qgiver_,
+ me ha encargado
+ entregar el _religitem_
+ a _priest_ en __priest_ en
+ ___priest_. Debe estar allí dentro de =traveltime_ días.
+
+Message:  1011
+<ce>                         Ese _religitem_ nunca
+<ce>                      llegará a __priest_.
+<ce>                        ¡En su lugar, entregaré
+<ce>                            tu cabeza!

@@ -1,0 +1,61 @@
+Quest: O0B2XY08
+DisplayName: Una hierba preciada
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Mi nombre es _qgiver_.
+<ce>                      Este es un asunto delicado,
+<ce>                        %pcf. Tengo _gold_ piezas de oro
+<ce>                       para ti si robas algo de
+<ce>                          _drugs_ para mí. ¿Supongo
+<ce>                        que sabes lo que es _drugs_?
+<ce>                       Es una hierba muy adictiva.
+<ce>                          ¿Aceptas el trabajo?
+
+RefuseQuest:  [1001]
+<ce>                        Si algo de esto llegara
+<ce>                       a filtrarse, ya sabes a quién
+<ce>                            iré a buscar, %pcn.
+
+AcceptQuest:  [1002]
+<ce>                            Ve a __mansion_.
+<ce>                            Busca _mansion_.
+<ce>                            Roba el cargamento de _drugs_.
+<ce>                 Tráelo antes de =traveltime_ días,
+<ce>                          y recibirás tu pago.
+
+QuestComplete:  [1004]
+<ce>                    Solo deslízalo en mi bolsillo.
+<ce>                     Bien. No creo que nadie te haya
+<ce>                      visto hacerlo. Aquí tienes tus
+<ce>                        _gold_ piezas de oro, %pcn.
+
+RumorsDuringQuest:  [1005]
+Todo el mundo se pregunta de dónde viene el comercio de _drugs_ en __mansion_.
+
+RumorsPostfailure:  [1006]
+Había alguien vendiendo _drugs_ en _mansion_, en __mansion_, pero se ha marchado.
+
+RumorsPostsuccess:  [1007]
+Robaron en _mansion_, en __mansion_, pero quien posee el lugar no irá ante el magistrado.
+
+QuestorPostsuccess:  [1008]
+Actúa con naturalidad, %pcf. El asunto de _drugs_ todavía está reciente.
+
+QuestorPostfailure:  [1009]
+<ce>                         %oth, %pcf. Pensé que
+<ce>                    podía confiar en ti para traerme
+<ce>                    ese cargamento de _drugs_. Por lo visto,
+<ce>                    si quieres un trabajo bien hecho, hay
+<ce>                      que eliminar a quien te ayude.
+<ce>                          Vete al Oblivion, renacuajo.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ del
+ Gremio de Ladrones en ___qgiver_
+ me pagará por robar algo de
+ _drugs_ en _mansion_,
+ en __mansion_.
+ Debo regresar en
+ =traveltime_ días para cobrar mi dinero.

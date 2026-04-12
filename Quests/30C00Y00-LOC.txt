@@ -1,0 +1,93 @@
+Quest: 30C00Y00
+DisplayName: La misión de Namira
+QRC:
+
+QuestorOffer:  [1000]
+<ce>          El deseo de poder roe las entrañas, ¿no es así,
+<ce>            %pcf? Puedo ver que sí. Disculpa mi informalidad,
+<ce>          pero siento que te conozco, reconozco tu ansia
+<ce>           como si fuera la mía. Quieres controlar, y ese
+<ce>          pensamiento te hace babear como un lobo hambriento. Puedo
+<ce>          saciarte, pero primero necesito saberlo. ¿Matarás
+<ce>                    para llenar este vacío?
+
+RefuseQuest:  [1001]
+<ce>             ¿No? Ahora te burlas de mí, %pcf. Me atraes fuera
+<ce>            de mi oscuro palacio y luego rechazas mi compañía. Si
+<ce>          pensara que simplemente estás siendo cruel, podría respetarlo.
+<ce>            Pero sospecho que en realidad eres estúpido,
+<ce>           lo cual no puedo tolerar. Por lo tanto, me despido de ti
+<ce>                           con total disgusto.
+
+AcceptQuest:  [1002]
+<ce>           Maravilloso. Deberías ver la mirada en tus ojos,
+<ce>            %pcf. Serás poderoso, puedo verlo en ellos.
+<ce>            Ahora, tu primer paso hacia el poder es un antiguo
+<ce>               vampiro que me ha disgustado, =monster_.
+<ce>              Debes saber que %g es un adversario formidable, y %g3
+<ce>                      refugio, ___mondung_, está bien
+<ce>             protegido. Pero puedes y vas a matarlo. Una vez
+<ce>                   lo hayas hecho, ve con mi querido amigo,
+<ce>                     _qgfriend_ en __qgfriend_
+<ce>                      en ___qgfriend_. _qgfriend_
+<ce>            es una persona ocupada, así que no hagas esperar a %g2 más
+<ce>              de =1stparton_ días. _qgfriend_ tendrá
+<ce>              un regalo para ti que creo que te hará
+<ce>                muy feliz. Adiós, %pcf. Nos volveremos a ver,
+<ce>                             lo sé.
+
+QuestFail:  [1003]
+<ce>            Mientras ese antiguo vampiro siga con vida, no tenemos
+<ce>                      nada de qué hablar, %pcf.
+
+QuestComplete:  [1004]
+<ce>                     Hola, %pcn. Soy _qgfriend_.
+<ce>            Te ves... saciado. Ese asesinato te sentó bien,
+<ce>            creo. Bueno, espero que esto también te complazca.
+<ce>             Namira me dijo que te diera su anillo. Póntelo
+<ce>              y comprenderás el significado del hambre y la
+<ce>               satisfacción. Una vez lo entiendas, conocerás
+<ce>                         el poder. Buen día, %pcf.
+
+RumorsDuringQuest:  [1005]
+Hay un vampiro en ___mondung_ que es tan antiguo que ya no bebe sangre.
+<--->
+Dicen que el vampiro en ___mondung_ ha aprendido a controlar su sed de sangre.
+
+RumorsPostfailure:  [1006]
+Aparentemente, el vampiro en ___mondung_ decidió que era hora de marcharse.
+<--->
+Supongo que ese vampiro sí necesitaba sangre después de todo. Se fue por alguna razón.
+
+RumorsPostsuccess:  [1007]
+No me importa si ese vampiro había dominado su sed de sangre: me alegra que esté muerto.
+<--->
+Las estrellas de Namira brillaron intensamente anoche. Siempre hambrienta, nunca satisfecha.
+
+Message:  1011
+_qgfriend_ es ese =qgfriend_ en __qgfriend_, creo. Sí, hacia el %di de aquí.
+<--->
+_qgfriend_ es el nombre del =qgfriend_ en __qgfriend_. Mira hacia el %di.
+
+Message:  1012
+_qgfriend_ es un Gourmand al servicio de Namira, Príncipe Daedra del Hambre.
+<--->
+_qgfriend_ es el nombre de uno de los Gourmands al servicio de Namira.
+
+Message:  1013
+El daño infligido al portador del anillo se refleja de vuelta al atacante.
+
+Message:  1020
+%qdt:
+ El Príncipe Daedra Namira me ha prometido
+ _artifact_, si mato al vampiro
+ =monster_ para ella dentro de =1stparton_ días.
+ Su contacto _qgfriend_ no esperará
+ más que eso por mí en __qgfriend_
+ de ___qgfriend_, así que no puedo retrasarme. Se supone
+ que el vampiro vive en ___mondung_.
+
+Message:  1030
+<ce>                  =monster_ está muerto. El hambre de Namira
+<ce>                  ha sido saciada — ahora es momento de satisfacer
+<ce>                  tus propios deseos informando a _qgfriend_.

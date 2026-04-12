@@ -1,0 +1,285 @@
+Quest: B0B71Y03
+DisplayName: El Artefacto
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                      Ha surgido un rumor sobre
+<ce>                     el paradero de un antiguo
+<ce>                       artefacto de poder. Esta es
+<ce>                          una oportunidad única
+<ce>                       en la vida. ¿Estás a la altura
+<ce>                               de ello, %pct?
+
+RefuseQuest:  [1001]
+<ce>                      No eres del tipo ambicioso, ¿eh?
+<ce>                        Algún otro caballero afortunado
+<ce>                       se asegurará de aprovechar
+<ce>                                esta oportunidad.
+
+AcceptQuest:  [1002]
+<ce>                       Creí detectar el brillo de la
+<ce>                       ambición en tus ojos,
+<ce>                         %pcf. Supuestamente,
+<ce>                       una bruja que vive en lo profundo
+<ce>                         de las entrañas de ___dungeon1_
+<ce>                      ha descubierto una pista sobre
+<ce>                       dónde encontrar esto.
+<ce>                          Yo empezaría por ella.
+
+QuestComplete:  [1004]
+<ce>                             Tu misión está
+<ce>                               completa.
+
+RumorsDuringQuest:  [1005]
+Me salió un forúnculo el otro día... pero ya sanó.
+<--->
+Tuve una conversación de tres horas sobre el clima.
+<--->
+El clima es bastante normal para esta época del año.
+<--->
+Parece un poco fresco en %cn para esta época del año.
+<--->
+Hoy hace mucho más calor que en esta fecha el año pasado.
+<--->
+Mi tía abuela va a ver a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos levantar una estatua de guerra por aquí.
+<--->
+Los niños de hoy con su magia. %oth, no lo sé.
+<--->
+Tuve el sueño más extraño anoche.
+<--->
+Escuché un gran chiste. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Puedes explicarme eso?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y malos.
+
+RumorsPostfailure:  [1006]
+Me salió un forúnculo el otro día... pero ya sanó.
+<--->
+Tuve una conversación de tres horas sobre el clima.
+<--->
+El clima es bastante normal para esta época del año.
+<--->
+Parece un poco fresco en %cn para esta época del año.
+<--->
+Hoy hace mucho más calor que en esta fecha el año pasado.
+<--->
+Mi tía abuela va a ver a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos levantar una estatua de guerra por aquí.
+<--->
+Los niños de hoy con su magia. %oth, no lo sé.
+<--->
+Tuve el sueño más extraño anoche.
+<--->
+Escuché un gran chiste. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Puedes explicarme eso?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y malos.
+
+RumorsPostsuccess:  [1007]
+Me salió un forúnculo el otro día... pero ya sanó.
+<--->
+Tuve una conversación de tres horas sobre el clima.
+<--->
+El clima es bastante normal para esta época del año.
+<--->
+Parece un poco fresco en %cn para esta época del año.
+<--->
+Hoy hace mucho más calor que en esta fecha el año pasado.
+<--->
+Mi tía abuela va a ver a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos levantar una estatua de guerra por aquí.
+<--->
+Los niños de hoy con su magia. %oth, no lo sé.
+<--->
+Tuve el sueño más extraño anoche.
+<--->
+Escuché un gran chiste. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Puedes explicarme eso?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y malos.
+
+QuestorPostsuccess:  [1008]
+Así que conseguiste aquello que buscabas. ¿Qué deseas ahora?
+
+QuestorPostfailure:  [1009]
+No tengo nada que decirte, %pcf.
+<--->
+Perdí el tiempo hablando contigo antes.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Me embarqué en una misión para encontrar un
+ artefacto de poder legendario. La única pista
+ que _questgiver_ de __questgiver_
+ pudo darme es que una bruja ermitaña
+ en ___dungeon1_ podría saber
+ algo al respecto.
+
+Message:  1011
+%qdt:
+ La bruja, _witch_,
+ en ___dungeon1_ exigió
+ que secuestre a _child_,
+ en _palace_, en __palace_,
+ su bisnieta, y la lleve
+ hasta ella si alguna vez quiero encontrar
+ _aurielsbow_.
+
+Message:  1012
+%qdt:
+ La bruja, _witch_,
+ en ___dungeon1_ exigió
+ que secuestre a _child_,
+ en _palace_, en __palace_,
+ su bisnieta, y la lleve
+ hasta ella si alguna vez quiero encontrar
+ _aurielshield_.
+
+Message:  1013
+%qdt:
+ La bruja, _witch_,
+ en ___dungeon1_ exigió
+ que secuestre a _child_,
+ en _palace_, en __palace_,
+ su bisnieta, y la lleve
+ hasta ella si alguna vez quiero encontrar
+ _lordsmail_.
+
+Message:  1021
+<ce>              Soy _witch_. Así que quieres _aurielshield_.
+<ce>          Es cierto que sé algo sobre ello. Debes hacer
+<ce>            algo por mí si deseas conocer mi secreto.
+<ce>            Hace mucho tiempo, cuando yo era joven y tu abuelo
+<ce>                  no era más que una chispa en la mente de tu
+<ce>             bisabuela, di a luz a una hija.
+<ce>        Dejé a la niña para que fuera criada por otros, pero ahora que mis
+<ce>                   poderes están menguando, necesito una heredera.
+<ce>                 Mi hija murió hace mucho, pero tengo una
+<ce>                  bisnieta de la edad adecuada
+<ce>                     llamada _child_. Tráemela
+<ce>         en un plazo de =finddaughter_ días y te diré lo que
+<ce>               sé sobre _aurielshield_. Los padres de _child_
+<ce>           no saben nada de su derecho de nacimiento y sin duda
+<ce>                    se resistirán a cualquier intento de llevártela.
+<ce>                     La encontrarás en _palace_
+<ce>                             en __palace_.
+
+Message:  1020
+<ce>               Soy _witch_. Así que quieres _aurielsbow_.
+<ce>          Es cierto que sé algo sobre ello. Debes hacer
+<ce>            algo por mí si deseas conocer mi secreto.
+<ce>            Hace mucho tiempo, cuando yo era joven y tu abuelo
+<ce>                  no era más que una chispa en la mente de tu
+<ce>             bisabuela, di a luz a una hija.
+<ce>        Dejé a la niña para que fuera criada por otros, pero ahora que mis
+<ce>                   poderes están menguando, necesito una heredera.
+<ce>                 Mi hija murió hace mucho, pero tengo una
+<ce>                  bisnieta de la edad adecuada
+<ce>                     llamada _child_. Tráemela
+<ce>         en un plazo de =finddaughter_ días y te diré lo que
+<ce>                sé sobre _aurielsbow_. Los padres de _child_
+<ce>           no saben nada de su derecho de nacimiento y sin duda
+<ce>                    se resistirán a cualquier intento de llevártela.
+<ce>                     La encontrarás en _palace_
+<ce>                             en __palace_.
+
+Message:  1022
+<ce>                Soy _witch_. Así que quieres _lordsmail_.
+<ce>          Es cierto que sé algo sobre ello. Debes hacer
+<ce>            algo por mí si deseas conocer mi secreto.
+<ce>            Hace mucho tiempo, cuando yo era joven y tu abuelo
+<ce>                  no era más que una chispa en la mente de tu
+<ce>             bisabuela, di a luz a una hija.
+<ce>        Dejé a la niña para que fuera criada por otros, pero ahora que mis
+<ce>                   poderes están menguando, necesito una heredera.
+<ce>                 Mi hija murió hace mucho, pero tengo una
+<ce>                  bisnieta de la edad adecuada
+<ce>                     llamada _child_. Tráemela
+<ce>         en un plazo de =finddaughter_ días y te diré lo que
+<ce>                 sé sobre _lordsmail_. Los padres de _child_
+<ce>           no saben nada de su derecho de nacimiento y sin duda
+<ce>                    se resistirán a cualquier intento de llevártela.
+<ce>                     La encontrarás en _palace_
+<ce>                             en __palace_.
+
+Message:  1025
+<ce>                      ¿Qué estás haciendo? ¡No quiero
+<ce>                       ir contigo! ¡Ayuda!
+<ce>                          ¡Mamá, papá, ayúdenme!
+
+Message:  1026
+<ce>                          ¡Intruso! ¡Intruso!
+
+Message:  1027
+<ce>                          Suelta a _child_ o
+<ce>                     me veré obligado a matarte.
+
+Message:  1032
+<ce>                     Ah, sí, mi heredera. ¿Cómo dijiste
+<ce>                      que se llamaba? ¿_child_?
+<ce>                         Sí, %g servirá.
+<ce>                         %pcn, te has ganado
+<ce>                  el derecho de buscar _aurielshield_.
+<ce>                      Las estrellas me han dicho que
+<ce>                    el camino hacia _aurielshield_ pasa
+<ce>                         por ___dungeon2_.
+<ce>                          Eso es todo lo que sé.
+
+Message:  1031
+<ce>                     Ah, sí, mi heredera. ¿Cómo dijiste
+<ce>                      que se llamaba? ¿_child_?
+<ce>                         Sí, %g servirá.
+<ce>                         %pcn, te has ganado
+<ce>                   el derecho de buscar _aurielsbow_.
+<ce>                      Las estrellas me han dicho que
+<ce>                     el camino hacia _aurielsbow_ pasa
+<ce>                         por ___dungeon2_.
+<ce>                          Eso es todo lo que sé.
+
+Message:  1033
+<ce>                     Ah, sí, mi heredera. ¿Cómo dijiste
+<ce>                      que se llamaba? ¿_child_?
+<ce>                         Sí, %g servirá.
+<ce>                         %pcn, te has ganado
+<ce>                    el derecho de buscar _lordsmail_.
+<ce>                      Las estrellas me han dicho que
+<ce>                     el camino hacia _lordsmail_ pasa
+<ce>                         por ___dungeon2_.
+<ce>                          Eso es todo lo que sé.
+
+Message:  1051
+%qdt:
+ _witch_ me ha dicho que
+ el camino hacia _aurielshield_
+ pasa por ___dungeon2_.
+
+Message:  1050
+%qdt:
+ _witch_ me ha dicho que
+ el camino hacia _aurielsbow_
+ pasa por ___dungeon2_.
+
+Message:  1052
+%qdt:
+ _witch_ me ha dicho que
+ el camino hacia _lordsmail_
+ pasa por ___dungeon2_.

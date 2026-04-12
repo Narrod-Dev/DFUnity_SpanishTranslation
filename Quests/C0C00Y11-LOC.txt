@@ -1,0 +1,76 @@
+Quest: C0C00Y11
+DisplayName: El Espíritu
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        No eres miembro de
+<ce>                            __qgiver_, %pcn.
+<ce>                        Sin embargo, pareces lo
+<ce>                      bastante confiable. Te diré algo.
+<ce>                        Una casa en __house_
+<ce>                        está siendo atormentada por
+<ce>                        algún tipo de no muerto.
+<ce>                        Necesitamos a alguien que
+<ce>                        exorcice el espíritu. Hazlo y
+<ce>                         puede que cambie lo que
+<ce>                         pensamos de ti.
+
+RefuseQuest:  [1001]
+<ce>                       Esto no te hará quedar bien
+<ce>                           ante __qgiver_.
+
+AcceptQuest:  [1002]
+<ce>                       Si la presencia es demasiado
+<ce>                      fuerte para ti, no hagas nada
+<ce>                       imprudente. Ve a _house_ en
+<ce>                       __house_. Tienes =traveltime_ días
+<ce>                    o enviaremos a alguien más a
+<ce>                              hacer el trabajo.
+
+QuestComplete:  [1004]
+<ce>                    Así que exorcizaste el lugar, ¿eh?
+<ce>                    Esto te favorecerá cuando hable
+<ce>                   con los jerarcas del templo.
+
+RumorsDuringQuest:  [1005]
+Dicen que _house_ está embrujada por muchos espíritus malignos poderosos.
+
+RumorsPostfailure:  [1006]
+_house_ sigue embrujada, a pesar de los intentos de __qgiver_.
+
+RumorsPostsuccess:  [1007]
+Por fin, _house_ solo alberga espíritus domésticos benignos.
+
+QuestorPostsuccess:  [1008]
+Oh, hola, amigo, el exorcista. ¿En qué puedo ayudarte?
+
+QuestorPostfailure:  [1009]
+Te di una oportunidad antes, y fue una pérdida de tiempo.
+<--->
+¿Crees que ya olvidé _house_, %pct?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de __qgiver_,
+ en ___qgiver_ me ha dado
+ la oportunidad de liberar _house_
+ en __house_ de una
+ presencia no muerta. Tengo =traveltime_
+ días para completar la tarea.
+
+Message:  1011
+<ce>                      En vida construí esta casa.
+<ce>                     ¿Qué derecho tienen los vivos
+<ce>                    de interrumpir mis sueños en la muerte?
+
+Message:  1012
+<ce>                    Bueno, al menos lo intentaste. No
+<ce>                     hablaré mal de ti, pero eso es
+<ce>                      todo lo que puedo prometer, %pcn.
+
+Message:  1080
+<ce>                      Además, aquí tienes un mapa
+<ce>                           a ___newdung_, un lugar
+<ce>                    impuro si es que alguna vez lo hubo.
+<ce>                     Hazle un favor a %reg y extermina
+<ce>                       las alimañas que lo infestan.

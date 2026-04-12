@@ -1,0 +1,279 @@
+Quest: S0000001
+DisplayName: El Príncipe Perdido
+QRC:
+
+QuestorOffer:  [1000]
+<ce>               Te damos la bienvenida a Sentinel, %pcf.
+<ce>          Supongo que habrás recibido mi carta. Sé cosas sobre
+<ce>        Lysandus y por qué su espíritu podría estar acechando
+<ce>         Daggerfall, pero antes de hablar, debes prometer que
+<ce>               harás algo por mí primero. ¿Te parece bien?
+
+RefuseQuest:  [1001]
+<ce>                         %oth, %pcf, pensaba que
+<ce>                tenías madera de héroe. Veo que me equivoqué.
+
+AcceptQuest:  [1002]
+<ce>               ¿Lo harás? Gracias a %god. Verás, yo solía
+<ce>          tener un hermano mayor, diez u once años mayor
+<ce>        que yo, de nombre _brother_. Siempre que pregunto qué
+<ce>          le pasó, me cuentan una historia distinta. Unos dicen
+<ce>          que enfermó y murió, otros que fue secuestrado por el
+<ce>          Rey de los Muertos. Quiero saber la verdad. Si logras
+<ce>          hallar pruebas de lo que le ocurrió realmente, te
+<ce>                  diré todo lo que sé sobre el Rey Lysandus.
+
+QuestFail:  [1003]
+<ce>                     Buscaba pruebas reales, %pcf.
+
+QuestComplete:  [1004]
+<ce>             Esto es lo que más temía. Pobre _brother_. Como
+<ce>                prometí, aquí tienes lo que he oído sobre
+<ce>              Lysandus. No sé hasta qué punto esto debe ser
+<ce>              secreto, pero confío en ti. Lysandus estaba
+<ce>              enamorado de su hechicera de la corte, una noble
+<ce>              llamada Medora Direnni, y durante la guerra con
+<ce>              nosotros, su reina se enteró. Dicen que mientras
+<ce>               su esposo no estaba, la Reina Mynisera desterró
+<ce>              a Medora de la corte. Mi hermana Aubk-i es la
+<ce>             reina ahora, como parte del tratado de paz, pero
+<ce>             Mynisera aún reside en el Castillo Daggerfall como
+<ce>                          la Reina Madre viuda.
+<ce>                                     
+<ce>              No sé a dónde fue Medora, pero sé que tiene un
+<ce>              enorme castillo en algún lugar de la Isla de
+<ce>              Balfiera. Pero también oí que pesa sobre ella
+<ce>              algún tipo de maldición y nunca puede salir.
+<ce>              No sé si esto te servirá de ayuda, pero es todo
+<ce>              lo que sé. De nuevo, gracias por la carta de
+<ce>             _brother_. Saber qué ocurrió aliviará un poco mi
+<ce>             corazón. Por favor, acepta este _magicitem_ como
+<ce>                        muestra de mi gratitud.
+
+RumorsDuringQuest:  [1005]
+El pobre príncipe Lhotun está de mal humor. Es tan distinto a Greklith.
+<--->
+La Reina Akorithi no sabe qué hacer con el Príncipe Lhotun. Está muy melancólico.
+
+RumorsPostfailure:  [1006]
+Los ánimos sombríos del Príncipe Lhotun siempre terminan pasando. Raro en alguien de su edad.
+<--->
+El Príncipe Lhotun parece estar en un estado más lúgubre que nunca. Es alguien muy extraño.
+
+RumorsPostsuccess:  [1007]
+El ánimo del Príncipe Lhotun ha mejorado. Sigue siendo alguien reservado, pero eso es normal.
+<--->
+La Reina Akorithi informa con alegría que su hijo menor ha recuperado el buen ánimo.
+
+QuestorPostsuccess:  [1008]
+Hola, %pct. Lo siento. Aún me estremece haber leído el diario de mi hermano.
+
+QuestorPostfailure:  [1009]
+<ce>                     ¿Así que no tienes información
+<ce>                    para mí? Debo decir que me parece
+<ce>                    muy sospechoso que no haya nada que
+<ce>                    reportar. Quizás trabajas para mi
+<ce>                    madre o para la nobleza. Creo que
+<ce>                         deberías marcharte ya.
+
+QuestLogEntry:  [1010]
+23 de la Estrella de la Mañana, 3E 400
+ ___ukcrypt_
+ 
+ Dos días llevo sellado en esta cripta sin comida ni agua.
+ No sé si me matará antes el hambre, la mala salud o una
+ de las criaturas que comparten este foso húmedo conmigo;
+ solo sé que pronto estaré muerto y ni mis huesos quedarán.
+ Mi esperanza es que, en los años venideros, esta carta sea
+ leída y se cuente la triste historia de _brother_, Príncipe
+ de Sentinel.
+ 
+ Tengo quince años en el momento de escribir esto, y he
+ sufrido de mala salud la mayor parte de mi vida, para
+ frustración de mis vigorosos padres. Los mejores sanadores
+ y boticarios del oeste de Tamriel se han esforzado con cada
+ una de mis toses y fiebres, pero aunque pudieron salvar mi
+ vida una y otra vez, no pudieron mejorar mi constitución
+ enfermiza. Mirando atrás, recibí poco afecto real del rey
+ y la reina, avergonzados como estaban de engendrar a un
+ tullido como heredero del reino. No puedo decir que extrañara
+ el amor; recibí mucha atención de los doctores, sacerdotes
+ y herbolarios de la corte. Ciertamente no iba a ser el tipo
+ de guerrero que fue el Rey Camaron, pero uno de mis mejores
+ amigos, un sacerdote de Stendarr, dijo que yo podría ser
+ el primer rey erudito en la historia de Sentinel.
+ 
+ Mi hermana menor Aubk-i era la verdadera favorita de mis
+ padres: atlética, bella y encantadora. Es difícil pensar
+ en una palabra negativa para ella. Estoy resignado a mi
+ muerte inminente, y aun así, me gustaría verla una vez más.
+ Durante seis años, Aubk-i y yo fuimos los únicos hijos de
+ Sentinel. Hace ocho años, la reina tuvo un varón y lo llamó
+ Greklith, por la antigua palabra de los Guardias Rojos para
+ "Rey Fuerte". Pocos hablan ya esa lengua, pero todos los
+ eruditos y nobles de Páramo del Martillo lo entendieron. Y
+ Greklith es, en efecto, un chico fuerte; nunca le he visto
+ ni siquiera toser. El siguiente hijo de la Reina, nacido
+ solo un año después de Greklith, tuvo un nombre de bautismo
+ aún más ominoso: Lhotun. "Segundo Niño". Quizás si hubiera
+ estado menos protegido, si fuera más suspicaz por naturaleza,
+ habría comprendido estas designaciones. "Lhotun y Greklith
+ son nombres comunes en nuestra familia", razoné. Ahora sé
+ que, incluso entonces, fui desheredado, aunque no fuera
+ oficial todavía.
+ 
+ Durante varios meses antes del nacimiento de Lhotun y más de
+ tres años después, estuve sumido en una fiebre muy grave.
+ Los doctores perdieron la esperanza, pero de alguna manera,
+ y muy, muy gradualmente, me recuperé. Por primera y última
+ vez, vi una expresión en el rostro de mi padre, el Rey, que
+ no era indiferencia. Era asco.
+ 
+ Eso fue hace quince días. Hace tres noches, fui capturado
+ por hombres que nunca había visto mientras daba un paseo.
+ Mi niñera se quedó mirando plácidamente mientras me
+ amordazaban, me ataban y me lanzaban bruscamente a un saco.
+ No sé cuánto tiempo cabalgaron conmigo, pero finalmente me
+ dejaron aquí. Cuando por fin me liberé de mis ataduras, me
+ encontré solo. Mis errancias no me han llevado a ninguna
+ parte. Este lugar está lleno de criaturas no-muertas que
+ me impiden encontrar cualquier salida.
+ 
+ No me queda esperanza, pero tampoco miedo. Algunos lamentos.
+ Quizás si hubiera estudiado magia en vez de historia y
+ ciencia podría liberarme de este lugar. Uno de mis tutores
+ contaba la historia del Rey de los Muertos, de cómo había
+ puesto su fuerza vital en el cuerpo de un ser poderoso y
+ así conquistó todo Tamriel hace mucho, mucho tiempo. Si tan
+ solo hubiera tenido la fuerza de un cuerpo más poderoso
+ como ese...
+ 
+ Pero no estudié magia. Estudié historia, así que dejo esta
+ carta; no para vengarme, sino como documento histórico.
+
+Message:  1011
+<ce>            Una mujer de aspecto demacrado se adelanta y te
+<ce>            entrega una nota. Evita todas tus preguntas con
+<ce>                 un rostro curtido y falto de expresión.
+
+Message:  1012
+El Rey de los Muertos solía tener una cripta por aquí: ___ukcrypt_, justo al %di de aquí.
+<--->
+Nadie ha oído hablar mucho del Rey de los Muertos desde que su cripta ___ukcrypt_ fue abandonada.
+<--->
+El propio Rey Camaron expulsó a los sirvientes del Rey de los Muertos de ___ukcrypt_.
+
+Message:  1013
+Se supone que el Rey de los Muertos tiene siglos de antigüedad.
+<--->
+Ese otro rey es un bufón. Ah... ¡el REY de los MUERTOS! Lo siento, no sé nada de eso.
+<--->
+Es un liche de gran poder. Eso dicen.
+<--->
+Oí que secuestró al Príncipe _brother_.
+<--->
+El Rey Camaron culpó al Rey de los Muertos de la muerte de _brother_. Nunca me cuadró.
+<--->
+Dicen que Tiber Septim nunca murió realmente. Se convirtió en el Rey de los Muertos.
+<--->
+Bah, solo es un coco para asustar niños, ya sabes, como Jagar Tharn.
+<--->
+El Rey de los Muertos no es más que un mito infantil.
+<--->
+¿Rey de los Muertos? Nunca he oído hablar de él.
+
+Message:  1014
+                                       Castillo Sentinel
+ 
+ 
+ Estimada persona,
+ 
+      No me conoces, pero yo a ti sí. Sé que sufriste un
+ naufragio. Sé que intentas disipar el fantasma del Rey
+ Lisandus. Si quieres, puedo contarte lo que sé, pero necesito
+ tu ayuda a cambio.
+      Si quieres hablar, mi nombre es Príncipe Lhotun y vivo
+ en Sentinel, en Samaruik, que suele llamarse Castillo
+ Sentinel. Espero que podamos vernos pronto.
+ 
+ 
+<ce>                               Atentamente,
+ 
+<ce>                                 Lhotun,
+<ce>                           Príncipe de Sentinel
+
+Message:  1015
+___ukcrypt_ solía ser la cripta del Rey de los Muertos, pero ahora es una prisión de Sentinel.
+<--->
+___ukcrypt_ está justo al %di de aquí. Dicen que aún es una cripta del Rey de los Muertos.
+
+Message:  1016
+___ukcrypt_ está directamente al %di de aquí. Solía ser una cripta del Rey de los Muertos.
+<--->
+___ukcrypt_ ya no se usa como prisión, y mucho menos como cripta del Rey de los Muertos.
+
+Message:  1018
+<ce>            ¿Qué significa esto? ¿Chantaje? Pero qué canalla
+<ce>            tan despreciable. Merecerías una paliza por
+<ce>            intentar colar esta burda falsificación. El pobre
+<ce>            Príncipe _brother_ murió de fiebre hace muchísimos
+<ce>            años. ¿Por qué no puedes dejarle descansar en paz?
+
+Message:  1019
+%qdt:
+ El Príncipe Lhotun de Sentinel me ha pedido
+ investigar la muerte de su hermano, _brother_,
+ quien supuestamente fue secuestrado por el
+ Rey de los Muertos hace años.
+
+Message:  1020
+<ce>                 Recoges un certificado de defunción.
+
+Message:  1030
+_brother_ era un príncipe de Sentinel. Murió hace años.
+<--->
+_brother_ cayó enfermo de fiebre y finalmente murió.
+<--->
+¿No era el príncipe erudito?
+<--->
+_brother_ prefería los libros a las espadas. Eso volvía loco al Rey Camaron.
+<--->
+Fue el único príncipe que nunca recibió un funeral público.
+
+Message:  1031
+<ce> El viejo Rey Camaron, que en paz descanse, nunca apreció a _brother_.
+ Habría preferido que Greklith fuera su heredero.
+                                     <--->
+Oí que la antigua niñera de _brother_ fue enviada a Skyrim con un cofre lleno de oro. 
+<--->
+El Rey Camaron parecía demasiado feliz cuando murió _brother_.
+<--->
+Oí que murió de fiebre.
+<--->
+Siempre me pregunté sobre _brother_. El Rey se negó a que el templo preparara el cuerpo para el entierro.
+
+Message:  1032
+Estimada persona,
+ 
+ Si tienes interés en conocer la verdad sobre el
+ príncipe _brother_, reúnete conmigo en
+ _agentplace_ en __agentplace_ de Sentinel.
+ 
+<ce>                               (sin firma)
+
+Message:  1035
+<ce>                ¿%pcn? Shhh. Preferiría que nadie me vea
+<ce>              hablando contigo. Ha llegado a nuestros oídos
+<ce>              que se está acusando injustamente al Rey de
+<ce>              los Muertos de raptar al príncipe _brother_.
+<ce>              Antes de juzgar, investiga en ___ukcrypt_. Lo
+<ce>              marcaré en tu mapa. ¿Quién soy? Solo alguien
+<ce>              leal que sirve a su señor. Ahora vete antes de
+<ce>              que alguien sospeche. Vamos, largo.
+
+Message:  1040
+%qdt:
+ Me reuní en secreto con alguien que sirve al
+ Rey de los Muertos. Supuestamente, él no tuvo
+ nada que ver con el rapto de _brother_. Debo
+ investigar ___ukcrypt_.

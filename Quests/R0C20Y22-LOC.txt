@@ -1,0 +1,132 @@
+Quest: R0C20Y22
+DisplayName: Negocios con Orcos
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Ah, %pcf, me alegra que estés aquí.
+<ce>            Si estás disponible para un trabajo, busco a
+<ce>                 alguien que entregue un _item_ especial
+<ce>               a una de mis amistades. La recompensa, creo,
+<ce>                 te parecerá extremadamente generosa,
+<ce>              para compensar el peligro de la misión.
+<ce>                           ¿Te interesa?
+
+RefuseQuest:  [1001]
+<ce>              ¿En serio? Demasiada ocupación, quizás. Es una pena.
+
+AcceptQuest:  [1002]
+<ce>                       Excelente. Aquí tienes el _item_.
+<ce>                 Ahora, _contact_ necesita tenerlo
+<ce>          en ___contact_ en =queston_ días. Eso debería ser
+<ce>               tiempo suficiente, espero. No costará dar
+<ce>                con _contact_ -- solo busca a alguien con
+<ce>                el perfil de =contact_ en __contact_. Por
+<ce>          cierto, puede que encuentres orcos que no quieran
+<ce>          que se haga este envío. Confío en que sepas cómo
+<ce>                        tratar con su calaña.
+<ce>                                Buena suerte.
+
+QuestFail:  [1003]
+<ce>              La rapidez es vital, %pcf. Se han visto orcos
+<ce>               merodeando por ___questgiver_ de noche.
+<ce>                Será mejor que te pongas en camino antes
+<ce>                           de que se envalentonen.
+
+QuestComplete:  [1004]
+<ce>                    Ah, es un placer verte %pcf. Y el
+<ce>                 _item_ también. Excelente. Aquí tienes
+<ce>                una baratija por las molestias. Espero que
+<ce>                   te guste el rojo. Cuídate mucho.
+
+RumorsDuringQuest:  [1005]
+He oído que _questgiver_ sigue en el negocio del contrabando.
+<--->
+<ce> Dicen que los guardias ahuyentaron a unos orcos anoche. Me pregunto
+<ce>                    ¿qué los traería a la ciudad?
+
+RumorsPostfailure:  [1006]
+Alguien encontró un _item_ muy bonito por aquí hace poco.
+<--->
+He oído que _questgiver_ está que echa chispas con alguien del gremio %ra.
+
+RumorsPostsuccess:  [1007]
+Alguien de perfil =contact_ estuvo aquí, agitando un _item_.
+<--->
+He oído que una joyería ha denunciado el robo de un gran rubí.
+
+QuestorPostsuccess:  [1008]
+Me han dicho que tu misión fue un éxito, %pcf. Eso está bien. Muy bien.
+<--->
+Me complació saber del éxito de la entrega. ¿Qué puedo hacer por ti?
+
+QuestorPostfailure:  [1009]
+<ce>                     Eres el correo que no pudo
+<ce>                   completar la entrega, ¿cierto? ¿No
+<ce>                    sería un error perder mi tiempo
+<ce>                    contigo otra vez? Es una pregunta
+<ce>                        retórica, por cierto.
+
+QuestLogEntry:  [1010]
+%qdt: 
+ _questgiver_ me ha contratado
+ para entregar un _item_ a alguien
+ en ___contact_ llamado _contact_.
+ %g se reunirá conmigo en __contact_
+ en =queston_ días para recompensarme si no
+ me han hecho picadillo antes los orcos que
+ también buscan el _item_.
+
+Message:  1012
+No querrás tener nada que ver con ese amante de los orcos de ___orsinium_.
+<--->
+¿_orsinium_ de ___orsinium_? Dicen que %g incluso habla con los orcos.
+
+Message:  1013
+_orsinium_ es muy popular en ___orsinium_ por su simpatía hacia los orcos.
+<--->
+<ce>Sé con certeza que _orsinium_ siente devoción por los orcos. Yo mismo
+<ce> he visto a %g2 quedar con esos brutos a las afueras de ___orsinium_.
+<ce>                Deberían echar a %g de la ciudad, si me preguntas.
+
+Message:  1015
+_questgiver_ lo negará, pero dicen que %g está en el negocio del contrabando.
+<--->
+<ce>Se dice que _questgiver_ participa en una red de contrabando, trayendo
+<ce>                      botín saqueado de la vieja Orsinium.
+
+Message:  1016
+<ce>_questgiver_ hará que los orcos caigan sobre nosotros si sigue comerciando
+<ce> con botín de Orsinium. _orsinium_ ha acusado a _questgiver_ en público,
+<ce>               pero no se ha hecho nada al respecto, por supuesto.
+                                     <--->
+<ce>No sé de dónde lo saca _questgiver_, pero he visto a %g2 luciendo
+<ce> joyas antiguas exquisitas últimamente. Artesanía antigua de Orsinium,
+<ce>                        si no me equivoco.
+
+Message:  1020
+<ce>                    Me alegra que me buscaras, %pcn.
+<ce>             Debes saber que el _item_ que transportas
+<ce>        fue robado de Orsinium, la antigua capital de los orcos.
+<ce>              _questgiver_, como la mayoría, trata a los orcos
+<ce>         con absoluto desprecio, de ahí que se vean en la obligación
+<ce>        de recurrir a la violencia para recuperar lo que es suyo. Sin
+<ce>         embargo, espero que tengas más luces que tu empleador. Si
+<ce>         me entregas el _item_, me encargaré de que sea devuelto a
+<ce>                          sus legítimos dueños.
+
+Message:  1021
+<ce>                         ¿Entregas el _item_?
+
+Message:  1022
+<ce>               Me alegra no haberme equivocado contigo.
+<ce>                     Gracias, %pcf. No lo olvidaremos.
+
+Message:  1023
+<ce>                 Es muy lamentable. Bueno, cada quien
+<ce>                  tiene sus motivos. Espero que puedas
+<ce>                         vivir con esta decisión.
+
+Message:  1030
+<ce>            Mientras el orco cae al suelo, jadea con un
+<ce>                    acento apenas comprensible,
+<ce>                  "_orsinium_... ve... _orsinium_..."

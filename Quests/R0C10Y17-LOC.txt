@@ -1,0 +1,98 @@
+Quest: R0C10Y17
+DisplayName: Una Sustancia Especial
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Me preguntaba si podrías hacerme un pequeño
+<ce>                favor. Verás, tengo una amistad que requiere
+<ce>                cierto cargamento de cierta sustancia traída
+<ce>                en cierto momento. Confío en estar siendo
+<ce>                claro. ¿Estás disponible para tal encargo,
+<ce>               si te ofrezco un pago de, digamos, _reward_ piezas de oro?
+
+RefuseQuest:  [1001]
+<ce>                   Vaya, ciertamente me dejas decepcionado.
+<ce>                  Hubiera esperado algo más de entusiasmo.
+<ce>                    En fin, supongo que estos tiempos son los
+<ce>                   que engendran la pereza y la indolencia.
+
+AcceptQuest:  [1002]
+<ce>                 Así que estás disponible. Bueno, eso es
+<ce>                 magnífico, debo decir. Pues bien, aquí tienes
+<ce>                       un... chisme, un _item1_. Debe
+<ce>                 ser llevado a un alquimista que conozco
+<ce>                        llamado _npc1_. Le encontrarás
+<ce>                 en __npc1_, en ___npc1_. Con suerte, %g
+<ce>                tendrá algo para que se lo lleves a mi amistad,
+<ce>                 _npc2_. Bueno, será mejor que te marches.
+<ce>                 _npc1_ me dijo que necesitaba el _item1_
+<ce>                   en =1stparton_ días o menos. Gracias
+<ce>                      y que tengas un buen viaje.
+
+QuestFail:  [1003]
+<ce>                Tendremos mucho tiempo para charlar más
+<ce>                 una vez hayas completado tu encargo.
+
+QuestComplete:  [1004]
+<ce>                    %oth, me preguntaba cuándo llegarías.
+<ce>                         ¿Tú eres %pcf? Yo soy _npc2_,
+<ce>                        y esto, creo, es mi _item2_.
+<ce>                  Si no lo has probado antes, realmente
+<ce>                  deberías hacerlo. El efecto es celestial.
+<ce>                En fin, aquí tienes tus _reward_ piezas de oro.
+<ce>                          Muchas gracias, %pcf.
+<ce>                         Me has salvado la vida.
+
+RumorsDuringQuest:  [1005]
+He oído que _npc2_ es adicto a _item2_, pero no he visto pruebas.
+<--->
+Dicen que es difícil elaborar una buena dosis de _item2_; requiere años de estudio.
+
+RumorsPostfailure:  [1006]
+Resulta que _npc2_ era adicto a _item2_ después de todo. Le pillaron comprándolo.
+<--->
+Me pregunto quién suministraba a _npc1_ los ingredientes que necesitaba.
+
+RumorsPostsuccess:  [1007]
+_npc2_ finalmente recibió ese cargamento que esperaba. Está más feliz que una arpía.
+<--->
+_questgiver_ parece bastante conforme con alguien de la estirpe %ra que contrató, pero no dice por qué.
+
+QuestorPostsuccess:  [1008]
+Hiciste un buen trabajo con esa entrega, camarada. ¿Qué puedo hacer por ti?
+<--->
+%oth, me alegra verte de nuevo, %pcf. Hiciste un buen trabajo en aquel... asuntillo.
+
+QuestorPostfailure:  [1009]
+<ce>                      Según recuerdo, fallaste en el
+<ce>                      último encargo que te encomendé.
+<ce>                     No veo motivo alguno para hablar
+<ce>                             contigo ahora.
+
+QuestLogEntry:  [1010]
+%qdt:
+Le estoy llevando
+ a _npc1_ de __npc1_,
+ ___npc1_ un _item1_ a cambio
+ de cierto objeto que _questgiver_
+ quiere que sea entregado a un
+ tercero. Tengo =1stparton_ días para
+ cumplir la primera parte de esta entrega.
+
+Message:  1011
+%qdt:
+ _npc1_ me ha enviado
+ a ver a _npc2_, la tercera parte
+ en ___npc2_, con un _item2_.
+ Reconoceré a _npc2_ por ser de clase
+ =npc2_ en __npc2_, siempre que se lo
+ entregue en =2ndparton_ días.
+
+Message:  1012
+<ce>                      Encantador, %pcf, encantador. Ahora,
+<ce>                        aquí está el _item2_ que debe
+<ce>                       ser entregado a _npc2_ allá en
+<ce>                       __npc2_, en ___npc2_. No te
+<ce>                       entretengas, %pct. _npc2_ lo
+<ce>                       necesita en =2ndparton_ días
+<ce>                              o menos.

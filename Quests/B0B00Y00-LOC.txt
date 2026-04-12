@@ -1,0 +1,122 @@
+Quest: B0B00Y00
+DisplayName: La Princesa
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       %pcf, la Princesa _lady_
+<ce>                 ha sido capturada bajo nuestra protección,
+<ce>                   y es responsabilidad de nosotros,
+<ce>                 los caballeros, rescatarla. Por desgracia,
+<ce>                  muchos de nuestros miembros están luchando
+<ce>                  en la guerra. En el más puro espíritu de
+<ce>                  la caballería, ¿irás a rescatar a la
+<ce>                  princesa del _monster_ que la ha
+<ce>                             capturado?
+                                     <--->
+<ce>                    La guerra ha mantenido a la orden
+<ce>                  tan ocupada que deberes importantes
+<ce>                  como proteger la virtud de las
+<ce>                         damas nobles de %reg han
+<ce>                  quedado bastante descuidados. No hay
+<ce>                    literalmente nadie disponible para
+<ce>                         rescatar a la Princesa _lady_
+<ce>                   que fue llevada el otro día.
+<ce>                       ¿Estás libre para esta
+<ce>                           tan digna misión?
+
+RefuseQuest:  [1001]
+<ce>                   Ah, ese no es el espíritu de nuestra
+<ce>                 orden. No hay nada más importante
+<ce>                    para nosotros que proteger la virtud
+<ce>                            de los inocentes.
+
+AcceptQuest:  [1002]
+<ce>                  ¿Lo harás? Debo decir que tu corazón es
+<ce>                valiente. Un _monster_ es un enemigo temible.
+<ce>                Asegúrate de prepararte para la batalla. No
+<ce>                  seas imprudente -- solo nos importa el
+<ce>                rescate de la princesa. Si el _monster_
+<ce>                  puede ser dejado en paz, déjalo. Y si
+<ce>              no has regresado en =2mondung_ días, asumiremos
+<ce>                 que has fallado, y alguien será enviado
+<ce>                  en tu lugar. Estoy seguro de que no quieres
+<ce>                 que otro gane el honor del rescate.
+<ce>                      Que %god bendiga tu viaje
+<ce>                            a ___mondung_.
+
+QuestFail:  [1003]
+<ce>                         Date prisa, %pcf. Solo
+<ce>                       te quedan =2mondung_ días.
+
+QuestComplete:  [1004]
+<ce>                      Princesa _lady_, permíteme
+<ce>                 presentarte más formalmente a tu noble
+<ce>                             rescatador, %pcn.
+<ce>                Has hecho algo noble y honorable
+<ce>                 hoy, amigo mío, y no será
+<ce>                             olvidado.
+
+RumorsDuringQuest:  [1005]
+Pobre Princesa _lady_. Cuando su padre llegue a ___qgiver_, estará furioso.
+<--->
+_qgiver_ prometió al padre de la Princesa _lady_ que ella estaría protegida.
+
+RumorsPostfailure:  [1006]
+La Princesa logró escapar de ___mondung_ por sí misma. Vaya valor caballeresco.
+<--->
+La Princesa simplemente apareció en ___qgiver_ por su cuenta, pálida por la pérdida de sangre.
+
+RumorsPostsuccess:  [1007]
+Los caballeros celebran el heroísmo del gran %ra que rescató a _lady_.
+<--->
+Lady _lady_ ha comenzado a escribir poesía sobre el valiente %ra que la rescató.
+
+QuestorPostsuccess:  [1008]
+Saludos, %pct. Te alegrará saber que Lady _lady_ se encuentra bien.
+
+QuestorPostfailure:  [1009]
+Qué fiasco fue todo el asunto de Lady _lady_. Imagino que quieres dejarlo atrás.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de __qgiver_
+ en ___qgiver_ me ha dado una misión
+ para rescatar a la bella Lady _lady_
+ de ___mondung_, donde
+ ha sido capturada y encarcelada por un _monster_.
+ Tengo =2mondung_ días para rescatarla antes de que alguien
+ más sea enviado para ganar mi honor y gloria.
+
+Message:  1011
+<ce>             Un niño pequeño, delgado y pálido te sisea
+<ce>              y desliza una nota en tu mano. Desaparece
+<ce>                   casi en el mismo instante en que lo notas.
+
+Message:  1012
+<ce>                  Acabas de matar al _monster_,
+<ce>                   la causa de las pesadillas de _lady_.
+
+Message:  1013
+<ce>                        Lady _lady_ se despide de ti,
+<ce>                   decidida a encontrar su propio camino a casa.
+
+Message:  1014
+Estimado %pcf,
+ 
+      Si dudabas en esa misión por el
+ temor razonable de que tus queridos amigos, los _monster_s
+ de %reg no quisieran que frustraras los
+ planes bastante lascivos de uno de los suyos, no
+ temas. =monster_ es
+ tan preciado para nuestros fríos corazones como un charco de vómito
+ de hace un mes.
+      Disfruta. Y, si así lo deseas,
+ disfruta de _lady_.
+ 
+<ce>                           Tus queridos amigos,
+<ce>                        El Poder Más Antiguo en %reg
+
+Message:  1015
+<ce>                       "¡Eres %pcf! ¡Gracias a %god!
+<ce>                            Soy Lady _lady_,
+<ce>                      salgamos de aquí ahora mismo."

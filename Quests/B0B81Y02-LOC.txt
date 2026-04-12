@@ -1,0 +1,183 @@
+Quest: B0B81Y02
+DisplayName: El Artefacto Perdido
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                         Soy _qgiver_ de esta
+<ce>                     orden de caballería. Tengo una misión
+<ce>                       muy peligrosa, %pcf. Tú
+<ce>                     eres uno de los pocos que podrían
+<ce>                    encargarse de ella. Un lich está
+<ce>                     levantando un ejército de no muertos. Necesitamos
+<ce>                     a alguien que vaya y lo detenga.
+
+RefuseQuest:  [1001]
+<ce>                          Lo entiendo, %pcn.
+<ce>                    Esto es demasiado peligroso incluso
+<ce>                    para ti. Hay uno o dos héroes más
+<ce>                     que podrían lograrlo. Iré a preguntarles.
+
+AcceptQuest:  [1002]
+<ce>                    Eres valiente de verdad. El lich
+<ce>                       ha convertido ___dungeon_ en
+<ce>                    su guarida. Ve allí y destruye
+<ce>                    a esa abominación. En =2dung_ días
+<ce>                    enviaremos a alguien más,
+<ce>                        si no regresas.
+
+QuestComplete:  [1004]
+<ce>                        ¡Honor al héroe, %pcn!
+<ce>                       ¡Bien hecho! Tu nombre será
+<ce>                     registrado en las historias.
+
+RumorsDuringQuest:  [1005]
+%reg se está preparando para el asalto del lich.
+<--->
+Todo %reg está rezando para que ==qgiver_ pueda matar a ese lich.
+
+RumorsPostfailure:  [1006]
+El lich ha abandonado temporalmente ___dungeon_. Temporalmente.
+<--->
+El lich regresará a ___dungeon_. Eso es seguro.
+
+RumorsPostsuccess:  [1007]
+%reg está a salvo, y tenemos que agradecérselo a ==qgiver_.
+<--->
+Un caballero %ra de ==qgiver_ derrotó a ese Archilich.
+
+QuestorPostsuccess:  [1008]
+Sería descortés de mi parte no ayudar al salvador de %reg, ¿no?
+
+QuestorPostfailure:  [1009]
+Tienes suerte de que ese lich no destruyera todo %reg, %pcf.
+<--->
+%reg estaba en grave peligro por ese lich. Y no te importó.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de
+ ==qgiver_ en ___qgiver_
+ me encargó la tarea de
+ destruir al lich de
+ ___dungeon_. Tengo =2dung_
+ días para completar la misión.
+
+Message:  1011
+<ce>                       El lich ha muerto. Sin
+<ce>                       su apoyo mágico, el
+<ce>                      ejército de no muertos volverá
+<ce>                             a la tumba.
+
+Message:  1020
+...¡he encontrado una pista por fin!
+ No me atrevo ni a nombrar el
+ artefacto perdido de poder antiguo al
+ que apunta. Es demasiado
+ tarde para mí. Moriré aquí abajo
+ en ___dungeon2_,
+ perdido entre sus oscuros pasadizos.
+ Primero, ocultaré mi pista.
+ Si no puedo...
+
+Message:  1028
+<ce>                        Lo siento, %pcn. No
+<ce>                     regresaste durante tanto tiempo que
+<ce>                    pensamos que estabas muerto. Otro
+<ce>                    miembro del gremio tomó la misión.
+
+Message:  1030
+<ce>                   Has venido hasta aquí
+<ce>                   solo para hablar conmigo y ahora no
+<ce>                   quieres continuar? ¡Inconcebible!
+<ce>                         ¡Fuera de mi vista!
+
+Message:  1031
+<ce>                     ¡Maldito seas por molestarme,
+<ce>                       %pcn! %oth, por supuesto
+<ce>                que sé tu nombre, y no, no voy a
+<ce>                   decirte el mío. ¿De qué sirve
+<ce>                    ser mago si no puedes saber cosas
+<ce>                    que la gente normal no sabe?
+<ce>                    También sé por qué estás aquí.
+<ce>                      Quieres Chrysamere, pero no
+<ce>                   sabías su nombre, ¿verdad?
+<ce>                     La única forma de conseguirlo
+<ce>                   es si me haces un favor primero.
+
+Message:  1032
+<ce>                     ¡Maldito seas por molestarme,
+<ce>                       %pcn! %oth, por supuesto
+<ce>                  que sé tu nombre. ¿De qué sirve
+<ce>                   ser mago si no puedes saber
+<ce>                     cosas que la gente normal no sabe?
+<ce>                     También sé por qué estás aquí.
+<ce>                    Quieres El Amuleto del Nigromante,
+<ce>                     pero no sabías su nombre,
+<ce>                      ¿verdad? La única forma de
+<ce>                     conseguirlo es si me haces
+<ce>                         un favor primero.
+
+Message:  1033
+<ce>                     ¡Maldito seas por molestarme,
+<ce>                       %pcn! %oth, por supuesto
+<ce>                  que sé tu nombre. ¿De qué sirve
+<ce>                   ser mago si no puedes saber
+<ce>                     cosas que la gente normal no sabe?
+<ce>                     También sé por qué estás aquí.
+<ce>                   Quieres El Bastón de Magnus, pero
+<ce>                    no sabías su nombre, ¿verdad?
+<ce>                  La única forma de conseguirlo
+<ce>                   es si me haces un favor primero.
+
+Message:  1034
+<ce>                     ¡Maldito seas por molestarme,
+<ce>                       %pcn! %oth, por supuesto
+<ce>                  que sé tu nombre. ¿De qué sirve
+<ce>                   ser mago si no puedes saber
+<ce>                     cosas que la gente normal no sabe?
+<ce>                     También sé por qué estás aquí.
+<ce>                    Quieres El Anillo del Hechicero,
+<ce>                    pero no sabías su nombre,
+<ce>                  ¿verdad? La única forma de conseguirlo
+<ce>                   es si me haces un favor primero.
+
+Message:  1035
+<ce>                    Verás, en realidad no sé
+<ce>                   dónde está tu artefacto. Mi bisabuelo
+<ce>                    lo buscó una vez.
+<ce>                   Según la historia familiar, cuando
+<ce>                   lo encontró el Gremio de Magos se lo quitó
+<ce>                   y lo escondió en algún lugar.
+<ce>                   Su espíritu nunca ha descansado en paz
+<ce>                    desde entonces. Si llevas este mechón
+<ce>                   de mi cabello contigo cuando su espíritu
+<ce>                    sea puesto a descansar, puede que te diga
+<ce>                     dónde encontrar lo que buscas.
+<ce>                        Él habita en ___dungeon3_.
+
+Message:  1040
+<ce>                    Llevas un símbolo de mi linaje,
+<ce>                     un mechón de cabello de uno de mis
+<ce>                    descendientes. Debes saber que he
+<ce>                     vagado por estos salones durante
+<ce>                    largas décadas esperando esta señal.
+<ce>                       Ve al _mageguild_ en
+<ce>                        __mageguild_. Allí
+<ce>                      encontrarás lo que una vez perdí.
+
+Message:  1041
+%qdt:
+ He encontrado a _wizard_ en
+ ___dungeon2_. Ahora debo
+ buscar al bisabuelo de %g3 en
+ ___dungeon3_,
+ quien podría decirme la ubicación
+ del artefacto. _wizard_ también me ha dado
+ un mechón de cabello de %g3 para que pueda darle
+ descanso.
+
+Message:  1042
+%qdt:
+ El bisabuelo de _wizard_ me ha dicho
+ que puedo encontrar el artefacto en _mageguild_
+ en __mageguild_.

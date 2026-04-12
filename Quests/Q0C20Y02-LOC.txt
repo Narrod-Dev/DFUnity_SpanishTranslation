@@ -1,0 +1,92 @@
+Quest: Q0C20Y02
+DisplayName: Una Compra Costosa
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 Eres alguien fiel a ==questgiver_,
+<ce>                   esto lo sabemos. Pero para poder
+<ce>                  ayudarte, un hechizo debe ser tejido,
+<ce>                  un hechizo que primero debe destruir
+<ce>                    antes de crear. ¿Nos traerás un
+<ce>                   objeto de tipo _magicitem_ para
+<ce>                   nuestro brebaje, para que recibas
+<ce>                   la bendición de su propia ruina?
+
+RefuseQuest:  [1001]
+<ce>                ¿Tanto trabajo tienes como para negar
+<ce>                esta tarea, aun sabiendo su importancia?
+<ce>                 Lamentable para ==questgiver_, y muy
+<ce>                  lamentable para ti, %pcn.
+
+AcceptQuest:  [1002]
+<ce>                   El objeto _magicitem_ que nos
+<ce>                 hace falta lo tiene ==other_. Debemos
+<ce>                tenerlo antes de que el sol amanezca
+<ce>                =1stparton_ veces. Hallarás a ==other_
+<ce>                en ___other_. Pregunta por _other_.
+<ce>                Que los dioses y espíritus guíen tus
+<ce>                           pasos, %pcf.
+
+QuestFail:  [1003]
+<ce>                      El objeto _magicitem_, %pcf.
+<ce>                         ¿Acaso lo has olvidado?
+
+QuestComplete:  [1004]
+<ce>                 Ah, aquí está el _magicitem_ que nos
+<ce>                 hacía falta. Rápido, hermanas, hacedlo
+<ce>                 trizas, desgarradlo y hervidlo en el
+<ce>                 caldero tapado. Aquí tenemos para ti
+<ce>                  un poco de _reward_, %pcn, como
+<ce>                 agradecimiento por tu valor y presteza.
+
+RumorsDuringQuest:  [1005]
+¿Recuerdas aquella vez que las brujas transformaron nuestro viejo %t en un caracol?
+<--->
+Lo único peor que encontrarse con ==questgiver_ es provocar su ira.
+
+RumorsPostfailure:  [1006]
+Oí un aullido en el bosque anoche. Diría que las brujas están en pie de guerra.
+<--->
+¿Hueles ese aroma agrio en la brisa? Significa que las ==questgiver_ están furiosas.
+
+RumorsPostsuccess:  [1007]
+Dicen que las ==questgiver_ han estado celebrando la culminación de algún plan.
+<--->
+Uno puede embriagarse con el aroma del aire. Una bendición de brujas felices.
+
+QuestorPostsuccess:  [1008]
+¿Te agrada tu _reward_, %pcf? Creo que te sienta bien.
+
+QuestorPostfailure:  [1009]
+<ce>                 ¿Has olvidado el objeto _magicitem_?
+<ce>                   %oth, ya es demasiado tarde. Las
+<ce>                 ==questgiver_ estamos decepcionadas,
+<ce>                        %pcf. Realmente lo estamos.
+
+QuestLogEntry:  [1010]
+<ce>                      ¿Quieres el objeto _magicitem_?
+<ce>                        Tuyo por mil monedas.
+<ce>                        Muy bien, aquí tienes.
+
+Message:  1011
+Es una mujer muy sabia de las ==questgiver_.
+<--->
+Es alguien de las ==questgiver_ con quien no conviene andarse con juegos.
+
+Message:  1020
+<ce>                      No voy a soltar este objeto
+<ce>                      _magicitem_ por menos de 1000
+<ce>                       piezas de oro. Y solo acepto
+<ce>                       hacerlo por ==questgiver_.
+
+Message:  1025
+%qdt:
+ _questgiver_ de
+ ==questgiver_ me ha enviado
+ a por un objeto _magicitem_
+ que posee ==other_, por parte de
+ alguien con el nombre de _other_
+ en ___other_. Tengo
+ =1stparton_ días para obtener el
+ _magicitem_ y volver a
+ ___questgiver_.

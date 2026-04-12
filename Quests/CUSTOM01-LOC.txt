@@ -1,0 +1,55 @@
+---- Misión personalizada para eliminar zombis y esqueletos hasta que un nigromante salga de su escondite.
+
+Quest: CUSTOM01
+DisplayName: Del Ocaso a la Muerte
+QRC:
+
+QuestorOffer:  [1000]
+<ce>Espero que no temas a la oscuridad, %pcn...
+<ce>Un nigromante está levantando hordas de zombis
+<ce>y esqueletos en ___graveyard_.
+<ce>Tenemos un contrato para acabar con este villano
+<ce>y poner fin a sus actos malignos.
+<ce>Hay _reward_ piezas de oro para ti.
+
+RefuseQuest:  [1001]
+<ce>Los nigromantes son asunto delicado, %pcn.
+<ce>No te culpo por dejar pasar esta.
+
+AcceptQuest:  [1002]
+<ce>Bien. Ve a ___graveyard_
+<ce>después del anochecer y elimina zombis y esqueletos
+<ce>en el cementerio hasta que
+<ce>el nigromante se enfurezca lo suficiente
+<ce>como para salir de su escondite y enfrentarte.
+<ce>Tendrás =timeLimit_ días para volver cuando termines.
+<ce>Tendré listo tu pago de _reward_ piezas de oro.
+
+QuestFail:  [1003]
+<ce>Estoy decepcionado, %pcn.
+<ce>Ahora tendré que dar el contrato a alguien más confiable.
+
+QuestComplete:  [1004]
+<ce>Buen trabajo, héroe. Has salvado muchas vidas inocentes.
+
+Message:  1020
+<ce>Al caer este no muerto, sientes que el suelo
+<ce>tiembla bajo tus pies. ¡El nigromante está aquí!
+
+Message:  1030
+<ce>"¡Lo pagarás... con tu... alma!"
+<ce>El nigromante cae al suelo.
+<ce>Su ejército de no muertos se dispersará y
+<ce>ya no amenazará a las aldeas cercanas.
+
+Message:  1040
+%qdt:
+ El Gremio de Guerreros de
+ ___questgiver_ me ha contratado
+ para eliminar a un problemático nigromante
+ en su guarida, ___graveyard_.
+ Debo eliminar esqueletos y zombis
+ en el cementerio durante la noche
+ hasta que la criatura salga de su escondite.
+ Tengo =timeLimit_ días para acabar con el nigromante
+ y regresar a cobrar mi pago.

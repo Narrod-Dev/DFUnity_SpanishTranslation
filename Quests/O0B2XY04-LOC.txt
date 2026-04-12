@@ -1,0 +1,52 @@
+Quest: O0B2XY04
+DisplayName: Páginas Valiosas
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 Tengo un trabajo. Tarea ordinaria
+<ce>                 del gremio. Vale _gold_ de oro. La
+<ce>                 tarifa estándar del gremio. ¿Interés?
+
+RefuseQuest:  [1001]
+<ce>                       Peor para ti, %pcn.
+
+AcceptQuest:  [1002]
+<ce>                        Ve a __mansion_.
+<ce>                       Encuentra _mansion_.
+<ce>                 Dentro hay un libro raro titulado
+<ce>                   _book_. Tráemelo antes de
+<ce>                 =traveltime_ días y te pagaré.
+<ce>                    Bastante simple, ¿no?
+
+QuestComplete:  [1004]
+<ce>                  Ah. %oth. Aquí tienes tu
+<ce>                 pago del gremio. Quizá algún día
+<ce>                 podamos trabajar de nuevo.
+
+RumorsDuringQuest:  [1005]
+Alguien que colecciona libros en __mansion_ acaba de comprar una copia rara de _book_.
+
+RumorsPostfailure:  [1006]
+La seguridad en _mansion_ no era muy buena, así que se llevaron los objetos de valor.
+
+RumorsPostsuccess:  [1007]
+Esa copia de _book_ que robaron de _mansion_ era irreemplazable.
+
+QuestorPostsuccess:  [1008]
+Oh, hola, %pcf. Buen trabajo recuperando ese libro, por si no lo mencioné antes.
+
+QuestorPostfailure:  [1009]
+<ce>                 No busques excusas, %pcf. Te dije
+<ce>                dónde estaba el libro y te dije que te
+<ce>                dieras prisa, pero no lo hiciste. Ahora
+<ce>                es tarde y estoy con cansancio. Sé una
+<ce>                buena pieza %ra y lárgate, ¿quieres?
+
+QuestLogEntry:  [1010]
+%qdt:
+ Un miembro del Gremio de Ladrones
+ en ___qgiver_ me ofreció un trabajo
+ para robar un libro, _book_,
+ de _mansion_ en __mansion_.
+ Tengo =traveltime_ días para
+ conseguirlo y volver con _qgiver_.

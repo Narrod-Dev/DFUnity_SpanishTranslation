@@ -1,0 +1,139 @@
+Quest: A0C0XY04
+DisplayName: El impostor
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                         Mi nombre es _agent_. Yo
+<ce>                    represento a alguien que necesita
+<ce>                   adquirir... algo. Quien lo
+<ce>                     entregue será recompensado
+<ce>                          con _artifact_. Yo
+<ce>                    no sé qué es eso, pero me han dicho
+<ce>                    que es un objeto de poder.
+<ce>                           ¿Estás dispuesto?
+
+RefuseQuest:  [1001]
+<ce>                    Olvida que me viste. Tengo
+<ce>                    amigos poderosos. Si me causas
+<ce>                    algún problema, ellos te
+<ce>                    perseguirán como a un ladrón fugitivo.
+
+AcceptQuest:  [1002]
+<ce>                       Debes conseguir el
+<ce>                    _ingredient_ daédrico de ___dungeon_.
+<ce>                    No sé dónde está, pero
+<ce>                       seguro que puedes encontrarlo.
+<ce>                       Cuando tengas el
+<ce>                       _ingredient_ daédrico, llévalo a
+<ce>                     _meetingplace_ aquí en la ciudad.
+<ce>                     Allí te reunirás con _qgiver_,
+<ce>                 y %g te dará el _artifact_.
+
+RumorsDuringQuest:  [1005]
+<ce>                     He oído que el rey hará un
+<ce>                   anuncio importante la próxima semana.
+
+RumorsPostfailure:  [1006]
+<ce>                 Algún pobre tonto entró en ___dungeon_.
+<ce>                  Dicen que el lugar está lleno de demonios.
+
+RumorsPostsuccess:  [1007]
+<ce>                      Mantente alejado de _qgiver_. He
+<ce>                    oído que %g es un mentiroso y un tramposo.
+
+QuestorPostsuccess:  [1008]
+<ce>                Siento lo ocurrido con _qgiver_.
+<ce>                 Supongo que debería ayudarte solo para
+<ce>                            compensarlo.
+
+QuestorPostfailure:  [1009]
+<ce>                  Ese asunto con _qgiver_ no fue
+<ce>                 mi culpa. No pienso involucrarme
+<ce>               contigo ahora, así que déjame en paz.
+
+QuestLogEntry:  [1010]
+En %qdt,
+ me reuní con _agent_ de ___agent_.
+ %g me dijo que un cliente misterioso de
+ %g3 estaba buscando un _ingredient_ daédrico.
+ Si puedo encontrarlo, obtendré el _artifact_.
+ El _ingredient_ daédrico está en algún lugar
+ en ___dungeon_. Cuando lo encuentre, debo
+ reunirme con un _qgiver_ en
+ _meetingplace_ aquí en __meetingplace_.
+
+Message:  1011
+En %qdt,
+ el guardián del _ingredient_ daédrico
+ me dijo que el cliente misterioso de _agent_
+ ni siquiera posee el _artifact_.
+ Si entrego el _ingredient_ daédrico,
+ la muerte será mi única recompensa. El guardián
+ me dio un objeto mágico que dejará
+ a _qgiver_ indefenso.
+
+Message:  1012
+<ce>               Lucharé hasta la muerte para proteger
+<ce>                 el _ingredient_ daédrico. Deberías
+<ce>                   saber que _qgiver_ no es lo que %g
+<ce>                 parece. El _artifact_ es un objeto
+<ce>                 perdido hace mucho de gran poder que %g nunca
+<ce>                  ha poseído. %g pretende matarte una vez %g
+<ce>                     tenga en su poder el _ingredient_
+<ce>                    daédrico. Detén este fútil
+<ce>                 ataque y te daré un objeto mágico
+<ce>                    que puede dejar a _qgiver_
+<ce>                 indefenso. Si lo matas, puedo asegurarme
+<ce>                   de que el Gremio de Magos te vea
+<ce>                   con buenos ojos durante bastante
+<ce>                     tiempo. ¿Aceptas mi oferta?
+
+Message:  1013
+<ce>                      ¡Idiota! ¿De verdad pensaste
+<ce>                       que te daría el
+<ce>                          _artifact_ por este
+<ce>                    _ingredient_ daédrico? ¡La única
+<ce>                       recompensa que tengo para ti es
+<ce>                       la muerte! Mírame como realmente
+<ce>                       soy y tiembla de miedo. Yo
+<ce>                        soy =monster_. ¡Mátenlo!
+
+Message:  1014
+<ce>                     ¿Qué...? ¡He sido traicionado!
+<ce>                     Has roto la ilusión
+<ce>                      y lanzado un hechizo de silencio
+<ce>                     sobre mí. Ese maldito _guardian_
+<ce>                    =guardian_ te convenció de esto,
+<ce>                     ¿verdad? ¡A las armas! ¡Ayúdenme!
+<ce>                               ¡A las armas!
+
+Message:  1015
+<ce>                      En tu mente, escuchas el
+<ce>                       suave susurro de una voz
+<ce>                          extraña: "Bien hecho,
+<ce>                             %pcn. Matar a
+<ce>                        _qgiver_, o =monster_
+<ce>                       como es conocido por su propia
+<ce>                       gente, te ha ganado una
+<ce>                        recompensa. Los miembros del
+<ce>                      Gremio de Magos ahora confían en ti
+<ce>                        mucho más que antes."
+
+Message:  1020
+<ce>                       Tienes una mente verdaderamente
+<ce>                       retorcida. Lo admiro. Pero
+<ce>                       debes saber que no soy alguien
+<ce>                        con quien jugar. Retiro mi objeto
+<ce>                       y te maldigo para que seas
+<ce>                      desconfiado por mis aliados más cercanos.
+
+Message:  1025
+La Chrysamere es un artefacto antiguo de gran poder.
+<--->
+Es un artefacto mágico legendario.
+
+Message:  1030
+Toma este objeto entonces.
+
+Message:  1035
+¡Prepárate para morir!

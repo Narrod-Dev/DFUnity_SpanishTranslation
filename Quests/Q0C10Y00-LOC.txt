@@ -1,0 +1,101 @@
+Quest: Q0C10Y00
+DisplayName: Un Gran Recado
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 Si deseas que las ==qgiver_ te
+<ce>                   brinden ayuda, primero debes
+<ce>                  ayudarnos. ¿Nos traerás los tres
+<ce>                   ingredientes que nos faltan para
+<ce>                        completar nuestro brebaje?
+
+RefuseQuest:  [1001]
+<ce>                 Entonces márchate de nuestras tierras,
+<ce>                  pues el infortunio persigue a quienes
+<ce>                   esperan el mundo a cambio de nada.
+
+AcceptQuest:  [1002]
+<ce>                 Las brujas necesitamos tres ingredientes
+<ce>                imposibles de hallar para nuestro brebaje
+<ce>                 de tejer climas. Primero, un ejemplar de
+<ce>                    _item1_ perfecto de ___dungeon1_.
+<ce>                 Segundo, busca en ___dungeon2_ por
+<ce>                _item2_, que hará que las nubes hiervan.
+<ce>                 Por último, debes traer de ___dungeon3_
+<ce>                  lo más eficaz: _item3_. Tráenos estas
+<ce>                    cosas en =queston_ días, antes de
+<ce>                        que nuestro guiso se enfríe.
+
+QuestFail:  [1003]
+<ce>                       Necesitamos _item1_, _item2_,
+<ce>                           y _item3_, %pcn.
+<ce>                     No tenemos tiempo para charlas.
+
+QuestComplete:  [1004]
+<ce>                 Rápido, hermana, toma la carga de %ra.
+<ce>                      Pica el ingrediente _item1_,
+<ce>                    pela el _item2_ y tritura el
+<ce>                 _item3_ en pedazos. Aquí tenemos tres
+<ce>                 baratijas brillantes que no necesitamos.
+<ce>                 Tómalas, %pcn, como nuestro agradecimiento.
+
+RumorsDuringQuest:  [1005]
+El clima ha sido predecible últimamente. Las brujas deben de estar durmiendo.
+<--->
+Una de esas brujas intentó venir al pueblo por negocios, pero la echamos a rastras.
+
+RumorsPostfailure:  [1006]
+¿Recuerdas cuando las brujas maldijeron nuestro %t? Parece que están perdiendo su chispa.
+<--->
+Se dice que las ==qgiver_ están perdiendo sus facultades.
+
+RumorsPostsuccess:  [1007]
+Casi se puede sentir la energía. Como si el aire se preparara para estallar.
+<--->
+Quien diga que las ==qgiver_ pierden sus facultades es un alma necia y condenada.
+
+QuestorPostsuccess:  [1008]
+Por haber traído _item1_, _item2_ y _item3_, estoy a tu servicio, %pcf.
+
+QuestorPostfailure:  [1009]
+<ce>                  Te pedí tres ingredientes, pero
+<ce>                   le has fallado a ==qgiver_.
+<ce>                    Lárgate de mi vista.
+
+Message:  1011
+Es de las ==qgiver_. Alguien con quien conviene ser amable.
+<--->
+Es una poderosa profetisa, afiliada a las ==qgiver_.
+
+Message:  1015
+%qdt:
+ Si quiero ganarme el respeto de _qgiver_,
+ debo recuperar tres objetos para %g2
+ y traerlos de vuelta a las
+ ==qgiver_ en =queston_ días. Los
+ tres objetos —_item1_, _item2_
+ e _item3_— deben traerse de
+ ___dungeon1_, ___dungeon2_
+ y ___dungeon3_ respectivamente.
+ Parece que tengo mucho trabajo por delante.
+
+Message:  1021
+<ce>                      Has encontrado el objeto
+<ce>                    _item1_ que pidió _qgiver_.
+
+Message:  1022
+<ce>                      Esto debe de ser el objeto
+<ce>                    _item2_ que _qgiver_ quería.
+
+Message:  1023
+<ce>                      Esto parece ser el objeto
+<ce>                    _item3_ que _qgiver_ necesitaba.
+
+Message:  1024
+<ce>  Haces entrega de _item1_.
+
+Message:  1025
+<ce>  Haces entrega de _item2_.
+
+Message:  1026
+<ce>  Haces entrega de _item3_.

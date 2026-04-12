@@ -1,0 +1,89 @@
+Quest: N0B10Y03
+DisplayName: Vigilar el Gremio
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                      El Gremio de Magos necesita
+<ce>                        a alguien para vigilar el
+<ce>                      _treasure_ mágico esta noche.
+<ce>                      ¿Te resultaría posible hacerlo
+<ce>                        por nuestra parte? Recibirás
+<ce>                        una _potion_ por el favor.
+                                     <--->
+<ce>                    La sede del Gremio... ¿cómo podría
+<ce>                   decirse? En la vida, creo que estarás
+<ce>                  de acuerdo, siempre hay personas que...
+<ce>                    bueno, el Gremio siempre ha apoyado,
+<ce>                    o mejor dicho, ha tenido problemas
+<ce>                   con... Escucha, joven %pct, nos hace
+<ce>                   falta alguien para la guardia. ¿Lo harás?
+
+RefuseQuest:  [1001]
+<ce>                      No hay problema. Siempre hay
+<ce>                       otros miembros del gremio
+<ce>                           buscando trabajo.
+
+AcceptQuest:  [1002]
+<ce>                         Preséntate en el Gremio
+<ce>                        de Magos a medianoche. Tu
+<ce>                         turno de vigilancia durará
+<ce>                        hasta las 3:00 de la mañana.
+
+QuestComplete:  [1004]
+<ce>                         Bien hecho, %pcf. Esas
+<ce>                      ratas de ciudad no tuvieron ninguna
+<ce>                       oportunidad contra ti. Toma,
+<ce>                        recibe esta _potion_. Es lo
+<ce>                       mínimo que podemos hacer por ti.
+
+RumorsDuringQuest:  [1005]
+Quienes roban deben creer que ese _treasure_ del Gremio de Magos es muy valioso.
+<--->
+Se dice que hay ladrones amenazando con robar el _treasure_ del Gremio de Magos.
+
+RumorsPostfailure:  [1006]
+Al final los ladrones se hicieron con ese _treasure_ después de todo.
+<--->
+El Gremio de Magos debería haber contratado guardias de verdad. Por eso perdieron el _treasure_.
+
+RumorsPostsuccess:  [1007]
+Apuesto a que esa banda no intentará ir a por el _treasure_ de nuevo.
+<--->
+Quienes intentaron robar el _treasure_ no se esperaban una guardia de verdad, te lo aseguro.
+
+QuestorPostsuccess:  [1008]
+¿Cómo va todo, %pcf? ¿Ya le has dado uso a esa _potion_?
+
+QuestorPostfailure:  [1009]
+<ce>                         El _treasure_ ha volado,
+<ce>                   ¿pero tú sigues aquí? No me parece un
+<ce>                        intercambio muy justo, la verdad.
+<ce>                             Déjame a solas, %pcn.
+
+QuestLogEntry:  [1010]
+%qdt:
+ He aceptado vigilar un
+ _treasure_ mágico
+ en el Gremio de Magos de
+ ___qgiver_. Debo
+ estar allí entre la medianoche
+ y las tres.
+
+Message:  1011
+%qdt:
+ No pude resistirme. He tomado
+ el _treasure_ que se suponía
+ que debía vigilar. Me perseguirán
+ sin ninguna duda.
+
+Message:  1012
+<ce>                       Mirad qué tenemos aquí, chicos. Alguien
+<ce>                        vigilando. Vaya, estoy temblando de
+<ce>                        miedo. Dejemos su lengua clavada en la
+<ce>                        puerta como advertencia para que nadie
+<ce>                        se meta con el gremio de ladrones.
+<ce>                               ¡A por ello!
+
+Message:  1013
+<ce>                       Reclamo la recompensa por quien roba
+<ce>                        y traiciona al Gremio de Magos.

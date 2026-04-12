@@ -1,0 +1,93 @@
+Quest: R0C10Y12
+DisplayName: Mercancías de Contrabando
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                   Sí, me encuentro en una situación
+<ce>                  potencialmente delicada. No es la peor,
+<ce>                  pero sí muy delicada. Estoy en posesión
+<ce>                   de cierto... objeto que, para ser franco,
+<ce>                   no es legalmente mío. Si pudieras
+<ce>                      llevarlo a un contacto mío en
+<ce>                        ___contact_, se te recompensará
+<ce>                generosamente. ¿Te parecen bien _reward_
+<ce>                           piezas de oro?
+
+RefuseQuest:  [1001]
+<ce>                      Me abandonas en mi momento de
+<ce>                        necesidad, joven %ra. Estoy
+<ce>                         profundamente disgustado.
+
+AcceptQuest:  [1002]
+<ce>                   ¿Me ayudarás? %god sea alabado.
+<ce>                      Ahora, rápido, toma este _item_
+<ce>                          y ve a __contact_
+<ce>                          en ___contact_. Busca
+<ce>                            a un =contact_
+<ce>                            de nombre _contact_.
+<ce>                  Ni pienses en llevarte el _item_ a
+<ce>                   otra parte. Si no estás en __contact_
+<ce>                        en =queston_ días, _contact_
+<ce>                       vendrá a buscarte. Ahora, rápido,
+<ce>                         el tiempo es esencial.
+
+QuestFail:  [1003]
+<ce>                         ¿Por qué sigues aquí?
+<ce>                       Mis instrucciones fueron bastante
+<ce>                       claras; ahora, cúmplelas.
+
+QuestComplete:  [1004]
+<ce>                          Buen día, %pcf. Yo soy
+<ce>                          _contact_. Gracias por
+<ce>                  tu discreción en este asunto. Verás
+<ce>                    que la discreción es una cualidad
+<ce>                    muy valiosa. Aquí tienes tu pago.
+<ce>                            Buen día.
+
+RumorsDuringQuest:  [1005]
+Esos guardias están registrando incluso la casa de _questgiver_ buscando ese cargamento de _item_.
+<--->
+Es un misterio absoluto dónde desapareció ese _item_. Todo el mundo siente curiosidad.
+
+RumorsPostfailure:  [1006]
+Qué vergüenza para _questgiver_. El objeto (_item_) robado fue rastreado hasta %g2.
+<--->
+He oído que _questgiver_ intentó pasar de contrabando el _item_ a ___contact_.
+
+RumorsPostsuccess:  [1007]
+Los guardias han abandonado la búsqueda de ese _item_ robado.
+<--->
+Imagínate, sospechar que _questgiver_ tuvo algo que ver con ese _item_.
+
+QuestorPostsuccess:  [1008]
+Encantado de verte de nuevo, %pcf. Tengo entendido que tu misión fue cumplida.
+<--->
+Me alegra que hayas vuelto, %pcf. Me ayudaste a evitar una posible vergüenza.
+
+QuestorPostfailure:  [1009]
+<ce>                  Mi contacto dice que nunca llegaste.
+<ce>                  Eso fue muy poco profesional, %pcf.
+<ce>                    Ahora déjame. Tengo trabajo que hacer.
+
+Message:  1011
+_questgiver_ gobierna a pequeña escala, pero es un gran contrabandista de _item_.
+<--->
+_questgiver_ está metido hasta el cuello en este negocio de contrabando de _item_.
+
+Message:  1012
+Supuestamente _contact_ es alguien que compra mercancía robada.
+<--->
+¿_contact_? Es una persona misteriosa de clase =contact_ que opera en __contact_, %di de aquí.
+
+Message:  1015
+%qdt:
+He aceptado una
+ misión de _questgiver_ de
+ ___questgiver_ para llevar un
+ _item_ robado a _contact_,
+ en __contact_ en ___contact_.
+ Tengo =queston_ días para llevar
+ el _item_ a ___contact_.
+
+Message:  1023
+¿Quién llama al 1023?

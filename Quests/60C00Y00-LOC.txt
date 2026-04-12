@@ -1,0 +1,114 @@
+Quest: 60C00Y00
+DisplayName: La misión de Sheogorath
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                Oh, vaya. ¡Apuesto a que no me esperabas!
+<ce>               Mis no-hermanos y no-hermanas a veces son
+<ce>                 un poco lentos, así que intervengo por ellos. Qué
+<ce>                 mala suerte para ti. Tendrás que hacer
+<ce>                  tu trato conmigo. ¡Sé rápido!
+<ce>                 Antes de que pase la hora pálida,
+<ce>                   tengo muchas cosas que hacer en otro lugar. ¡Así que!
+<ce>                     ¿El %ra ansía poder para frotarse
+<ce>                   el cuerpo y aliviar las cuatrocientas
+<ce>                 llagas de la vida mortal? Sí, Sheogorath
+<ce>                  tiene poder, poder suficiente para cubrir
+<ce>                  las ramas sobre los ojos de la luna
+<ce>                 y hacer llover sangre sobre Tamriel. Por este
+<ce>                    poder, ¿enviarás a alguien una
+<ce>                       invitación a tomar té por mí?
+
+RefuseQuest:  [1001]
+<ce>                     Vaya, rechazado por un miserable %ra
+<ce>                   con piojos en el cabello. ¡Hasta dónde ha
+<ce>                   caído Sheogorath! Tendré que
+<ce>                    pedir un aumento en mi asignación.
+<ce>                             Adiós, %pct.
+
+AcceptQuest:  [1002]
+<ce>                ¡A tomar té, a una fiesta de té conmigo! Ve, ve
+<ce>                     a un lugar llamado ___mondung_,
+<ce>                 donde el objeto de mis gallardos deseos
+<ce>                 se pavonea, posa y lleva coronas de
+<ce>                  moras. Espera... no invites a este
+<ce>                    mago de batalla a tomar té conmigo. Ahora lo
+<ce>                        recuerdo. Este =monster_
+<ce>                    es el nombre. Mata a %g2 hasta la muerte,
+<ce>                asesina a %g2 mortalmente, eso es lo que deseo.
+<ce>                     Luego ve desde ___mondung_ a un
+<ce>                 manicomio llamado ___contactdung_
+<ce>                         y visita a mi =qgfriend_,
+<ce>                       _qgfriend_. _artifact_ para
+<ce>                ti %g tendrá. Esperará por ti durante
+<ce>                  =1stparton_ días y luego se irá a
+<ce>                casarse con el heredero desconocido de Rowanda. Ahora
+<ce>                     te digo yapow y gazeenza.
+
+QuestFail:  [1003]
+<ce>                    Disculpa, no lo sabes,
+<ce>                   pero estoy completamente loco. Y si no
+<ce>                  te largas, vomitaré sobre ti.
+
+QuestComplete:  [1004]
+<ce>                  Ah, qué amable de tu parte dejarme salir de mi
+<ce>                 celda, señora carcelera. Sheogorath cambió
+<ce>                 de opinión y decidió que quería
+<ce>                         llevar a =monster_ a tomar té
+<ce>                  después de todo. Pero cuando descubrió que %g
+<ce>                  estaba muerto, decidió que era mejor así.
+<ce>                           De ese modo =monster_
+<ce>                 no se comería todos los pasteles de flores. Antes
+<ce>                   de que lo olvide, aquí tienes _artifact_. No
+<ce>                            lo apuntes hacia mí.
+
+RumorsDuringQuest:  [1005]
+Un mago de batalla loco está aterrorizando el campo alrededor de ___mondung_.
+
+RumorsPostfailure:  [1006]
+<ce>___mondung_ está tranquilo ahora que ese =monster_ se fue, pero %g volverá,
+<ce>                              apuesto a que sí.
+
+RumorsPostsuccess:  [1007]
+Bien librados del mago de batalla =monster_ en ___mondung_. Dicen que %g estaba loco como un magíster.
+<--->
+Así que alguien finalmente mató a ese mago de batalla loco en ___mondung_. Gracias a %god.
+
+Message:  1011
+_qgfriend_ es ese =qgfriend_ loco y baboso que vive en ___contactdung_.
+<--->
+<ce>  _qgfriend_ es ese =qgfriend_ loco que llegó al pueblo hace un tiempo.
+ Dicen que %g en realidad vive en ___contactdung_.
+
+Message:  1012
+Sheogorath es el Príncipe Daedra de la Locura. No es buena idea confiar en él.
+<--->
+Sheogorath es el Loco, el daedra que se deleita en el caos y la demencia.
+
+Message:  1013
+_artifact_ es un artefacto antiguo con efectos mágicos totalmente impredecibles.
+<--->
+_artifact_ puede transformar a sus objetivos en otras criaturas.
+
+Message:  1014
+_qgfriend_ es uno de los sirvientes más leales del Príncipe Daedra Sheogorath.
+<--->
+_qgfriend_ es el nombre del =qgfriend_ que es esclavo de Sheogorath.
+
+Message:  1020
+%qdt:
+ El Príncipe Daedra Sheogorath me ha
+ prometido un artefacto llamado _artifact_
+ a cambio de la muerte de un mago de batalla
+ llamado =monster_. Si este mago de batalla,
+ que reside en un lugar llamado ___mondung_,
+ está muerto y me reúno con el contacto de Sheogorath en
+ ___contactdung_, _qgfriend_
+ me dará _artifact_. Pero debo
+ completar todo esto en =1stparton_ días.
+
+Message:  1030
+<ce>                     Has eliminado a =monster_
+<ce>                    de este plano mortal. Ahora
+<ce>                   queda ver si Sheogorath aún recuerda
+<ce>                            tu acuerdo.

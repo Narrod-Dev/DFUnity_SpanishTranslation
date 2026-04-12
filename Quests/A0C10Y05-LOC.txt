@@ -1,0 +1,124 @@
+Quest: A0C10Y05
+DisplayName: El Casamentero
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                    Estoy comprometido con _betrothed_.
+<ce>                  Mi gran desgracia es que _ruler_
+<ce>                    tiene otros planes para _betrothed_.
+<ce>                Mi única esperanza es llevarla al templo
+<ce>               y completar la ceremonia de matrimonio antes
+<ce>                  de que _ruler_ nos atrape. ¿Me protegerás
+<ce>                   mientras llevo a mi prometida al
+<ce>               templo? Puedo pagarte _gold_ piezas de oro.
+                                     <--->
+<ce>                    En __betrothedhome_, mi amada
+<ce>                    _betrothed_ me espera, atormentada
+<ce>                  por la tiranía del cruel _ruler_.
+<ce>                    No puedo dormir mientras _betrothed_
+<ce>                esté así de prisionera, pero temo a los agentes
+<ce>                    de _ruler_, que trabajan para mantenernos
+<ce>                     separados. ¿Vendrás conmigo a
+<ce>                    __betrothedhome_ y me protegerás?
+
+RefuseQuest:  [1001]
+<ce>                  Ay, tendré que encontrar a otro
+<ce>                     guardián que proteja a mi amada
+<ce>                        _betrothed_ de _ruler_
+
+AcceptQuest:  [1002]
+<ce>                     Mi gratitud será infinita,
+<ce>                     %pcn. Rápido, partamos para
+<ce>                      buscar a _betrothed_. Podemos encontrarla
+<ce>                         en _betrothedhome_
+<ce>                          en __betrothedhome_.
+
+QuestComplete:  [1004]
+<ce>                   %pcf, estamos en deuda contigo. Ahora
+<ce>                     que la ceremonia está en marcha,
+<ce>                    _ruler_ no puede impedirla. Aquí
+<ce>               tienes las _gold_ piezas de oro que te prometí.
+
+RumorsDuringQuest:  [1005]
+<ce>                    _ruler_ debe estar intentando formar
+<ce>               un harén. Dicen que acaba de enviar a sus guardias
+<ce>                      para traer a _betrothed_.
+
+RumorsPostfailure:  [1006]
+<ce>                    Dicen que _betrothed_ se unió al
+<ce>                  harén de _ruler_. No hay mucha diferencia
+<ce>               entre eso y un secuestro, si me preguntas.
+
+RumorsPostsuccess:  [1007]
+<ce>                     _qgiver_ y _betrothed_ acaban de
+<ce>                casarse. ¿No es una noticia maravillosa?
+
+QuestorPostsuccess:  [1008]
+<ce>                 _betrothed_ y yo te damos las gracias. Sin
+<ce>                tu ayuda, habría sido obligada a
+<ce>                             casarse con _ruler_.
+
+QuestorPostfailure:  [1009]
+<ce>                  ¡He perdido a mi _betrothed_ para siempre!
+<ce>                   Fue obligada a casarse con _ruler_.
+<ce>                 ¿Y quieres que te ayude? ¡Lárgate!
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de ___qgiver_
+ me pidió que escoltara a %g2 a
+ __betrothedhome_ para encontrar
+ a _betrothed_. _qgiver_
+ está comprometido con _betrothed_,
+ pero _ruler_ quiere
+ matar a _qgiver_ para impedir
+ el matrimonio. Deben
+ casarse en _temple_
+ en __temple_.
+
+Message:  1011
+<ce>                      ¡Ah, mi amada _betrothed_!
+<ce>                           %pcn ha aceptado
+<ce>                        protegernos de _ruler_.
+<ce>                          Rápido, %pcn, llévanos
+<ce>                             a _temple_
+<ce>                             en __temple_.
+
+Message:  1012
+<ce>                       Tenemos órdenes de
+<ce>                           _ruler_ de impedir
+<ce>                     este matrimonio. Si _betrothed_
+<ce>                       viene con nosotros ahora,
+<ce>                             nadie saldrá herido.
+
+Message:  1013
+<ce>                           Así que, _qgiver_,
+<ce>                       has contratado a este enclenque
+<ce>                        para protegerte. _ruler_
+<ce>                       no estará contento de que lo
+<ce>                        hayas desafiado. Hazte a un lado
+<ce>                      y déjanos llevarnos a _betrothed_.
+<ce>                       Solo puede empeorar para
+<ce>                                  ti.
+
+Message:  1014
+<ce>                           _qgiver_ susurra
+<ce>                         emocionado, "¡Sí! Este
+<ce>                      es el lugar donde los matones de _ruler_
+<ce>                     mantienen a mi amada.
+<ce>                            ¡Debemos darnos prisa!"
+
+Message:  1015
+<ce>                             "¡%oth!", grita
+<ce>                           _qgiver_, "¡aquí está
+<ce>                         _temple_! Ahora solo necesitamos
+<ce>                         que _priest_ nos case
+<ce>                        y _betrothed_ quedará
+<ce>                          fuera del alcance de _ruler_
+<ce>                            para siempre."
+
+Message:  1020
+<ce>                     _qgiver_ sacude la cabeza con
+<ce>                  disgusto. "Supongo que tendré que intentar salvar
+<ce>                      a _betrothed_ por mi cuenta.
+<ce>                        Me has fallado, %pcf."

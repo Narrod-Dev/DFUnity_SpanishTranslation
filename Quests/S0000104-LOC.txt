@@ -1,0 +1,14 @@
+Quest: S0000104
+QRC:
+
+Message:  1015
+<ce>                   El Rey del Inframundo quiere el Tótem.
+<ce>                             Debes morir.
+                                     <--->
+<ce>                   No has mostrado lealtad alguna hacia el
+<ce>                   Rey del Inframundo. Por tanto, debes
+<ce>                    morir para que él obtenga el Tótem.
+                                     <--->
+<ce>                  He venido a por el Tótem de Tiber
+<ce>                   Septim. Te unirás a las filas de
+<ce>                             los muertos.

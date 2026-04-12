@@ -1,0 +1,100 @@
+Quest: P0B01L02
+DisplayName: La reliquia vampírica
+QRC:
+
+QuestorOffer:  [1000]
+Mi querido %pcf:
+
+    Tenemos una pequeña tarea que debes realizar para
+ demostrar tu determinación de ser uno de los nuestros. Hay
+ una reliquia nuestra, _vamprelic_, recluida como un
+ fragmento de incunable trivial en el Gremio de Magos de
+ __itemdung_. Libérala de su prisión en un plazo de
+ =1stparton_ días, antes de que planeen trasladarla a un
+ lugar más seguro.
+    Una vez tengas la reliquia _vamprelic_, ven a verme.
+ Te esperaré durante =1stparton_ días en __vampire_, en
+ ___vampire_. Soy fácil de reconocer. Busca a alguien
+ con aspecto de =vampire_.
+    Espero con interés conocerte de manera menos formal,
+ %pcf. No dejes de venir.
+
+                                En la muerte,
+                                _vampire_ de %vam
+
+RefuseQuest:  [1001]
+Error: Dagtext 1001 llamado.
+
+AcceptQuest:  [1002]
+Error: Dagtext 1002 llamado.
+
+QuestComplete:  [1004]
+<ce>                 Encantado de conocerte al fin, %pcf.
+<ce>                   Yo, por supuesto, soy _vampire_.
+<ce>                         La tribu %vam tomará
+<ce>                       posesión adecuada de la
+<ce>                    reliquia _vamprelic_. No te hagas
+<ce>                   ideas tontas sobre recibir un pago
+<ce>                    por esto. Es un honor simplemente
+<ce>                           servir a %vam.
+
+RumorsDuringQuest:  [1005]
+He oído que el Gremio de Magos se está deshaciendo de un montón de trastos viejos e inútiles.
+<--->
+He oído que hay un depósito donde todos los Gremios de Magos envían sus cosas viejas.
+
+RumorsPostfailure:  [1006]
+Con toda la seguridad que hay en el Gremio de Magos, debe haber algo que valga la pena robar.
+<--->
+Al fin sacaron ese cargamento de trastos viejos y polvorientos del Gremio de Magos.
+
+RumorsPostsuccess:  [1007]
+Las tres estrellas de Locanda brillaron anoche. Eso representa alianzas impías.
+<--->
+En el Gremio de Magos están perplejos por ese robo. ¿Quién querría esa cosa?
+
+QuestorPostsuccess:  [1008]
+Saludos, %pcn. Gracias de nuevo por la reliquia _vamprelic_.
+
+QuestorPostfailure:  [1009]
+<ce>                        %pcf, ahora no es momento
+<ce>                   de poner a prueba los límites de mi
+<ce>                   paciencia. Mi carta te pedía expresamente
+<ce>                    que trajeras la reliquia _vamprelic_,
+<ce>                    ¿pero dónde está? Una actuación muy
+<ce>                      pobre, %pcf. Realmente pobre.
+
+QuestLogEntry:  [1010]
+Un personaje de aspecto siniestro con ese nombre está al %di de aquí, en __vampire_.
+<--->
+Un extraño =vampire_ llamado _vampire_ se aloja en __vampire_, al %di de aquí.
+
+Message:  1011
+_vampire_ es miembro de la tribu %vam, mentor de sus neófitos.
+<--->
+_vampire_ es un miembro bastante joven de %vam, pero también orgulloso y fuerte.
+
+Message:  1013
+Solo una reliquia _vamprelic_. No es algo muy bonito de ver.
+<--->
+Una reliquia _vamprelic_ de aspecto extraño.
+
+Message:  1015
+Por lo que he oído, es una reliquia _vamprelic_ del círculo de ancianos de %vam.
+<--->
+Es una reliquia _vamprelic_ utilizada en ciertos rituales secretos de los maestros %vam.
+
+Message:  1020
+%qdt:
+ He recibido una carta de _vampire_, de ___vampire_,
+ quien me ha dado =1stparton_ noches para robar una
+ reliquia _vamprelic_ de su cámara de seguridad en el
+ Gremio de Magos de __itemdung_. Una vez cumplida
+ la tarea, debo llevar la reliquia a _vampire_, en
+ __vampire_.
+
+Message:  1030
+<ce>                    Un pergamino enrollado en el suelo
+<ce>                     llama tu atención. Al mirar más de
+<ce>                      cerca, te asombra ver que está
+<ce>                            dirigido a ti.

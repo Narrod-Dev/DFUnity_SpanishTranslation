@@ -1,0 +1,176 @@
+Quest: P0B00L04
+DisplayName: Un viejo enemigo
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 llamado.
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 llamado.
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 llamado.
+
+QuestComplete:  [1004]
+<ce>                 ¿Es eso un rastro de pena en tu rostro,
+<ce>                        %pcf? Lo entiendo perfectamente.
+<ce>                  En más de una ocasión he tenido que
+<ce>                aniquilar a mi propia descendencia. Debes
+<ce>                intentar elevarte sobre este sensiblero
+<ce>                respeto mortal por la procreación. Lo que
+<ce>                 has tenido que hacer es lamentable, pero
+<ce>                debes enfriar tu sangre para ser realmente
+<ce>                uno de %vam. Has dado un paso hacia ello,
+<ce>                       por lo cual mereces mi enhorabuena.
+
+RumorsDuringQuest:  [1005]
+La tumba de =vampire_ debe haber sido saqueada. Está toda... destrozada.
+<--->
+Ha habido mucha actividad cerca de ___mondung_ últimamente. Por la noche.
+
+RumorsPostfailure:  [1006]
+El otro día me salió un divieso... pero ya curó.
+<--->
+He pasado tres horas hablando sobre el tiempo.
+<--->
+El tiempo es el habitual para esta época del año.
+<--->
+Parece que refresca un poco en %cn para esta temporada.
+<--->
+Hoy hace mucho más calor que el año pasado por estas fechas.
+<--->
+Mi tía abuela va a ir a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora empieza a oscurecer por aquí.
+<--->
+Deberíamos levantar una estatua de guerra por aquí.
+<--->
+La juventud de hoy en día con su magia... %oth, no sé yo.
+<--->
+Anoche tuve un sueño de lo más extraño.
+<--->
+He oído un chiste buenísimo. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Me lo puedes explicar?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y sus puntos malos.
+
+RumorsPostsuccess:  [1007]
+El otro día me salió un divieso... pero ya curó.
+<--->
+He pasado tres horas hablando sobre el tiempo.
+<--->
+El tiempo es el habitual para esta época del año.
+<--->
+Parece que refresca un poco en %cn para esta temporada.
+<--->
+Hoy hace mucho más calor que el año pasado por estas fechas.
+<--->
+Mi tía abuela va a ir a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora empieza a oscurecer por aquí.
+<--->
+Deberíamos levantar una estatua de guerra por aquí.
+<--->
+La juventud de hoy en día con su magia... %oth, no sé yo.
+<--->
+Anoche tuve un sueño de lo más extraño.
+<--->
+He oído un chiste buenísimo. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Me lo puedes explicar?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y sus puntos malos.
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 llamado.
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 llamado.
+
+QuestLogEntry:  [1010]
+                     __vamp_
+                      ___vamp_
+
+
+ Mi querido %pcn:
+
+      ¿Quizá recuerdes a un guerrero que
+ conociste una vez, =vampire_? Tenso,
+ suculento, de sangre un poco rala,
+ pero, en general, una comida memorable.
+ Bueno, pues %g ha vuelto de la tumba.
+
+      En %vam tenemos sentimientos un
+ tanto encontrados sobre la existencia
+ de tu progenie. Ven a verme y lo
+ discutiremos.
+
+
+                    Tuyo en la muerte,
+
+                    _vamp_
+
+Message:  1011
+<ce>                     Un joven pálido desliza una carta
+<ce>                      en tu mano y desaparece, veloz
+<ce>                            como una rata.
+
+Message:  1012
+%qdt:
+ _vamp_ de %vam me ha enviado
+ una carta solicitando mi presencia
+ inmediata en ___vamp_, en un
+ lugar llamado __vamp_.
+
+Message:  1013
+<ce>              Ah, buenas noches, sangre de mi sangre.
+<ce>               Tenemos un problema, tú y yo. Una de tus
+<ce>               viejas comidas ha regresado de la tumba.
+<ce>                 ¿=vampire_? No sé si el nombre te dice
+<ce>                algo. En cualquier caso, hemos estado
+<ce>                 vigilando a %g2, como te vigilamos a
+<ce>                ti, para ver si su reacción a la inmortalidad
+<ce>                       es digna de su linaje.
+<ce>               No lo ha sido. Con cada gota de sangre que
+<ce>                bebe, su sed aumenta diez veces. Un vampiro
+<ce>               neófito y loco suelto en la región es una
+<ce>               amenaza para los negocios vampíricos civilizados.
+<ce>                Ve a ___mondung_ y acaba con este hijo
+<ce>               tuyo tan problemático. Es un asunto desagradable,
+<ce>               pero es tu responsabilidad. Espero volver a
+<ce>                verte en =queston_ noches con la tarea
+<ce>                        cumplida. Hasta la vista.
+
+Message:  1014
+%qdt:
+ _vamp_ me ha enviado a
+ ___mondung_ para acabar con
+ =vampire_, un vampiro que yo creé.
+ Tengo =queston_ noches para cumplir
+ con este deber e informar de vuelta
+ en ___vamp_.
+
+Message:  1015
+<ce>                    Mejor no escatimar el castigo, progenitor.
+<ce>                          Me vas a malcriar.
+                                     <--->
+<ce>                     Te conozco. Fuiste el último rostro
+<ce>                     que vi, manchado con la sangre de mi
+<ce>                     cuerpo. Ven, mi querido creador,
+<ce>                           déjanos abrazarnos.
+                                     <--->
+<ce>                     Tu rostro es el rostro de mi pesadilla,
+<ce>                      %pcn. Tú eres quien me maldijo a
+<ce>                        esta vida, ¿verdad?
+
+Message:  1016
+<ce>                             =vampire_ muere
+<ce>                        al fin con una muerte verdadera.
+<ce>                         Debes volver para decirle a
+<ce>                            _vamp_ que la tarea
+<ce>                               ha sido cumplida.

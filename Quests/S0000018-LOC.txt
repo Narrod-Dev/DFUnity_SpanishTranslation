@@ -1,0 +1,85 @@
+Quest: S0000018
+DisplayName: El polvo de la muerte tranquila
+QRC:
+
+QuestorOffer:  [1000]
+<ce>              Así que Medora quiere el Polvo de la Muerte
+<ce>              Tranquila. Solo porque respeto la memoria
+<ce>              del rey Lysandus haré esto. El polvo puede
+<ce>              encontrarse en ___crypt_, en su propia isla.
+<ce>              Dile a Medora que el precio es su apoyo a mi
+<ce>              reclamación sobre el corazón. Ella ya sabrá
+<ce>                        qué significa eso.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Medora se me apareció en una visión y me dijo
+ que el fantasma de Lysandus podría ser calmado
+ si logro convencer a Gortwog, Señor de los Orcos
+ en Orsinium, de que me revele su ubicación.
+
+Message:  1011
+%qdt:
+ He hablado con Gortwog. Afirma que el Polvo de
+ la Muerte Tranquila puede encontrarse en
+ ___crypt_, en la Isla de Balfiera. También me
+ instruyó para decirle a Medora que ella debe
+ apoyar su reclamación sobre el corazón de Tiber
+ Septim, sea lo que sea eso.
+
+Message:  1015
+<ce>                  Tu visión se nubla y el mundo se vuelve
+<ce>                  tenue. De entre el gris, aparece el rostro
+<ce>                           de una mujer. ¡Medora!
+<ce>                                     
+ "%pcf. Tus esfuerzos por liberarme no han sido en vano.
+ He descubierto un polvo que calmará al fantasma de mi
+ amado Lysandus. Sin embargo, está en manos de Gortwog,
+ Señor de la Guerra de los Orcos, en su ciudadela de
+ acero de Orsinium. Ve a verle a Orsinium y averigua si
+ hay algo que pueda hacerse para persuadirle de que te lo
+ entregue. Tráeme el polvo a la Torre Direnni una vez
+ que lo tengas".
+<ce>                                     
+<ce>                  La visión se aclara. A veces desearías que
+<ce>                  las hechiceras simplemente enviaran cartas
+<ce>                        como hace todo el mundo.
+
+Message:  1016
+Un paquete de polvo negro como la medianoche.
+
+Message:  1020
+<ce>                Este pergamino se usó como envoltorio para el
+<ce>                paquete de polvo. Parte de su mensaje es ahora
+<ce>                             ilegible.
+<ce>                                     
+ Lady Med...
+ 
+ ...favor. Tienen la intención de asesinarle. Estoy
+ enviando ........ros para detenerles. Debéis apoyarme.
+ Si el imperio descubre que he atacado a consejeros
+ reales de Wayr......unque sean asesinos, mi pueblo
+ nunca obtendrá el mismo estatus y respeto que los
+ Khaji................ianos. Sin embargo, con vuestro
+ apoyo yo podr............. un héroe del imperio, y
+ ganar el respeto para mi pueblo.
+ 
+<ce>                                 Gortwog
+<ce>                                 Señor de la Gue...
+
+Message:  1030
+ Este es, en efecto, el Polvo de la Muerte Tranquila.
+ En cuanto a esa carta, era de Gortwog para mí, aunque
+ nunca la recibí. Supe de él más tarde que sus guerreros
+ orcos fueron asesinados intentando emboscar a los
+ asesinos. Gortwog y sus orcos no son los villanos que
+ la mayoría de la gente cree.
+ 
+ Eadwyre y la corte de Wayrest nunca han sido
+ particularmente leales al imperio. Asesinar a un rey es
+ traición. Tendré mi venganza, pero primero debo
+ descubrir por qué Eadwyre arriesgaría tanto.
+ 
+ Necesitaré un mes para preparar el Polvo. Vuelve a
+ verme en ese plazo y te lo entregaré, junto con las
+ instrucciones para su uso.

@@ -1,0 +1,271 @@
+Quest: M0B11Y18
+DisplayName: La misión de Lord K'avar, parte I
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                %pcf, tengo una misión importante que
+<ce>               requerirá la mayor discreción. No puedo
+<ce>                contarte más a menos que aceptes ayudarme.
+<ce>                         ¿Qué me dices?
+
+RefuseQuest:  [1001]
+<ce>                 %oth, esperaba mucho más de ti.
+
+AcceptQuest:  [1002]
+<ce>                Una vieja amistad está en grave peligro,
+<ce>                y necesita escolta con buena mano para la
+<ce>                espada y capaz de guardar un secreto. Como
+<ce>                es natural, pensé en ti. _target_ se reunirá
+<ce>                contigo a las 10:00 de esta noche en
+<ce>                _targethouse_. %g te dará más detalles al
+<ce>                llegar. Yo te acompañaría, pero como se me
+<ce>                conoce como su enlace, podría guiar a sus
+<ce>               enemigos hasta %g2. Ten cuidado con esto.
+
+QuestFail:  [1003]
+<ce>                 No tenemos nada más que discutir, %pcn.
+
+QuestComplete:  [1004]
+<ce>            Me has alertado de una grave amenaza para el reino.
+<ce>             Por favor, acepta mi sincero agradecimiento
+<ce>                       y estos _reward_ oro.
+
+RumorsDuringQuest:  [1005]
+<ce>      _enemy_ ha estado reclutando mercenarios en ___stronghold_.
+<ce>                          ¿Para qué será?
+
+RumorsPostfailure:  [1006]
+<ce>      ¿Oíste sobre la emboscada en __targethouse_? Mataron a un
+<ce>                  agente de la Reina de Sentinel.
+
+RumorsPostsuccess:  [1007]
+<ce>    Parece que alguien de la nobleza de Sentinel conspiraba contra
+<ce>     el trono, pero la Reina lo descubrió y destruyó su fortaleza
+<ce>                         en ___stronghold_.
+                                     <--->
+<ce>       Las fuerzas de _ruler_ atacaron ___stronghold_, pero oí
+<ce>        que el objetivo del ataque, un traidor, escapó.
+
+QuestorPostsuccess:  [1008]
+<ce> Oí que lograste contactar con _ruler_, aunque _target_ estiró la pata.
+
+QuestorPostfailure:  [1009]
+<ce>   ¿Qué pasó con esa misión de escoltar a _target_ ante _ruler_?
+
+Message:  1020
+%qdt:
+ _questgiver_ de __questgiver_
+ en ___questgiver_ me pidió
+ reunir hoy a las 10:00 de la noche
+ con _target_ en _targethouse_.
+ No sé nada más, salvo que _target_
+ corre peligro por enemigos poderosos.
+
+Message:  1021
+%qdt:
+ Me he reunido con _target_ y
+ nos dirigimos a Sentinel.
+
+Message:  1022
+%qdt:
+ Fui víctima de una emboscada al salir
+ de _targethouse_ y _target_ murió.
+ Antes de fallecer, me entregó una carta
+ que delata a _traitor_, miembro de la
+ corte de _ruler_ en Sentinel, como traidor.
+ El último deseo de _target_ fue que
+ entregara la carta a _ruler_. Ella querrá
+ ver esto antes de que pasen =patsy_ días.
+
+Message:  1023
+%qdt:
+ Mostré a _ruler_ la carta de traición,
+ pero _traitor_ ya había huido a su
+ fortaleza de ___stronghold_.
+ La Reina me pidió infiltrarme en la
+ fortaleza y capturar o matar a _traitor_.
+ Me dio =gettraitor_ días para cumplir
+ la misión y volver a Sentinel.
+
+Message:  1030
+Querido/a %pcn,
+ 
+ Cambio de planes. _questgiver_ tuvo
+ que dejar la ciudad rápido y me pidió
+ que te viera en _tavern_. Ven de
+ inmediato. El asunto es de extrema
+ urgencia.
+ 
+<ce>                                 _enemy_
+
+Message:  1031
+Mi querido/a _enemy_,
+ 
+ Me complace saber de tu progreso
+ entrenando a mis fuerzas en ___stronghold_.
+ Enviaré más dinero en cuanto pueda
+ reunirlo, pues necesitarás contratar a más
+ tropas si esperamos derrotar a _ruler_.
+ Tienes razón en que una batalla abierta
+ es una causa perdida, pero creo que incluso
+ para un golpe de mano contra el Castillo,
+ necesitaremos más hombres.
+ 
+ Discutiremos esto en persona cuando llegue
+ a ___stronghold_ en unas semanas. Si me
+ necesitas mientras tanto, me hospedo en el
+ Palacio en __palace_. Si todo sale bien,
+ pronto tendremos una nueva alianza. Una vez
+ la situación aquí sea fluida de nuevo, debo
+ volver a Sentinel para presentar mis respetos
+ (¡quizás los últimos!) a nuestra Reina. Sus
+ agentes me pisan los talones, así que calmaré
+ sus sospechas con la servidumbre aduladora
+ que ella tanto aprecia.
+ 
+ Manténme al tanto de tus progresos.
+ 
+<ce>                             Sinceramente,
+<ce>                                     
+<ce>                               _traitor_,
+<ce>                                __palace_
+
+Message:  1032
+<ce>                  Un niño de género incierto te entrega
+<ce>                   una nota y sale corriendo antes de
+<ce>                     que tengas tiempo de reaccionar.
+
+Message:  1040
+<ce>                         ¿%pcn, verdad? Me alegra
+<ce>                      haberte contactado. ¿Te contó
+<ce>                      mucho _questgiver_ sobre lo
+<ce>                    que pasaba? Me lo imaginaba. Basta
+<ce>                    decir que los Nigromantes están
+<ce>                   implicados. Gente peligrosa con la
+<ce>                 que cruzarse. Pero tengo este _amulet_
+<ce>                para ti; te avisará si hay agentes de los
+<ce>                   Nigromantes cerca. Te será útil.
+<ce>                      Mantente alerta, camarada.
+
+Message:  1041
+<ce>                       ¿Eres %pcn? _questgiver_ te
+<ce>                  describió bien. Soy _target_. Debemos
+<ce>                 ir a Sentinel de inmediato. No puedo
+<ce>                decirte más, salvo que los enemigos de
+<ce>                   _ruler_ darían mucho por detenernos.
+
+Message:  1042
+<ce>                      _target_ jadea y te giras para
+<ce>                ver una flecha sobresaliendo de su pecho.
+<ce>                Mientras cae de rodillas, te entrega una
+<ce>                 carta en la mano y murmura:
+<ce>                                    
+<ce>                 "_traitor_ es un traidor a Sentinel.
+<ce>                    Debes llevarle esto a _ruler_".
+<ce>                                    
+<ce>                           _target_ ha muerto.
+
+Message:  1043
+<ce>                 De repente te rodea un brillo intenso.
+<ce>                  Al mirar abajo, ves que la luz emana
+<ce>                   del amuleto que te dio _enemy_. El
+<ce>                  suelo parece abrirse bajo tus pies y
+<ce>                       la oscuridad te engulle.
+
+Message:  1050
+<ce>                    ¿Entregas la carta de traición
+<ce>                               a _ruler_?
+
+Message:  1051
+<ce>                 "¿Sí? ¿Qué es esta carta? ¡Por %god!,
+<ce>                 ¡¿_traitor_ conspira contra mí?!
+<ce>                 ¡Guardias! Buscad a _traitor_ por todo
+<ce>                   el castillo y traedlo ante mí."
+<ce>                                    
+<ce>                Varios guardias salen corriendo. Minutos
+<ce>               después uno regresa. Con un saludo, informa
+<ce>               de que no hay rastro de _traitor_.
+<ce>                                    
+<ce>                        _ruler_ se dirige a ti:
+<ce>                                    
+<ce>              "Debió ser alertado de que su traición iba a
+<ce>               ser descubierta. Probablemente se haya ido
+<ce>                a ___stronghold_, lugar que menciona en
+<ce>              su carta. Dadas las circunstancias, prefiero
+<ce>             evitar un ataque directo. Conoces la zona, ¿no?
+<ce>            ¿Me harías un servicio más y harías justicia?"
+
+Message:  1052
+<ce>                 %pcn, estás demostrando gran lealtad al
+<ce>            trono de Sentinel. Esperaré =gettraitor_ días
+<ce>                 antes de asaltar la fortaleza de _traitor_.
+<ce>             Por la presente declaro a _traitor_ proscrito;
+<ce>             captúralo si puedes, pero mátalo si es necesario.
+
+Message:  1053
+<ce>                  Muy bien. Me encargaré de él yo misma.
+
+Message:  1054
+<ce>                 _ruler_ abre la carta y la lee. Su
+<ce>                     rostro se ensombrece de ira.
+<ce>                                    
+<ce>                          "No hay duda alguna.
+<ce>                          Este es su sello y su
+<ce>                           firma personal.
+<ce>                          ¡Guardias! Id al Gran
+<ce>                         Salón, apresad a _traitor_
+<ce>                        y arrojadlo a la mazmorra."
+<ce>                                    
+<ce>                            Se gira hacia ti.
+
+Message:  1055
+<ce>                 Que así sea. _traitor_ eligió su camino
+<ce>                y pagó las consecuencias gracias a ti.
+<ce>                  Aquí tienes este _queenreward_ por
+<ce>                   tu servicio a la corona de Sentinel.
+
+Message:  1056
+<ce>                  ¡%oth! _traitor_ escurridizo, sin duda.
+<ce>                  Bueno, acabaré dándole caza tarde o
+<ce>                  temprano, no temas. La justicia de
+<ce>                  Sentinel le perseguirá donde se oculte.
+<ce>                  Sus socios han sido arrestados o han
+<ce>                  huido, así que al menos ya no es una
+<ce>                  amenaza. %pcn, acepta este _queenreward_
+<ce>                    por tu servicio a la corona de Sentinel.
+
+Message:  1060
+<ce>              ¿Le entregas la carta de traición a _traitor_?
+
+Message:  1061
+<ce>                Parece que te juzgué mal, %pcn. Quizás
+<ce>               podamos ser aliados después de todo. Toma
+<ce>                 este _traitorreward_ por las molestias.
+
+Message:  1062
+<ce>                 _traitor_ te mira fijamente. Se queda
+<ce>                pálido al darse cuenta de quién eres y,
+<ce>                antes de que alguien pueda detenerlo, se
+<ce>                  da la vuelta y huye hacia la puerta.
+
+Message:  1070
+<ce>                     Perro de estirpe %ra, pagarás por
+<ce>                     entrometerte en los asuntos de _traitor_.
+
+Message:  1071
+<ce>                    ¿Rendirme y ser arrastrado por las
+<ce>                   calles de Sentinel como un espectáculo
+<ce>                            público? ¡Jamás!
+
+Message:  1072
+<ce>                           _traitor_ ha muerto.
+
+Message:  1073
+<ce>                    _traitor_ arroja su arma al suelo.
+<ce>                    Pensando que se rinde, te detienes,
+<ce>                    pero en su lugar gira un anillo en
+<ce>                    su dedo. Mientras desaparece en una
+<ce>                    bruma de luz, le oyes gritar:
+<ce>                                    
+<ce>                        "¡Dile a esa perra que no
+<ce>                        se librará de mí tan fácil!"

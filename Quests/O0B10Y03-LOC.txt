@@ -1,0 +1,95 @@
+Quest: O0B10Y03
+DisplayName: Una visita al templo
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Tengo un trabajito del gremio,
+<ce>                       si te interesa. Mi nombre es
+<ce>                        _qgiver_. Alguien quiere que
+<ce>                        birlen _religiousitem_ de
+<ce>                               _temple_.
+<ce>                               ¿Te hace?
+
+RefuseQuest:  [1001]
+<ce>                        Te tendré en cuenta, %pcn,
+<ce>                       si sale algo que te resulte
+<ce>                            más interesante.
+
+AcceptQuest:  [1002]
+<ce>                         Vale. Aquí está el plan.
+<ce>                          Vas a _temple_, en
+<ce>                         __temple_. Coges ese
+<ce>                        _religiousitem_ y me lo
+<ce>                        traes. Te daré la paga
+<ce>                       habitual del gremio: _gold_
+<ce>                        monedas de oro. Tienes
+<ce>                      =traveltime_ días para ponerlo
+<ce>                           en mis manos.
+
+QuestComplete:  [1004]
+<ce>                      Vaya, hay tipos difíciles de
+<ce>                      entender. ¿Te puedes creer que
+<ce>                      pagó para que birláramos esto?
+<ce>                      No es como si hubiera algún
+<ce>                     "guardián espantoso" evitando
+<ce>                      que lo hiciera él mismo. ¿Eh?
+<ce>                       ¡Que sí lo había! Bueno, igual
+<ce>                       no estaba tan loco. Aquí tienes
+<ce>                        tu paga, %pcf. Un placer
+<ce>                           trabajar contigo.
+
+RumorsDuringQuest:  [1005]
+El otro día me salió un divieso... pero ya curó.
+<--->
+He pasado tres horas hablando sobre el tiempo.
+<--->
+El tiempo es el habitual para esta época del año.
+<--->
+Parece que refresca un poco en %cn para esta temporada.
+<--->
+Hoy hace mucho más calor que el año pasado por estas fechas.
+<--->
+Mi tía abuela va a ir a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora empieza a oscurecer por aquí.
+<--->
+Deberíamos levantar una estatua de guerra por aquí.
+<--->
+La juventud de hoy en día con su magia... %oth, no sé yo.
+<--->
+Anoche tuve un sueño de lo más extraño.
+<--->
+He oído un chiste buenísimo. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Me lo puedes explicar?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y sus puntos malos.
+
+RumorsPostfailure:  [1006]
+Parece que _temple_ está bastante bien guardado contra los ladrones.
+
+RumorsPostsuccess:  [1007]
+El tipo que regenta _temple_ pagó a unos ladrones para que entraran en su propio local.
+
+QuestorPostsuccess:  [1008]
+¿Cómo vas, %pcf? Sigo esperando noticias del tipo que nos contrató.
+
+QuestorPostfailure:  [1009]
+<ce>                        Me da igual si ese templo
+<ce>                       estaba guardado por el mismísimo
+<ce>                         Señor del Oblivion, %pcf.
+<ce>                        No hay excusa para fallar en
+<ce>                         un encargo para el Gremio
+<ce>                              de Ladrones.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de ___qgiver_,
+ del Gremio de Ladrones, me encargó
+ el robo de _religiousitem_
+ en _temple_, en
+ __temple_. Tengo
+ =traveltime_ días para llevárselo
+ a %g2 y recibir mi paga.

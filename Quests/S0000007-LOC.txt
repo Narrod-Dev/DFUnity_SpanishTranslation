@@ -1,0 +1,301 @@
+Quest: S0000007
+DisplayName: La Bestia Licántropa
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 Oye, si te dijera que podría darte un
+<ce>                 poco de información, digamos, sobre
+<ce>                 esa carta de mi señora, ¿te interesaría,
+<ce>                   %pcf? Eso pensaba. Ahora, eso sí, no la
+<ce>                   voy a regalar. Antes de que yo te rasque
+<ce>                   la espalda, tú tienes que rascar la mía.
+<ce>                            ¿Hay trato?
+
+RefuseQuest:  [1001]
+<ce>                  Claro que no. Tú solo trabajas para
+<ce>                  gente como los reyes, ¿verdad? La pobre
+<ce>                  Cyndassa tiene que apañárselas sola, ¿es
+<ce>                      eso? Bueno, %oth, me parece muy
+<ce>                        bien, así que ahí queda eso.
+
+AcceptQuest:  [1002]
+<ce>             Me llamo Cyndassa. De Daggerfall. Te contaré
+<ce>             todo lo que sé, pero no hace falta que te recuerde
+<ce>           que la información gratis no existe, ¿verdad, %pcn?
+<ce>                 Solo soy una criada de su alteza, nada más que
+<ce>           una mota en el mundo, y mis necesidades no son grandes.
+<ce>           Necesito que alguien acabe con ese hombre lobo. Sé
+<ce>             justo dónde está: un agujero olvidado de %god
+<ce>               llamado Laboratorio Tristore, frente a la
+<ce>                   costa, por el camino de Betony. No puedo
+<ce>           decirte por qué, pero es importante para mí que ese
+<ce>           hombre lobo deje de sufrir. Te esperaré aquí durante
+<ce>             =2mondung_ días; eso debería ser tiempo de sobra.
+
+QuestFail:  [1003]
+<ce>                      ¿Crees que soy idiota, %pcn?
+<ce>                   ¿Crees que no sé que ese "loup" sigue
+<ce>                             todavía vivo?
+
+QuestComplete:  [1004]
+<ce>            Está muerto entonces, ¿verdad? Pobre criatura. Era
+<ce>              mi hermano. Si me preguntas a mí, murió hace mucho,
+<ce>            cuando lo mordieron por primera vez. Se odiaba a sí
+<ce>            mismo cuando se convertía en esa bestia. Ojalá hubiera
+<ce>                         habido otra forma de ayudarlo.
+<ce>                                     
+<ce>             Prometí contarte lo de esa carta que buscas, ¿no?
+<ce>             Claro que me acuerdo de esa carta, %pcf. No todos
+<ce>             los días se recibe una carta del mismísimo
+<ce>             Emperador, sobre todo viendo que al Rey no le
+<ce>             cae muy bien. De hecho, es la única carta que he
+<ce>             visto de él. Se la di a su majestad, y ella se
+<ce>             emocionó toda, la abrió de un tirón y dijo:
+<ce>             "esto no es para mí, está dirigida a Mynisera".
+<ce>             Entonces... ¡pum! Se le cayó la mandíbula y se le
+<ce>             pusieron los ojos como platos. Dijo que ella se
+<ce>             aseguraría de que la Reina Madre la recibiera y que
+<ce>                  yo no tenía que preocuparme por nada.
+
+RumorsDuringQuest:  [1005]
+El hombre lobo del Laboratorio Tristore lleva semanas aterrorizando Betony.
+<--->
+A casi nadie le importa el hombre lobo del Laboratorio Tristore, salvo a sus vecinos.
+<--->
+Pobre Aubk-i. Su criada ha estado difundiendo los cuentos más disparatados sobre ella.
+
+RumorsPostfailure:  [1006]
+Ese hombre lobo se ha marchado del Laboratorio Tristore. Son bestias migratorias.
+<--->
+No esperaba que ese "loup" viviera en el Laboratorio Tristore tanto tiempo como lo hizo.
+<--->
+Vaya, esos Cambiapieles sí que le dieron su merecido a alguien de la %ra por allá.
+
+RumorsPostsuccess:  [1007]
+Alguien de la %ra, un aventurero, echó al hombre lobo del Laboratorio Tristore fuera de Betony.
+<--->
+Los campesinos que viven cerca del Laboratorio Tristore están felices de que el "loup" se haya ido.
+<--->
+Los Cambiapieles tienen que agradecer a alguien de la %ra por salvar a uno de los suyos.
+
+QuestLogEntry:  [1010]
+<ce>                     El cuerpo del hombre lobo comienza
+<ce>                      a transformarse ante tus propios
+<ce>                     ojos. En solo unos minutos, se ha
+<ce>                     convertido en un hombre joven que
+<ce>                      parece tener un gran parecido con
+<ce>                                Cyndassa.
+
+Message:  1011
+<ce>                  %pcf, mil gracias por sacarlo de esa
+<ce>                  trampa. Yo misma me encargaré de las
+<ce>                  Beldama para arreglar las cosas.
+
+Message:  1012
+<ce>                        Recuerdo bien a Cyndassa
+<ce>           parloteando sobre los asuntos privados de la Reina.
+<ce>             Es increíble lo que unas gotas de vino pueden
+<ce>                    hacer para soltar la lengua de una joven.
+<ce>               No todos los días se entrega una carta del
+<ce>               Emperador, especialmente porque, como sabes,
+<ce>               la Reina no le tiene mucho aprecio.
+<ce>               Cyndassa dijo que esa carta era la única que
+<ce>               había visto de él, y se quedó atónita cuando
+<ce>               la Reina jadeó y exclamó: "Vaya, esto no es
+<ce>               para mí, está dirigida a Mynisera".
+<ce>               Pobre Cyndassa. Inmediatamente pensó que había
+<ce>               entendido mal al mensajero y que le había dado
+<ce>               la carta al noble equivocado. Se sintió muy
+<ce>               aliviada cuando Aubk-i no armó un escándalo y
+<ce>               dijo que se aseguraría de que la Reina Madre la
+<ce>               recibiera pronto, y que no se preocupara por ello.
+
+Message:  1013
+<ce>                  Oh, quédate con el _relic_ si quieres.
+
+Message:  1014
+<ce>                    Vaya, %pcf, has encontrado parte del
+<ce>               diario de mi antiguo amante. Reconocería esa
+<ce>               letra en cualquier parte. ¡Cyndassa, esa sucia
+<ce>               ramera, hizo que lo infectaran dos "loups"
+<ce>               diferentes!
+<ce>                                     
+<ce>                Curar algo así está hoy fuera de nuestro alcance.
+<ce>               Las Beldama esperan encontrar una cura mediante
+<ce>               el estudio. Ella puede revertir el proceso por
+<ce>               varias semanas, pero no más. Hasta ahora, no hemos
+<ce>               visto casos que sobrevivan a la infección inicial
+<ce>               más tiempo que eso.
+<ce>                                     
+<ce>                Si puedes traérmelo de vuelta, tengo cierta
+<ce>                información que puede serte de alguna utilidad.
+<ce>                Toma este _relic_ especial. Amansará a la
+<ce>                bestia que lleva dentro.
+<ce>                                     
+
+Message:  1015
+%qdt:
+ Me he reunido con _barmaid_, una antigua
+ amante del hermano de Cyndassa. Ella tiene
+ información para mí si logro traer de
+ vuelta a su ex amante usando este _relic_
+ de alguna manera. Me estará esperando en
+ _tavern_, allá en __tavern_.
+
+Message:  1016
+%qdt:
+ He encontrado una página del diario del
+ hermano de Cyndassa que sugiere que ella
+ pagó para convertirlo en licántropo por
+ puro despecho.
+
+Message:  1017
+Encuentras un fragmento de diario,
+escrito con letra garabateada.
+ 
+"...No puedo creer que Cyndassa actuara con
+tal despecho, solo porque rompí con su amiga,
+_barmaid_. Bueno, nunca me importó mucho
+visitar ___barmaid_ tampoco, y pensé que nos
+habíamos separado de forma amistosa...
+Pero pagar para entregarme a los
+Cambiapieles, simplemente no lo entiendo.
+Cyndassa debe de estar aprendiendo malas
+costumbres de esos nobles podridos de la
+Corte de Daggerfall."
+
+Message:  1018
+Encuentras un fragmento de diario,
+escrito con letra clara.
+ 
+"...No recuerdo cómo llegué a este lugar.
+Si me han secuestrado, ¿para qué? No tenemos
+dinero, y los nobles de la corte apenas toleran
+a Cyndassa. Mi último recuerdo claro es el de
+ver la luna salir sobre el Castillo Daggerfall..."
+
+Message:  1019
+Tsk. Esa Cyndassa siempre anda tramando algo con sus amigas.
+<--->
+Imagina que la Reina Aubk-i deja que su criada se junte con ==barmaid_.
+<--->
+Increíble que la Reina Aubk-i deje que su criada se junte con ==barmaid_.
+<--->
+Vaya. Esa Cyndassa siempre anda tramando algo con _barmaid_.
+
+Message:  1020
+_wereBrother_ le rompió el corazón, y ahora se dedica a la mala vida en _tavern_.
+<--->
+Algún jovenzuelo le rompió el corazón, y ahora se limita a estar de morros en __tavern_.
+<--->
+Siempre está por ahí ejerciendo su oficio, si sabes a qué me refiero, en __tavern_.
+<--->
+¿No convenció a Cyndassa para que convirtiera a su hermano en hombre lobo después de que él la dejara plantada?
+
+Message:  1021
+¡Aléjate de mí, %ra, sucio asesino!
+<--->
+¡Asesino! ¡Te echaré a los guardias, %ra!
+<--->
+¡Cómo te atreves a acercarte a mí, asqueroso traficante de licántropos!
+<--->
+¡Lleva tu asqueroso pellejo de traficante de licántropos lejos de mi vista, %ra!
+
+Message:  1022
+¡Aléjate de mí, %ra! Eres un idiota traficante de licántropos.
+<--->
+¡Necio! ¿Cómo pudiste caer en las mentiras de esa simple criada?
+<--->
+Pobre %ra. ¡No me digas que caíste en las mentiras de Cyndassa!
+<--->
+Debería poner a los Cambiapieles tras tu rastro, %ra, después de lo que has hecho.
+
+Message:  1023
+%qdt:
+ Cyndassa, la criada de la Reina Aubk-i de
+ Daggerfall, me ha enviado a matar a un
+ hombre lobo escondido en el Laboratorio
+ Tristore en Betony, por alguna razón. Solo
+ puede pagarme con información, y ha prometido
+ revelar lo que sabe sobre la carta del
+ Emperador. Tengo =2mondung_ días para cumplir
+ esta hazaña.
+
+Message:  1024
+<ce>                     El cuerpo del hombre lobo comienza
+<ce>                      a transformarse ante tus propios
+<ce>                 ojos. En unos momentos, se ha convertido
+<ce>                      en un hombre joven, _wereBrother_,
+<ce>                      que yace en coma a tus pies.
+<ce>                        Lo recoges con cuidado.
+
+Message:  1025
+Ahora que Cyndassa está esperando en el Castillo, toda su familia se ha dado aires de grandeza.
+<--->
+La rivalidad entre hermanos está de moda por allá en ___wereBrother_.
+<--->
+Tsk. Las cosas que intentan los jóvenes para llamar la atención.
+
+Message:  1026
+Propiedad del Gremio de Cambiapieles
+
+Message:  1027
+Sientes una sacudida nauseabunda mientras el _relic_ se desvanece.
+
+Message:  1028
+<ce>                   ¿Has perdido el juicio, %pct?
+<ce>                 Estaba dispuesta a ayudarte, pero tras
+<ce>                   tu asalto a _wereBrother_...
+<ce>                 Vuelve arrastrándote con esa ramera de
+<ce>                 Cyndassa, anda. Pedazo de %ra sin valor.
+
+Message:  1029
+<ce>                  Pensándolo mejor, %pct, ¿por qué no
+<ce>                    os acompaño? Yo llevaré el
+<ce>                         _relic_, ya que puede ser
+<ce>                         un poco difícil de usar.
+
+Message:  1030
+%qdt:
+ _barmaid_ me dijo que Cyndassa entregó una
+ carta destinada a Mynisera a la Reina Aubk-i,
+ quien prometió entregársela a la Reina Madre
+ de inmediato.
+
+Message:  1031
+%qdt:
+ Debo escoltar a _barmaid_ y a _wereBrother_
+ al Aquelarre del Risco en Daggerfall.
+
+Message:  1032
+<ce>         Mientras el cuerpo del hombre lobo se congela lentamente,
+<ce>                 _barmaid_ habla: "Excelente, %pcf,
+<ce>           mantendré mi promesa de contarte lo que sé de
+<ce>                      esa carta que buscas".
+
+Message:  1033
+<ce>              Ahora, si pudiera rogarte el favor de
+<ce>                escoltarnos hasta las Beldama de las
+<ce>                 Hermanas del Risco. Lo encontrarás en
+<ce>                   el mapa, en la provincia de Daggerfall.
+
+Message:  1034
+<ce>                         %pcf, tu servicio al
+<ce>                    Aquelarre ha sido inestimable.
+<ce>                    Por favor, siéntete libre de
+<ce>                       visitarnos en cualquier momento.
+
+Message:  1035
+<ce>                  _barmaid_ te mira con asco.
+<ce>                    "¿Qué intentas hacer, %ra?
+<ce>                       ¿Secuestrarnos?". Recoge a
+<ce>                         _wereBrother_ y se
+<ce>                        desvanece en el aire.
+
+Message:  1036
+<ce>                      _barmaid_ comienza a susurrar:
+<ce>                    "Bien, %pcf, esto es lo que haremos.
+<ce>                   Nos separaremos y llegaremos por nuestra
+<ce>                        cuenta hasta __mondung_. Luego,
+<ce>                   mientras tú lo distraes, yo lanzaré el
+<ce>                hechizo para amansar a la bestia en su interior".

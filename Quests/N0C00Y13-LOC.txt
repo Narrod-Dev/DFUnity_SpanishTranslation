@@ -1,0 +1,154 @@
+Quest: N0C00Y13
+DisplayName: Un pergamino antiguo
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Hmmph. No eres del gremio.
+<ce>                 Realmente no debería dar encargos a quienes
+<ce>                  no son miembros. Sin embargo, tengo algo
+<ce>                  que debe hacerse y que no quiero que
+<ce>                 nadie más en el gremio descubra. Si haces
+<ce>                  esto por mí gratis, haré correr la voz
+<ce>                   de que eres nuestra clase de %ra.
+<ce>                        ¿Qué me dices, %pcf?
+
+RefuseQuest:  [1001]
+<ce>                        Vete. Me molestas.
+                                     <--->
+<ce>                             Ingrato.
+
+AcceptQuest:  [1002]
+<ce>                        Mi nombre es _questgiver_.
+<ce>                   Hay un texto antiguo supuestamente
+<ce>                         oculto en ___dungeon_.
+<ce>              Tráemelo antes de =traveltime_ días y
+<ce>                    consideraré el trabajo hecho.
+
+QuestComplete:  [1004]
+<ce>                Excelente. Recordé advertirte que no leyeras
+<ce>                esto, ¿verdad? Podría ser bastante peligroso
+<ce>                 si pronunciaras "nagog" con la g fuerte,
+<ce>              como suelen hacer los profanos. Bueno, gracias por
+<ce>                tu ayuda, %pcn. Sigue así y te tendremos en
+<ce>                 cuenta para ser miembro del Gremio de Magos.
+
+RumorsDuringQuest:  [1005]
+Me salió un bulto el otro día... pero ya sanó.
+<--->
+Acabo de tener una charla de tres horas sobre el clima.
+<--->
+El tiempo es bastante normal para esta época del año.
+<--->
+Parece que hace un poco de fresco en %cn para esta temporada.
+<--->
+Seguro que hoy hace mucho más calor que el año pasado por estas fechas.
+<--->
+Mi tía abuela va a ver a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos erigir una estatua de guerra por aquí.
+<--->
+La juventud de hoy con su magia. %oth, no lo sé.
+<--->
+Tuve un sueño rarísimo anoche.
+<--->
+Escuché un chiste buenísimo. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Podrías explicármelo?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y malos.
+
+RumorsPostfailure:  [1006]
+Me salió un bulto el otro día... pero ya sanó.
+<--->
+Acabo de tener una charla de tres horas sobre el clima.
+<--->
+El tiempo es bastante normal para esta época del año.
+<--->
+Parece que hace un poco de fresco en %cn para esta temporada.
+<--->
+Seguro que hoy hace mucho más calor que el año pasado por estas fechas.
+<--->
+Mi tía abuela va a ver a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos erigir una estatua de guerra por aquí.
+<--->
+La juventud de hoy con su magia. %oth, no lo sé.
+<--->
+Tuve un sueño rarísimo anoche.
+<--->
+Escuché un chiste buenísimo. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Podrías explicármelo?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y malos.
+
+RumorsPostsuccess:  [1007]
+Me salió un bulto el otro día... pero ya sanó.
+<--->
+Acabo de tener una charla de tres horas sobre el clima.
+<--->
+El tiempo es bastante normal para esta época del año.
+<--->
+Parece que hace un poco de fresco en %cn para esta temporada.
+<--->
+Seguro que hoy hace mucho más calor que el año pasado por estas fechas.
+<--->
+Mi tía abuela va a ver a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos erigir una estatua de guerra por aquí.
+<--->
+La juventud de hoy con su magia. %oth, no lo sé.
+<--->
+Tuve un sueño rarísimo anoche.
+<--->
+Escuché un chiste buenísimo. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Podrías explicármelo?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y malos.
+
+QuestorPostsuccess:  [1008]
+Ciertamente te recuerdo, %pcf. Me trajiste aquel texto, ¿verdad?
+
+QuestorPostfailure:  [1009]
+<ce>                No puedo imaginar un encargo más simple que
+<ce>               el que te di; solo encontrar un viejo y raro
+<ce>               pergamino. Ahora, no puedo imaginar una razón
+<ce>                 por la que deba seguir hablando contigo.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Conocí a _questgiver_ del Gremio
+ de Magos de ___questgiver_, quien
+ me envió en una misión para hallar
+ un texto antiguo oculto en ___dungeon_.
+ Tengo =traveltime_ días para entregárselo.
+
+Message:  1020
+Zephrim alga n' nagog. Carti
+ alga n' belyl. Azuth Zephrim ne'
+ nagog. Partik aloy partik frae i
+ eyominathraq n' toyl. Berik azuth
+ n' nagog. Charlaq gimle n' maluk
+ Zephrim qork.
+
+Message:  1040
+<ce>                       Este debe ser el pergamino
+<ce>                    que _questgiver_ te envió a buscar.
+
+QuestTimeLapse:  [1045]
+<ce>                      Al leer la última palabra,
+<ce>                     una ráfaga gélida casi arranca
+<ce>                    el papel de tus manos de un giro.

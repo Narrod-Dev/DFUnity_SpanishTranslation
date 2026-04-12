@@ -1,0 +1,121 @@
+Quest: A0C01Y09
+DisplayName: El Regalo de Cumpleaños
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                   ¿Disculpa? _questg_ es el nombre.
+<ce>                   No sé qué pensar de ti,
+<ce>              pero necesito un favor. Mi hermana, _sister_,
+<ce>              cumple años el próximo mes y realmente
+<ce>              necesito algo de _item_ para la celebración.
+<ce>            Vale _gold_ piezas de oro. ¿Qué dices?
+
+RefuseQuest:  [1001]
+<ce>                  Supongo que mejor así. Buen día.
+                                     <--->
+<ce>                            Perdón por preguntar.
+                                     <--->
+<ce>                  Entonces nunca hablamos. No quisiera
+<ce>                       que arruines la sorpresa.
+                                     <--->
+<ce>                 Como quieras. Era oro fácil, ya sabes.
+                                     <--->
+<ce>             Entonces vete. Tengo una celebración que planear.
+
+AcceptQuest:  [1002]
+<ce>                    ¡Excelente! Eres listo.
+<ce>                    Este es dinero fácil. Ve a _store_
+<ce>                y busca a _merchant_. %g tiene el
+<ce>                   _item_ específico que necesito. Recuerda,
+<ce>                   solo queda un mes para la celebración.
+                                     <--->
+<ce>          Muy bien. Es dinero fácil. Tendrás que ir a
+<ce>                 _store_ para encontrar el tipo exacto que necesito.
+<ce>                 Habla con _merchant_. %g dirige el lugar.
+
+
+QuestComplete:  [1004]
+<ce>             Muy bien, %pcn. Aquí tienes el oro que prometí.
+
+RumorsDuringQuest:  [1005]
+<ce>                  Dicen que a _questg_ realmente no le agrada
+<ce>                  su hermana, _sister_. Y %g está
+<ce>                         a punto de casarse.
+
+RumorsPostfailure:  [1006]
+<ce>                 ¿Supiste que _sister_ descubrió
+<ce>                       un intento de envenenarla?
+
+RumorsPostsuccess:  [1007]
+<ce>                     ¡_sister_ fue encontrada muerta! Y
+<ce>                   justo en la víspera de su boda.
+
+QuestorPostsuccess:  [1008]
+<ce>                 Ejem. Bueno, sí. Supongo que ya que
+<ce>                  conseguiste ese... objeto para la
+<ce>                     boda de mi hermana, te debo algo.
+
+QuestorPostfailure:  [1009]
+<ce>                 ¡Traidor! Te envío en una simple misión
+<ce>                   de recado y vas a contárselo a
+<ce>                 _sister_. No recibirás ayuda de mí.
+
+
+Message:  1011
+<ce>                     Llevas el _item_ contigo.
+<ce>                  ¿Quieres dárselo a _sister_?
+
+Message:  1013
+<ce>                     Llevas el _item_ contigo.
+<ce>                       ¿Quieres dárselo a
+<ce>                               _questg_?
+
+Message:  1025
+%qdt:
+ He prometido a _questg_ de ___questg_
+ que conseguiré un _item_ de
+ _merchant_ en _store_
+ a cambio de _gold_ piezas de oro. Debo regresar con
+ el _item_ antes de la celebración de cumpleaños
+ de la hermana de _questg_, _sister_,
+ que será en un mes.
+
+Message:  1040
+<ce>                     Hola. Sí, soy _merchant_.
+<ce>               ¿Algún _item_? Sí, lo tengo. Dame tus
+<ce>              20 piezas de oro y podrás llevarte el _item_.
+<ce>                        Gracias por tu visita.
+
+Message:  1041
+<ce>                     Hola. Sí, soy _merchant_.
+<ce>               ¿Algún _item_? Sí, lo tengo. Dame tus
+<ce>              20 piezas de oro y podrás llevarte el _item_.
+<ce>             Oh, lo siento. No parece que tengas suficiente
+<ce>                         oro para pagarlo.
+
+Message:  1050
+<ce>                   ¿Hola? ¿Por qué estás aquí? Dices
+<ce>                       que _questg_ quiere algo de _item_
+<ce>           para mi celebración de cumpleaños? ¡Oh, qué idea tan
+<ce>               maravillosa! ¡Prometo no arruinar la sorpresa!
+
+Message:  1051
+<ce>                 ¿Hola? ¿Cómo entraste aquí? ¿Qué?
+<ce>                  ¿_questg_ te pidió que le trajeras un
+<ce>                 _item_? Oh... ¿tienes idea de lo que
+<ce>                   planea hacer con eso? Yo sí.
+<ce>                    _item_ es parte de una poción que
+<ce>               a mi querido hermano le gusta preparar. Una poción
+<ce>                que mata. ¡No debes dárselo!
+<ce>                    ¡Por favor! Tráeme el _item_ a mí.
+<ce>                 Debes hacerlo o podrían matarme.
+
+Message:  1060
+<ce>                        Supongo que lo tomaré.
+<ce>                  Pero, ¿no arruina esto la sorpresa?
+<ce>                      Eres una persona extraña, %pcn.
+
+Message:  1061
+<ce>                     Gracias. Mi hermano ya no podrá
+<ce>                    usarlo. Has hecho bien.
+<ce>                               Gracias.

@@ -1,0 +1,90 @@
+Quest: L0B00Y01
+DisplayName: Sin escapatoria
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        Como sabes, %pct, no hay
+<ce>                      lugar para el fracaso en la
+<ce>                     Hermandad Oscura. Los hermanos
+<ce>                      que nos fallan son marcados para
+<ce>                      un ajuste de cuentas. Buscarás y
+<ce>                        corregirás a uno de esos
+<ce>                          antiguos miembros errantes.
+                                     <--->
+<ce>                     Es un deber solemne, y no uno del
+<ce>                     todo desagradable, ajustar las cuentas
+<ce>                    de los agentes de la Hermandad que nos
+<ce>                        han fallado en un encargo.
+<ce>                     Confío en que estés disponible para
+<ce>                            aceptar tal tarea.
+
+RefuseQuest:  [1001]
+<ce>                        ¿Te he oído correctamente?
+<ce>                          %pct, me apena tu falta
+<ce>                      de cooperación para con tus
+<ce>                            propios hermanos.
+
+AcceptQuest:  [1002]
+<ce>                            Muy bien, %pct.
+<ce>                        =target_, habiendo aprendido
+<ce>                 algo durante su tiempo en la Hermandad,
+<ce>                 se ha ocultado sabiamente, pero tenemos
+<ce>                 un contacto en __snitch_, un miserable
+<ce>                 =snitch_ llamado _snitch_. Habla con él
+<ce>                 y obtén la ubicación de =target_.
+<ce>                 Espero que el ajuste de cuentas se cumpla
+<ce>                 y que estés de vuelta aquí en =queston_ días.
+
+QuestComplete:  [1004]
+<ce>                            Bien hecho, %pct.
+<ce>                    Una buena lección para todos aquellos
+<ce>                     que pudieran fallarle a la Hermandad.
+
+RumorsDuringQuest:  [1005]
+=target_ anda suelto por algún lugar de %reg, temblando como un flan, apuesto lo que sea.
+<--->
+=target_ era un asesino bastante decente. No lo suficiente, al parecer.
+
+RumorsPostfailure:  [1006]
+Aparentemente se puede vencer a la Hermandad. Mira a =target_, por ejemplo.
+<--->
+=target_ se está burlando descaradamente de la Hermandad Oscura.
+
+RumorsPostsuccess:  [1007]
+Sobre =target_, dicen que le falló a la Hermandad una vez. Y esa fue su recompensa.
+<--->
+La Hermandad Oscura no tolera el fracaso. Mira lo que le pasó al pobre =target_.
+
+QuestorPostsuccess:  [1008]
+Hola, %pcn. ¿Cómo puedo ayudarte, tú que ejecutaste a nuestro hermano errante?
+
+QuestorPostfailure:  [1009]
+<ce>                  Déjame ver si lo entiendo. Te envié a
+<ce>                    ajustar las cuentas de un _target_ que
+<ce>                le falló a la Hermandad y... has fallado tú.
+<ce>                Y ahora, quieres charlar. Increíble.
+
+QuestLogEntry:  [1010]
+%qdt:
+ La Hermandad Oscura en ___qgiver_ me ha
+ enviado a por un Hermano que falló en un
+ encargo. Debo hablar con un soplón llamado
+ _snitch_ en __snitch_, de ___snitch_,
+ quien me dirá hacia dónde ha huido =target_.
+
+Message:  1011
+<ce>                          ¿%pcn? Soy _snitch_.
+<ce>                 El pez que buscas se ha soltado del
+<ce>                 anzuelo y se da la gran vida allá en
+<ce>                         ___mondung_. Ten cuidado,
+<ce>                 %ra. =target_ sabe cómo pelear y
+<ce>                         está muerto de miedo.
+
+Message:  1012
+%qdt:
+ _snitch_ me dice que =target_
+ se encuentra en ___mondung_.
+
+Message:  1013
+<ce>                        Has ejecutado a =target_.
+<ce>                   La Hermandad estará complacida.

@@ -1,0 +1,115 @@
+Quest: N0B00Y06
+DisplayName: Vendajes de Momia
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                     %oth, ¿hay algo más
+<ce>             exasperante que descubrir que los vendajes
+<ce>                de momia que planeabas usar en una
+<ce>             poción se han puesto verdes? Podría usar
+<ce>               los vendajes del Gremio, pero la receta
+<ce>             pide específicamente "vendajes de momia
+<ce>             sumamente frescos", sea lo que sea que eso
+<ce>             signifique. ¿No estarías de acuerdo en ir a
+<ce>              conseguirme algo de tela de una momia que
+<ce>                sé que tiene más de lo que necesita?
+                               <--->
+<ce>                Las recetas son un asunto necio, %pct.
+<ce>               Estoy trabajando en una fórmula que pide
+<ce>               un "buen trozo de =mummy_. ¿Qué es un
+<ce>                =mummy_? ¿Una hierba? ¿Un mineral?
+<ce>              Bueno, he investigado el asunto y resulta
+<ce>            que =mummy_ es una momia. Imagínate. Y esta
+<ce>             momia en particular está justo aquí en %reg.
+<ce>             ¿Podría convencerte de ir a su tumba y traer
+<ce>            un trozo de =mummy_ por, digamos, _gold_ piezas?
+
+RefuseQuest:  [1001]
+<ce>                           Oh, %oth. Ya sé
+<ce>                      que no es un simple paseo a la
+<ce>                      tienda local, pero esperaba un
+<ce>                       poco de entusiasmo y algo de
+<ce>                            espíritu aventurero.
+
+AcceptQuest:  [1002]
+<ce>                      Maravilloso, %pct. Valdrá
+<ce>                      _gold_ piezas para ti. Ahora,
+<ce>                    la tumba de esta momia no está muy
+<ce>                    lejos de aquí, así que no debería
+<ce>                   tomarte más de =queston_ días llegar,
+<ce>                    tomar lo necesario y volver. Recuerda,
+<ce>                     tienen que ser frescos; preferiblemente
+<ce>                    directos de su cuerpo. El nombre del
+<ce>                       lugar es algo como ___mondung_.
+<ce>                    Seguro que será un sitio espeluznante.
+<ce>                     Quizás quieras llevar una espada o
+<ce>                       algo parecido. En fin, buena
+<ce>                           suerte, joven %ra.
+
+QuestComplete:  [1004]
+<ce>                     Vaya, este es un gran trozo de
+<ce>                     vendaje. Muchas gracias. Creo que
+<ce>                    acordamos _gold_ piezas de oro,
+<ce>                              ¿cierto?
+
+RumorsDuringQuest:  [1005]
+Se dice que =mummy_ en ___mondung_ es todo lo que queda de quien fuera %t de %reg.
+<--->
+Se dice que =mummy_ fue alguien con el título de %t en la antigua %reg que era demasiado vil para morir.
+
+RumorsPostfailure:  [1006]
+Me salió un divieso el otro día... pero ya sanó.
+<--->
+Acabo de tener una conversación de tres horas sobre el clima.
+<--->
+El clima es bastante habitual para esta época del año.
+<--->
+Parece que hace un poco de fresco en %cn para esta temporada.
+<--->
+Seguro que hoy hace mucho más calor que el año pasado por estas fechas.
+<--->
+Mi tía abuela va a ver a un especialista al otro lado de la Bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos erigir una estatua de guerra por aquí.
+<--->
+La juventud de hoy con su magia. %oth, no lo sé.
+<--->
+Tuve un sueño de lo más extraño anoche.
+<--->
+Escuché un chiste muy bueno. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Podrías explicármelo?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y malos.
+
+RumorsPostsuccess:  [1007]
+El reinado de =mummy_ en %reg comenzó antes de la Primera Era y terminó contigo.
+<--->
+_qgiver_ finalmente puede terminar su poción de %g3 gracias a la contribución de =mummy_.
+
+QuestorPostsuccess:  [1008]
+¿Cómo estás, %pcf? Espero que no te hayas contagiado de podredumbre de momia ni nada parecido.
+
+QuestorPostfailure:  [1009]
+<ce>                     Necesitaba ese vendaje, %pcf.
+<ce>                  Es muy molesto necesitar algo y
+<ce>                         no tenerlo.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de el Gremio de Magos
+ en ___qgiver_ me ha enviado a
+ ___mondung_ para obtener unos
+ vendajes de una momia llamada
+ =mummy_. Tengo =queston_ días
+ para completar esta misión.
+
+Message:  1011
+<ce>                        Encuentras los vendajes
+<ce>                            que _qgiver_
+<ce>                         quería que obtuvieras
+<ce>                              de =mummy_.

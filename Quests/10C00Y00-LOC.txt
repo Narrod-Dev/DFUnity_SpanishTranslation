@@ -1,0 +1,92 @@
+Quest: 10C00Y00
+DisplayName: La misión de Meridia
+QRC:
+
+QuestorOffer:  [1000]
+<ce>           Oh, sí, querido mío, creo que puedo ayudarte con tu
+<ce>           ambición. Si te doy algo bastante valioso,
+<ce>                  ¿harías algo por mí primero?
+
+RefuseQuest:  [1001]
+<ce>            Oh, qué pena. Como advertencia amistosa, cosas malas
+<ce>            les suceden a los aventureros %ra codiciosos dispuestos
+<ce>                   a tomar, pero no a dar.
+
+AcceptQuest:  [1002]
+<ce>          ¿Lo harás? Oh, eso es muy dulce. Mucho más dulce que
+<ce>              cierto _monster_ que conozco llamado =monster_,
+<ce>          quien hizo cierto trato conmigo, pero luego decidió
+<ce>           incumplirlo. Si fueras tan amable de hacerle
+<ce>              una visita a =monster_ en ___mondung_ y
+<ce>            hacerle saber que ese comportamiento tan poco caballeroso es fatal. Luego ve con
+<ce>         mi querido amigo, _qgfriend_, quien esperará durante =1stparton_ días
+<ce>                por ti en __qgfriend_ en ___qgfriend_,
+<ce>         y te entregará mi _artifact_ cuando llegues. Es justo
+<ce>        lo que necesitas. Ahora, será mejor que te pongas en marcha. Ten cuidado.
+
+QuestFail:  [1003]
+<ce>          No estarás pensando en pagar la amabilidad de Meridia
+<ce>               diciéndome que has matado a =monster_
+<ce>               cuando ambos sabemos que no lo has hecho, ¿verdad?
+<ce>                         Eso espero sinceramente.
+
+QuestComplete:  [1004]
+<ce>                ¿%pcn? Soy _qgfriend_. Creo que
+<ce>              me estás buscando. Tengo aquí el _artifact_,
+<ce>           tal como Meridia prometió. Debo añadir que Meridia
+<ce>         está impresionada contigo por cumplir tu parte del trato.
+
+RumorsDuringQuest:  [1005]
+El hechicero en ___mondung_ es un conocido coleccionista de artefactos extraños.
+<--->
+He oído que =monster_ hace pactos con espíritus para ampliar %g3 colecciones.
+
+RumorsPostfailure:  [1006]
+Ese hechicero acaparador finalmente dejó ___mondung_. Supongo que para conseguir más cosas.
+<--->
+Ese =qgfriend_ _qgfriend_ dejó __qgfriend_ murmurando sobre un %ra deshonesto.
+
+RumorsPostsuccess:  [1007]
+Dicen que alguna criatura de la colección de =monster_ se levantó y lo mató.
+<--->
+Aparentemente, =monster_ fue asesinado por alguien interesado en su vasta colección.
+
+Message:  1011
+_qgfriend_ es el nombre de ese =qgfriend_ en __qgfriend_, justo %di de aquí.
+<--->
+_qgfriend_ es un =qgfriend_ reservado que conocí en __qgfriend_. Está hacia el %di.
+
+Message:  1012
+_qgfriend_ es uno de los coleccionistas de Meridia en %reg. Encantador, como debe serlo %g.
+<--->
+_qgfriend_ es un sirviente de la Dama Daedra de la Codicia, Meridia.
+
+Message:  1013
+Meridia es una regente Daedra y coleccionista de especímenes humanos.
+<--->
+Meridia es una especie de Príncipe Daedra en funciones, y es implacable en su afán de adquirir.
+
+Message:  1014
+<ce>   El anillo es un antiguo objeto de poder. Según dicen, puede hacer a su
+<ce>          portador tan invisible, silencioso y veloz como el viento.
+
+Message:  1020
+%qdt:
+ Tengo =1stparton_ días para encontrar y matar a un
+ _monster_ llamado =monster_, estar en
+ ___qgfriend_ para reunirme con un =qgfriend_
+ llamado _qgfriend_, y recibir el
+ artefacto prometido por Meridia, el _artifact_.
+ Sé que la ubicación de =monster_ es
+ ___mondung_, y que _qgfriend_ está
+ en ___qgfriend_.
+
+Message:  1030
+<ce>                   =monster_ yace muerto a tus pies.
+<ce>                   Lady Meridia ahora está en deuda contigo.
+
+Message:  1040
+<ce>               Así que Meridia envía a sus lacayos contra mí.
+<ce>                 Pero yo no carezco de aliados propios.
+<ce>                ¡Venid a mí, hijos del Olvido! Servid
+<ce>               a vuestro amo =monster_ en su hora de necesidad.

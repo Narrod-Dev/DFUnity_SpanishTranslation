@@ -1,0 +1,113 @@
+Quest: C0B00Y14
+DisplayName: Caza de No-Muertos
+QRC:
+
+QuestorOffer:  [1000]
+<ce>               %pct, tengo una misión peligrosa para ti.
+<ce>              Te lo diré desde el principio: implica acabar
+<ce>                   con una criatura no-muerta bastante poderosa.
+<ce>                   ¿Sigues dispuesto/a a aceptar
+<ce>                      esta tarea para __questgiver_?
+
+RefuseQuest:  [1001]
+<ce>                  Bueno, ciertamente no puedo culparte.
+<ce>                      Yo mismo no me atrevería.
+
+AcceptQuest:  [1002]
+<ce>                 Tu valentía honra a nuestra orden, %pcf.
+<ce>                   Deseamos comenzar a purificar un lugar
+<ce>                    llamado ___mondung_. Hace mucho tiempo
+<ce>                    fue uno de nuestros templos, pero sus
+<ce>                  corredores profanados ahora están acechados
+<ce>                  por alguna aparición no-muerta. Debes
+<ce>                 destruir este espíritu inquieto y rociar
+<ce>                 su cuerpo con esta agua bendita
+<ce>                 especialmente preparada. Si no has regresado
+<ce>                en =qtime_ días, quemaré incienso por
+<ce>                tu alma y enviaré a alguien más
+<ce>                 para vengarte. Que %god esté contigo.
+
+QuestFail:  [1003]
+<ce>                   %pct, si no querías ayudar a
+<ce>                    purificar ___mondung_, deberías
+<ce>                        habérmelo dicho antes.
+
+QuestComplete:  [1004]
+<ce>                ¡Alabado sea %god, has regresado a salvo!
+<ce>                    Nuestros videntes ya informaron que
+<ce>                    el mal en ___mondung_ ha sido
+<ce>                   purificado. Has servido bien a
+<ce>                    __questgiver_.
+
+RumorsDuringQuest:  [1005]
+__questgiver_ planea restaurar ___mondung_ a su antigua gloria.
+
+RumorsPostfailure:  [1006]
+<ce>Parece que el mal en ___mondung_ es demasiado fuerte para que __questgiver_
+<ce>                             pueda expulsarlo.
+
+RumorsPostsuccess:  [1007]
+<ce> __questgiver_ envió a alguien de su orden para comenzar la purificación de ___mondung_.
+
+QuestorPostsuccess:  [1008]
+<ce>       Saludos, %pcf. Tu incursión en ___mondung_ fue de gran
+<ce>                              ayuda para nosotros.
+
+QuestorPostfailure:  [1009]
+<ce>        ¿Qué puedo hacer por ti? Me fallaste cuando te pedí
+<ce>             ayuda con el espíritu maligno de ___mondung_.
+
+Message:  1020
+%qdt:
+ _questgiver_ de __questgiver_
+ en ___questgiver_ me ha enviado
+ a destruir una criatura no-muerta que acecha
+ ___mondung_. %g me dio un frasco
+ de agua bendita especialmente preparada
+ que debo rociar sobre el cuerpo del monstruo
+ para evitar que su espíritu
+ regrese. Tengo =qtime_ días
+ para volver con _questgiver_ o %g
+ tendrá que enviar a alguien más.
+
+Message:  1021
+%qdt:
+ _questgiver_ de __questgiver_
+ en ___questgiver_ me ha enviado
+ a destruir una criatura no-muerta que acecha
+ ___mondung_. Primero, sin embargo,
+ debo visitar a _priest_ en __priest_
+ de ___priest_, quien dará la
+ bendición final a un frasco de agua
+ bendita especialmente preparada. Debo rociarla
+ sobre el cuerpo del monstruo para evitar
+ que su espíritu regrese a
+ ___mondung_. Tengo =qtime_ días
+ para volver con _questgiver_ o %g
+ tendrá que enviar a alguien más.
+
+Message:  1050
+<ce>                Ah, espera, ¡soy tan olvidadizo estos días!
+<ce>                 Primero debes llevar el agua bendita
+<ce>                      a _priest_, de __priest_ en
+<ce>                  ___priest_. %g le dará la bendición
+<ce>                            final.
+
+Message:  1051
+<ce>                   _priest_ toma el frasco de tus manos
+<ce>                  sin decir palabra. %g lo bendice
+<ce>                    solemnemente, y luego a ti. Te lo devuelve
+<ce>                    y regresa a sus meditaciones.
+
+Message:  1060
+<ce>                      "¡Soy =monster1_! Puedes
+<ce>                       destruir mi forma material, pero
+<ce>                       siempre regresaré a mi
+<ce>                       hogar aquí en ___mondung_!"
+
+Message:  1061
+<ce>                    Mientras rocias el agua bendita
+<ce>                      sobre los restos de =monster1_, un
+<ce>                     lamento desesperado resuena por
+<ce>                     los oscuros pasillos de ___mondung_,
+<ce>                    desvaneciéndose lentamente en la distancia.

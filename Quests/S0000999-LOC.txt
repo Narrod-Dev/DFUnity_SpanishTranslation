@@ -1,0 +1,151 @@
+Quest: S0000999
+DisplayName: Columna de la Misión Principal
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 called on MAIN.Q
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 called on MAIN.Q
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 called on MAIN.Q
+
+QuestFail:  [1003]
+Error: Questtext 1003 called on MAIN.Q
+
+QuestLogEntry:  [1010]
+%qdt:
+ Me hallo en una misión del emperador para
+ investigar la sombra del Rey Lysandus. Su
+ espíritu ha estado acechando la ciudad de
+ Daggerfall. El propio emperador me ha
+ encomendado la tarea de dar descanso a
+ su fantasma.
+    También está el asunto menor de una carta
+ que envió a la Reina de Daggerfall. Si lograra
+ averiguar qué fue de la carta, él me estaría
+ sumamente agradecido.
+    Antes de desembarcar en Daggerfall, una
+ tormenta repentina hizo volcar el barco. A
+ duras penas logré llegar a esta cueva.
+
+Message:  1011
+%qdt:
+ Me reuní con Lady Brisienna en una habitación
+ de taberna. Me dijo que las tres potencias
+ principales de la Bahía de Iliac son
+ Daggerfall, Wayrest y Sentinel. Si he de
+ investigar el misterio del fantasma de
+ Lysandus, debería empezar hablando con las
+ familias reales de estos feudos.
+
+Message:  1026
+<ce>        Se te acerca un joven paje que sonríe al reconocerte
+<ce>         y no te pregunta el nombre antes de entregarte una
+<ce>          carta a tu nombre. A todas tus preguntas, solo
+<ce>                responde con una mirada vacía y una sonrisa.
+                                     <--->
+<ce>               Te ponen una carta en la mano. Te giras
+<ce>             para ver quién te la dio. Llegas a vislumbrar
+<ce>                 una librea que se desvanece entre la multitud.
+                                     <--->
+<ce>               Un paje da un paso al frente diciendo: "Una
+<ce>                     carta para ti, %pcn", y te entrega una nota.
+                                     <--->
+<ce>               Un mensajero se te acerca con una carta en la
+<ce>                mano. "Me dijeron que entregara esta carta a
+<ce>                alguien que encajara con tu descripción", dice
+<ce>                el mensajero. Al tomarla, el mensajero se da
+<ce>                     la vuelta y se aleja rápidamente.
+                                     <--->
+<ce>                Al buscar algo de comer en tu mochila, ves
+<ce>               una nota. No estaba allí antes.
+                                     <--->
+<ce>               Un mensajero acalorado te sobresalta con un grito:
+<ce>                  "¡Carta para %pcn! Eh, debes de ser tú.
+<ce>                  Toma esto. Me voy, tengo otras entregas
+<ce>                         que hacer".
+
+Message:  1031
+<ce>                         %pcn, tengo una tarea especial
+<ce>              en mente. Sin embargo, para ser franco, aún
+<ce>              no habéis demostrado vuestra valía ante mí. No
+<ce>                sé si puedo confiar en vuestra persona todavía.
+<ce>               Observaré vuestras acciones y vuestro proceder
+<ce>              con otros miembros de mi corte y mi familia. Eso
+<ce>               me dirá si poseéis el carácter adecuado.
+                                     <--->
+<ce>               Vuestro valor y destreza están fuera de toda
+<ce>               duda. Si sintiera que puedo confiar en vos,
+<ce>                os enviaría a una misión particularmente
+<ce>               delicada. Volved a visitarme cuando hayáis
+<ce>                   demostrado que soy objeto de vuestra lealtad.
+
+Message:  1032
+<ce>                         %pcn, tengo una tarea especial
+<ce>             que sería perfecta para vos. Sin embargo, solo
+<ce>             estaría firmando vuestra sentencia de muerte si
+<ce>              os la entregara ahora. Cuando tengáis mayor
+<ce>               pericia, volved y puede que os la encomiende.
+                                     <--->
+<ce>                    Es una verdadera lástima, %pcf. Tengo
+<ce>             un encargo especial que requiere a alguien de mi
+<ce>             confianza, como vos. No obstante, también se
+<ce>              precisa de mayor habilidad para sobrevivir.
+<ce>             Volved a visitarme cuando hayáis mejorado vuestras
+<ce>                        capacidades un poco más.
+
+Message:  1033
+<ce>                         %pcn, podríais ser justo la
+<ce>                persona para ayudarme. Pero no confío en vos
+<ce>                 lo suficiente todavía. Si oigo que sois
+<ce>                alguien de fiar por ser %ra, quizás deberíais
+<ce>                         volver y preguntarme de nuevo.
+
+Message:  1034
+<ce>                     Seguro que me vendría bien vuestra
+<ce>                ayuda, %pcn. Pero no tenéis la dureza necesaria
+<ce>                 para encargaros de lo que debo hacer. Si os
+<ce>                           curtís más, venid a verme.
+
+Message:  1035
+<ce>                 Tengo asuntos delicados que podrían requerir
+<ce>                vuestro toque. Primero debéis demostrar que
+<ce>                sois digno de ello. Volved cuando hayáis ganado
+<ce>                 la confianza para merecer mi patrocinio.
+
+Message:  1036
+<ce>               Sois alguien de confianza, eso lo sé. Sin
+<ce>               embargo, para ser franco, os falta experiencia.
+<ce>               Si lograrais mayor maestría y os convirtierais
+<ce>                en un oponente de más cuidado, creo que podría
+<ce>                      ofreceros un trabajo muy interesante.
+
+Message:  1040
+%pcn,
+ 
+    Saludos y mis mejores deseos. Espero que vuestro
+ viaje haya transcurrido sin incidentes. Dicen que
+ tenéis un gran interés en las apariciones de
+ Daggerfall. Mi padre y el Rey Lysandus eran bastante
+ cercanos. Si vinierais a visitarme, podría arrojar
+ algo de luz sobre los recientes acontecimientos que
+ involucran a Lysandus.
+ 
+ Príncipe Lhotun,
+ Castillo de Sentinel
+
+Message:  1041
+Estimado %pcf:
+ 
+    Mis ojos y oídos en el extranjero dicen que
+ tenéis interés en el destino de cierta carta.
+ Ningún emperador debería ser tan descuidado, ni
+ tampoco una reina. Realmente deberíais venir a
+ visitarme al Castillo de Wayrest. Poseo algunos
+ datos de lo más interesantes que estoy segura de
+ que os gustaría escuchar.
+ 
+<ce>                                 -- Morgiah,
+<ce>                                Princesa de Wayrest

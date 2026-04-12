@@ -1,0 +1,124 @@
+Quest: A0C01Y03
+DisplayName: El Acertijo
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       Soy _qgiver_, y necesito
+<ce>                los servicios de un cazador de hombres. Estoy
+<ce>                      enamorado de _spouse_. Por desgracia, %g
+<ce>             se niega a casarse a menos que demuestre mi valía
+<ce>                    respondiendo un acertijo que su mentor
+<ce>                 _hermit_ dejó antes de desaparecer.
+<ce>               Necesito que lo encuentres y descubras la respuesta
+<ce>               a su acertijo. Te pagaré _gold_ piezas de oro
+<ce>                         si tienes éxito.
+
+RefuseQuest:  [1001]
+<ce>              Continuaré mi búsqueda de un aventurero
+<ce>               dispuesto a aceptar mi encargo. Si encuentras
+<ce>                a alguien interesado en una misión así,
+<ce>                    dirígelo a _qgiver_.
+
+AcceptQuest:  [1002]
+<ce>                La única persona que podría ayudarte a encontrar
+<ce>                         a _hermit_ es _spouse_.
+<ce>                     %g puede encontrarse en ___spouse_.
+<ce>              Toma estas flores. Son sus favoritas.
+<ce>                 Puede que te ganen el favor de %g2.
+<ce>                    Aquí tienes una carta con el acertijo de
+<ce>               _hermit_ escrito en ella. Si no has regresado
+<ce>                en tres meses, asumiré que has fallado.
+
+QuestComplete:  [1004]
+<ce>                  _qgiver_ abre la carta de
+<ce>                  _hermit_. "¡Amabilidad! Por supuesto. Ahora
+<ce>                  entiendo por qué _spouse_ me envió en
+<ce>               esta misión. No basta con amar a %g2,
+<ce>                también debo mostrarle amabilidad. Has sido
+<ce>                   de gran ayuda, %pcf. Aquí
+<ce>                      tienes el oro que te prometí."
+
+RumorsDuringQuest:  [1005]
+<ce>                    _qgiver_ está profundamente enamorado.
+<ce>                   Ha estado intentando que _spouse_
+<ce>                acepte su propuesta de matrimonio desde hace mucho.
+
+RumorsPostfailure:  [1006]
+<ce>                     Dicen que _spouse_ de
+<ce>                      ___spouse_ se casó. _qgiver_
+<ce>                 quedará destrozado cuando %g se entere.
+
+RumorsPostsuccess:  [1007]
+<ce>                        ¡Buenas noticias! _spouse_ y
+<ce>                    _qgiver_ se casaron recientemente.
+
+QuestorPostsuccess:  [1008]
+<ce>                  Lo que sea por el %ra que encontró la
+<ce>                     respuesta a mi acertijo. _spouse_
+<ce>                      y yo estamos casados, ya sabes.
+
+QuestorPostfailure:  [1009]
+<ce>              Eres el %ra que no pudo encontrar la
+<ce>              respuesta al acertijo del ermitaño. No tengo uso
+<ce>                           para héroes fracasados.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de ___qgiver_
+ me pidió encontrar a _hermit_.
+ Supuestamente, _hermit_ tiene la
+ respuesta a un acertijo. La única pista
+ que tengo es que %g trabajó con
+ _spouse_ en ___spouse_.
+
+Message:  1011
+<ce>               Las _flowers_ no eran realmente necesarias.
+<ce>                    _hermit_ se fue a estudiar con el
+<ce>                      famoso maestro _teacher_ en
+<ce>                    __school_. Si le das este
+<ce>                 libro, puede que te mire con buenos ojos.
+
+Message:  1012
+<ce>                    _hermit_ me pidió que no revelara
+<ce>                 su paradero a extraños. Sin embargo,
+<ce>                      ya que traes _book_ de
+<ce>                   _spouse_, claramente no eres
+<ce>                    un extraño cualquiera. _hermit_ se
+<ce>                  recluyó en una mazmorra para estudiar
+<ce>                  conocimientos arcanos. He marcado su ubicación
+<ce>                       en tu mapa. Buena suerte, %pcn.
+
+Message:  1013
+<ce>                  ¡Odio que me molesten! Si la única
+<ce>                  forma de que me dejes en paz es
+<ce>                 darte la respuesta a ese estúpido
+<ce>                  acertijo, entonces toma. Ahora vete
+<ce>                   de aquí antes de que invoque un daedra
+<ce>                      de fuego para mostrarte el camino.
+
+Message:  1014
+No hables de amor ni de odio, pero dime
+ esto: ¿qué regalo puedes darme
+ que yo nunca pueda comprar por mí mismo?
+
+Message:  1015
+En %qdt, hablé con
+ _spouse_. %g me dijo que
+ _hermit_ se fue a
+ estudiar con _teacher_
+ en __school_.
+
+Message:  1016
+En %qdt, me reuní con
+ el maestro de _hermit_,
+ _teacher_ de
+ __school_. %g dijo que
+ _hermit_ se había recluido en
+ ___dungeon_.
+
+Message:  1017
+No hables de amor ni de odio, pero dime
+ esto: ¿qué regalo puedes darme
+ que yo nunca pueda comprar por mí mismo?
+ 
+ '¡Es la AMABILIDAD, idiota!'

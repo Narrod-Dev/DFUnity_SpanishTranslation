@@ -1,0 +1,275 @@
+Quest: N0B00Y17
+DisplayName: Vectores Azimutales
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  %pct, no dejo de darle vueltas.
+<ce>                   Quizás me ayudes con un estudio.
+                                     <--->
+<ce>                Hm, sí, si los vectores azimutales
+<ce>                internos realmente se cruzan en el polo
+<ce>                anterior, debería ser posible... ¿eh?
+<ce>                Oh, %pct, no te había visto ahí.
+<ce>                ¡Pero qué fortuna! Necesito a alguien
+<ce>                que me ayude con mi investigación.
+<ce>                       ¿Tienes disponibilidad?
+
+RefuseQuest:  [1001]
+<ce>                 Oh, qué lástima. A ver, ¿por dónde iba?
+<ce>              Mmm, los vectores azimutales, cierto. Veamos...
+
+AcceptQuest:  [1002]
+<ce>                ¡Espléndido! Verás, estoy trabajando en un
+<ce>                problema particularmente espinoso de magicka
+<ce>                teórica aplicada, y necesito un _item_
+<ce>                mágico en concreto. Hecho por _maker_ en
+<ce>                persona. Según dicen, es una pequeña obra
+<ce>                maestra, pero según mi investigación, es
+<ce>                imposible. Los vectores azimutales internos
+<ce>                son tales que no puedo reconciliarlos con las
+<ce>                líneas de flujo lateral manifestadas... En fin,
+<ce>                tener la pieza para estudiarla me ayudaría
+<ce>                infinitamente, pero no he tenido mucha suerte
+<ce>                rastreándola. La única referencia que he
+<ce>                encontrado mencionaba un catálogo que una vez
+<ce>                estuvo en la biblioteca de... oh sí, hoy en día
+<ce>                se conoce como ___hintdung_. También podrías
+<ce>                intentar hablar con alguien de la profesión,
+<ce>                _scholar_. Tiene pericia en la obra de _maker_.
+<ce>                Escribió la biografía definitiva, aunque en mi
+<ce>                opinión... en fin, no hay tiempo para entrar en
+<ce>                ese viejo debate. Encontrarás a _scholar_ en un
+<ce>                agujero infecto llamado ___scholardung_. No entiendo
+<ce>               cómo puede soportar trabajar en sitios así. Hm, sí,
+<ce>                vuelve a verme en, digamos, =time1_ días e infórmame
+<ce>                de tus hallazgos. ¿Sí? Espléndido.
+
+QuestFail:  [1003]
+<ce>                 ¿Qué opinas de estas líneas vectoriales?
+<ce>                 He intentado usar el Teorema de Mencipha para
+<ce>                 reconciliar los coeficientes, pero al final
+<ce>                solo es un desastre. Quizás si intentara...
+
+QuestComplete:  [1004]
+<ce>                ¿Quién eres? Oh, cielos, ahora lo recuerdo.
+<ce>                ¡El _item_ de _maker_, por supuesto! Y aquí
+<ce>                está. Bueno, resulta que mientras no estabas,
+<ce>                he tenido un gran avance en mi estudio. Verás,
+<ce>                no eran los vectores azimutales después de todo,
+<ce>                la clave de todo el problema es en realidad...
+<ce>                bueno, el punto es que ya no necesito el _item_.
+<ce>                Es una pieza hermosa, eso sí, ¿verdad? ¿Por qué
+<ce>                no te lo quedas? Ya que te tomaste todas las
+<ce>                molestias para buscarlo. Ahora, si me disculpas,
+<ce>                         debo volver al trabajo.
+
+RumorsDuringQuest:  [1005]
+<ce>  ¿Viste a _questgiver_ vagando por las calles anoche, murmurando
+<ce>             cosas para sus adentros? ¡Pobre loco senil!
+
+RumorsPostfailure:  [1006]
+<ce>        _questgiver_ parece estar más deprimido de lo habitual.
+
+RumorsPostsuccess:  [1007]
+<ce>    _questgiver_ le ha contado a todo el mundo que alguien de %ra salvó
+<ce>                 su investigación. Oye, fuiste tú, ¿verdad?
+
+QuestorPostsuccess:  [1008]
+<ce>         ¿Eh? Oh, mi gran amistad %pcf. Buscaste por todo %reg
+<ce>                       aquel _item_ que quería.
+
+QuestorPostfailure:  [1009]
+<ce>                            ¿Eh? ¿Nos conocemos?
+
+Message:  1020
+%qdt:
+ _questgiver_ del Gremio de Magos
+ de ___questgiver_ me ha enviado a
+ buscar un cierto _item_ mágico hecho
+ por _maker_. _questgiver_ sugirió que
+ buscara en ___hintdung_ un antiguo
+ catálogo, o que visitara a _scholar_,
+ especialista en _maker_, quien
+ actualmente investiga en ___scholardung_.
+ Debo informar de mis hallazgos en un
+ plazo de =time1_ días.
+
+Message:  1021
+%qdt:
+ Encontré a _scholar_ en ___scholardung_,
+ pero no pudo ayudarme en mi búsqueda
+ del _item_ de _maker_.
+
+Message:  1022
+%qdt:
+ _scholar_ sugirió que podría encontrar
+ el _item_ de _maker_ en algún lugar
+ llamado ___itemdung_.
+
+Message:  1023
+%qdt:
+ Creo que he encontrado una buena pista
+ sobre el _item_. El antiguo catálogo de
+ ___hintdung_ decía que una vez estuvo
+ en un lugar llamado ___itemdung_.
+
+Message:  1024
+%qdt:
+ Encontré parte del antiguo catálogo en
+ ___hintdung_, pero no daba ninguna
+ indicación sobre el paradero del
+ _item_ de _maker_.
+
+Message:  1025
+%qdt:
+ Hablé con _scholar_ en ___scholardung_.
+ No pudo ayudarme con el _item_, pero
+ acepté traerle algunos ingredientes
+ alquímicos de parte de _contact_, de
+ __contact_ en ___contact_, y volver
+ en un plazo de =time2_ días.
+
+Message:  1030
+Objeto No. 476-A-LCX-08
+ 
+ Tipo: _item_
+ Creador: _maker_ de ___maker_
+ 
+ Descripción:
+ Este _item_ es una de las obras menores
+ de _maker_, situándose por debajo de su
+ famosa Vara de Verbosidad en técnica, y
+ lejos de ser una obra maestra de pura
+ audacia como sus Tijeras de Estilo. Aun
+ así, este _item_ muestra el estilo
+ distintivo de _maker_ en los muchos detalles
+ que pone en todos sus trabajos: los accesorios
+ de latón repujado con su sello personal, la
+ inusual elección de un acabado esmaltado y,
+ sobre todo, el suave chisporroteo ámbar a lo
+ largo de sus líneas de flujo exterior.
+ 
+ (en préstamo de ___itemdung_)
+
+Message:  1031
+Objeto No. 476-A-LCX-08
+ 
+ Tipo: _item_
+ Creador: _maker_ de ___maker_
+ 
+ Descripción:
+ Este _item_ es una de las obras menores
+ de _maker_, situándose por debajo de su
+ famosa Vara de Verbosidad en técnica, y
+ lejos de ser una obra maestra de pura
+ audacia como sus Tijeras de Estilo. En los
+ años transcurridos desde la muerte de
+ _maker_, esta pieza ha desaparecido de la
+ vista, quizás en manos de algún coleccionista
+ privado. Según las descripciones existentes,
+ este _item_ mostraba el estilo distintivo
+ de _maker_ en los muchos detalles que pone
+ en todos sus trabajos: los accesorios de
+ latón repujado con su sello personal, la
+ inusual elección de un acabado esmaltado y,
+ sobre todo, el suave chisporroteo ámbar a lo
+ largo de sus líneas de flujo exterior.
+ 
+ (no está en exhibición)
+
+Message:  1032
+_contact_ --
+ 
+ Por favor, envíame:
+   3 docenas de lenguas de tritón (disecadas)
+   4.25 oz. de cuerno de unicornio en polvo (¡SOLO del norte!)
+   1 _ingredient_ (FRESCO esta vez, por el amor de %god)
+   Un frasco de ojos de basilisco
+ 
+ Cárgalo a mi cuenta.
+ 
+<ce>                               -- _scholar_
+
+Message:  1040
+<ce>                    Hola. ¿El _item_ de _maker_ dices?
+<ce>                 Sí, creo que encontré una referencia a
+<ce>                eso mismo la semana pasada. ¿Dónde puse
+<ce>               esas notas...? Aquí están, mmm-hmm, "suave
+<ce>               chisporroteo ámbar"; eso es puro _maker_,
+<ce>               sin duda. Parece que estaba en ___itemdung_,
+<ce>               al menos lo estaba cuando se escribió esto.
+<ce>                           ¡Buena suerte!
+
+Message:  1041
+<ce>                ¡Buenos días! ¿Te envía _contact_ con
+<ce>                 los suministros que pedí? Oh, ¿que
+<ce>                _questgiver_ dijo que yo sabría dónde
+<ce>                 encontrar el _item_ de _maker_? Lo siento,
+<ce>                pero parece que desapareció poco después
+<ce>                de su muerte, y no se ha vuelto a saber
+<ce>                nada. Una verdadera lástima. Pero, ¿podrías
+<ce>                hacerme un favor ya que estás aquí? Necesito
+<ce>                algunas cosas para mi trabajo, y si pudieras
+<ce>                traérmelas, te estaría de lo más agradecido.
+
+Message:  1042
+<ce>                 Excelente. Aquí, déjame anotar lo que
+<ce>                  necesito. Lleva esta lista a _contact_,
+<ce>                   de __contact_ en ___contact_. Es la
+<ce>                   única persona en quien confío para darme
+<ce>                   exactamente los ingredientes que necesito.
+<ce>                    Te esperaré de vuelta aquí en un plazo
+<ce>                     de =time2_ días. Por favor, no tardes.
+
+Message:  1043
+<ce>                ¿Demasiada ocupación, eh? Bueno, ha sido un
+<ce>                 placer hablar contigo. No te acompañaré a la
+<ce>                   puerta, si no te importa. ¡Buen día!
+
+Message:  1044
+<ce>                  ¿Otra lista de la compra de _scholar_,
+<ce>                eh? Lo juro, si envío otro cargamento más
+<ce>                 sin que me paguen... "Cárgalo a mi cuenta",
+<ce>                ¡ja! Qué valor. Mira, te daré el _ingredient_
+<ce>                que pidió, pero el resto tendrá que ser un
+<ce>                pedido especial, y no voy a hacerlo hasta
+<ce>                que me pague por todo lo demás que ya le he
+<ce>                enviado. Lo siento, pero es lo mejor que
+<ce>                           puedo hacer.
+
+QuestTimeLapse:  [1045]
+<ce>              Oh, eres tú. ¿Me has traído los suministros
+<ce>                 que pedí? ¿Qué? ¿_contact_ solo te dio
+<ce>                este _ingredient_? ¡Vieja cabra terca! Le
+<ce>                diré cuatro cosas cuando salga de aquí.
+<ce>                Bueno, es mejor que nada, supongo. Oye,
+<ce>                ¿sigues buscando ese _item_? Encontré una
+<ce>                 referencia a un antiguo catálogo de una
+<ce>                 exhibición de las obras de _maker_. Este
+<ce>                catálogo está en ___hintdung_. De hecho,
+<ce>               puedo teletransportarte al lugar exacto, si
+<ce>               quieres. Tendrás que buscar tu propia salida,
+<ce>                por supuesto. ¿Te teletransporto a ___hintdung_?
+
+Message:  1046
+<ce>              ¡Sujétate el sombrero! Por cierto, antes de
+<ce>               irte, toma esto: _scholarreward_. Realmente
+<ce>               agradezco que me trajeras el _ingredient_.
+<ce>                    Ahora, ¡rumbo a ___hintdung_!
+
+Message:  1047
+<ce>                 Como desees. Por cierto, antes de irte,
+<ce>                toma esto: _scholarreward_. Realmente
+<ce>               agradezco que me trajeras el _ingredient_.
+<ce>                  Espero que encuentres el _item_.
+
+Message:  1050
+<ce>                  Este es, sin duda, el _item_ de _maker_.
+
+Message:  1060
+<ce>                  Hola, %pcn. ¿Lograste localizar aquel
+<ce>                       _item_ de _maker_? Ah, bueno,
+<ce>                 es una pena, pero estoy con la seguridad
+<ce>                 de que podré trabajar en el problema sin
+<ce>                 ello. Sé que hiciste lo posible. Toma
+<ce>                  _gold_ de oro por las molestias.

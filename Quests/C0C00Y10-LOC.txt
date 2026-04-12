@@ -1,0 +1,125 @@
+Quest: C0C00Y10
+DisplayName: La Curación
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                   La mejor forma de ganarse el favor
+<ce>                   del templo es curar a alguien. Yo
+<ce>                   conozco un caso que podría servirte,
+<ce>                         %pcn.
+<ce>                           ¿Estás dispuesto?
+                                     <--->
+<ce>                           Soy _giver_. Tú no
+<ce>                     tienes un alto rango dentro
+<ce>                             de __giver_.
+<ce>                       Podría hablar bien de ti si
+<ce>                    encuentras la forma de curar a
+<ce>                  alguien que conozco.
+
+RefuseQuest:  [1001]
+<ce>                     Si no estás dispuesto o no eres
+<ce>                    capaz de realizar una curación
+<ce>                     simple, no puedo recomendarte
+<ce>                            a los líderes del templo.
+
+AcceptQuest:  [1002]
+<ce>                        _cousin_ en ___cousin_
+<ce>                  sufre de una enfermedad inusual.
+<ce>                   Estaba a punto de enviar a un clérigo
+<ce>                   para tratar a %g2. Retrasaré eso un
+<ce>                   día o dos. Si encuentras una cura,
+<ce>                   aumentará tu favor con __giver_.
+<ce>                         Solo puedo darte
+<ce>                      =questtime_ días.
+
+QuestFail:  [1003]
+%qdt:
+ He recibido la oportunidad de
+ _giver_ de __giver_
+ en ___giver_ para curar a
+ _cousin_ de ___cousin_.
+ Si no logro curar a %g2 en =questtime_ días,
+ alguien más será enviado a hacer
+ el trabajo.
+
+QuestComplete:  [1004]
+<ce>                            _cousin_ parece
+<ce>                        mucho más saludable.
+<ce>                        Claramente, %g está curado.
+
+RumorsDuringQuest:  [1005]
+Pobre _cousin_. ¡Cómo sufre =cousin_!
+
+RumorsPostfailure:  [1006]
+_giver_ de __giver_ está bastante furioso con %ra.
+
+RumorsPostsuccess:  [1007]
+Ese _cousin_ que fue curado es familiar de _giver_ de __giver_.
+
+QuestorPostsuccess:  [1008]
+He oído que _cousin_ fue curado. %god te bendiga, %pcf. ¿Qué necesitas?
+
+QuestorPostfailure:  [1009]
+_cousin_ ha muerto, y te culpo, %pcf.
+
+Message:  1025
+<ce>                  Te estaré observando. Recuerda,
+<ce>                    el paciente se llama _cousin_
+<ce>                     y %g está en ___cousin_. Tienes
+<ce>                  =questtime_ días para demostrar tu valía.
+
+--duplicate 1006 removed
+
+QuestLogEntry:  [1010]
+<ce>                     Me siento muy débil. No sé
+<ce>                 qué me ocurre. ¿Has venido a ayudarme?
+<ce>             ¿Sí? ¿Tienes la cura? Si es así,
+<ce>               por favor úsala en mí para poder sanar.
+
+Message:  1011
+<ce>                          ¿Harás esto?
+
+Message:  1012
+He oído sobre la enfermedad de %g3. Algunos dicen que _healer_ de ___healer_ tiene una cura.
+<--->
+Escuché algo sobre %g2. Algo sobre una enfermedad y alguien llamado _healer_ en ___healer_ que tenía una cura.
+
+Message:  1013
+<ce>                   Hola. Sí, he oído sobre
+<ce>                    _cousin_ de ___cousin_ y su
+<ce>                    problema. Es la Maldición de Caliron.
+<ce>                    A menudo se confunde con la Fiebre Gris.
+<ce>                     En fin, tengo un poco de Raíz de Escarcha
+<ce>                     que puede curarla.
+<ce>                   Solo puede usarse una vez.
+<ce>                   Te la venderé por 20 piezas de oro.
+
+Message:  1014
+<ce>                ¿Deseas comprar la Raíz de Escarcha?
+
+Message:  1015
+<ce>                   Lo siento, no parece que tengas
+<ce>                  suficiente oro para la Raíz de Escarcha.
+
+Message:  1016
+<ce>           Gracias, %pcn. Usaré la Raíz de Escarcha.
+<ce>                De verdad no sé cómo agradecerte.
+<ce>              Espero que el resto de tus viajes sean seguros.
+
+Message:  1017
+%qdt:
+ He comprado Raíz de Escarcha
+ a _healer_ de ___healer_
+ que cura la Maldición de Caliron,
+ la enfermedad que afecta a _cousin_.
+
+Message:  1018
+%qdt:
+ He dado Raíz de Escarcha a _cousin_
+ y he curado a %g2 de la Maldición de Caliron.
+ Quizá ahora __giver_ tenga
+ una mejor opinión de mí.
+
+Message:  1019
+<ce>                 La Raíz de Escarcha se disuelve rápidamente
+<ce>                            al usarla.

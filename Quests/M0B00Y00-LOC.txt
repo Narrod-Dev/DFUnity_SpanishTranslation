@@ -1,0 +1,79 @@
+Quest: M0B00Y00
+DisplayName: Caza de un licántropo
+QRC:
+
+QuestorOffer:  [1000]
+<ce>          Tenemos un trabajito que podría interesarte.
+<ce>            Parece que hay un loup... como llames a un
+<ce>              hombre lobo, jabalí o cualquier bestia
+<ce>                que ha estado molestando a granjeros
+<ce>              en la zona, y necesitamos a alguien que lo mate.
+<ce>          Significará _reward_ oro en tu bolsillo. ¿Te parece
+<ce>                        interesante?
+
+RefuseQuest:  [1001]
+<ce>              Bien. Supongo que alguien más tendrá que hacerlo.
+
+AcceptQuest:  [1002]
+<ce>                  Genial. Encontrarás al loup allá en
+<ce>                   ___mondung_. Necesitamos a esa pobre
+<ce>                  bestia muerta en =1stparton_ días, así que
+<ce>                       será mejor que te pongas en marcha.
+
+QuestFail:  [1003]
+<ce>               ¿El loup fue demasiado para ti, o ni siquiera
+<ce>                lo intentaste? En fin, probablemente ya se
+<ce>                        haya ido de todos modos. Qué pena.
+
+QuestComplete:  [1004]
+<ce>                 Buen trabajo, mataloups. Disfruta tu oro.
+
+RumorsDuringQuest:  [1005]
+He oído que hay algún tipo de hombre lobo suelto por aquí.
+<--->
+Dicen que el hombre jabalí ha encontrado una guarida en ___mondung_.
+<--->
+¿Oíste esos aullidos anoche? ¿Aullidos de lobo?
+
+RumorsPostfailure:  [1006]
+Los licántropos son nómadas, supongo. Oí que nuestro loup se fue al sur.
+<--->
+Mi primo me dice que nuestro hombre jabalí fue visto hacia el sur.
+
+RumorsPostsuccess:  [1007]
+¡Dicen que descubrieron que esa cosa era un sacerdote durante el día!
+<--->
+Mucha gente se siente más segura sabiendo que esa bestia está muerta.
+<--->
+¿Te enteraste sobre el licántropo que alguien de estirpe %ra cazó?
+
+QuestorPostsuccess:  [1008]
+<ce>           Gracias por ocuparte de esa criatura, %pcf.
+
+QuestorPostfailure:  [1009]
+<ce>                   Fuera de aquí. Eres patético.
+<ce>                    Ni siquiera pudiste con un hombre lobo.
+
+Message:  1020
+<ce>                    La amenaza licántropa ha terminado.
+
+Message:  1021
+<ce>                      Esta debe ser la "bestia" a la
+<ce>                       que todos temen. Solo es un
+<ce>                        simple oso pardo común.
+
+Message:  1030
+%qdt:
+ El Gremio de Luchadores de
+ ___questgiver_ me ha contratado
+ para matar a un hombre lobo,
+ jabalí, o lo que sea, en su guarida,
+ ___mondung_. La bestia debe estar
+ muerta en =1stparton_ días para
+ que pueda cobrar mi recompensa.
+
+Message:  1080
+<ce>                     Aquí tienes un mapa de un lugar llamado
+<ce>                      ___newdung_.  Toda la matanza
+<ce>                       y tesoros que puedas manejar.
+<ce>                           Diviértete.

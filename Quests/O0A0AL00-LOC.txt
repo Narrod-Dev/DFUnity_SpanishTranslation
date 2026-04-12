@@ -1,0 +1,148 @@
+Quest: O0A0AL00
+DisplayName: El examen de calificación
+QRC:
+
+QuestComplete:  [1004]
+<ce>                 Otro iniciado más. A veces me pregunto
+<ce>               si el gremio podrá albergar a todos. Ah,
+<ce>                veo que te enviaron a por _clothing_ de
+<ce>                un mago. Es una elección popular últimamente.
+<ce>                Ahora eres miembro del Gremio de Ladrones.
+<ce>               Cada vez que entres en un pueblo, sabrás si
+<ce>                hay edificios del gremio allí. Por desgracia,
+<ce>                las reglas dicen que debo pagarte por esta
+<ce>                inservible pieza de basura porque la robaste
+<ce>                       al servicio del gremio.
+<ce>                         Aquí tienes una pieza de oro.
+<ce>
+<ce>
+<ce>               Oh, casi lo olvido. También tienes derecho
+<ce>               a un mapa de mazmorra. Aquí, deja que te
+<ce>                muestre dónde está ___dungeon_ en el tuyo.
+
+
+RumorsDuringQuest:  [1005]
+Me salió un bulto el otro día... pero ya sanó.
+<--->
+Acabo de tener una charla de tres horas sobre el clima.
+<--->
+El tiempo es bastante normal para esta época del año.
+<--->
+Parece que hace un poco de fresco en %cn para esta temporada.
+<--->
+Seguro que hoy hace mucho más calor que el año pasado por estas fechas.
+<--->
+Mi tía abuela va a ver a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos erigir una estatua de guerra por aquí.
+<--->
+La juventud de hoy con su magia. %oth, no lo sé.
+<--->
+Tuve un sueño rarísimo anoche.
+<--->
+Escuché un chiste buenísimo. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Podrías explicármelo?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y malos.
+
+RumorsPostfailure:  [1006]
+Me salió un bulto el otro día... pero ya sanó.
+<--->
+Acabo de tener una charla de tres horas sobre el clima.
+<--->
+El tiempo es bastante normal para esta época del año.
+<--->
+Parece que hace un poco de fresco en %cn para esta temporada.
+<--->
+Seguro que hoy hace mucho más calor que el año pasado por estas fechas.
+<--->
+Mi tía abuela va a ver a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos erigir una estatua de guerra por aquí.
+<--->
+La juventud de hoy con su magia. %oth, no lo sé.
+<--->
+Tuve un sueño rarísimo anoche.
+<--->
+Escuché un chiste buenísimo. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Podrías explicármelo?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y malos.
+
+RumorsPostsuccess:  [1007]
+Me salió un bulto el otro día... pero ya sanó.
+<--->
+Acabo de tener una charla de tres horas sobre el clima.
+<--->
+El tiempo es bastante normal para esta época del año.
+<--->
+Parece que hace un poco de fresco en %cn para esta temporada.
+<--->
+Seguro que hoy hace mucho más calor que el año pasado por estas fechas.
+<--->
+Mi tía abuela va a ver a un especialista al otro lado de la bahía.
+<--->
+Siempre es curioso a qué hora oscurece por aquí.
+<--->
+Deberíamos erigir una estatua de guerra por aquí.
+<--->
+La juventud de hoy con su magia. %oth, no lo sé.
+<--->
+Tuve un sueño rarísimo anoche.
+<--->
+Escuché un chiste buenísimo. %jok
+<--->
+%jok En realidad, eso es un chiste.
+<--->
+%jok ¿Podrías explicármelo?
+<--->
+El sistema legal en %reg tiene sus puntos buenos y malos.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Un mendigo me ha entregado una nota.
+ El Gremio de Ladrones me ha señalado por realizar
+ actividades criminales "no autorizadas". Debo unirme
+ a ellos o convertirme en su enemigo.
+
+Message:  1020
+<ce>                      Un mendigo tuerto te entrega
+<ce>                       una carta. "Una mujer de gris
+<ce>                      me pagó para darte esto",
+<ce>                              dice él.
+
+Message:  1018
+<ce>                      Al recoger _clothing_, oyes el
+<ce>                      suave crujido de un papel. Hay
+<ce>                        una nota escondida dentro
+<ce>                         de la prenda: _clothing_.
+
+Message:  1019
+<ce>                             _thiefmember_
+<ce>                            ___endbuilding_
+
+Message:  1024
+%pcn,
+    Eres un ladrón. No intentes
+ negarlo, has sido visto en el
+ acto. Hay honor entre ladrones.
+ O te unes al gremio o te enfrentas
+ a las consecuencias. Roba
+ _clothing_ de _mansion_ en
+ ___mansion_ si deseas unirte
+ a nosotros. Tienes =traveltime_ días.
+
+Message:  1030
+<ce>                 ¡Ladrón! Te enseñaré a no robar a un
+<ce>                  mago. ¡Será una lección que no
+<ce>                         olvidarás pronto!

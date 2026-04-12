@@ -1,0 +1,105 @@
+Quest: B0B10Y04
+DisplayName: El Mercenario Enloquecido
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                           Bienvenido %pcn. Mi
+<ce>                      nombre es _qgiver_. La orden
+<ce>                  acaba de enterarse de un mercenario
+<ce>                  orco enloquecido que debe ser detenido.
+<ce>                    ¿Estás dispuesto a aceptar esta
+<ce>                                 misión?
+
+RefuseQuest:  [1001]
+<ce>                    Tu modestia te hace justicia,
+<ce>                       %pcf. Siéntete libre de volver
+<ce>                   cuando tengas menos miedo.
+
+AcceptQuest:  [1002]
+<ce>               Muy bien. En un pozo oscuro no muy lejos,
+<ce>                   un lugar maldito llamado ___mondung_,
+<ce>                      un _soldier_ llamado =soldier_
+<ce>              ha estado conspirando con un grupo de magos
+<ce>              renegados, aún peores que los nigromantes, para
+<ce>                  destruir %reg. Quizá siente que
+<ce>                fue agraviado por el %t, quizá sea
+<ce>              simplemente el odio irracional que los orcos a menudo
+<ce>             muestran hacia los humanos. Lo importante es
+<ce>             que debe ser detenido, antes de que su furia ciega
+<ce>                 y la magia de los magos provoquen resultados
+<ce>                   verdaderamente desastrosos. Detenlo, %pcf,
+<ce>               como sea que puedas. Si no has regresado
+<ce>            con la situación resuelta en =2mondung_ días,
+<ce>              si no es demasiado tarde, nosotros, los caballeros,
+<ce>            haremos el trabajo nosotros mismos. Por favor, no dejes que llegue a eso.
+
+QuestFail:  [1003]
+<ce>                         ¿No deberías estar en
+<ce>                         ___mondung_ ahora, %pcf?
+
+QuestComplete:  [1004]
+<ce>                 Bien hecho, %pcf. Los orcos se están retirando
+<ce>                de ___mondung_, así que tu misión debe
+<ce>                 haber sido un éxito. Eres verdaderamente un
+<ce>                      miembro digno de nuestra orden.
+
+RumorsDuringQuest:  [1005]
+___mondung_ es un lugar perfecto para que los orcos se reúnan -- es muy remoto.
+<--->
+Los orcos y los magos renegados están planeando algo terrible para %reg.
+
+RumorsPostfailure:  [1006]
+La tierra ha sido maldecida por los magos. Puede ser guerra, peste, hambruna, o todo a la vez.
+<--->
+Nadie pudo hacer nada para detener la alianza impía entre orcos y magos.
+
+RumorsPostsuccess:  [1007]
+Los orcos han abandonado ___mondung_ de repente. Su líder estaba enfermo o incluso muerto.
+<--->
+%reg fue salvado por el sacrificio de un valiente y habilidoso mercenario %ra.
+
+QuestorPostsuccess:  [1008]
+Saludos, %pct. ¿Cómo te va, Asesino de Orcos?
+
+QuestorPostfailure:  [1009]
+Qué lástima que esos orcos y magos hayan escapado. Bueno, sucede.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ de __qgiver_
+ en ___qgiver_ quiere que
+ detenga a un _soldier_ decidido a destruir
+ %reg. El orco vive en un agujero
+ llamado ___mondung_ con
+ sus tropas. Tengo =2mondung_ días para ocuparme
+ de esta amenaza y regresar a
+ __qgiver_.
+
+Message:  1013
+<ce>                   Un niño pequeño, aún más sucio, te entrega
+<ce>                 una nota manchada. Claramente no es un mensajero
+<ce>               profesional, pero se mueve casi tan rápido como
+<ce>                 desaparece corriendo.
+
+Message:  1014
+<ce>                     Has matado al _soldier_.
+
+Message:  1015
+<ce>              Ah, ese cabello. Entonces, ella aún vive... Debo
+<ce>                 decirle a Skullsplitter que su amada
+<ce>               no ha abandonado %reg. Gracias por traer
+<ce>                 esto a mi atención, %pcf. Si mi amo
+<ce>                hubiera traído la muerte a %reg con la ayuda
+<ce>               de sus aliados magos, podría haber matado a una
+<ce>               mujer que significa más para él que la más
+<ce>                sangrienta venganza que pudiera tener contra el %t.
+<ce>                    Una vez más, gracias, amigo.
+
+Message:  1017
+<ce>                  Escuché que eres un salvador, %pct.
+<ce>                     %god te bendiga y te proteja. Ojalá
+<ce>               pudiera darte algo para expresar
+<ce>               mi gratitud. Toma, esto lo conseguí de una dama
+<ce>                que sintió lástima por mí. Es tan fino y
+<ce>                hermoso que no pude venderlo ni siquiera cuando estaba
+<ce>                 hambriento. Por favor, acéptalo como agradecimiento.
